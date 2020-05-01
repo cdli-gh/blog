@@ -21,7 +21,7 @@
         <!-- {{url}}~{{sitepage.url}}~{{val}}~{{sitepage.title}}<br> -->
         {% if sitepage.url contains url and val.size==2 %}
         <br>
-        <a href="{{sitepage.url}}" style="text-decoration: none;">
+        <a href="{{sitepage.url | relative_url}}" style="text-decoration: none;">
           <div class="article">
             <p class="a-title">
               {{sitepage.title}}

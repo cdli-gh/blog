@@ -243,6 +243,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll
   jekyll-feed (~> 0.13.0)
   jekyll-paginate (~> 1.1)
   jekyll-seo-tag (~> 2.6)
