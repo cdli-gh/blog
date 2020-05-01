@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+
+<body>
+  {% include nav.html %}
+
+  <section class="hero center">
+    {{page.title}}
+  </section>
+
+  <div class="content markdown-body">
+    {{content}}
+  </div>
+
+  <main>
+    {% assign sitepages = site.blog | sort: 'order' %}
+    {% for sitepage in sitepages %}
+    {% assign url = page.url| remove: "index"%}
+    {% assign val = sitepage.url | remove: url | split:"/" %}
+      {% if sitepage.url contains url and val.size==2 %}
+        <br>
+        <a href="{{sitepage.url}}" style="text-decoration: none;">
+          <div class="article">
+            <p class="a-title">
+              {{sitepage.title}}
+            </p>
+          </div>
+        </a>
+        {% endif %}
+    {%endfor%}
+  </main>
+
+  {% include footer.html %}
+</body>
+
+</html>

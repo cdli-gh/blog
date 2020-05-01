@@ -1,0 +1,33 @@
+title: Retro Yellow
+markdown: kramdown
+url: ""
+baseurl: ""
+color_scheme: "red"
+# for atom feed
+author:
+  name: Sharad Raj Singh Maurya
+  email: dev_sharad@outlook.com
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jemoji
+
+paginate_path: "/page:num/"
+
+paginate: 5
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "post"
+
+collections:
+  blog:
+    output: true
+    permalink: /:path
+
+exclude: ['sitemap.xml','feed.xml', 'LICENSE', 'README.md']
