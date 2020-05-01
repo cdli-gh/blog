@@ -18,3 +18,11 @@
    * localhost or according to your pc configurations.
 6. Change the `_config.yml` file according to you.
 7. Upload the files on your repository and :sunglasses: enjoy.
+
+
+
+
+----------------------------------------
+More info to be added
+# blog
+This is the CDLI blog 
