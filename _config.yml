@@ -8,6 +8,8 @@ author:
   name: Sharad Raj Singh Maurya
   email: dev_sharad@outlook.com
 
+github: [metadata]
+
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
@@ -30,6 +32,5 @@ collections:
     output: true
     permalink: /:path
 
-github: [metadata]
 
 exclude: ['sitemap.xml','feed.xml', 'LICENSE', 'README.md']
