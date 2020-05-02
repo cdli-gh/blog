@@ -1,14 +1,12 @@
-title: Retro Yellow
+title: CDLI
 markdown: kramdown
 url: ""
 baseurl: "/blog"
-color_scheme: "red"
+color_scheme: "#1762ab"
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
-
-github: [metadata]
+  name: Sagar
+  email: sagar.r16@iiits.in
 
 plugins:
   - jekyll-paginate

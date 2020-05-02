@@ -53,7 +53,8 @@ nav a:hover {
   align-items: baseline;
   background-color: var(--theme-color);
   box-shadow: inset 0px 2px 50px rgba(0, 0, 0, 0.5);
-  color: #2f2f2f;
+  /* color: #2f2f2f; */
+  color: #f7f7f7  
 }
 
 .hero .a-date {
@@ -63,7 +64,7 @@ nav a:hover {
 
 .hero .a-author {
   font-size: 1rem;
-  color: #7f7777;
+  color: #f7f7f7;
 }
 
 /* main */
@@ -99,8 +100,10 @@ main {
 }
 
 .a-title {
-  color: #323232;
+  /* color: #323232; */
+  color: #1762ab;
   font-weight: bold;
+  margin: 0;
 }
 
 .a-date {
@@ -147,7 +150,7 @@ footer {
 }
 
 footer a {
-  color: orange;
+  color: #1762ab;
   text-decoration: none;
   font-size: 1rem;
 }

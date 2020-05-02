@@ -6,7 +6,10 @@
   {% include nav.html %}
 
   <section class="hero center">
-    {{page.title}}
+    <h1>{{page.title}}</h1>
+    <p class="a-author">
+      {{page.author}}
+    </p>
   </section>
 
   <div class="content markdown-body">
@@ -22,9 +25,9 @@
         <br>
         <a href="{{sitepage.url | relative_url}}" style="text-decoration: none;">
           <div class="article">
-            <p class="a-title">
+            <!-- <p class="a-title"> -->
               {{sitepage.title}}
-            </p>
+            <!-- </p> -->
           </div>
         </a>
         {% endif %}

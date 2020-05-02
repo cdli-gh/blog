@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+
+<body>
+  {% include nav.html %}
+
+  <section class="hero center">
+    <h1>{{page.title}}</h1>
+    <p class="a-author">
+      {{page.author}}
+    </p>
+  </section>
+
+  <!-- <div class="content markdown-body"> -->
+    {{content}}
+  <!-- </div> -->
+
+  {% include footer.html %}
+</body>
+
+</html>

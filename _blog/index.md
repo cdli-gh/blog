@@ -1,6 +1,6 @@
 ---
 title: CDLI Blog
 layout: home
-categories: [""]
+tags: ["sagar","sehgal"]
 author: Sagar
 ---

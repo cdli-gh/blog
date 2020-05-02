@@ -2,7 +2,7 @@
 layout: post
 title: The Businessman & the fisherman
 date: 2014-08-12 10:18:00
-categories: ["story"]
+categories: ["story","lol"]
 author: casper
 ---
 
