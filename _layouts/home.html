@@ -27,7 +27,9 @@
               {{sitepage.title}}
             </p>
             <p class="a-author">
-              by {{sitepage.author}}
+              {%if sitepage.author %}
+                by {{sitepage.author}}
+              {% endif %}
             </p>
           </div>
         </a>

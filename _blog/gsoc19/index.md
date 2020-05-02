@@ -1,7 +1,7 @@
 ---
 title: Program Template
 layout: page
-author: Sagar
+author: 
 tags:  
 ---
 
