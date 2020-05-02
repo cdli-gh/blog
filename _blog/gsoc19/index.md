@@ -1,11 +1,13 @@
 ---
-title: GSOC 2019
+title: Program Template
 layout: page
 author: Sagar
-categories: [""]
+tags:  
 ---
-<h1>{{page.url}}</h1>
 
-Hello Sagar
+Welcome of CDLI Blogs.
+Please update the author name and add tags too. 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam expedita iure voluptatem temporibus culpa esse eos sint, similique veritatis enim deleniti incidunt doloremque molestiae optio laudantium nostrum error. Excepturi nobis inventore quidem vel eum, deserunt, laborum at qui repellendus quae molestias fugiat doloremque voluptatum iure necessitatibus! Alias fugiat laudantium assumenda obcaecati inventore debitis quas fuga ea qui sint sed esse aut quibusdam modi, saepe, et, at molestias maxime architecto illo? Saepe ipsum porro alias delectus eius distinctio optio, cupiditate dolores iusto illum reiciendis, nostrum accusantium harum a laborum. Similique est ducimus, rem eos quidem cumque porro adipisci ea incidunt sequi.
+This page lists all the GSOC projects in this program.
+
+Further this page can also contain list of all the admins, mentors and Students participating in the program. 

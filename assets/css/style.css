@@ -33,7 +33,7 @@ nav a {
   color: black;
   font-weight: bold;
   border-bottom: 2px solid transparent;
-  transition-duration: 0.4s;
+  transition-duration: 0s;
 }
 nav a:hover {
   border-bottom: 2px solid black;
@@ -95,7 +95,7 @@ main {
   text-decoration: none;
   margin: 0 0 1.2rem 0;
   width: 75vw;
-  transition-duration: 0.4s;
+  transition-duration: 0s;
   background-color: white;
 }
 

@@ -25,9 +25,12 @@
         <br>
         <a href="{{sitepage.url | relative_url}}" style="text-decoration: none;">
           <div class="article">
-            <!-- <p class="a-title"> -->
+            <p class="a-title">
               {{sitepage.title}}
-            <!-- </p> -->
+            </p>
+            <p class="a-author">
+              by {{sitepage.author}}
+            </p>
           </div>
         </a>
         {% endif %}
