@@ -2,7 +2,7 @@
 layout: page
 title: GSoC 2020 2020 Project X Objectives and Deliverables
 author: "put your first name here"
-tags: GSoC2020, Objectives, "project X"
+tags: [ "GSoC2020", "Objectives" , "project X"]
 ---
 ## Project X name
 Short description here.
