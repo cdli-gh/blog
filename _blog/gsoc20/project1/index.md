@@ -1,7 +1,7 @@
 ---
 layout: page
-title: GSoC 2020 Project X Objectives and Deliverables
-author: "put your first name here"
+title: Project#1
+author: "first name"
 tags: ["project","gsoc","gsoc2020","project#1","eval#1","week#2"]
 ---
 

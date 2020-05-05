@@ -1,7 +1,7 @@
 ---
 layout: page
-title: GSOC2020 Project#1 Eval#1 Week#1
-author: Sagar
+title: Project#1 Eval#1 Week#1
+author: "first name"
 tags: ["week","gsoc","gsoc2020","project#1","eval#1","week#2"]
 ---
 Welcome of CDLI Blogs.
@@ -9,6 +9,8 @@ Welcome of CDLI Blogs.
 Please update the author name and add tags too. 
 
 This page should contain the report made for every week.
+
+Replace Project# with your project name.
 
 ## Week Summary
 

@@ -1,8 +1,8 @@
 ---
 title: CDLI Blog
 layout: home
+author: ""
 tags: []
-author: Sagar
 ---
 
 Welcome of CDLI Blogs.

@@ -1,15 +1,14 @@
 ---
 title: GSOC 2020
 layout: page
-author: Sagar
+author: ""
 tags:  ["gsoc","gsoc2020"]
 ---
 
 Welcome of CDLI GSoC 2020 Blogs.
 
 ## Overall GSoC 2020 Review 
-A short description on complete program goes here.
-
+A short description on complete outcome of GSoC 2020 program goes here.
 
 ## Projects in GSoC 2020
 
