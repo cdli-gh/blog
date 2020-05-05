@@ -6,49 +6,17 @@ tags: ["eval","gsoc","gsoc2020","project#1","eval#1"]
 ---
 
 ## Summary
-A complete report on the work done during the evaluation must be written after the evaluation.
+Give here an overview of the work accomplished during the past 4 weeks. 
 
 ## Objectives and Deliverables
-Objectives are separated in two categories: essential and additional, they are also listed in pririty order.
+Explain what were your objectives and the deliverables associated for this period.
 
 
-### Essential Objectives
+## Learning and Success
+Briefly outline what you have learned and the sucesses you have achieved.
 
-|\#|Objectives|Associated Deliverables|issue(s)|  
-|---	|---	|---	|---	|  
-|1   	|   	|   	|   	|  
-|2   	|   	|   	|   	|  
-|3   	|   	|   	|   	|  
-|4   	|   	|   	|   	|  
-|5   	|   	|   	|   	|  
-|6   	|   	|   	|   	|  
+## Difficulties
+Briefly outline roadblocks and difficulties you have enountered.
 
-### Additional Objectives
-
-|\#|Objectives|Associated Deliverables|issue(s)|  
-|---	|---	|---	|---	|  
-|1   	|   	|   	|   	|  
-|2   	|   	|   	|   	|  
-|3   	|   	|   	|   	|  
-|4   	|   	|   	|   	|  
-|5   	|   	|   	|   	|  
-|6   	|   	|   	|   	|  
-
-### Tentative timeline  
-
-The planned tentaitve timeline.
-
-| Week  |Objectives |Deliverables |  
-|---|---|---|  
-|1|   |   |  
-|2|   |   |  
-|3|   |   |  
-|4|   |   |  
-|5|   |   |  
-|6|   |   |  
-|7|   |   |  
-|8|   |   |  
-|9|   |   |  
-|10|   |   |  
-|11|   |   |  
-|12|   |   |  
+## Plan update
+Explain here how your results will influence the planning of the rest of the program.
