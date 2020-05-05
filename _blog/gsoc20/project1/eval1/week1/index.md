@@ -27,4 +27,4 @@ A complete report of the work done during the week must be written here.
 |4   	| Thursday  	|   2020/06/04	|   	|  
 |5   	| Friday  	|   2020/06/05	|   	|  
 |6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/017	|   	|  
+|7   	| Sunday  	|   2020/06/07	|   	|  
