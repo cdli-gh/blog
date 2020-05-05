@@ -1,7 +1,7 @@
 ---
 title: CDLI Blog
 layout: home
-tags: template
+tags: []
 author: Sagar
 ---
 
