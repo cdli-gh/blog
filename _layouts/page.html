@@ -21,8 +21,7 @@
   <main>
     {% assign sitepages = site.blog | sort %}
     {% for sitepage in sitepages %}
-    <!-- {{sitepage.url}}<br>
-    {{sitepage.url.size}}<br> -->
+    <!-- {{sitepage.url}}<br> -->
     {% assign url = page.url| remove: "index"%}
     {% assign val = sitepage.url | remove: url | split:"/" %}
       {% if sitepage.url contains url and val.size==2 %}

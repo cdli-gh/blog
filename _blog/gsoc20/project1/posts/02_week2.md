@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Project#1 Eval#1 Week#3
+title: Project#1 Eval#1 Week#2
 author: "first name"
-tags: ["week","gsoc","gsoc2020","project#1","eval#2","week#3"]
+tags: ["week","gsoc","gsoc2020","project#1","eval#1","week#2"]
 ---
 Welcome of CDLI Blogs.
 
