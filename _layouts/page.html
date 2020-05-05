@@ -8,7 +8,9 @@
   <section class="hero center">
     <h1>{{page.title}}</h1>
     <p class="a-author">
-      {{page.author}}
+      {%if page.author.lenght>0 %}
+        by {{page.author}}
+      {% endif %}
     </p>
   </section>
 
