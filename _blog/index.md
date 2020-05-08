@@ -5,7 +5,7 @@ author: "Émilie"
 tags: []
 ---
 
-Welcome to the CDLI Blogs. This site is used keep track of objectives and progress in CDLI projects. 
+Welcome to the CDLI Blogs. This site is used keep track of objectives and progress in CDLI supervized projects. 
 
 See below the list of pograms in which CDLI participates.
 
