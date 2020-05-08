@@ -1,7 +1,7 @@
 ---
 layout: page
 title: translation_pipeline Eval#2 Week#7
-author: "first name"
+author: "Himanschu"
 tags: ["week","gsoc","gsoc2020","translation_pipeline","eval#2","week#7"]
 ---
 Welcome of CDLI Blogs.

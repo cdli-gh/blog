@@ -1,7 +1,7 @@
 ---
 layout: page
 title: journals
-author: "first name"
+author: "Nisheal"
 tags: ["project","gsoc","gsoc2020","journals","eval#1","week#2"]
 ---
 

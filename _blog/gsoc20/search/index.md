@@ -1,7 +1,7 @@
 ---
 layout: page
 title: search
-author: "first name"
+author: "Vedant"
 tags: ["project","gsoc","gsoc2020","search","eval#1","week#2"]
 ---
 

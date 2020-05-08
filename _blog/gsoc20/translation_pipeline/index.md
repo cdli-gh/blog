@@ -1,7 +1,7 @@
 ---
 layout: page
 title: translation_pipeline
-author: "first name"
+author: "Himanschu"
 tags: ["project","gsoc","gsoc2020","translation_pipeline","eval#1","week#2"]
 ---
 

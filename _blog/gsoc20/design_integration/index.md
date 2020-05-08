@@ -1,7 +1,7 @@
 ---
 layout: page
 title: design_integration
-author: "first name"
+author: "Samarth"
 tags: ["project","gsoc","gsoc2020","design_integration","eval#1","week#2"]
 ---
 

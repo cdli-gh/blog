@@ -1,7 +1,7 @@
 ---
 layout: page
 title: numerals
-author: "first name"
+author: "Logan"
 tags: ["project","gsoc","gsoc2020","numerals","eval#1","week#2"]
 ---
 

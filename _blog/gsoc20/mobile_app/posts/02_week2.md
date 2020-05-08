@@ -1,7 +1,7 @@
 ---
 layout: page
 title: mobile_app Eval#1 Week#2
-author: "first name"
+author: "Anila"
 tags: ["week","gsoc","gsoc2020","mobile_app","eval#1","week#2"]
 ---
 Welcome of CDLI Blogs.

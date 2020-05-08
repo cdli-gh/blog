@@ -1,7 +1,7 @@
 ---
 layout: page
 title: img_pipeline
-author: "first name"
+author: "Aman"
 tags: ["project","gsoc","gsoc2020","img_pipeline","eval#1","week#2"]
 ---
 

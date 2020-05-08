@@ -1,7 +1,7 @@
 ---
 layout: page
 title: design_integration Eval#1 Week#2
-author: "first name"
+author: "Samarth"
 tags: ["week","gsoc","gsoc2020","design_integration","eval#1","week#2"]
 ---
 Welcome of CDLI Blogs.

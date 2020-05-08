@@ -1,7 +1,7 @@
 ---
 layout: page
 title: journals Eval#1 Week#4
-author: "first name"
+author: "Nisheal"
 tags: ["week","gsoc","gsoc2020","journalsl#1","week#4"]
 ---
 Welcome of CDLI Blogs.

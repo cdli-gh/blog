@@ -1,7 +1,7 @@
 ---
 layout: page
 title: mobile_app Eval#1
-author: "first name"
+author: "Anila"
 tags: ["eval","gsoc","gsoc2020","mobile_appl#1"]
 ---
 

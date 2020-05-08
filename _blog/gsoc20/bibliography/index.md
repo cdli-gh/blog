@@ -1,7 +1,7 @@
 ---
 layout: page
 title: bibliography
-author: "first name"
+author: "Ajit"
 tags: ["project","gsoc","gsoc2020","bibliography","eval#1","week#2"]
 ---
 

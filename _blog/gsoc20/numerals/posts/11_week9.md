@@ -1,7 +1,7 @@
 ---
 layout: page
 title: numerals Eval#3 Week#9
-author: "first name"
+author: "Logan"
 tags: ["week","gsoc","gsoc2020","numerals","eval#3","week#9"]
 ---
 Welcome of CDLI Blogs.

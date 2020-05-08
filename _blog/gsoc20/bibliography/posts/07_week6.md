@@ -1,7 +1,7 @@
 ---
 layout: page
 title: bibliography Eval#2 Week#6
-author: "first name"
+author: "Ajit"
 tags: ["week","gsoc","gsoc2020","bibliography","eval#2","week#6"]
 ---
 Welcome of CDLI Blogs.

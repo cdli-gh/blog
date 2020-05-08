@@ -1,7 +1,7 @@
 ---
 layout: page
 title: img_pipeline Eval#2 Week#7
-author: "first name"
+author: "Aman"
 tags: ["week","gsoc","gsoc2020","img_pipeline","eval#2","week#7"]
 ---
 Welcome of CDLI Blogs.

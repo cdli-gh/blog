@@ -1,7 +1,7 @@
 ---
 layout: page
 title: numerals Eval#1
-author: "first name"
+author: "Logan"
 tags: ["eval","gsoc","gsoc2020","numeralsl#1"]
 ---
 
