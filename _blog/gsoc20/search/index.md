@@ -17,14 +17,10 @@ Objectives are separated in two categories: essential and additional, they are a
 |---	|---	|---	|---	|  
 |1   	|Prepare the main search|A fast and accessible main search function|   	|  
 |2   	|Prepare the advanced search|A fast and accurate advanced search function|[#48](https://gitlab.com/cdli/framework/-/issues/48)|    
-|6   	|Prepare the expanded search result display|   	|   	|  
-|6   	|Prepare the compact search result display|Highlighted search in ATF|   	|  
-|6   	|                                         |Sort columns asc/desc according to 3 columns|   	|  
-|6   	|                                         |Sort columns asc/desc according to 3 columns|   	| 
-|4   	|Set up the search filters|   	|   	|  
-|3   	|Extend the Role based access system|   	|[#84](https://gitlab.com/cdli/framework/-/issues/84)|  
-
-
+|3   	|Prepare the expanded search result display|   	|   	|  
+|4   	|Prepare the compact search result display|Highlighted search in ATF<br>Sort columns asc/desc according to 3 columns|   
+|5   	|Set up the search filters|   	|   	|  
+|6   	|Extend the Role based access system|   	|[#84](https://gitlab.com/cdli/framework/-/issues/84)|  
 
 ##### Notes
 * Data download backend will be handled by Lars and frontend by Samarth
@@ -41,8 +37,7 @@ Objectives are separated in two categories: essential and additional, they are a
 
 | Week  |Objectives |Deliverables |  
 |---|---|---|  
-|1| Creating a middleware to redirect users not having 2FA enabled <br>Testing Login and Registers with 2FA middleware<br>Setup Password Strength Checker<br>Develop Password Retrieval Module<br>Documentation of Implementation|Full functionality of login
-with password strength checker and password retrieval developed<br>2FA middleware force enabling 2FA <br>Documentation of 2FA middleware|
+|1| Creating a middleware to redirect users not having 2FA enabled <br>Testing Login and Registers with 2FA middleware<br>Setup Password Strength Checker<br>Develop Password Retrieval Module<br>Documentation of Implementation|Full functionality of login with password strength checker and password retrieval developed<br>2FA middleware force enabling 2FA <br>Documentation of 2FA middleware|
 |2|   |   |  
 |3|   |   |  
 |4|   |   |  
