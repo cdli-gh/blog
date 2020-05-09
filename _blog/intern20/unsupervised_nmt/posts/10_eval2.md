@@ -2,7 +2,7 @@
 layout: page
 title: unsupervised_nmt
 author: "Rachit"
-tags: ["project","research","internship", "unsupervised", "nmt]
+tags: ["project","research","internship", "unsupervised", "nmt"]
 ---
 
 ## Summary

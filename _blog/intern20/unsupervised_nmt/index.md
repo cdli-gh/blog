@@ -1,8 +1,8 @@
 ---
-layout: page
 title: unsupervised_nmt
+layout: page
 author: "Rachit"
-tags: ["project","research","internship", "unsupervised", "nmt]
+tags: ["project","research","internship", "unsupervised", "nmt"]
 ---
 
 ## Project X name
