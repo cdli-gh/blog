@@ -1,7 +1,5 @@
 list:
   - title: Home
     url: ""
-  - title: About
-    url: about
   - title: Tags
     url: tags
