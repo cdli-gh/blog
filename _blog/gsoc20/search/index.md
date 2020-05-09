@@ -41,12 +41,8 @@ Objectives are separated in two categories: essential and additional, they are a
 
 | Week  |Objectives |Deliverables |  
 |---|---|---|  
-|1| Creating a middleware to redirect users not having 2FA enabled|Full functionality of login
-with password strength checker and password retrieval developed |
-| | Testing Login and Registers with 2FA middleware| 2FA middleware force enabling 2FA|
-| | Setup Password Strength Checker| Documentation of 2FA middleware
-| | Develop Password Retrieval Module
-| | Documentation of Implementation
+|1| Creating a middleware to redirect users not having 2FA enabled <br>Testing Login and Registers with 2FA middleware<br>Setup Password Strength Checker<br>Develop Password Retrieval Module<br>Documentation of Implementation|Full functionality of login
+with password strength checker and password retrieval developed<br>2FA middleware force enabling 2FA <br>Documentation of 2FA middleware|
 |2|   |   |  
 |3|   |   |  
 |4|   |   |  
