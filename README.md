@@ -100,7 +100,7 @@ _blog/<program_name>/<project_name>
    └── 15_eval3.md
 ```
 
-Here the `<project_name>/index.md` contains the summary of the complete project. This can be seen as a final report which would be written at the end of the program summarizing the complete project. Furter it also contains the objectives and various other details of the project. But don't forget to fill the front matter of the `<project_name>/index.md`. The front matter should look like this:- 
+Here the `<project_name>/index.md` contains the summary of the complete project. This can be seen as a final report which would be written at the end of the program summarizing the complete project. Furter it also contains the objectives and various other details of the project. The front matter of `<project_name>/index.md` should look like this:- 
 ```
 ---
 title: "<project_name>"
