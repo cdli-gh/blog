@@ -73,7 +73,7 @@ tags: ["project","gsoc", "gsoc20"]
 
 *tags* : These are the tags that would be assigned to the page. Please assign the tags accordingly, bcz based on the tags, the pages would be shown in the **Tags** tab.
 
-## How to Write Blogs for the program?
+## How to Write Blogs for a project?
 
 So, if you have been assigned a project for a program, for that there would be having a folder for you in the `_blog/<program_name>/<project_name>`.
 
