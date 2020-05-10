@@ -77,7 +77,7 @@ tags: ["project","gsoc", "gsoc20"]
 
 So, if you have been assigned a project for a program, for that there would be having a folder for you in the `_blog/<program_name>/<project_name>`.
 
-Various blogs pages have already been made in the folder.
+Various blogs pages have already been made in a `_blog/<program_name>/<project_name>/` folder.
 
 ```
 _blog/<program_name>/<project_name>
@@ -100,13 +100,13 @@ _blog/<program_name>/<project_name>
    └── 15_eval3.md
 ```
 
-Here the `<project_name>/index.md` contains the summary of the complete project. This can be seen as a final report which would be written at the end of the program summarizing the complete project. But don't forget to fill the front matter of the `<project_name>/index.md`. The front matter of should look like this:- 
+Here the `<project_name>/index.md` contains the summary of the complete project. This can be seen as a final report which would be written at the end of the program summarizing the complete project. Furter it also contains the objectives and various other details of the project. But don't forget to fill the front matter of the `<project_name>/index.md`. The front matter of should look like this:- 
 ```
 ---
 title: "<project_name>"
 layout: page
 author: "<your_name>"
-tags: ["project","gsoc", "gsoc20"]
+tags: ["project","gsoc", "gsoc20","<project_name>"]
 ---
 ```
 
@@ -118,7 +118,7 @@ tags: ["project","gsoc", "gsoc20"]
 
 *tags* : These are the tags that would be assigned to the page. Please assign the tags accordingly, bcz based on the tags, the pages would be shown in the **Tags** tab.
 
-All the blogs posted in the `<project_name>/posts` would be shown at the bottom of the project page. These blogs would be displayed in the order of filename therefore, they have been numbered.
+All the blogs posted in the `<project_name>/posts/` would be shown at the bottom of the project page. These blogs would be displayed in the order of filename therefore, they have been numbered.
 
 In the current system, we have 2 types of blogs in the `<project_name>/posts` section i.e. `eval` and `week`. 
 
@@ -126,3 +126,4 @@ In the current system, we have 2 types of blogs in the `<project_name>/posts` se
 
 - `eval` blogs must have tags `["eval","gsoc","gsoc2020","eval#m"]` where m is the eval number. This contains the compiled report of the work done in a month. 
 
+Please add more tags to every blog along with the current specified tags. These pages would be shown up on the **tags** pages. A tag search feature would be developed further, so make sure to add enough tags.
