@@ -126,6 +126,6 @@ In the current system, we have 2 types of blogs in the `<project_name>/posts` se
 
 - `eval` blogs must have tags `["eval","gsoc","gsoc2020","eval#m"]` where m is the eval number. This contains the compiled report of the work done in a month. 
 
-The front matter of index pages is same as that of `<project_name>/index.md` front matter.
+The front matter of blog pages is same as that of `<project_name>/index.md` front matter.
 
-Please add more tags to every blog along with the current specified tags. These pages would be shown up on the **tags** pages. A tag search feature would be developed further, so make sure to add enough tags.
+Please add more tags to every blog along with the current specified tags. These pages would be shown up on the **tags** pages. A tag search feature would be developed future, so make sure to add enough tags.
