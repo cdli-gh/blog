@@ -2,7 +2,7 @@
 layout: page
 title: api
 author: "Lars"
-tags: ["project","gsoc","gsoc2020","api","eval#1","week#2"]
+tags: ["project","gsoc","gsoc2020","api"]
 ---
 
 ## Project X name
