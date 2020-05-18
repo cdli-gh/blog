@@ -25,6 +25,10 @@
     {% assign url = page.url| remove: "index"%}
     {% assign val = sitepage.url | remove: url | split:"/" %}
       {% if sitepage.url contains url and val.size==2 %}
+        {% if sitepage.tags contains "draft"%}
+          {% continue %}
+        {% endif %}
+        
         <br>
         <a href="{{sitepage.url | relative_url}}" style="text-decoration: none;">
           <div class="article">
