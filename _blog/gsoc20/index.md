@@ -21,5 +21,5 @@ A short description on complete outcome of GSoC 2020 program goes here.
 |5   	| Search  	|   Vedant	|   Émilie	|  
 |6   	|   Journals	|   Nisheal 	|  David 	|  
 |7   	|   Bibliography	|   Ajit 	| Rune, Sagar 	|  
-|8      | Translation pipeline| Himanschu | Ravneet| 
+|8      | Translation pipeline| Himanshu | Ravneet| 
 |9      | Mobile app | Anila | Willis|
