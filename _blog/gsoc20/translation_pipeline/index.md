@@ -35,8 +35,7 @@ Objectives are separated in two categories: essential and additional, they are a
 |1   	|  Building Part of speech model using Rule based Probabilistic methods (CRF, HMM), and Deep learning approach 	|  POS tagging model for sumerian language 	|   	|  
 |2   	|   Building Named-Entity-Recognition  model using POS tagger, Rule based Probabilistic methods(CRF), Spacy  and Deep learning approaches 	|   Sumerian Named-Entity-Recognition model 	|   	|  
 |3   	|  Combining features of probabilistic approach along with Neural networks for both POS and NER models 	|   Improved performance of POS and NER models	|   Improved performance of POS and NER models	|  
-|4   	|   Integrating POS, NER, Numeral and Machine translation model	|  Final translation pipeline, will be used to provide the detailed information about input sumerian text 
- 	|   	|  
+|4   	|   Integrating POS, NER, Numeral and Machine translation model	|  Final translation pipeline, will be used to provide the detailed information about input sumerian text |    |
 |5   	|   Deploying Command line interface on Github for the complete integrated pipeline	|  A command line interface for user  	|   	|  
 
 #### Additional Objectives
