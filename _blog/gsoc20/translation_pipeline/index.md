@@ -9,10 +9,10 @@ tags: ["project","gsoc","gsoc2020","translation_pipeline","eval#1","week#2"]
 The primary objective for this project is to build the End to End translation pipeline which takes a raw sumerian text as input and gives the detailed structure of the sentence along with its English translation. The POS Tagging and NER models are used to give valuable information about the sentences. In Linguistics, part-of-speech tagging (POS) and Named-Entity-Recognition(NER) are the fundamental tasks which are very useful for Information retrieval, information extraction, text categorisation and linguistic research for corpora. POS is the process of marking up a word in a text (corpus) as corresponding to a particular part of speech, such as nouns, verbs, adjectives, adverbs, etc. whereas Named-entity recognition (NER) is a subtask of information extraction that seeks to locate and classify named entities mentioned in unstructured text into predefined categories such as person names, organizations, locations etc.
 
 Presently we have two datasets to build our models.
-1. https://github.com/cdli-gh/Sumerian-NER/tree/master/Raw/CDIL_morph_raw).
+1. [MTACC_GOLD_CORPUS](https://github.com/cdli-gh/Sumerian-NER/tree/master/Raw/CDIL_morph_raw)
 2. Dictionary of words tagged with Named Entities  (Ex. Word - '{d}li9-si4',Tag - DN) 
 
-There are different POS tags in sumerian as described here (https://cdli-gh.github.io/guides/guide_tagsets.html)(ORACC) but out of these we will work on Noun(N), Verb(V), Numbers(NU), Conjunction(CNJ) and all other named entities which will be tagged as NE. These four are majorly used POS tags in Sumerian, other POS tags are rarely used and there is no dataset available to understand those. For the Named-Entity-Recognition also we will majorly rely on the first datasets as well. As in the second dataset we only have words without any left or right context which may not be helpful in training. For NER we have almost all the tags in the dataset (DN,EN,FN,GN,RN,MN,ON,PN etc.) (Though some are very limited) which are available here (https://cdli-gh.github.io/guides/guide_tagsets.html). Out of these some are majorly used such as (PN - Personal name) and some are very rare such as (AN - Agricultural Name).
+There are different POS tags in sumerian as described here [ORACC](https://cdli-gh.github.io/guides/guide_tagsets.html) but out of these we will work on Noun(N), Verb(V), Numbers(NU), Conjunction(CNJ) and all other named entities which will be tagged as NE. These four are majorly used POS tags in Sumerian, other POS tags are rarely used and there is no dataset available to understand those. For the Named-Entity-Recognition also we will majorly rely on the first datasets as well. As in the second dataset we only have words without any left or right context which may not be helpful in training. For NER we have almost all the tags in the dataset (DN,EN,FN,GN,RN,MN,ON,PN etc.) (Though some are very limited) which are available here [ORACC](https://cdli-gh.github.io/guides/guide_tagsets.html). Out of these some are majorly used such as (PN - Personal name) and some are very rare such as (AN - Agricultural Name).
 
 Since Dataset is very limited (Most of the sentences are one word as well) we will try to combine different approaches as described below. We will use a rule based methods (rules such as words ending with -ta most likely to be verbs, word followed by dumu(son of) most likely to be Personal name(Noun)) along with probabilistic approaches such as CRF(Conditional Random Fields) and HMM(Hidden Markov Models). We will also use Deep learning architectures used for Sequence modeling Using LSTMs and will try to combine it with previously used model features to make the best out of the limited dataset. 
 
@@ -24,7 +24,7 @@ Improvised Machine translation model by Rachit Bansal
 
 The final model will provide the detailed information about any input Sumerian text in human readable form using the above models.
 
-#### GitHub Repository: https://github.com/cdli-gh/Sumerian-NER 
+**GitHub Repository: [cdli-gh/Sumerian-NER](https://github.com/cdli-gh/Sumerian-NER)**
 
 ### Objectives and Deliverables
 Objectives are separated in two categories: essential and additional, they are also listed in pririty order. 
@@ -59,7 +59,4 @@ Objectives are separated in two categories: essential and additional, they are a
 |8|  Combining features of probabilistic approach with the Deep neural networks  for both POS and NER model |  Improved Results for both NER and POS tagging |  
 |9 - 10|  Discussion with other student developers Rachit Bansal(Machine translation) and Logan (Numeral Models)  to understand their Models, combining and connecting different models (POS, Numeral, MT systems) based on rules to improve translation. | Understanding the whole pipeline processing and preparing basic connected pipeline architecture   |   
 |11 - 12|  Integrating all the models and deploying command line interface for the final pipeline to be used by the user | Translation Pipeline for sumerian language  |  
-
-
-
 
