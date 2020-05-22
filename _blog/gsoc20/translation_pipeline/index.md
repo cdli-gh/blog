@@ -32,8 +32,8 @@ Objectives are separated in two categories: essential and additional, they are a
 
 |\#|Objectives|Associated Deliverables|issue(s)|  
 |---	|---	|---	|---	|  
-|1   	|  Building Part of speech model using Rule based Probabilistic methods (CRF, HMM), and Deep learning approach 	|  POS tagging model for sumerian language 	|  No Ending marked for the sentence, difficult to get context 	|  
-|2   	|   Building Named-Entity-Recognition  model using POS tagger, Rule based Probabilistic methods(CRF), Spacy  and Deep learning approaches 	|   Sumerian Named-Entity-Recognition model 	|  No Ending marked for the sentence, difficult to get context	|  
+|1   	|  Building Part of speech model using Rule based Probabilistic methods (CRF, HMM), and Deep learning approach 	|  POS tagging model for sumerian language 	|  No Ending marked for the sentences, difficult to get context 	|  
+|2   	|   Building Named-Entity-Recognition  model using POS tagger, Rule based Probabilistic methods(CRF), Spacy  and Deep learning approaches 	|   Sumerian Named-Entity-Recognition model 	|  No Ending marked for the sentences, difficult to get context	|  
 |3   	|  Combining features of probabilistic approach along with Neural networks for both POS and NER models 	|   Improved performance of POS and NER models |     |  
 |4   	|   Integrating POS, NER, Numeral and Machine translation model	|  Final translation pipeline, will be used to provide the detailed information about input sumerian text |    |
 |5   	|   Deploying Command line interface on Github for the complete integrated pipeline	|  A command line interface for user  	|   	|  
@@ -50,13 +50,13 @@ Objectives are separated in two categories: essential and additional, they are a
 | Week  |Objectives |Deliverables |  
 |---|---|---|  
 |1|  Preparing data for training POS model by extracting from the above dataset using conll-U parser and creating rules with the help of previous research papers and discussing with the language experts to take inputs as features | Prepared sumerian data and rules to be worked with.  |  
-|2|  Implementing Conditional Random Field(CRF) and Hidden Markov Models (HMMs) to train POS tagging model on the prepared dataset | First POS tagging Model for sumerina language  |  
-|3| Preparing data to be used for NER, Creating rules with the help of previous research papers and language experts. Creating a Classification model as an experiment using RNNs for the second dataset [ Word, Tag ] to integrate that as input in our Probabilistic Model.  | Prepared features and dataset to be worked with. Classification Model using second Dataset   |  
-|4|  Implementing model using Conditional Random Field(CRF), Spacy and other statistical machine translation techniques |  First Named Entity recognition model.  |  
-|5|  Extracting monolingual sumerian data using regex according to our input and training Fast-text and Word2vec word embeddings for sumerian language. Preparing data to be used for Neural Network model | Extracted monolingual sumerian data with word vectors to be used for training   |  
-|6|  Training Deep Neural Network Models for POS tagging with the variations in the model ( such as changing optimisers, word embeddings etc.) |  Second POS tagging model based on Seq2seq modeling(Neural Network architecture) |  
+|2|  Implementing Conditional Random Field(CRF) and Hidden Markov Models (HMMs) to train POS tagging model on the prepared dataset | First POS tagging Model for sumerian language  |  
+|3|  Extracting monolingual sumerian data using regex according to our input and training Fast-text and Word2vec word embeddings for sumerian language. Preparing data to be used for Neural Network model | Extracted monolingual sumerian data with word vectors to be used for training   |  
+|4|  Training Deep Neural Network Models for POS tagging with the variations in the model ( such as changing optimisers, word embeddings, CNN artichture, BERT etc.) |  Improvised POS tagging model based on Seq2seq modeling(Neural Network architecture) |  
+|5| Preparing data to be used for NER, Creating rules with the help of previous research papers and language experts. Creating a Classification model as an experiment using RNNs for the second dataset [ Word, Tag ] to integrate that as input in our Probabilistic Model.  | Prepared features and dataset to be worked with. Classification Model using second Dataset   |  
+|6|  Implementing NER model using Conditional Random Field(CRF), Spacy and other statistical machine translation techniques |  First Named Entity recognition model.  |  
 |7|  Training Deep Neural Network model for Named entity recognition with the variations in the model ( such as changing optimisers, word embeddings etc.) |  Second NER model based on Seq2seq modeling(Neural Network architecture) |  
-|8|  Combining features of probabilistic approach with the Deep neural networks  for both POS and NER model |  Improved Results for both NER and POS tagging |  
+|8|  Combining features of probabilistic approach with the Deep neural networks for both POS and NER model |  Improved Results for both NER and POS tagging models |  
 |9 - 10|  Discussion with other student developers Rachit Bansal(Machine translation) and Logan (Numeral Models)  to understand their Models, combining and connecting different models (POS, Numeral, MT systems) based on rules to improve translation. | Understanding the whole pipeline processing and preparing basic connected pipeline architecture   |   
 |11 - 12|  Integrating all the models and deploying command line interface for the final pipeline to be used by the user | Translation Pipeline for sumerian language  |  
 
