@@ -10,6 +10,8 @@ This project seeks to produce exploratory visualizations of CDLI accounting corp
 
 The goal is to present the information from these corpora in an accessible manner to facilitate exploration of the ancient economy and society.
 
+Code available [here](https://github.com/MrLogarithm/cdli-accounting-viz)
+
 ### Objectives and Deliverables
 
 #### Essential Objectives
