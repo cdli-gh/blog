@@ -5,8 +5,11 @@ author: "Anila"
 tags: ["project","gsoc","gsoc2020","mobile_app","eval#1","week#2"]
 ---
 
-## Project X name
-Short description here.
+## Revamp CDLI tablet apps (iOS and Android)
+The idea of the Revamp CDLI tablet apps project is to recreate the existing CDLI tablet app
+using Flutter and provide a web admin interface for the mobile app data entry and management.
+Besides its existing components, the new mobile application will offer additional features for a
+highly-customized UX. CDLI tablet app will be accessible for both Android and iOS devices.
 
 ### Objectives and Deliverables
 Objectives are separated in two categories: essential and additional, they are also listed in pririty order. 
