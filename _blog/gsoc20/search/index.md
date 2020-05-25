@@ -6,7 +6,15 @@ tags: ["project","gsoc","gsoc2020","search"]
 ---
 
 ## CDLI Search and other improvements
-Short description here.
+CDLI Framework integrates features of the project in a logical infrastructure, prepares new data displays, including machine-readable outputs, to enhance knowledge diffusion. It includes a unified interface for the project website, more powerful search capabilities, more internal links to navigate the catalogue, and intuitive displays for calendars, glossaries, bibliographies, etc.
+
+The Project focuses on :  
+1. Building an authentication and authorization system for the framework. 
+2. Integrating Elastic Search for Simple Search.
+3. Optimizing queries for Advance Search.
+4. Preparing search results (Expanded and Compact format) with data preprocessing.
+
+Proposal Link : [Improving_CDLI_Framework.pdf](https://github.com/cdli-gh/Framework/blob/master/Proposal/2020/Improving_CDLI_Framework.pdf)
 
 ### Objectives and Deliverables
 Objectives are separated in two categories: essential and additional, they are also listed in priority order. 
