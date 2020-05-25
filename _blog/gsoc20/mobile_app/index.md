@@ -18,7 +18,7 @@ Objectives are separated in two categories: essential and additional, they are a
 |\#|Objectives|Associated Deliverables|issue(s)|  
 |---	|---	|---	|---	|  
 |1   	|Mobile app   	|Recreate the existing CDLI tablet app using Flutter.   	|   	|  
-|2   	|Web admin panel   	|Provide a web admin interface for the mobile app data entry and management.   	|   	|  
+|2   	|Admin panel   	|Provide a web admin interface for the mobile app data entry and management.   	|   	|  
 |3   	|   	|   	|   	|  
 |4   	|   	|   	|   	|  
 |5   	|   	|   	|   	|  
@@ -39,18 +39,18 @@ Objectives are separated in two categories: essential and additional, they are a
 
 | Week  |Objectives |Deliverables |  
 |---|---|---|  
-|1|   |   |  
-|2|   |   |  
+|1|Artifact view and gallery   |   |  
+|2|Admin Panel   |   |  
 |3|   |   |  
 |4|   |   |  
-|5|   |   |  
+|5|First evaluation   |   |  
 |6|   |   |  
-|7|   |   |  
-|8|   |   |  
-|9|   |   |  
-|10|   |   |  
-|11|   |   |  
-|12|   |   |  
+|7|Extra features   |Start working on the additional functionalities of the mobile app.   |  
+|8|Extra features   |Work continues.   |  
+|9|Second evaluation   |Submit evaluation. Final work on the project development.   |  
+|10|Test   |Write tests.   |  
+|11|-   |Spare week kept in case any unpredictable delays occur in the coding period.   |  
+|12|Final evaluation   |Prepare for code submission and project summary. Final documentation.   |  
 
 
 
