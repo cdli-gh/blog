@@ -46,8 +46,8 @@ Objectives are separated in two categories: essential and additional, they are a
 |4|Connect to the API   |Connect to the API to fetch the information and make it available to the user in the   |
 | |                     |mobile app.   |  
 |5|First evaluation   |Submit evaluation. Meanwhile, work on the project development continues.   |  
-|6|-   |Not available full time, final university examinations.   |  
-|7|-   |Not available full time, final university examinations.   |  
+|6|-   |Not available full time due to final university examinations.   |  
+|7|-   |Not available full time due to final university examinations.   |  
 |8|Extra features   |Start working on the additional functionalities of the mobile app.   |  
 |9|Extra features   |Work continues.   |  
 |10|Second evaluation   |Submit evaluation. Final work on the project development.   |  
