@@ -1,54 +1,53 @@
 ---
 layout: page
 title: img_pipeline
-author: "Aman"
-tags: ["project","gsoc","gsoc2020","img_pipeline","eval#1","week#2"]
+author: 'Aman'
+tags: ['project', 'gsoc', 'gsoc2020', 'img_pipeline', 'eval#1', 'week#2']
 ---
 
 ## Project X name
+
 Short description here.
 
 ### Objectives and Deliverables
-Objectives are separated in two categories: essential and additional, they are also listed in pririty order. 
+
+Objectives are separated in two categories: essential and additional, they are also listed in priority order.
+
 #### Essential Objectives
 
-|\#|Objectives|Associated Deliverables|issue(s)|  
-|---	|---	|---	|---	|  
-|1   	|   	|   	|   	|  
-|2   	|   	|   	|   	|  
-|3   	|   	|   	|   	|  
-|4   	|   	|   	|   	|  
-|5   	|   	|   	|   	|  
-|6   	|   	|   	|   	|  
+| \#  | Objectives | Associated Deliverables | issue(s) |
+| --- | ---------- | ----------------------- | -------- |
+| 1   |            |                         |          |
+| 2   |            |                         |          |
+| 3   |            |                         |          |
+| 4   |            |                         |          |
+| 5   |            |                         |          |
+| 6   |            |                         |          |
 
 #### Additional Objectives
 
-|\#|Objectives|Associated Deliverables|issue(s)|  
-|---	|---	|---	|---	|  
-|1   	|   	|   	|   	|  
-|2   	|   	|   	|   	|  
-|3   	|   	|   	|   	|  
-|4   	|   	|   	|   	|  
-|5   	|   	|   	|   	|  
-|6   	|   	|   	|   	|  
+| \#  | Objectives | Associated Deliverables | issue(s) |
+| --- | ---------- | ----------------------- | -------- |
+| 1   |            |                         |          |
+| 2   |            |                         |          |
+| 3   |            |                         |          |
+| 4   |            |                         |          |
+| 5   |            |                         |          |
+| 6   |            |                         |          |
 
-### Tentative timeline  
+### Tentative timeline
 
-| Week  |Objectives |Deliverables |  
-|---|---|---|  
-|1|   |   |  
-|2|   |   |  
-|3|   |   |  
-|4|   |   |  
-|5|   |   |  
-|6|   |   |  
-|7|   |   |  
-|8|   |   |  
-|9|   |   |  
-|10|   |   |  
-|11|   |   |  
-|12|   |   |  
-
-
-
-
+| Week | Objectives | Deliverables |
+| ---- | ---------- | ------------ |
+| 1    |            |              |
+| 2    |            |              |
+| 3    |            |              |
+| 4    |            |              |
+| 5    |            |              |
+| 6    |            |              |
+| 7    |            |              |
+| 8    |            |              |
+| 9    |            |              |
+| 10   |            |              |
+| 11   |            |              |
+| 12   |            |              |
