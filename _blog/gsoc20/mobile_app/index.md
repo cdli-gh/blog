@@ -39,19 +39,21 @@ Objectives are separated in two categories: essential and additional, they are a
 
 | Week  |Objectives |Deliverables |  
 |---|---|---|  
-|1|Artifact view and gallery   |   |  
-|2|Admin Panel   |   |  
-|3|   |   |  
-|4|   |   |  
-|5|First evaluation   |   |  
-|6|   |   |  
-|7|Extra features   |Start working on the additional functionalities of the mobile app.   |  
-|8|Extra features   |Work continues.   |  
-|9|Second evaluation   |Submit evaluation. Final work on the project development.   |  
-|10|Test   |Write tests.   |  
-|11|-   |Spare week kept in case any unpredictable delays occur in the coding period.   |  
-|12|Final evaluation   |Prepare for code submission and project summary. Final documentation.   |  
-
+|1|Mobile app   |Start building the basic functionalities of the mobile app.   |  
+|2|Admin panel   |Build a web admin interface for entering and managing
+data about the collection that will feed contents to the mobile app.   |  
+|3|Admin panel   |Work continues.   |  
+|4|Connect to the API   |Connect to the API to fetch the information and make it available to the user in the
+mobile app.   |  
+|5|First evaluation   |Submit evaluation. Meanwhile, work on the project development continues.   |  
+|6|-   |Not available full time, final university examinations.   |  
+|7|-   |Not available full time, final university examinations.   |  
+|8|Extra features   |Start working on the additional functionalities of the mobile app.   |  
+|9|Extra features   |Work continues.   |  
+|10|Second evaluation   |Submit evaluation. Final work on the project development.   |  
+|11|Test   |Write tests.   |  
+|12|-   |Spare week kept in case any unpredictable delays occur in the coding period.   |  
+|13|Final evaluation   |Prepare for code submission and project summary. Final documentation.   |
 
 
 
