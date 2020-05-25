@@ -129,3 +129,16 @@ In the current system, we have 2 types of blogs in the `<project_name>/posts` se
 The front matter of blog pages is same as that of `<project_name>/index.md` front matter.
 
 Please add more tags to every blog along with the current specified tags. These pages would be shown up on the **tags** pages. A tag search feature would be developed future, so make sure to add enough tags.
+
+### Tips
+
+- If working on a page and don't want to list it. Add a tag of "draft" to your page. For eg:- 
+   ```
+   tags: ["draft","week","gsoc","gsoc2020","api","eval#1","week#1"]
+   ```
+- Want to center align any of your text. Use the center tag like in HTML. For eg:-
+   ```
+   <center>
+      center text in Markdown
+   </center>
+   ```

@@ -1,36 +1,39 @@
 ---
 layout: page
 title: bibliography
-author: "Ajit"
-tags: ["project","gsoc","gsoc2020","bibliography","eval#1","week#2"]
+author: 'Ajit'
+tags: ['project', 'gsoc', 'gsoc2020', 'bibliography', 'eval#1', 'week#2']
 ---
 
 ## Bibliography Management and Display
-Short description here.
+
+This project concerns in the first place,
+the conception of the management pages for this data, and in second, the display of
+bibliographic data. In order to make CDLI’s bibliographic data more useful, it should be
+easily manageable by the admin, and also have a nice linked display.
 
 ### Objectives and Deliverables
-Objectives are separated in two categories: essential and additional, they are also listed in pririty order. 
-#### Essential Objectives
 
-|\#|Objectives|Associated Deliverables|issue(s)|  
-|---	|---	|---	|---	|  
-|1   	| Link publications    |  Feature for linking publications with artifacts and authors 	|   	|  
-|2   	| Export citations |  Feature for bulk exporting citations realted to artifacts from the search results 	|   	|  
-|3   	| Bulk linking for publications 	|  Feature for bulk linking of publications to artifacts and authors using CSV files 	|   	|  
-|4   	| Bulk upload publications  	| Feature for bulk uploading publications to the database using CSV files  	|   	|  
-|5   	| User documentation |  User documentation for using all the features 	|   	|  
-|6   	| Technical documentation  	| Documentation of all the feature archit+ectures and details for future development  	|   	|  
+| \#  | Objectives                    | Associated Deliverables                                                            | issue(s) |
+| --- | ----------------------------- | ---------------------------------------------------------------------------------- | -------- |
+| 1   | Link publications             | Feature for linking publications with artifacts and authors.                        |          |
+| 2   | Export citations              | Feature for bulk exporting citations realted to artifacts from the search results.  |          |
+| 3   | Bulk linking for publications | Feature for bulk linking of publications to artifacts and authors using CSV files.  |          |
+| 4   | Bulk upload publications      | Feature for bulk uploading publications to the database using CSV files.            |          |
+| 5   | User documentation            | User documentation for using all the features.                                      |          |
+| 6   | Technical documentation       | Documentation of all the feature architectures and details for future development. |          |
 
 #### Additional Objectives
 
-|\#|Objectives|Associated Deliverables|issue(s)|  
-|---	|---	|---	|---	|  
-|1   	| Merge publications 	|  Admin feature for merging publications with search for publications 	|   	|  
-|2   	|   	|   	|   	|  
-|3   	|   	|   	|   	|  
-|4   	|   	|   	|   	|  
-|5   	|   	|   	|   	|  
-|6   	|   	|   	|   	|  
+| \#  | Objectives         | Associated Deliverables                                             | issue(s) |
+| --- | ------------------ | ------------------------------------------------------------------- | -------- |
+| 1   | Merge publications | Admin feature for merging publications with search for publications. |          |
+| 2   |                    |                                                                     |          |
+| 3   |                    |                                                                     |          |
+| 4   |                    |                                                                     |          |
+| 5   |                    |                                                                     |          |
+| 6   |                    |                                                                     |          |
+
 
 ### Tentative timeline  
 
@@ -57,7 +60,4 @@ pages.  |   |
 |11| Final thorough testing for all features and bug fixes. 
 <br> Finalizing the user and developer documentations.   |   |  
 |12| Buffer time for any remaining bug fixes and documentation.  |   |  
-
-
-
 

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: api Eval#2 Week#8
-author: "Lars"
-tags: ["week","gsoc","gsoc2020","api","eval#2","week#8"]
+author: "Lars Willighagen"
+tags: ["draft","week","gsoc","gsoc2020","api","eval#2","week#8"]
 ---
 Welcome of CDLI Blogs.
 
