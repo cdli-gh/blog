@@ -16,6 +16,8 @@ The Project focuses on :
 
 Proposal Link : [Improving_CDLI_Framework.pdf](https://github.com/cdli-gh/Framework/blob/master/Proposal/2020/Improving_CDLI_Framework.pdf)
 
+Community Bonding Document : [Community_Bonding.doc](https://docs.google.com/document/d/10jLp2_WdBhSancW3kfLFrthvOO7PO-UgB5nqGVjsDMk/edit?usp=sharing)
+
 ### Objectives and Deliverables
 Objectives are separated in two categories: essential and additional, they are also listed in priority order. 
 
@@ -23,23 +25,22 @@ Objectives are separated in two categories: essential and additional, they are a
 
 |\#|Objectives|Associated Deliverables|issue(s)|  
 |---	|---	|---	|---	|  
-|1   	|Prepare the main search|A fast and accessible main search function|   	|  
-|2   	|Prepare the advanced search|A fast and accurate advanced search function|[#48](https://gitlab.com/cdli/framework/-/issues/48)|    
-|3   	|Prepare the expanded search result display|   	|   	|  
-|4   	|Prepare the compact search result display|Highlighted search in ATF<br>Sort columns asc/desc according to 3 columns|   
-|5   	|Set up the search filters|   	|   	|  
-|6   	|Extend the Role based access system|   	|[#84](https://gitlab.com/cdli/framework/-/issues/84)|  
+|1   	| Authentication (2FA)|Established more secure login by enforcing 2FA. | [#4](https://gitlab.com/cdli/framework/-/issues/4) |  
+|2   	| Authorization Setup (Role Based) | Successfully setup role based access. | [#84](https://gitlab.com/cdli/framework/-/issues/84) |    
+|3   	| Simple Search | Integrating Elastic Search for fast and accurate search results. | [#50](https://gitlab.com/cdli/framework/-/issues/50) |  
+|4   	| Advance Search Optimization | Optimized advanced search queries. | [#48](https://gitlab.com/cdli/framework/-/issues/48) |   
+|5   	| Search Result display | a. Expanded & Compact result.<br>b. Highlighted search results.<br>c. Search Filters. | []() |    
 
 ##### Notes
-* Data download backend will be handled by Lars and frontend by Samarth
-
+* Data download (backend) - Lars
+* Frontend - Samarth
 
 #### Additional Objectives
 
 |\#|Objectives|Associated Deliverables|issue(s)|  
 |---	|---	|---	|---	|  
-|1   	|Implement the search options|   	|   	|  
-|2   	|Implement Rocket Chat|A rocket chat docker container which can be deployed without fuss|[#95](https://gitlab.com/cdli/framework/-/issues/95)|  
+|1   	| Search Settings | A separate setting page for displaying search page and search result according to configuration. |  [#37](https://gitlab.com/cdli/framework/-/issues/37) |  
+|2   	| Rocket.Chat Setup | Setting up and deploying Rocket.Chat for CDLI Developers. |[#95](https://gitlab.com/cdli/framework/-/issues/95)|  
 
 ### Tentative timeline  
 
