@@ -55,12 +55,12 @@ Objectives are separated in two categories: essential and additional, they are a
 | 2    | Convert articles at editor Dashboard. | Finishing the latex pdf to HTML conversion for journals.                                               |
 | 3    | Upload article attributes to database | CRUD Operations for article attributes and different types of journals.                                |
 | 4    | Upload article content to database    | Controllers to manage authors and article content/HTML to the database                                 |
-| 5    | Testing                               | Testing Implementations of Milestone 1.                                                                |
+| 5    | Testing                               | Testing Implementations of Milestone 1 i.e Week 1 to week 4.                                                                |
 | 6    | Display varioues types of articles    | Make Different pages for different types of articles.                                                  |
 | 7    | Migration of article                  | Migrate old CDLI articles to new schema and display                                                    |
 | 8    | Display of article content            | Display of HTML Content of the journal (Individually)                                                  |
-| 9    | Testing                               | Testing Implementations of Milestone 2.                                                                |
+| 9    | Testing                               | Testing Implementations of Milestone 2 i.e Week 6 to week 8.                                                                |
 | 10   | Integration Testing                   | Testing the data variation to the database with article content and integration with other modules.    |
 | 11   | Unit Testing                          | Initalize unit testing for CDLI Framework and write possible tests journals dashboard                  |
-| 12   | Improvements                          | Manually test the entire journal dashboard, build few left out things and ready the project submission |
+| 12   | Improvements                          | Manually test the entire journal dashboard, ready the project for submission and document necessary details (CDKeditor, pdf2html and tests). |
 | 13   | Finishing the project                 | Testing the project and making release/production ready.                                               |
