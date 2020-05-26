@@ -31,9 +31,9 @@ Objectives are separated in two categories: essential and additional, they are a
 
 | \#  | Objectives         | Associated Deliverables                                                         | issue(s) |
 | --- | ------------------ | ------------------------------------------------------------------------------- | -------- |
-| 1   | Article upload     | Feature for editors to upload different types of articles.                      |          |
+| 1   | Article CRUD     | Feature for editors to CRUD different types of articles.                      |          |
 | 2   | Article Conversion | Backend to convert the editor's uploaded article to CDLI Standards for display. |          |
-| 3   | Article Display    | Display different types of CDLI articles to publictions.                        |          |
+| 3   | Article Display    | Display all the articles at their respective pages and indiviual view for each article.|          |
 | 4   | Schema Migration   | Make necessary changes to the schema for journals dashboard.                    |          |
 | 5   | Article Migration  | Move old & archived articles to the new architecture.                           |          |
 | 6   | Testing            | Implement necessary testing for the project and sync with CI/CD.                |          |
