@@ -33,6 +33,7 @@ Objectives are separated in two categories: essential and additional, they are a
 | \#  | Objectives                                                                          | Associated Deliverables                                                       | issue(s) |
 | --- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------- |
 | 1   | Implementing and Training (very recently introduced) completely Unsupervised Models | Extended and more thorough experimentations as well as comparable performance |          |
+| 2   | Building a model which takes POS Tagged Text (from Himanshu's project) as input | Smoother pipeline integration | Insufficient clean parallel data |
 
 ### Tentative timeline
 
