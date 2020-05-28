@@ -34,7 +34,11 @@ easily manageable by the admin, and also have a nice linked display.
 
 | Week  |Objectives | Work completed |  
 |---|---|---|  
-|1| - [ ] Implement linking of artifacts to the selected publication through the view page of the publication. - [ ] Implement linking of publications to the selected artifact through the view page of the artifact. - [ ] Implement linking of authors to the selected publication through the view page of the publication. - [ ] Implement linking of publications to the selected author through the view page of the artifact. - [ ] Modifying the existing add and edit functions for publication, author and artifact pages. - [ ] Document the completed features.     | Feature for linking publications with artifacts and authors. |  
+|1| - [ ] Implement linking of artifacts to the selected publication through the view page of the publication. 
+- [ ] Implement linking of publications to the selected artifact through the view page of the artifact. 
+- [ ] Implement linking of authors to the selected publication through the view page of the publication. 
+- [ ] Implement linking of publications to the selected author through the view page of the artifact. - [ ] Modifying the existing add and edit functions for publication, author and artifact pages. 
+- [ ] Document the completed features.     | Feature for linking publications with artifacts and authors. |  
 |2| - [ ] Implement bulk linking of publications to artifacts using CSV file uploads. - [ ] Adding appropriate file format checking and error handling. - [ ] Implement bulk linking of publications to authors using CSV files. - [ ] Implement bulk upload of publications using CSV files. - [ ] Document the completed features.  | - Feature for bulk linking of publications and artifacts using CSV files. - Feature for bulk upload of publications. |  
 |3| - [ ] Implement merge publication feature. - [ ] Add search integration for the merge publication feature.  |   |  
 |4| - [ ] Finish search integration for merge publication feature and finalize the merge publication feature. - [ ] Document the completed features - [ ] (tentative) Finalize details for linking entities with bibliographies and start working on it.   | - Feature for merging publications.  |  
