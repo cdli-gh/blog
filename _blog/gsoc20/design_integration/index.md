@@ -14,24 +14,25 @@ Objectives are separated in two categories: essential and additional, they are a
 
 |\#|Objectives|Associated Deliverables|issue(s)|  
 |---	|---	|---	|---	|  
-|1   	|UI enhancement   	| Implement / Create new pages as per the screens on zeplin  	|   	|  
-|2   	|Accessibility enhancement - 1  	| Add a minimum accessibility level of A following WCAG   	|   	|  
-|3   	|Boost UX   	| Suggest and implement changes to improve UX.   	|   	|  
+|1   	|UI enhancement   	| Update UI of Search results page, Object page and Advanced search page as per the screens on zeplin  	|   	|  
+|2   	|UI Implementation  	| Implement/Build UI for Search settings, Image View and Home     	|   	|  
+|3   	|Accessibility enhancement - 1  	| Add a minimum accessibility level of A following WCAG   	|   	|  
+|4   	|Boost UX   	| Suggest and implement changes to improve UX.   	|   	|  
 
 
 #### Additional Objectives
 
 |\#|Objectives|Associated Deliverables|issue(s)|  
 |---	|---	|---	|---	|  
-|1   	|Accessibility enhancement - 2   	| Update the minimum accessibility level of A to AA following WCAG    	|   	|  
-|2   	|Enhance Suport for browsers without JS   	| Update code functionality to produce similar output when JS is enabled   	|   	|  
+|1   	|Accessibility enhancement - 2   	| Update the minimum accessibility level of A to AA following WCAG  |   	|  
+|2   	|Enhance Support for browsers without JS   	| Make public essential functionality less dependent on JS    	|   	|  
 
 ### Tentative timeline  
 
 | Week  |Objectives |Deliverables |  
 |---|---|---|  
-|1|   |   |  
-|2|   |   |  
+|1|Home and sidebar | Construct the sidebar, work on homepage and update components of search result page such as search box and pagination controls  |  
+|2|Search page  | Complete remainder of the search i.e. search results, tablet view, card view etc  |  
 |3|   |   |  
 |4|   |   |  
 |5|   |   |  
