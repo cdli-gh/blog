@@ -16,7 +16,7 @@ easily manageable by the admin, and also have a nice linked display.
 
 | | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 | - [x] Current - [ ] Completed | Link publications             | Feature for linking publications with artifacts and authors.                        |          |
+| 1 | :heavy_check_mark: Current <br> :white_check_mark: Completed  | Link publications             | Feature for linking publications with artifacts and authors.                        |          |
 | 2 | - [ ] Current - [ ] Completed | Bulk linking for publications | Feature for bulk linking of publications to artifacts and authors using CSV files.  |          |
 | 3 | - [ ] Current - [ ] Completed | Bulk upload publications      | Feature for bulk uploading publications to the database using CSV files.            |          |
 | 4 | - [ ] Current - [ ] Completed | Documentation           | User and technical documentation for all the features.                                      |          |
