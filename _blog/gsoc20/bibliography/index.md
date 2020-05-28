@@ -1,7 +1,7 @@
 ---
 layout: page
-title: bibliography
-author: 'Ajit'
+title: Bibliography management and display.
+author: 'Ajit Jadhav'
 tags: ['project', 'gsoc', 'gsoc2020', 'bibliography', 'eval#1', 'week#2']
 ---
 
@@ -14,41 +14,40 @@ easily manageable by the admin, and also have a nice linked display.
 
 ### Objectives and Deliverables
 
-| \#  | Objectives                    | Associated Deliverables                                                            | issue(s) |
-| --- | ----------------------------- | ---------------------------------------------------------------------------------- | -------- |
-| 1   | Link publications             | Feature for linking publications with artifacts and authors.                        |          |
-| 2   | Export citations              | Feature for bulk exporting citations realted to artifacts from the search results.  |          |
-| 3   | Bulk linking for publications | Feature for bulk linking of publications to artifacts and authors using CSV files.  |          |
-| 4   | Bulk upload publications      | Feature for bulk uploading publications to the database using CSV files.            |          |
-| 5   | User documentation            | User documentation for using all the features.                                      |          |
-| 6   | Technical documentation       | Documentation of all the feature architectures and details for future development. |          |
+| | Status  | Objectives                    | Associated Deliverables         | issue(s) |
+| --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
+| 1 | - [x] Current - [ ] Completed | Link publications             | Feature for linking publications with artifacts and authors.                        |          |
+| 2 | - [ ] Current - [ ] Completed | Export citations              | Feature for bulk exporting citations realted to artifacts from the search results.  |          |
+| 3 | - [ ] Current - [ ] Completed | Bulk linking for publications | Feature for bulk linking of publications to artifacts and authors using CSV files.  |          |
+| 4 | - [ ] Current - [ ] Completed | Bulk upload publications      | Feature for bulk uploading publications to the database using CSV files.            |          |
+| 5 | - [ ] Current - [ ] Completed | Documentation           | User and technical documentation for all the features.                                      |          |
 
 #### Additional Objectives
 
-| \#  | Objectives         | Associated Deliverables                                             | issue(s) |
-| --- | ------------------ | ------------------------------------------------------------------- | -------- |
-| 1   | Merge publications | Admin feature for merging publications with search for publications. |          |
-| 2   |                    |                                                                     |          |
-| 3   |                    |                                                                     |          |
-| 4   |                    |                                                                     |          |
-| 5   |                    |                                                                     |          |
-| 6   |                    |                                                                     |          |
+| | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
+| --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
+| 1 | - [ ] Current - [ ] Completed | Merge publications | Admin feature for merging publications with search for publications. |          |
+| 2 | - [ ] Current - [ ] Completed | Link entities      | Linking entities with bibliographies.       |          |
 
 
 ### Tentative timeline  
 
-| Week  |Objectives |Deliverables |  
+| Week  |Objectives | Work completed |  
 |---|---|---|  
-|1| Implement linking of artifacts to the selected publication through the view page of the publication.  | Feature for linking artifacts to publications  |  
-|2| Implement linking of publications to the selected artifact through the view page of the artifact. <br> Implement linking of authors to the selected publication through the view page of the publication. <br> Add auto complete feature for the author name.  | Feature for linking publications to artifacts and author to publications.  |  
-|3| Implement linking of publications to the selected author through the view page of the artifact. <br> Modifying the existing add and edit functions for publication, author and artifact pages. <br> Document the completed features.  | Feature for linking publications to authors.  |  
-|4| Creating the backend parser for the CSV files used for bulk linking of publications to artifacts.  | -  |  
-|5| Creating the feature for bulk linking of publications to artifacts by using the file parser and adding the interface and appropriate error handling.   | Feature for bulk linking of publications and artifacts using CSV files.  |  
-|6| Similarly, implement bulk linking of publications to authors using CSV files.  | Feature for bulk linking of publications and authors using CSV files.  |  
-|7| Implement bulk upload of publications using CSV files.<br> Document the completed features.  | Feature for bulk upload of publications.  |  
-|8| Implement merge publication feature.  | -  |  
-|9| Add search integration for the merge publication feature.  | Feature for merging publications.  |  
-|10| Buffer time for handling the bulk export citation interface using API developed by Lars.   | Export citations interface.  |  
-|11| Final thorough testing for all features and bug fixes. <br> Finalizing the user and developer documentations.   | Completed documentation.  |  
-|12| Buffer time for any remaining bug fixes and documentation.  | -  |  
+|1| - [ ] Implement linking of artifacts to the selected publication through the view page of the publication. - [ ] Implement linking of publications to the selected artifact through the view page of the artifact. - [ ] Implement linking of authors to the selected publication through the view page of the publication. - [ ] Implement linking of publications to the selected author through the view page of the artifact. - [ ] Modifying the existing add and edit functions for publication, author and artifact pages. - [ ] Document the completed features.     | Feature for linking publications with artifacts and authors. |  
+|2| - [ ] Implement bulk linking of publications to artifacts using CSV file uploads. - [ ] Adding appropriate file format checking and error handling. - [ ] Implement bulk linking of publications to authors using CSV files. - [ ] Implement bulk upload of publications using CSV files. - [ ] Document the completed features.  | - Feature for bulk linking of publications and artifacts using CSV files. - Feature for bulk upload of publications. |  
+|3| - [ ] Implement merge publication feature. - [ ] Add search integration for the merge publication feature.  |   |  
+|4| - [ ] Finish search integration for merge publication feature and finalize the merge publication feature. - [ ] Document the completed features - [ ] (tentative) Finalize details for linking entities with bibliographies and start working on it.   | - Feature for merging publications.  |  
+|5|   |   |  
+|6|   |   |
+|7|   |   |  
+|8|   | - |  
+|9|   |   |  
+|10|  |   |
+|11| - [ ] Final thorough testing for all features and bug fixes. - [ ] Finalizing the user and developer documentations.   | Completed documentation and bug fixes.  |  
+|12| - [ ] Buffer time for any remaining bug fixes and documentation. - [ ] Final report for all the work done.  | -  |  
 
+### Dependent Tasks
+List of tasks which need to be co-ordinated with other developers.
+
+- [ ] Handling the bulk export citation interface using API developed by Lars.
