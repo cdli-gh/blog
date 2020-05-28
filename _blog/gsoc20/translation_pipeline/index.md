@@ -25,7 +25,7 @@ Best Performing NER model.
 Numeral model implemented by Logan
 Improvised Machine translation model by Rachit Bansal
 
-The final model will provide the detailed information about any input Sumerian text in human readable form using the above models.
+The final model will provide the detailed information(POS tagging, Named Entity Recognation, English Translation) about any input Sumerian text (of UrIII period) in human readable form using the above models.
 
 **GitHub Repository: [cdli-gh/Sumerian-NER](https://github.com/cdli-gh/Sumerian-NER)**
 
