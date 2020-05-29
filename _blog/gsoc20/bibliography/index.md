@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bibliography management and display.
+title: Bibliography management and display
 author: 'Ajit Jadhav'
 tags: ['project', 'gsoc', 'gsoc2020', 'bibliography', 'eval#1', 'week#2']
 ---
