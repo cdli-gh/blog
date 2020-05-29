@@ -60,4 +60,5 @@ Objectives are separated in two categories: essential and additional, listed in 
 | 10   | Annotate HTML pages | HTML pages with microdata and metadata |  
 | 11   | Document APIs | API documentation |  
 | 12   | Quality assurance and/or SDK | Integration tests, simple SDK |  
+
 > \* Mostly on weekends
