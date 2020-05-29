@@ -46,18 +46,18 @@ Objectives are separated in two categories: essential and additional, listed in 
 
 ### Tentative timeline
 
-| Week | Objectives | Deliverables |
-|------|------------|--------------|
-|   1* | Prepare non-PHP scripts | Documentation on how to call external scripts from CakePHP |
-|   2* | Setup Bibliography API | Functional internal Bibliography API |
-|   3* | Finish Bibliography API | Functional Component and REST API |
-|   4* | Prepare data for catalogue API | Prepared ATF and CONLL files |
-|   5  | Finish CDLI inscription API | Functional API for inscriptions and annotations |
-|   6  | Document LD schema | Documentation and URIs for the schema of RDF, XML and JSON-LD files |
-|   7  | Finish CDLI LD API | Functional API for linked data (RDF and JSON-LD) |
-|   8  | Finish links to journal system | Two-way link between Bibliography API and journal system |
-|   9  | Setup search API | Functional search API for the catalogue |
-|  10  | Annotate HTML pages | HTML pages with microdata and metadata |
-|  11  | Document APIs | API documentation |
-|  12  | Quality assurance and/or SDK | Integration tests, simple SDK |
+| Week | Objectives | Deliverables |  
+|-----:|------------|--------------|  
+|  1\* | Prepare non-PHP scripts | Documentation on how to call external scripts from CakePHP |  
+|  2\* | Setup Bibliography API | Functional internal Bibliography API |  
+|  3\* | Finish Bibliography API | Functional Component and REST API |  
+|  4\* | Prepare data for catalogue API | Prepared ATF and CONLL files |  
+|  5   | Finish CDLI inscription API | Functional API for inscriptions and annotations |  
+|  6   | Document LD schema | Documentation and URIs for the schema of RDF, XML and JSON-LD files |  
+|  7   | Finish CDLI LD API | Functional API for linked data (RDF and JSON-LD) |  
+|  8   | Finish links to journal system | Two-way link between Bibliography API and journal system |  
+|  9   | Setup search API | Functional search API for the catalogue |  
+| 10   | Annotate HTML pages | HTML pages with microdata and metadata |  
+| 11   | Document APIs | API documentation |  
+| 12   | Quality assurance and/or SDK | Integration tests, simple SDK |  
 > \* Mostly on weekends
