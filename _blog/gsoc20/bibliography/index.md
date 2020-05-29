@@ -17,7 +17,7 @@ easily manageable by the admin, and also have a nice linked display.
 | | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
 | 1 | :heavy_check_mark: Current <br> :white_check_mark: Completed  | Link publications             | Feature for linking publications with artifacts and authors.                        |          |
-| 2 | - [ ] Current - [ ] Completed | Bulk linking for publications | Feature for bulk linking of publications to artifacts and authors using CSV files.  |          |
+| 2 | <ul><li>- [x] Current </li><li>- [ ] Completed</li></ul> | Bulk linking for publications | Feature for bulk linking of publications to artifacts and authors using CSV files.  |          |
 | 3 | - [ ] Current - [ ] Completed | Bulk upload publications      | Feature for bulk uploading publications to the database using CSV files.            |          |
 | 4 | - [ ] Current - [ ] Completed | Documentation           | User and technical documentation for all the features.                                      |          |
 | 5 | - [ ] Current - [ ] Completed | Export citations              | Feature for bulk exporting citations realted to artifacts from the search results.  |          |
@@ -52,27 +52,3 @@ List of tasks which need to be co-ordinated with other developers.
 
 - [ ] Handling the bulk export citation interface using API developed by Lars.
 
-
-<table>
-<colgroup>
-<col width="30%" />
-<col width="70%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Field</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td markdown="span"> - [ ] First column **fields**</td>
-<td markdown="span"> - [x] Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
-</tr>
-<tr>
-<td markdown="span">Second column **fields**</td>
-<td markdown="span">Some more descriptive text.
-</td>
-</tr>
-</tbody>
-</table>
