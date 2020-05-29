@@ -1,7 +1,5 @@
 title: CDLI
 markdown: kramdown
-kramdown:
-  input: GFM
 url: ""
 baseurl: "/blog"
 color_scheme: "#1762ab"

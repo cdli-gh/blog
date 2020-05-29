@@ -51,3 +51,28 @@ easily manageable by the admin, and also have a nice linked display.
 List of tasks which need to be co-ordinated with other developers.
 
 - [ ] Handling the bulk export citation interface using API developed by Lars.
+
+
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Field</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span"> - [ ] First column **fields**</td>
+<td markdown="span"> - [x] Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+</tr>
+<tr>
+<td markdown="span">Second column **fields**</td>
+<td markdown="span">Some more descriptive text.
+</td>
+</tr>
+</tbody>
+</table>
