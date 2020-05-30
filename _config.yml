@@ -5,6 +5,7 @@ baseurl: "/blog"
 color_scheme: "#1762ab"
 # for atom feed
 kramdown:
+  input: GFM
   html_to_native: true
   
 author:
