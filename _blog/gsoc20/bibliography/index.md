@@ -27,7 +27,7 @@ easily manageable by the admin, and also have a nice linked display.
 | 6 |  | Documentation           | User and technical documentation for all the features.                                      |          |
 
 
-#### Additional Objectives
+### Additional Objectives
 
 | | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
@@ -36,10 +36,10 @@ easily manageable by the admin, and also have a nice linked display.
 
 
 ### Dependent Tasks
-List of tasks which need to be co-ordinated with other developers.
+List of tasks which need to be co-ordinated with other developers:
 
-- [ ] Handling the bulk export citation interface using bibliography API.
-- [ ] Changing the publication table view to list of bibliographies using bibliography API.
+- Handling the bulk export citation interface using bibliography API.
+- Changing the publication table view to list of bibliographies using bibliography API.
 
 ### Tentative timeline  
 
