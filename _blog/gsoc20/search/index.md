@@ -209,17 +209,17 @@ Objectives are separated in two categories: essential and additional, they are a
 </table>
 
 ---------------------------
-<table>
-    <thead>
-        <tr>
-            <th>Week</th>
-            <th>Objectives</th>
-            <th>Status</th>
-            <th>Deliverables</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
+<table> 
+    <thead> 
+        <tr> 
+            <th>Week</th> 
+            <th>Objectives</th> 
+            <th>Status</th> 
+            <th>Deliverables</th> 
+        </tr> 
+    </thead> 
+    <tbody> 
+        <tr> 
             <td rowspan=6 align="center">1</td>
             <td rowspan=2>a. Authentication (2FA) </td>
             <td rowspan=2 align="center"></td>
@@ -237,23 +237,23 @@ Objectives are separated in two categories: essential and additional, they are a
             <td>b. Testing on the Register Page. </td>
         </tr>
         <tr>
-            <td rowspan=2>c. Implement Password Retrieval</td>
-            <td rowspan=2 align="center"></td>
+            <td rowspan=2>c. Implement Password Retrieval</td> 
+            <td rowspan=2 align="center"></td> 
             <td> 
-                a. Implemented Password Retrieval Module. <br/>
-                b. TESTING LINE DELETE IT LATER
-            </td>
-        </tr>
-        <tr>
-            <td> b. Testing on the Login Page.</td>
-        </tr>
-        <tr>
-            <td rowspan=1 align="center">2</td>
-            <td rowspan=1></td>
-            <td rowspan=1 align="center"></td>
-            <td></td>
-        </tr>
-  </tbody>
-</table>
+                a. Implemented Password Retrieval Module. <br/> 
+                b. TESTING LINE DELETE IT LATER 
+            </td> 
+        </tr> 
+        <tr> 
+            <td> b. Testing on the Login Page.</td> 
+        </tr> 
+        <tr> 
+            <td rowspan=1 align="center">2</td> 
+            <td rowspan=1></td> 
+            <td rowspan=1 align="center"></td> 
+            <td></td> 
+        </tr> 
+  </tbody> 
+</table> 
 
 
