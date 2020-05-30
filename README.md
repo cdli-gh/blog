@@ -142,3 +142,6 @@ Please add more tags to every blog along with the current specified tags. These 
       center text in Markdown
    </center>
    ```
+- :man_technologist: `:technologist:` Emoji is not supported, instead you can use `:man_technologist:`.
+
+ 
