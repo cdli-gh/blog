@@ -116,7 +116,10 @@ Objectives are separated in two categories: essential and additional, they are a
         <tr>
             <td rowspan=2>c. Implement Password Retrieval</td>
             <td rowspan=2 align="center"></td>
-            <td> a. Implemented Password Retrieval Module. </td>
+            <td> 
+                a. Implemented Password Retrieval Module. <br/>
+                b. TESTING LINE DELETE IT LATER
+            </td>
         </tr>
         <tr>
             <td> b. Testing on the Login Page.</td>
