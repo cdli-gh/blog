@@ -259,8 +259,8 @@ Objectives are separated in two categories: essential and additional, they are a
 
 | Week  |Objectives |Deliverables |  
 |:---:|---|---|  
-|1| a. Authentication (2FA) | a. Successful implementation of 2FA middleware. | 
-| |                         | b. Testing 2FA Middleware. |
+| 1 | a. Authentication (2FA) | a. Successful implementation of 2FA middleware. | 
+| ^^ | ^^ | b. Testing 2FA Middleware. |
 | | b. Password Strength Checker  | a. Implemented Password Checker. |
 | |                               | b. Testing on the Register Page. |
 | | c. Implement Password Retrieval | a. Implemented Password Retrieval Module. | 

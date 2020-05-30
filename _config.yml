@@ -1,12 +1,15 @@
 title: CDLI
-markdown: kramdown
+markdown: CommonMarkGhPages
 url: ""
 baseurl: "/blog"
 color_scheme: "#1762ab"
 # for atom feed
-kramdown:
-  html_to_native: true
-  
+# kramdown:
+#   html_to_native: true
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+
 author:
   name: Sagar
   email: sagar.r16@iiits.in
