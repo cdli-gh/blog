@@ -4,6 +4,9 @@ url: ""
 baseurl: "/blog"
 color_scheme: "#1762ab"
 # for atom feed
+kramdown:
+  html_to_native: true
+  
 author:
   name: Sagar
   email: sagar.r16@iiits.in
