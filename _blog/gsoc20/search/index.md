@@ -79,7 +79,7 @@ Objectives are separated in two categories: essential and additional, they are a
     <td> <strong>Status</strong> </td> 
     <td></td>
     <td align="center"> Working </td>
-    <td align="center"> :technologist: </td>
+    <td align="center"> :man_technologist: </td>
     <td></td>
     <td align="center"> Completed </td>
     <td align="center"> :heavy_check_mark: </td>
@@ -89,103 +89,112 @@ Objectives are separated in two categories: essential and additional, they are a
 <table>
     <thead>
         <tr>
-            <th>Week</th>
-            <th>Objectives</th>
-            <th>Status</th>
-            <th>Deliverables</th>
+            <th> Week </th>
+            <th> Objectives </th>
+            <th> Status </th>
+            <th> Deliverables </th>
         </tr>
     </thead>
     <tbody>
+        <!-- Week-1 -->
         <tr>
-            <td rowspan=6 align="center">1</td>
-            <td rowspan=2>a. Authentication (2FA) </td>
+            <td rowspan=6 align="center"> 1 </td>
+            <td rowspan=2> a. Authentication (2FA) </td>
             <td rowspan=2 align="center"></td>
-            <td>a. Successful implementation of 2FA middleware. </td>
+            <td> a. Successful implementation of 2FA middleware. </td>
         </tr>
         <tr>
-            <td>b. Testing 2FA Middleware. </td>
+            <td> b. Testing 2FA Middleware. </td>
         </tr>
         <tr>
             <td rowspan=2> b. Password Strength Checker </td>
             <td rowspan=2 align="center"></td>
-            <td>a. Implemented Password Checker.</td>
+            <td> a. Implemented Password Checker. </td>
         </tr>
         <tr>
-            <td>b. Testing on the Register Page. </td>
+            <td> b. Testing on the Register Page. </td>
         </tr>
         <tr>
-            <td rowspan=2>c. Implement Password Retrieval</td>
+            <td rowspan=2> c. Implement Password Retrieval </td>
             <td rowspan=2 align="center"></td>
-            <td> 
-                a. Implemented Password Retrieval Module. <br/>
-                b. TESTING LINE DELETE IT LATER
-            </td>
+            <td> a. Implemented Password Retrieval Module. </td>
         </tr>
         <tr>
             <td> b. Testing on the Login Page.</td>
         </tr>
+        <!-- Week-2 -->
         <tr>
-            <td rowspan=1 align="center">2</td>
+            <td rowspan=1 align="center"> 2 </td>
             <td rowspan=1></td>
             <td rowspan=1 align="center"></td>
             <td></td>
         </tr>
+        <!-- Week-3 -->
         <tr>
-            <td rowspan=1 align="center">3</td>
+            <td rowspan=1 align="center"> 3 </td>
             <td rowspan=1></td>
             <td rowspan=1 align="center"></td>
             <td></td>
         </tr>
+        <!-- Week-4 -->
         <tr>
-            <td rowspan=1 align="center">4</td>
+            <td rowspan=1 align="center"> 4 </td>
             <td rowspan=1></td>
             <td rowspan=1 align="center"></td>
             <td></td>
         </tr>
+        <!-- Week-5 -->
         <tr>
-            <td rowspan=1 align="center">5</td>
+            <td rowspan=1 align="center"> 5 </td>
             <td rowspan=1></td>
             <td rowspan=1 align="center"></td>
             <td></td>
         </tr>
+        <!-- Week-6 -->
         <tr>
-            <td rowspan=1 align="center">6</td>
+            <td rowspan=1 align="center"> 6 </td>
             <td rowspan=1></td>
             <td rowspan=1 align="center"></td>
             <td></td>
         </tr>
+        <!-- Week-7 -->
         <tr>
-            <td rowspan=1 align="center">7</td>
+            <td rowspan=1 align="center"> 7 </td>
             <td rowspan=1></td>
             <td rowspan=1 align="center"></td>
             <td></td>
         </tr>
+        <!-- Week-8 -->
         <tr>
-            <td rowspan=1 align="center">8</td>
+            <td rowspan=1 align="center"> 8 </td>
             <td rowspan=1></td>
             <td rowspan=1 align="center"></td>
             <td></td>
         </tr>
+        <!-- Week-9 -->
         <tr>
-            <td rowspan=1 align="center">9</td>
+            <td rowspan=1 align="center"> 9 </td>
             <td rowspan=1></td>
             <td rowspan=1 align="center"></td>
             <td></td>
         </tr>
+        <!-- Week-10 -->
         <tr>
-            <td rowspan=1 align="center">10</td>
+            <td rowspan=1 align="center"> 10 </td>
             <td rowspan=1></td>
             <td rowspan=1 align="center"></td>
             <td></td>
         </tr>
+        <!-- Week-11 -->
         <tr>
-            <td rowspan=1 align="center">11</td>
+            <td rowspan=1 align="center"> 11 </td>
             <td rowspan=1></td>
             <td rowspan=1 align="center"></td>
             <td></td>
         </tr>
+        <!-- Week-12 -->
         <tr>
-            <td rowspan=1 align="center">12</td>
+            <td rowspan=1 align="center"> 12 </td>
             <td rowspan=1></td>
             <td rowspan=1 align="center"></td>
             <td></td>
@@ -208,48 +217,3 @@ Objectives are separated in two categories: essential and additional, they are a
     </tbody>
 </table>
 
----------------------------
-<table> 
-    <thead> 
-        <tr> 
-            <th>Week</th> 
-            <th>Objectives</th> 
-            <th>Status</th> 
-            <th>Deliverables</th> 
-        </tr> 
-    </thead> 
-    <tr> 
-        <td rowspan=6 align="center">1</td>
-        <td rowspan=2>a. Authentication (2FA) </td>
-        <td rowspan=2 align="center"></td>
-        <td>a. Successful implementation of 2FA middleware. </td>
-    </tr>
-    <tr>
-        <td>b. Testing 2FA Middleware. </td>
-    </tr>
-    <tr>
-        <td rowspan=2> b. Password Strength Checker </td>
-        <td rowspan=2 align="center"></td>
-        <td>a. Implemented Password Checker.</td>
-    </tr>
-    <tr>
-        <td>b. Testing on the Register Page. </td>
-    </tr>
-    <tr>
-        <td rowspan=2>c. Implement Password Retrieval</td> 
-        <td rowspan=2 align="center"></td> 
-        <td> 
-            a. Implemented Password Retrieval Module. <br/> 
-            b. TESTING LINE DELETE IT LATER 
-        </td> 
-    </tr> 
-    <tr> 
-        <td> b. Testing on the Login Page.</td> 
-    </tr> 
-    <tr> 
-        <td rowspan=1 align="center">2</td> 
-        <td rowspan=1></td> 
-        <td rowspan=1 align="center"></td> 
-        <td></td> 
-    </tr> 
-</table> 
