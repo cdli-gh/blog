@@ -218,42 +218,40 @@ Objectives are separated in two categories: essential and additional, they are a
             <th>Deliverables</th> 
         </tr> 
     </thead> 
-    <tbody> 
-        <tr> 
-            <td rowspan=6 align="center">1</td>
-            <td rowspan=2>a. Authentication (2FA) </td>
-            <td rowspan=2 align="center"></td>
-            <td>a. Successful implementation of 2FA middleware. </td>
-        </tr>
-        <tr>
-            <td>b. Testing 2FA Middleware. </td>
-        </tr>
-        <tr>
-            <td rowspan=2> b. Password Strength Checker </td>
-            <td rowspan=2 align="center"></td>
-            <td>a. Implemented Password Checker.</td>
-        </tr>
-        <tr>
-            <td>b. Testing on the Register Page. </td>
-        </tr>
-        <tr>
-            <td rowspan=2>c. Implement Password Retrieval</td> 
-            <td rowspan=2 align="center"></td> 
-            <td> 
-                a. Implemented Password Retrieval Module. <br/> 
-                b. TESTING LINE DELETE IT LATER 
-            </td> 
-        </tr> 
-        <tr> 
-            <td> b. Testing on the Login Page.</td> 
-        </tr> 
-        <tr> 
-            <td rowspan=1 align="center">2</td> 
-            <td rowspan=1></td> 
-            <td rowspan=1 align="center"></td> 
-            <td></td> 
-        </tr> 
-  </tbody> 
+    <tr> 
+        <td rowspan=6 align="center">1</td>
+        <td rowspan=2>a. Authentication (2FA) </td>
+        <td rowspan=2 align="center"></td>
+        <td>a. Successful implementation of 2FA middleware. </td>
+    </tr>
+    <tr>
+        <td>b. Testing 2FA Middleware. </td>
+    </tr>
+    <tr>
+        <td rowspan=2> b. Password Strength Checker </td>
+        <td rowspan=2 align="center"></td>
+        <td>a. Implemented Password Checker.</td>
+    </tr>
+    <tr>
+        <td>b. Testing on the Register Page. </td>
+    </tr>
+    <tr>
+        <td rowspan=2>c. Implement Password Retrieval</td> 
+        <td rowspan=2 align="center"></td> 
+        <td> 
+            a. Implemented Password Retrieval Module. <br/> 
+            b. TESTING LINE DELETE IT LATER 
+        </td> 
+    </tr> 
+    <tr> 
+        <td> b. Testing on the Login Page.</td> 
+    </tr> 
+    <tr> 
+        <td rowspan=1 align="center">2</td> 
+        <td rowspan=1></td> 
+        <td rowspan=1 align="center"></td> 
+        <td></td> 
+    </tr> 
 </table> 
 ---------------------------
 

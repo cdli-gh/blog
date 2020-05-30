@@ -10,7 +10,7 @@ commonmark:
   options: ["SMART", "FOOTNOTES"]
   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 
-author:
+  author:
   name: Sagar
   email: sagar.r16@iiits.in
 
