@@ -2,20 +2,20 @@
 layout: page
 title: search Eval#1 Week#1
 author: "Vedant"
-tags: ["draft","week","gsoc","gsoc2020","search","eval#1","week#1"]
+tags: ["week","gsoc","gsoc2020","search","eval#1","week#1"]
 ---
 Welcome of CDLI Blogs.
 
-Please update the author name and add tags too. 
+<!-- Please update the author name and add tags too. 
 
 This page should contain the report made for every week.
 
-Replace Project# with your project name.
+Replace Project# with your project name. -->
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
-
+<!-- A complete report of the work done during the week must be written here.  -->
+To be updated on 2020/06/07 .
 
 ## Daily Work Update
 

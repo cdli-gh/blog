@@ -99,15 +99,15 @@ Objectives are separated in two categories: essential and additional, they are a
         <!-- Week-1 -->
         <tr>
             <td rowspan=6 align="center"> 1 </td>
-            <td rowspan=2> a. Authentication (2FA) </td>
-            <td rowspan=2 align="center"></td>
+            <td rowspan=2> A. Authentication (2FA) </td>
+            <td rowspan=2 align="center"> :man_technologist: </td>
             <td> a. Successful implementation of 2FA middleware. </td>
         </tr>
         <tr>
             <td> b. Testing 2FA Middleware. </td>
         </tr>
         <tr>
-            <td rowspan=2> b. Password Strength Checker </td>
+            <td rowspan=2> B. Password Strength Checker </td>
             <td rowspan=2 align="center"></td>
             <td> a. Implemented Password Checker. </td>
         </tr>
@@ -115,33 +115,65 @@ Objectives are separated in two categories: essential and additional, they are a
             <td> b. Testing on the Register Page. </td>
         </tr>
         <tr>
-            <td rowspan=2> c. Implement Password Retrieval </td>
+            <td rowspan=2> C. Implement Password Retrieval </td>
             <td rowspan=2 align="center"></td>
             <td> a. Implemented Password Retrieval Module. </td>
         </tr>
         <tr>
             <td> b. Testing on the Login Page.</td>
         </tr>
-        <!-- Week-2 -->
+        <!-- Week-2 - 3 -->
         <tr>
-            <td rowspan=1 align="center"> 2 </td>
-            <td rowspan=1></td>
+            <td rowspan=6 align="center"> 2-3 </td>
+            <td rowspan=1>A. Access control page.</td>
             <td rowspan=1 align="center"></td>
-            <td></td>
+            <td>a. To view, add or remove the roles of users of the system.</td>
         </tr>
-        <!-- Week-3 -->
         <tr>
-            <td rowspan=1 align="center"> 3 </td>
-            <td rowspan=1></td>
+            <td rowspan=2>B. System setup for roles viz. Users, Editors and Granular Access.</td>
+            <td rowspan=2 align="center"></td>
+            <td>a. System should display contents based on roles as described in objectives.</td>
+        </tr>
+        <tr>
+            <td>b. Testing web pages in the system.</td>
+        </tr>
+        <tr>
+            <td rowspan=2>C. System setup for the Admin role.</td>
+            <td rowspan=2 align="center"></td>
+            <td>a. Admin should be able to access all pages.</td>
+        </tr>
+        <tr>
+            <td>b. Re-testing of web pages according to admin role.</td>
+        </tr>
+        <tr>
+            <td rowspan=1>D. Documenting Role based Access.</td>
             <td rowspan=1 align="center"></td>
-            <td></td>
+            <td>a. Documentation which developers should follow to add functionality to the framework based on roles.</td>
         </tr>
         <!-- Week-4 -->
         <tr>
-            <td rowspan=1 align="center"> 4 </td>
-            <td rowspan=1></td>
+            <td rowspan=5 align="center"> 4 </td>
+            <td rowspan=1>A. Triggers for inactive users.</td>
             <td rowspan=1 align="center"></td>
-            <td></td>
+            <td>a. For login activity older than 6 months, make account status inactive. </td>
+        </tr>
+        <tr>
+            <td rowspan=1>B. Create 2FA Google Authenticator Guide.</td>
+            <td rowspan=1 align="center"></td>
+            <td>a. Documented 2FA Google Authenticator. </td>
+        </tr>
+        <tr>
+            <td rowspan=1>C. Fix ‘/logout’ functionality.</td>
+            <td rowspan=1 align="center"></td>
+            <td>a. Restricting logout using GET request and accepting only POST request. </td>
+        </tr>
+        <tr>
+            <td rowspan=2>D. Documentation & Report for Phase-1.</td>
+            <td rowspan=2 align="center"></td>
+            <td>a. Phase-1: all implementation should be documented. </td>
+        </tr>
+        <tr>
+            <td>b. Report For Phase-1 evaluation.</td>
         </tr>
         <!-- Week-5 -->
         <tr>
