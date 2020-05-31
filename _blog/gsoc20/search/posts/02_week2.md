@@ -2,7 +2,7 @@
 layout: page
 title: search Eval#1 Week#2
 author: "Vedant"
-tags: ["week","gsoc","gsoc2020","search","eval#1","week#2"]
+tags: ["draft","week","gsoc","gsoc2020","search","eval#1","week#2"]
 ---
 Welcome of CDLI Blogs.
 
