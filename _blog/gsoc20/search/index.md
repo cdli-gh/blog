@@ -29,7 +29,7 @@ Objectives are separated in two categories: essential and additional, they are a
 |2   	| Authorization Setup (Role Based) | Successfully setup role based access. | [#84](https://gitlab.com/cdli/framework/-/issues/84) |    
 |3   	| Simple Search | Integrating Elastic Search for fast and accurate search results. | [#50](https://gitlab.com/cdli/framework/-/issues/50) |  
 |4   	| Advance Search Optimization | Optimized advanced search queries. | [#48](https://gitlab.com/cdli/framework/-/issues/48) |   
-|5   	| Search Result display | a. Expanded & Compact result.<br>b. Highlighted search results.<br>c. Search Filters. | []() |    
+|5   	| Search Result display | a. Expanded & Compact result.<br>b. Stats for Search Result.<br>c. Search Filters.<br>d. Search Setting Page. | [#238](https://gitlab.com/cdli/framework/-/issues/238) |    
 
 ##### Notes
 * Data download (backend) - Lars
