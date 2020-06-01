@@ -1,30 +1,24 @@
 ---
 layout: page
-title: api Eval#1 Week#1
+title: "API Week 1: Preparing non-PHP scripts"
 author: "Lars Willighagen"
-tags: ["draft","week","gsoc","gsoc2020","api","eval#1","week#1"]
+tags: ["week","gsoc","gsoc2020","api","eval#1","week#1"]
 ---
-Welcome of CDLI Blogs.
 
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
+Deliverable: Documentation on how to call external scripts from CakePHP.
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
 
 
 ## Daily Work Update
 
-|\#|Day|Date|A short description of the work done|  
-|---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+| \# | Day | Date       | A short description of the work done |
+|----|-----|------------|--------------------------------------|
+| 1  | Mon | 2020/06/01 | Finished PR about simple API ([!113](https://gitlab.com/cdli/framework/-/merge_requests/113)); started exploring how to call external scripts. |
+| 2  | Tue | 2020/06/02 |  |
+| 3  | Wed | 2020/06/03 |  |
+| 4  | Thu | 2020/06/04 |  |
+| 5  | Fri | 2020/06/05 |  |
+| 6  | Sat | 2020/06/06 |  |
+| 7  | Sun | 2020/06/07 |  |
