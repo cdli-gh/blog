@@ -22,7 +22,7 @@ A complete report of the work done during the week must be written here.
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2020/06/01	| Writing a code to extract CDLI-conll files from MTACC_GOLD Corpus|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
+|2   	| Tuesday  	|   2020/06/02	|   Extracted CDLI Sumerian data and written a code to preprocess monolingual sumerian text as comparable to conll tokenization 	|  
 |3   	| Wednesday  	|  2020/06/03 	|   	|  
 |4   	| Thursday  	|   2020/06/04	|   	|  
 |5   	| Friday  	|   2020/06/05	|   	|  
