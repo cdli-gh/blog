@@ -40,8 +40,7 @@ Objectives are separated in two categories: essential and additional, they are a
 | Week  |Objectives |Deliverables |  
 |---|---|---|  
 |1|Mobile app   |Start building the basic functionalities of the mobile app.   |  
-|2|Admin panel   |Build a web admin interface for entering and managing   
-| |              |data about the collection that will feed contents to the mobile app.   |  
+|2|Admin panel   |Build a web admin interface for entering and managing data about the collection that will feed contents to the mobile app.   |  
 |3|Admin panel   |Work continues.   |  
 |4|Connect to the API   |Connect to the API to fetch the information and make it available to the user in the   |
 | |                     |mobile app.   |  
