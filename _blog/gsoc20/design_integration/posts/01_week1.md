@@ -21,9 +21,9 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	| Added the sidebar for small screens and  updated Home page for all screens|  
+|1   	| Monday 	|   2020/06/01	| Added the sidebar for small screens and updated Home page for all screens|  
 |2   	| Tuesday  	|   2020/06/02	| Fine tune the styles of home and sidebar drawer. Added Implementation quicknotes for home page|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
+|3   	| Wednesday  	|  2020/06/03 	| Made a PR for work done before & Added markup on top section of search page |  
 |4   	| Thursday  	|   2020/06/04	|   	|  
 |5   	| Friday  	|   2020/06/05	|   	|  
 |6   	| Saturday  	|   2020/06/06	|   	|  
