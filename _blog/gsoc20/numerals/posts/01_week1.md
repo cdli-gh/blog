@@ -17,8 +17,8 @@ A complete report of the work done during the week must be written here.
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2020/06/01	| Refine numeral conversion (handle dates; add test cases from Edzard 2003) and commodity id (check coverage of existing rules, add JSON formatted output).  	|  
 |2   	| Tuesday  	|   2020/06/02	| Check how common known issues are: not common enough to focus on at this point. Meet with Max. Documentation and cleaning existing code. Update objective sheet and issues on github  	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
+|3   	| Wednesday  	|  2020/06/03 	| Make flask API to query commodify module. Coordinate with Rachit and Himanshu re. numeral conversion module.   	|  
+|4   	| Thursday  	|   2020/06/04	| Weekly meeting.  	|  
 |5   	| Friday  	|   2020/06/05	|   	|  
 |6   	| Saturday  	|   2020/06/06	|   	|  
 |7   	| Sunday  	|   2020/06/07	|   	|  
