@@ -23,7 +23,7 @@ To be updated on 2020/06/07 .
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2020/06/01	| a. Explored Auth and its configuration options. <br>b. Tried to enforce 2FA using AppController. |  
 |2   	| Tuesday  	|   2020/06/02	|  a. Continued to test enforcing 2FA using AppController. <br> b. Created basic Middleware layer to enforce 2FA.|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
+|3   	| Wednesday  	|  2020/06/03 	|  a. Restructuring TwoFactor Controller. |  
 |4   	| Thursday  	|   2020/06/04	|   	|  
 |5   	| Friday  	|   2020/06/05	|   	|  
 |6   	| Saturday  	|   2020/06/06	|   	|  

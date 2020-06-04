@@ -21,9 +21,9 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	| New design and interface for link artifacts through publications.  	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
+|1   	| Monday 	|   2020/06/01	| New design and interface for linking artifacts through publications.  	|  
+|2   	| Tuesday  	|   2020/06/02	| Completed link artifacts through publications with add, edit, delete functions.  	|  
+|3   	| Wednesday  	|  2020/06/03 	| Added additional add, edit, delete interface ('/admin/artifacts_publications') for linking any artifact to any publication.	|  
 |4   	| Thursday  	|   2020/06/04	|   	|  
 |5   	| Friday  	|   2020/06/05	|   	|  
 |6   	| Saturday  	|   2020/06/06	|   	|  
