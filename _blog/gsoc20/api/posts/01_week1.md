@@ -17,7 +17,7 @@ Deliverable: Documentation on how to call external scripts from CakePHP.
 |----|-----|------------|--------------------------------------|
 | 1  | Mon | 2020/06/01 | Finished PR about simple API ([!113](https://gitlab.com/cdli/framework/-/merge_requests/113)); started exploring how to call external scripts. |
 | 2  | Tue | 2020/06/02 |  |
-| 3  | Wed | 2020/06/03 |  |
+| 3  | Wed | 2020/06/03 | Some additional work on !113, opened issue for tool communication ([#242](https://gitlab.com/cdli/framework/-/issues/242)) |
 | 4  | Thu | 2020/06/04 |  |
 | 5  | Fri | 2020/06/05 |  |
 | 6  | Sat | 2020/06/06 |  |
