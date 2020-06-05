@@ -25,6 +25,6 @@ To be updated on 2020/06/07 .
 |2   	| Tuesday  	|   2020/06/02	|  a. Continued to test enforcing 2FA using AppController. <br> b. Created basic Middleware layer to enforce 2FA.|  
 |3   	| Wednesday  	|  2020/06/03 	|  a. Restructuring TwoFactor Controller. |  
 |4   	| Thursday  	|   2020/06/04	|  a. Login + Two Factor Completed <br> b. Register + Two Factor (WIP) 	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
+|5   	| Friday  	|   2020/06/05	|  a. Register + Two Factor (Restructured)	|  
 |6   	| Saturday  	|   2020/06/06	|   	|  
 |7   	| Sunday  	|   2020/06/07	|   	|  
