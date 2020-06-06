@@ -25,6 +25,6 @@ A complete report of the work done during the week must be written here.
 |2   	| Tuesday  	|   2020/06/02	|   Extracted CDLI Sumerian data and written a code to preprocess monolingual sumerian text as comparable to CDLI-conll tokenization 	|  
 |3   	| Wednesday  	|  2020/06/03 	|   prepared POS tagging dataset for training and uploaded all the relevent the dataset	on github|  
 |4   	| Thursday  	|   2020/06/04	|   Preparing rules for the POS tagging	systems to be used in CRF|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
+|5   	| Friday  	|   2020/06/05	|  Reading research papers and adding rules 	|  
+|6   	| Saturday  	|   2020/06/06	|   Using previous projects to analyse language and rules	|  
 |7   	| Sunday  	|   2020/06/07	|   	|  
