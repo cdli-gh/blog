@@ -20,5 +20,5 @@ Deliverable: Documentation on how to call external scripts from CakePHP.
 | 3  | Wed | 2020/06/03 | Some additional work on !113, opened issue for tool communication ([#242](https://gitlab.com/cdli/framework/-/issues/242)) |
 | 4  | Thu | 2020/06/04 | Weekly meeting |
 | 5  | Fri | 2020/06/05 | Set up a NodeJS docker container for testing |
-| 6  | Sat | 2020/06/06 |  |
+| 6  | Sat | 2020/06/06 | Created Citation.js server with artifact support ([branch](https://gitlab.com/cdli/framework/commits/phoenix/feature/nodejs-container)) |
 | 7  | Sun | 2020/06/07 |  |
