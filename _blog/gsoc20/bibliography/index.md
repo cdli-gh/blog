@@ -20,7 +20,7 @@ easily manageable by the admin, and also have a nice linked display.
 | | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
 | 1 ||  Manage publications, artifacts and authors | Creating add, edit and delete functions for the publications, artifacts and authors pages. | |
-| 2 |:white_check_mark:| Link publications | Feature for linking publications with artifacts and authors.   |          |
+| 2 |:heavy_check_mark: Link publications | Feature for linking publications with artifacts and authors.   |          |
 | 3 |  | Bulk upload publications      | Feature for bulk uploading publications to the database using CSV files.            |          |
 | 4 |  | BUlk link publications | Feature for bulk linking publications to artifacts and authors using CSV files. | |
 | 5 |  | Export citations              | Feature for bulk exporting citations realted to artifacts from the search results.  |          |
@@ -45,7 +45,7 @@ List of tasks which need to be co-ordinated with other developers:
 
 | Week  |Objectives | Deliverables |  
 |---|---|---|  
-|1| :heavy_check_mark: Implement linking of artifacts to the selected publication through the view page of the publication. <br> :heavy_check_mark: Implement linking of publications to the selected artifact through the view page of the artifact. <br> :white_check_mark: Implement linking of authors to the selected publication through the view page of the publication. <br> Implement linking of publications to the selected author through the view page of the author. <br> Creating add, edit and delete functions for publication data. | Feature for managing publications data. <br> Features for linking publications with artifacts and authors. |  
+|1| :heavy_check_mark: Implement linking of artifacts to the selected publication through the view page of the publication. <br> :heavy_check_mark: Implement linking of publications to the selected artifact through the view page of the artifact. <br> :heavy_check_mark: Implement linking of authors to the selected publication through the view page of the publication. <br> :heavy_check_mark: Implement linking of publications to the selected author through the view page of the author. <br> Creating add, edit and delete functions for publication data. | Feature for managing publications data. <br> :heavy_check_mark: Features for linking publications with artifacts and authors. |  
 |2| Creating add, edit and delete functions for artifacts data. <br> Fixing bugs in the view pages and, creating add, edit and delete functions for authors data. <br> Implement bulk upload of publications using CSV files. <br> Implement bulk linking of publications to artifacts using CSV file uploads.  | Feature for bulk upload of publications. <br> Features for bulk linking of publications and artifacts.  |  
 |3|  <!--  <br> Implement bulk linking of publications to authors using CSV files. <br> Document the completed features. <br> Implement merge publication feature. -->  |   |  
 |4| <!-- Add search integration for the merge publication feature. Document the completed features <br> (tentative) Finalize details for linking entities with bibliographies and start working on it. -->  |   |  
