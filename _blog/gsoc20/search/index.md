@@ -100,15 +100,15 @@ Objectives are separated in two categories: essential and additional, they are a
         <tr>
             <td rowspan=6 align="center"> 1 </td>
             <td rowspan=2> A. Authentication (2FA) </td>
-            <td rowspan=2 align="center"> :man_technologist: </td>
-            <td> a. Successful implementation of 2FA middleware. </td>
+            <td rowspan=2 align="center"> :heavy_check_mark: </td>
+            <td> a. Merged and restructured, 2FA-login and 2FA-Register Controller into single 2FA Controller. </td>
         </tr>
         <tr>
-            <td> b. Testing 2FA Middleware. </td>
+            <td> b. Testing 2FA Controller. </td>
         </tr>
         <tr>
             <td rowspan=2> B. Password Strength Checker </td>
-            <td rowspan=2 align="center"></td>
+            <td rowspan=2 align="center"> :man_technologist: </td>
             <td> a. Implemented Password Checker. </td>
         </tr>
         <tr>
