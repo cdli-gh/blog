@@ -27,4 +27,4 @@ To be updated on 2020/06/07 .
 |4   	| Thursday  	|   2020/06/04	|  a. Login + Two Factor Completed <br> b. Register + Two Factor (WIP) 	|  
 |5   	| Friday  	|   2020/06/05	|  a. Register + Two Factor (Restructured)	|  
 |6   	| Saturday  	|   2020/06/06	| a. Done with Objective-A of this week. PR [#115](https://gitlab.com/cdli/framework/-/merge_requests/115) under review. <br> b. Researched more about salt and hashes for passwords. <br> c. Started Implementation for Objective-B.	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|7   	| Sunday  	|   2020/06/07	| a. Implementation of bad password check.	<br> b. Researched Forget password functionality in CakePhp. <br> c. Started Implementation for Objective-C. |  
