@@ -20,4 +20,4 @@ A complete report of the work done during the week must be written here.
 |4   	| Thursday  	|   2020/06/04	| Completed link publications through artifacts page.  	|  
 |5   	| Friday  	|   2020/06/05	| Added additional list interface ('/admin/authors_publications') for viewing all links and linking any author to any publication. Completed link publications through authors page. 	|  
 |6   	| Saturday  	|   2020/06/06	| Completed link artifacts through publications page. Bug fixes for the all the linking authors and publications interfaces. Started work on adjusting all created pages according to the updated database structure. 	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|7   	| Sunday  	|   2020/06/07	| Completed conversion to modified database. Testing and fixing all features with clean data. |  

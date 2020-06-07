@@ -20,7 +20,7 @@ easily manageable by the admin, and also have a nice linked display.
 | | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
 | 1 ||  Manage publications, artifacts and authors | Creating add, edit and delete functions for the publications, artifacts and authors pages. | |
-| 2 |:heavy_check_mark: Link publications | Feature for linking publications with artifacts and authors.   |          |
+| 2 |:heavy_check_mark: | Link publications | Feature for linking publications with artifacts and authors.   |          |
 | 3 |  | Bulk upload publications      | Feature for bulk uploading publications to the database using CSV files.            |          |
 | 4 |  | BUlk link publications | Feature for bulk linking publications to artifacts and authors using CSV files. | |
 | 5 |  | Export citations              | Feature for bulk exporting citations realted to artifacts from the search results.  |          |
