@@ -4,24 +4,20 @@ title: numerals Eval#1 Week#2
 author: "Logan"
 tags: ["week","gsoc","gsoc2020","numerals","eval#1","week#2"]
 ---
-Welcome of CDLI Blogs.
-
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
+**Numerals**
+- hosted API at https://cdli-numerals.herokuapp.com/{convert,canparse}
 
+**Commodity ID**
+- hosted API at https://cdli-numerals.herokuapp.com/{commodify}
 
 ## Daily Work Update
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
+|1   	| Monday 	|   2020/06/01	| Setup APIs online for access by other groups. Endpoint at `https://cdli-numerals.herokuapp.com/`. Added API documentation.   	|  
 |2   	| Tuesday  	|   2020/06/02	|   	|  
 |3   	| Wednesday  	|  2020/06/03 	|   	|  
 |4   	| Thursday  	|   2020/06/04	|   	|  
