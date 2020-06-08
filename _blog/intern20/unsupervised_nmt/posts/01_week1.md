@@ -27,4 +27,4 @@ A complete report of the work done during the week must be written here.
 |4   	| Thursday  	|   2020/06/04	|  Aligned and prepared data according to FairSeq and OpenNMT 	|  
 |5   	| Friday  	|   2020/06/05	|  Cleaned and prepared newly obtained ((non-)administrative) data, analysed supervised techniques 	|  
 |6   	| Saturday  	|   2020/06/06	|  Completed model pipeline shell scripts and set up GPU server 	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|7   	| Sunday  	|   2020/06/07	|  Prepared and Finalised Benchmark Dataset 	|  
