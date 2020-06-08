@@ -26,5 +26,5 @@ A complete report of the work done during the week must be written here.
 |3   	| Wednesday  	|  2020/06/03 	|Displayed data in a grid list. Implemented photo_view plugin for zoomable image widget.    	|  
 |4   	| Thursday  	|   2020/06/04	|Fixed minor issues.    	|  
 |5   	| Friday  	|   2020/06/05	|Implemented share plugin method. Worked with parsing HTML in Dart and date format. Updated font family.   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|6   	| Saturday  	|   2020/06/06	|-   	|  
+|7   	| Sunday  	|   2020/06/07	|-   	|  
