@@ -2,7 +2,7 @@
 layout: page
 title: search Eval#1 Week#2
 author: "Vedant"
-tags: ["draft","week","gsoc","gsoc2020","search","eval#1","week#2"]
+tags: ["week","gsoc","gsoc2020","search","eval#1","week#2"]
 ---
 Welcome of CDLI Blogs.
 
@@ -21,7 +21,7 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
+|1   	| Monday 	|   2020/06/01	|  a. Done with Bad Password Check. <br> b. WIP: Password Retrieval.	|  
 |2   	| Tuesday  	|   2020/06/02	|   	|  
 |3   	| Wednesday  	|  2020/06/03 	|   	|  
 |4   	| Thursday  	|   2020/06/04	|   	|  
