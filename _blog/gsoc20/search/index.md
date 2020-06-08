@@ -108,15 +108,15 @@ Objectives are separated in two categories: essential and additional, they are a
         </tr>
         <tr>
             <td rowspan=2> B. Password Strength Checker </td>
-            <td rowspan=2 align="center"> :man_technologist: </td>
-            <td> a. Implemented Password Checker. </td>
+            <td rowspan=2 align="center"> :heavy_check_mark: </td>
+            <td> a. Implemented Bad Password Checker. </td>
         </tr>
         <tr>
             <td> b. Testing on the Register Page. </td>
         </tr>
         <tr>
             <td rowspan=2> C. Implement Password Retrieval </td>
-            <td rowspan=2 align="center"></td>
+            <td rowspan=2 align="center"> :man_technologist: </td>
             <td> a. Implemented Password Retrieval Module. </td>
         </tr>
         <tr>
