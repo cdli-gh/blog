@@ -21,9 +21,9 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	| writing code for CRF model for POS taggs  	|  
-|2   	| Tuesday  	|   2020/06/02	|   Coding the features to be used for training	|  
-|3   	| Wednesday  	|  2020/06/03 	|  Build and pushed the Condition random field model for POS	tagging|  
+|1   	| Monday 	|   2020/06/01	| writing the code for CRF model for POS tagging  |  
+|2   	| Tuesday  	|   2020/06/02	|   writing the code for the CRF model for POS tagging	|  
+|3   	| Wednesday  	|  2020/06/03 	|  Coding the features to be used for training |  
 |4   	| Thursday  	|   2020/06/04	|   	|  
 |5   	| Friday  	|   2020/06/05	|   	|  
 |6   	| Saturday  	|   2020/06/06	|   	|  
