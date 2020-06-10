@@ -2,7 +2,7 @@
 layout: page
 title: "API Week 1: Preparing non-PHP scripts"
 author: "Lars Willighagen"
-tags: ["gsoc","gsoc2020","api","eval#1","week#1"]
+tags: ["week","gsoc","gsoc2020","api","eval#1","week#1"]
 ---
 
 Deliverable: Documentation on how to call external scripts from CakePHP.
