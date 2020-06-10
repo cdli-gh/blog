@@ -22,7 +22,7 @@ A complete report of the work done during the week must be written here.
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2020/06/01	| Improvements for last week's features. Worked on publications data, add, edit, delete pages (Need testing and related data view). |  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
+|2   	| Tuesday  	|   2020/06/02	| Further changes to the link features. Adding handling for editors_publications data.  	|  
 |3   	| Wednesday  	|  2020/06/03 	|   	|  
 |4   	| Thursday  	|   2020/06/04	|   	|  
 |5   	| Friday  	|   2020/06/05	|   	|  
