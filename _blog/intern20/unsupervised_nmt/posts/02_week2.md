@@ -23,7 +23,7 @@ A complete report of the work done during the week must be written here.
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2020/06/01	|  Prepared Transformer script using OpenNMT 	|  
 |2   	| Tuesday  	|   2020/06/02	|  Trained the Transformer model and evaluated results (after majorly updating datasets) 	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
+|3   	| Wednesday  	|  2020/06/03 	|  Training on all 4 types of datasets done 	|  
 |4   	| Thursday  	|   2020/06/04	|   	|  
 |5   	| Friday  	|   2020/06/05	|   	|  
 |6   	| Saturday  	|   2020/06/06	|   	|  
