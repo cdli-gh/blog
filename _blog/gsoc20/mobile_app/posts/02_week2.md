@@ -22,8 +22,8 @@ A complete report of the work done during the week must be written here.
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2020/06/08	|Mobile UI update based on orientation. Displayed data in a sorted list view.   	|  
-|2   	| Tuesday  	|   2020/06/09	|   	|  
-|3   	| Wednesday  	|  2020/06/10 	|   	|  
+|2   	| Tuesday  	|   2020/06/09	|-   	|  
+|3   	| Wednesday  	|  2020/06/10 	|iOS platform adaptions using Cupertino widgets.   	|  
 |4   	| Thursday  	|   2020/06/11	|   	|  
 |5   	| Friday  	|   2020/06/12	|   	|  
 |6   	| Saturday  	|   2020/06/13	|   	|  
