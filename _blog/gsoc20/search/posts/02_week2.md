@@ -22,8 +22,8 @@ A complete report of the work done during the week must be written here.
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2020/06/01	|  a. Done with Bad Password Check. <br> b. WIP: Password Retrieval.	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
+|2   	| Tuesday  	|   2020/06/02	| a. WIP: Password Retrieval |  
+|3   	| Wednesday  	|  2020/06/03 	| a. Password retrieval almost done. (Except the email functionality). <br> b. Configuring Email Settings for forgot Password.	|  
 |4   	| Thursday  	|   2020/06/04	|   	|  
 |5   	| Friday  	|   2020/06/05	|   	|  
 |6   	| Saturday  	|   2020/06/06	|   	|  
