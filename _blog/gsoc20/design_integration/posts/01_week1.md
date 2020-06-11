@@ -26,5 +26,5 @@ A complete report of the work done during the week must be written here.
 |3   	| Wednesday  	|  2020/06/03 	| Made a PR for work done before & Added markup on top section of search page |  
 |4   	| Thursday  	|   2020/06/04	| Updated Search bar, Onclick add search cateogry, pagination controls and a no JS modal   	|  
 |5   	| Friday  	|   2020/06/05	| Reverted to BS4 modal due to poor UX, Resolved thread on previous PR|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
+|6   	| Saturday  	|   2020/06/06	| Worked on issues regarding PR  	|  
 |7   	| Sunday  	|   2020/06/07	|   	|  
