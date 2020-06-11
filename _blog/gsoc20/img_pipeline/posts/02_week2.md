@@ -21,10 +21,10 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|1   	| Monday 	|   2020/06/08	| Redis based task queue |  
+|2   	| Tuesday  	|   2020/06/09	| php extension for task queue |  
+|3   	| Wednesday  	|  2020/06/10 	| Rewriting predis |  
+|4   	| Thursday  	|   2020/06/11	|   Rewriting predis |  
+|5   	| Friday  	|   2020/06/12	|  Rewriting Datasource for redis |  
+|6   	| Saturday  	|   2020/06/13	|   	|  
+|7   	| Sunday  	|   2020/06/14	|   	|  
