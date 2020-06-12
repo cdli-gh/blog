@@ -116,7 +116,7 @@ Objectives are separated in two categories: essential and additional, they are a
         </tr>
         <tr>
             <td rowspan=2> C. Implement Password Retrieval </td>
-            <td rowspan=2 align="center"> :man_technologist: </td>
+            <td rowspan=2 align="center"> :heavy_check_mark: </td>
             <td> a. Implemented Password Retrieval Module. </td>
         </tr>
         <tr>
