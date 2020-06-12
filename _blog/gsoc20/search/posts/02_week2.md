@@ -21,10 +21,10 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|  a. Done with Bad Password Check. <br> b. WIP: Password Retrieval.	|  
-|2   	| Tuesday  	|   2020/06/02	| a. WIP: Password Retrieval |  
-|3   	| Wednesday  	|  2020/06/03 	| a. Password retrieval almost done. (Except the email functionality). <br> b. Configuring Email Settings for forgot Password.	|  
-|4   	| Thursday  	|   2020/06/04	|  a. Integrating 2FA verification before creating new password from reset link. 	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|1   	| Monday 	|   2020/06/08	|  a. Done with Bad Password Check. <br> b. WIP: Password Retrieval.	|  
+|2   	| Tuesday  	|   2020/06/09	| a. WIP: Password Retrieval |  
+|3   	| Wednesday  	|  2020/06/10 	| a. Password retrieval almost done. (Except the email functionality). <br> b. Configuring Email Settings for forgot Password.	|  
+|4   	| Thursday  	|   2020/06/11	|  a. Integrating 2FA verification before creating new password from reset link. 	|  
+|5   	| Friday  	|   2020/06/12	|  a. Done with Password retrieval with 2FA verification. (except sending email) PR [!119](https://gitlab.com/cdli/framework/-/merge_requests/119) <br> b. Updating Authentication with new DB structure.	|  
+|6   	| Saturday  	|   2020/06/13	|   	|  
+|7   	| Sunday  	|   2020/06/14	|   	|  
