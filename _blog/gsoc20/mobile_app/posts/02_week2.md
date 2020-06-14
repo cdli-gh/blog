@@ -26,5 +26,5 @@ A complete report of the work done during the week must be written here.
 |3   	| Wednesday  	|  2020/06/10 	|iOS platform adaptions using Cupertino widgets.   	|  
 |4   	| Thursday  	|   2020/06/11	|-   	|  
 |5   	| Friday  	|   2020/06/12	|Added flutter_platform_widget package for platform aware widgets.   	|  
-|6   	| Saturday  	|   2020/06/13	|   	|  
-|7   	| Sunday  	|   2020/06/14	|   	|  
+|6   	| Saturday  	|   2020/06/13	|User feedback form.   	|  
+|7   	| Sunday  	|   2020/06/14	|Search bar implementation using flappy_search_bar package.   	|  
