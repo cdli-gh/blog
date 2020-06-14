@@ -126,7 +126,7 @@ Objectives are separated in two categories: essential and additional, they are a
         <tr>
             <td rowspan=6 align="center"> 2-3 </td>
             <td rowspan=1>A. Access control page.</td>
-            <td rowspan=1 align="center"></td>
+            <td rowspan=1 align="center"> :man_technologist: </td>
             <td>a. To view, add or remove the roles of users of the system.</td>
         </tr>
         <tr>
