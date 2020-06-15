@@ -26,5 +26,5 @@ A complete report of the work done during the week must be written here.
 |3   	| Wednesday  	|  2020/06/03 	|  Training on all 4 types of datasets done 	|  
 |4   	| Thursday  	|   2020/06/04	|  Made slight modifications to data and completed training	|  
 |5   	| Friday  	|   2020/06/05	|  Evaluation an analysis of the results 	|  
-|6   	| Saturday  	|   2020/06/06	|  Further evaluations 	|  
+|6   	| Saturday  	|   2020/06/06	|  Further evaluations and BLEU script	|  
 |7   	| Sunday  	|   2020/06/07	|  Updated documentation and modified shell scripts for arguments 	|  
