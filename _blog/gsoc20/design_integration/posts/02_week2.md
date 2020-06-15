@@ -27,4 +27,4 @@ A complete report of the work done during the week must be written here.
 |4   	| Thursday  	|   2020/06/04	| Worked on issues #50 , #51 and #238(partially)   	|  
 |5   	| Friday  	|   2020/06/05	|   	|  
 |6   	| Saturday  	|   2020/06/06	| Updated user profile page and made a PR to add toggle switches inside it   	|  
-|7   	| Sunday  	|   2020/06/07	| Fixed uneven images size on home page   	|  
+|7   	| Sunday  	|   2020/06/07	| Fixed uneven images size on home page opened a WIP Merge request for search results page 	|  
