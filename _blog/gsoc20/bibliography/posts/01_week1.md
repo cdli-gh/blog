@@ -7,8 +7,10 @@ tags: ["week","gsoc","gsoc2020","bibliography","eval#1","week#1"]
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
-
+ 
+Started with working on all the link features for relationships between artifacts, publications and authors data. Completed all the different features required and opened a merge request [!116](https://gitlab.com/cdli/framework/-/merge_requests/116) for the work. 
+<br>
+At the end of the week, most of the work has been completed although the pages for managing publications data is left. Next week I'll be covering this as well as the next week's work along with getting this week's work merged by making the suggested changes.
 
 ## Daily Work Update
 

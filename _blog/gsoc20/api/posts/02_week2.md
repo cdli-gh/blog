@@ -9,6 +9,20 @@ Deliverable: Functional internal Bibliography API
 
 ## Week Summary
 
+This week I had more discussions on how to call external scripts. Work is being
+done on a Redis system which may apply. However, for now I went with a temporary
+but functional solution. Additionally, I made routes to resolve P-, Q- and
+S-numbers, corresponding to CDLI artifacts, composites and seal numbers respectively.
+
+Regarding this weeks deliverable, the internal Bibliography API is functional now,
+for both artifacts and publications.
+
+Next week, I will be working on making a public version of the API, write documentation
+on how to use the `ScriptsHelper` for APIs, and update BibTeX support.
+
+The deliverable of the week after (W4) is actually already finished in the new
+database schema. This is good news because I have exams that week.
+
 ## Daily Work Update
 
 | # | Day | Date       | A short description of the work done |
@@ -16,7 +30,7 @@ Deliverable: Functional internal Bibliography API
 | 1 | Mon | 2020/06/01 |  |
 | 2 | Tue | 2020/06/02 |  |
 | 3 | Wed | 2020/06/03 | Mentor meeting: planning this and next week |
-| 4 | Thu | 2020/06/04 |  |
+| 4 | Thu | 2020/06/04 | Demonstrate link between CakePHP and Citation.js |
 | 5 | Fri | 2020/06/05 |  |
-| 6 | Sat | 2020/06/06 |  |
-| 7 | Sun | 2020/06/07 |  |
+| 6 | Sat | 2020/06/06 | Reviewing merge requests |
+| 7 | Sun | 2020/06/07 | Make routes for resolving IDs; add reference formatting for publications |
