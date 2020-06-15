@@ -21,10 +21,10 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|1   	| Monday 	|   2020/06/15	|Fixed the list view of the artifacts in alphabetical order.   	|  
+|2   	| Tuesday  	|   2020/06/16	|   	|  
+|3   	| Wednesday  	|  2020/06/17 	|   	|  
+|4   	| Thursday  	|   2020/06/18	|   	|  
+|5   	| Friday  	|   2020/06/19	|   	|  
+|6   	| Saturday  	|   2020/06/20	|   	|  
+|7   	| Sunday  	|   2020/06/21	|   	|  
