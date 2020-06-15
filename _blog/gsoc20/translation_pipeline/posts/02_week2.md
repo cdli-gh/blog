@@ -25,6 +25,6 @@ A complete report of the work done during the week must be written here.
 |2   	| Tuesday  	|   2020/06/02	|   writing the code for the CRF model for POS tagging	|  
 |3   	| Wednesday  	|  2020/06/03 	|  Coding the features to be used for training |  
 |4   	| Thursday  	|   2020/06/04	|   Finalizing code along with features	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|5   	| Friday  	|   2020/06/05	|  writing code for testing and predicting using CRFs |  
+|6   	| Saturday  	|   2020/06/06	|  Working on Hidden Markov Model 	|  
+|7   	| Sunday  	|   2020/06/07	|  Writing code for HMMs 	|  
