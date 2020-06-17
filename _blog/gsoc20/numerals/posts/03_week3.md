@@ -4,24 +4,15 @@ title: numerals Eval#1 Week#3
 author: "Logan"
 tags: ["week","gsoc","gsoc2020","numerals","eval#1","week#3"]
 ---
-Welcome of CDLI Blogs.
-
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
 
 ## Week Summary
-
-A complete report of the work done during the week must be written here. 
 
 
 ## Daily Work Update
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
+|1   	| Monday 	|   2020/06/01	| Finish checking wordnet performance: commodity code now covers 400 common terms (26454 total tokens). Testing suggests a need to refactor to jointly classify all words in an entry, rather than iteratively classifying one at a time.   	|  
 |2   	| Tuesday  	|   2020/06/02	|   	|  
 |3   	| Wednesday  	|  2020/06/03 	|   	|  
 |4   	| Thursday  	|   2020/06/04	|   	|  

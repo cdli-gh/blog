@@ -21,10 +21,10 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|1   	| Monday 	|   2020/06/01	| PHP image libraries. |  
+|2   	| Tuesday  	|   2020/06/02	| Building and compiling imagick |  
+|3   	| Wednesday  	|  2020/06/03 	| Morphology with imagick |  
+|4   	| Thursday  	|   2020/06/04	| Ways to deploy imagik |  
+|5   	| Friday  	|   2020/06/05	| Task Queue |  
+|6   	| Saturday  	|   2020/06/06	| Ways to deploy Task Queue with php |  
+|7   	| Sunday  	|   2020/06/07	| Redis  |  
