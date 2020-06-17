@@ -24,7 +24,7 @@ A complete report of the work done during the week must be written here.
 |1   	| Monday 	|   2020/06/01	| Improvements for last week's features. Worked on publications data, add, edit, delete pages (Need testing and related data view). |  
 |2   	| Tuesday  	|   2020/06/02	| Further changes to the link features. Adding handling for editors_publications data.  	|  
 |3   	| Wednesday  	|  2020/06/03 	| Worked on authors data, add, edit, delete functions (Need testing and related data view).  	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|4   	| Thursday  	|   2020/06/04	| Stuck at data validation for authors_pubications data. (Not able to figure out the bugs)	|  
+|5   	| Friday  	|   2020/06/05	| Solved bugs for data validation for authors_publications data. Also added data validation to editors_publications.  	|  
+|6   	| Saturday  	|   2020/06/06	| Split PR 116 into smaller PRs for easier error tracking.  	|  
+|7   	| Sunday  	|   2020/06/07	| Fully finished authors data pages with data validation and new database structure.  	|  
