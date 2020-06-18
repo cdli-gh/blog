@@ -26,5 +26,5 @@ A complete report of the work done during the week must be written here.
 |3   	| Wednesday  	|  2020/06/10 	| Rewriting predis |  
 |4   	| Thursday  	|   2020/06/11	|   Rewriting predis |  
 |5   	| Friday  	|   2020/06/12	|  Rewriting Datasource for redis |  
-|6   	| Saturday  	|   2020/06/13	|   	|  
-|7   	| Sunday  	|   2020/06/14	|   	|  
+|6   	| Saturday  	|   2020/06/13	| Upload component |  
+|7   	| Sunday  	|   2020/06/14	| Upload Service |  
