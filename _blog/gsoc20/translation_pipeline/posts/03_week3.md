@@ -22,9 +22,9 @@ A complete report of the work done during the week must be written here.
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2020/06/01	|  writing code for prediction using HMMs, deployed 2nd model of POS 	|  
-|2   	| Tuesday  	|   2020/06/02	|  Working on Text augmentation to increase the dataset 	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
+|2   	| Tuesday  	|   2020/06/02	|  Training Word2vec embeddings for Sumerian Language	|  
+|3   	| Wednesday  	|  2020/06/03 	|  Training Fasttext embeddings for Sumerian Language 	|  
+|4   	| Thursday  	|   2020/06/04	|   Working on Text augmentation to increase the dataset 	|  
 |5   	| Friday  	|   2020/06/05	|   	|  
 |6   	| Saturday  	|   2020/06/06	|   	|  
 |7   	| Sunday  	|   2020/06/07	|   	|  
