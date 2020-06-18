@@ -4,17 +4,12 @@ title: bibliography Eval#1 Week#2
 author: "Ajit"
 tags: ["week","gsoc","gsoc2020","bibliography","eval#1","week#2"]
 ---
-Welcome of CDLI Blogs.
 
-Please update the author name and add tags too. 
 
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
+Started the week with making the suggested changes to link features. Also, improved data validation was added and the features were merged. Apart form this, an additional set of features for linking editors and publications were added. Also, authors data management pages with both admin and public view were completed.
 
 
 ## Daily Work Update
@@ -27,4 +22,4 @@ A complete report of the work done during the week must be written here.
 |4   	| Thursday  	|   2020/06/04	| Stuck at data validation for authors_pubications data. (Not able to figure out the bugs)	|  
 |5   	| Friday  	|   2020/06/05	| Solved bugs for data validation for authors_publications data. Also added data validation to editors_publications.  	|  
 |6   	| Saturday  	|   2020/06/06	| Split PR 116 into smaller PRs for easier error tracking.  	|  
-|7   	| Sunday  	|   2020/06/07	| Fully finished authors data pages with data validation and new database structure.  	|  
+|7   	| Sunday  	|   2020/06/07	| Fully finished authors data pages with data validation and new database structure. |  
