@@ -27,10 +27,10 @@ database schema. This is good news because I have exams that week.
 
 | # | Day | Date       | A short description of the work done |
 |---|-----|------------|--------------------------------------|
-| 1 | Mon | 2020/06/01 |  |
-| 2 | Tue | 2020/06/02 |  |
-| 3 | Wed | 2020/06/03 | Mentor meeting: planning this and next week |
-| 4 | Thu | 2020/06/04 | Demonstrate link between CakePHP and Citation.js |
-| 5 | Fri | 2020/06/05 |  |
-| 6 | Sat | 2020/06/06 | Reviewing merge requests |
-| 7 | Sun | 2020/06/07 | Make routes for resolving IDs; add reference formatting for publications |
+| 1 | Mon | 2020/06/08 |  |
+| 2 | Tue | 2020/06/09 |  |
+| 3 | Wed | 2020/06/10 | Mentor meeting: planning this and next week |
+| 4 | Thu | 2020/06/11 | Demonstrate link between CakePHP and Citation.js |
+| 5 | Fri | 2020/06/12 |  |
+| 6 | Sat | 2020/06/13 | Reviewing merge requests |
+| 7 | Sun | 2020/06/14 | Make routes for resolving IDs; add reference formatting for publications |
