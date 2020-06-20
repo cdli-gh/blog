@@ -25,6 +25,6 @@ A complete report of the work done during the week must be written here.
 |2   	| Tuesday  	|   2020/06/02	|  Training Word2vec embeddings for Sumerian Language	|  
 |3   	| Wednesday  	|  2020/06/03 	|  Training Fasttext embeddings for Sumerian Language 	|  
 |4   	| Thursday  	|   2020/06/04	|   Working on Text augmentation to increase the dataset 	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|5   	| Friday  	|   2020/06/05	|  Working on Text Augmentation to increase the dataset 	|  
+|6   	| Saturday  	|   2020/06/06	| Training previous models on Augmented Texts 	|  
+|7   	| Sunday  	|   2020/06/07	|  Preparing dataset for deep leaning models 	|  
