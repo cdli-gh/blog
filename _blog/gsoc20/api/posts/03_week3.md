@@ -20,5 +20,5 @@ Deliverable: Functional Component and REST API
 | 3 | Wed | 2020/06/17 |  |
 | 4 | Thu | 2020/06/18 | Updating CakePHP Docker to use cURL |
 | 5 | Fri | 2020/06/19 | Reviewing merge requests |
-| 6 | Sat | 2020/06/20 |  |
+| 6 | Sat | 2020/06/20 | Making functional Bibliography REST API |
 | 7 | Sun | 2020/06/21 |  |
