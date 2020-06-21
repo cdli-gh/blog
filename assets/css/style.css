@@ -1388,7 +1388,7 @@ code {
   font-weight: bold;
 } /* Literal.Number.Integer.Long */
 .rcorner {
-  border-radius: 5vw;
+  border-radius: 1vw;
   background: #1762ab;
   padding: 0.5rem; 
   margin-right: 0.5rem;
@@ -1396,6 +1396,6 @@ code {
   color: white;
   padding: auto 1rem;
   text-decoration: none;
-  font-weight: bold;
+  /* font-weight: bold; */
   display: inline-block;
 } 
