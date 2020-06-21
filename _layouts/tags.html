@@ -15,7 +15,7 @@
   <main>
     {% assign tags =  site.blog | map: 'tags' | join: ','  | split: ',' | uniq %}
     {% for tag in tags %}
-      <h3>{{tag}}</h3><br/>
+      <h3>#{{tag}}</h3><br/>
       {% for page in site.blog %}
         {% if page.tags contains tag %}
           <a href="{{ site.baseurl }}{{ page.url }}" style="text-decoration:none;">
@@ -26,6 +26,11 @@
               <p class="a-author">
                 {{ page.url | realtive_url}}
               </p>
+              {% for i in page.tags %}
+                <div class="rcorner">
+                  {{i}}
+                </div>
+              {% endfor %}
             </div>
           </a> 
         {% endif %}

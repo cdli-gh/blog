@@ -114,6 +114,7 @@ main {
 .a-author {
   color: grey;
   font-weight: bold;
+  word-wrap: break-word;
 }
 
 .article:hover {
@@ -1386,3 +1387,15 @@ code {
   color: #0086f7;
   font-weight: bold;
 } /* Literal.Number.Integer.Long */
+.rcorner {
+  border-radius: 5vw;
+  background: #1762ab;
+  padding: 0.5rem; 
+  margin-right: 0.5rem;
+  margin-top: 1%;
+  color: white;
+  padding: auto 1rem;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+} 
