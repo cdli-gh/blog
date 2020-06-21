@@ -12,9 +12,26 @@
     </p>
   </section>
 
-  <!-- <div class="content markdown-body"> -->
-    {{content}}
-  <!-- </div> -->
+  <main>
+    {% assign tags =  site.blog | map: 'tags' | join: ','  | split: ',' | uniq %}
+    {% for tag in tags %}
+      <h3>{{tag}}</h3><br/>
+      {% for page in site.blog %}
+        {% if page.tags contains tag %}
+          <a href="{{ site.baseurl }}{{ page.url }}" style="text-decoration:none;">
+            <div class="article">
+              <p class="a-title">
+                {{ page.title }}
+              </p>
+              <p class="a-author">
+                {{ page.url | realtive_url}}
+              </p>
+            </div>
+          </a> 
+        {% endif %}
+      {% endfor %}  
+    {% endfor %}
+  </main>
 
   {% include footer.html %}
 </body>

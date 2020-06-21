@@ -10,9 +10,9 @@ commonmark:
   options: ["SMART", "FOOTNOTES"]
   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 
-  author:
-  name: Sagar
-  email: sagar.r16@iiits.in
+author:
+name: Sagar
+email: sagar.r16@iiits.in
 
 plugins:
   - jekyll-paginate
