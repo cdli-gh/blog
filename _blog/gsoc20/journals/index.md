@@ -51,13 +51,14 @@ Objectives are separated in two categories: essential and additional, they are a
 
 | Week | Objectives                            | Deliverables                                                                                           |
 | ---- | ------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| 1    | Convert articles at editor Dashboard. | Implementation of CKEditor and latex pdf to HTML converters.                                           |
-| 2    | Convert articles at editor Dashboard. | Finishing the latex pdf to HTML conversion for journals.                                               |
-| 3    | Upload article attributes to database | CRUD Operations for article attributes and different types of journals.                                |
-| 4    | Upload article content to database    | Controllers to manage authors and article content/HTML to the database                                 |
-| 5    | Testing                               | Testing Implementations of Milestone 1 i.e Week 1 to week 4.                                                                |
-| 6    | Display varioues types of articles    | Make Different pages for different types of articles.                                                  |
-| 7    | Migration of article                  | Migrate old CDLI articles to new schema and display                                                    |
+| 1    | Upload article attributes to database | CRUD Operations for article attributes and different types of journals.                                |
+| 2    | Upload article content to database    | Controllers to manage authors and article content/HTML to the database 
+Implementation of CKEditor & MathJax |
+| 3    | Display varioues types of articles    | Make Different pages for different types of articles.                                                  |
+| 4    | Migration of article                  | Migrate old CDLI articles to new schema and display                                                    |
+| 5    | Testing                               | Testing Implementations of Milestone 1 i.e Week 1 to week 4                                                                |
+| 6    | Convert articles at editor Dashboard. | Build latex tex to HTML converters.                                           |
+| 7    | Convert articles at editor Dashboard. | Finishing the latex tex to HTML conversion for journals.                                               |
 | 8    | Display of article content            | Display of HTML Content of the journal (Individually)                                                  |
 | 9    | Testing                               | Testing Implementations of Milestone 2 i.e Week 6 to week 8.                                                                |
 | 10   | Integration Testing                   | Testing the data variation to the database with article content and integration with other modules.    |
