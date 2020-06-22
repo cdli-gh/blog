@@ -35,8 +35,8 @@ Objectives are separated in two categories: essential and additional, they are a
 | \#  | Objectives         | Associated Deliverables                                                         | issue(s) |
 | --- | ------------------ | ------------------------------------------------------------------------------- | -------- |
 | 1   | Article CRUD     | Feature for editors to CRUD different types of articles.                      |  <a target="_blank" href='https://gitlab.com/cdli/framework/-/issues/265'>#265</a>        |
-| 2   | Article Conversion | Backend to convert the editor's uploaded article to CDLI Standards for display. |          |
-| 3   | Article Display    | Display all the articles at their respective pages and indiviual view for each article.|          |
+| 2   | Article Conversion | Backend to convert the editor's uploaded article to CDLI Standards for display. |   <a target="_blank" href='https://gitlab.com/cdli/framework/-/issues/267'>#267</a>       |
+| 3   | Article Display    | Display all the articles at their respective pages and indiviual view for each article.|   <a target="_blank" href='https://gitlab.com/cdli/framework/-/issues/266'>#266</a>       |
 | 4   | Schema Migration   | Make necessary changes to the schema for journals dashboard.                    |          |
 | 5   | Article Migration  | Move old & archived articles to the new architecture.                           |          |
 | 6   | Testing            | Implement necessary testing for the project and sync with CI/CD.                |          |
