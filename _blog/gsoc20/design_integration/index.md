@@ -33,8 +33,8 @@ Objectives are separated in two categories: essential and additional, they are a
 |---|---|---|  
 |1|Home and sidebar | Construct the sidebar, work on homepage and update components of search result page such as search box and pagination controls  |  
 |2|Search page  | Complete remainder of the search i.e. search results, tablet view, card view etc  |  
-|3|   |   |  
-|4|   |   |  
+|3|Enhance UI/UX | Restructure or build components inside the cdli framework to improve UI/UX    |  
+|4|Accessibility enhancement   | Add WCAG-A accessibility enhancement onto frequently visited pages inside framework  |  
 |5|   |   |  
 |6|   |   |  
 |7|   |   |  

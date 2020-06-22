@@ -21,10 +21,10 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|1   	| Monday 	|   2020/06/15	|   	|  
+|2   	| Tuesday  	|   2020/06/16	| Opened a new issue for UI/UX fixes  	|  
+|3   	| Wednesday  	|  2020/06/17 	| Patch for variable sized table on user's profile page, solved threads on PR 130  	|  
+|4   	| Thursday  	|   2020/06/18	| Opened a new PR to enhance general UX for the framework  	|  
+|5   	| Friday  	|   2020/06/19	| Fixed issues for table view,container margin for UX-boost PR  	|  
+|6   	| Saturday  	|   2020/06/20	| Found/resolved issue5 and issue6 for the UX-boost PR |  
+|7   	| Sunday  	|   2020/06/21	|   	|  

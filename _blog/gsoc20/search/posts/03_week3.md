@@ -27,4 +27,4 @@ A complete report of the work done during the week must be written here.
 |4   	| Thursday  	|   2020/06/18	|  a. WIP : Access setup for Normal User. 	|  
 |5   	| Friday  	|   2020/06/19	|  a. WIP : Access setup for Normal User. 	|  
 |6   	| Saturday  	|   2020/06/20	|  a. WIP : Access setup for Normal User, Editors and Granular access. <br>	b. Demo Page `/sampleRoles`, to guide others on how to set up roles. |  
-|7   	| Sunday  	|   2020/06/21	|   	|  
+|7   	| Sunday  	|   2020/06/21	| a. WIP : Access setup for Normal User, Editors and Granular access. <br>	b. Demo Page to set up roles completed. [PR !137](https://gitlab.com/cdli/framework/-/merge_requests/137)|  

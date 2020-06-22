@@ -15,10 +15,10 @@ Next week I'll try my best to write and update my blog on a daily basis, with no
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	| Finish reviews for CDLB & CDLN  	|  
-|2   	| Tuesday  	|   2020/06/02	|  Implement suggested for CDLB 	|  
-|3   	| Wednesday  	|  2020/06/03 	| Integrate CKEditor 	|  
-|4   	| Thursday  	|   2020/06/04	| Searching for cocktails  	|  
-|5   	| Friday  	|   2020/06/05	|  Explored more on CKEditor 	|  
-|6   	| Saturday  	|   2020/06/06	|  Added MathJax to render crtitical Maths Eq |  
-|7   	| Sunday  	|   2020/06/07	| -	|  
+|1   	| Monday 	|   2020/06/08	| Finish reviews for CDLB & CDLN  	|  
+|2   	| Tuesday  	|   2020/06/09	|  Implement suggested for CDLB 	|  
+|3   	| Wednesday  	|  2020/06/10 	| Integrate CKEditor 	|  
+|4   	| Thursday  	|   2020/06/11	| Searching for cocktails  	|  
+|5   	| Friday  	|   2020/06/12	|  Explored more on CKEditor 	|  
+|6   	| Saturday  	|   2020/06/13	|  Added MathJax to render crtitical Maths Eq |  
+|7   	| Sunday  	|   2020/06/14	| -	|  

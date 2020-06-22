@@ -20,6 +20,9 @@ This project focuses on the publication of various types of journals that CDLI h
 <i>Contributions to CDLI:</i>
 <a href="https://gitlab.com/cdli/framework/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all&author_username=nishealj
 ">Link<a><br>
+<i>Ongoing work status:</i>
+<a href="https://docs.google.com/spreadsheets/d/1G9bFZZEGgC9URRTA15ZaxRsDyZIPjIQr4x13S4bi7xc/edit#gid=0
+">Link<a><br>
 
 <b>Mentor: </b> <a target="_blank" href='mailto:lizardcircusus@gmail.com'>David Wong</a>
 
@@ -31,9 +34,9 @@ Objectives are separated in two categories: essential and additional, they are a
 
 | \#  | Objectives         | Associated Deliverables                                                         | issue(s) |
 | --- | ------------------ | ------------------------------------------------------------------------------- | -------- |
-| 1   | Article CRUD     | Feature for editors to CRUD different types of articles.                      |          |
-| 2   | Article Conversion | Backend to convert the editor's uploaded article to CDLI Standards for display. |          |
-| 3   | Article Display    | Display all the articles at their respective pages and indiviual view for each article.|          |
+| 1   | Article CRUD     | Feature for editors to CRUD different types of articles.                      |  <a target="_blank" href='https://gitlab.com/cdli/framework/-/issues/265'>#265</a>        |
+| 2   | Article Conversion | Backend to convert the editor's uploaded article to CDLI Standards for display. |   <a target="_blank" href='https://gitlab.com/cdli/framework/-/issues/267'>#267</a>       |
+| 3   | Article Display    | Display all the articles at their respective pages and indiviual view for each article.|   <a target="_blank" href='https://gitlab.com/cdli/framework/-/issues/266'>#266</a>       |
 | 4   | Schema Migration   | Make necessary changes to the schema for journals dashboard.                    |          |
 | 5   | Article Migration  | Move old & archived articles to the new architecture.                           |          |
 | 6   | Testing            | Implement necessary testing for the project and sync with CI/CD.                |          |
@@ -51,13 +54,13 @@ Objectives are separated in two categories: essential and additional, they are a
 
 | Week | Objectives                            | Deliverables                                                                                           |
 | ---- | ------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| 1    | Convert articles at editor Dashboard. | Implementation of CKEditor and latex pdf to HTML converters.                                           |
-| 2    | Convert articles at editor Dashboard. | Finishing the latex pdf to HTML conversion for journals.                                               |
-| 3    | Upload article attributes to database | CRUD Operations for article attributes and different types of journals.                                |
-| 4    | Upload article content to database    | Controllers to manage authors and article content/HTML to the database                                 |
-| 5    | Testing                               | Testing Implementations of Milestone 1 i.e Week 1 to week 4.                                                                |
-| 6    | Display varioues types of articles    | Make Different pages for different types of articles.                                                  |
-| 7    | Migration of article                  | Migrate old CDLI articles to new schema and display                                                    |
+| 1    | Upload article attributes to database | CRUD Operations for article attributes and different types of journals.                                |
+| 2    | Upload article content to database    | Controllers to manage authors and article content/HTML to the database |
+| 3    | Display varioues types of articles    | Make Different pages for different types of articles.                                                  |
+| 4    | Migration of article                  | Migrate old CDLI articles to new schema and display                                                    |
+| 5    | Testing                               | Testing Implementations of Milestone 1 i.e Week 1 to week 4                                                                |
+| 6    | Convert articles at editor Dashboard. | Build latex tex to HTML converters.                                           |
+| 7    | Convert articles at editor Dashboard. | Finishing the latex tex to HTML conversion for journals.                                               |
 | 8    | Display of article content            | Display of HTML Content of the journal (Individually)                                                  |
 | 9    | Testing                               | Testing Implementations of Milestone 2 i.e Week 6 to week 8.                                                                |
 | 10   | Integration Testing                   | Testing the data variation to the database with article content and integration with other modules.    |
