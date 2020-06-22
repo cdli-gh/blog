@@ -20,5 +20,5 @@ Next week I'll try my best to write and update my blog on a daily basis, with no
 |3   	| Wednesday  	|  2020/06/10 	| Integrate CKEditor 	|  
 |4   	| Thursday  	|   2020/06/11	| Searching for cocktails  	|  
 |5   	| Friday  	|   2020/06/12	|  Explored more on CKEditor 	|  
-|6   	| Saturday  	|   2020/06/013	|  Added MathJax to render crtitical Maths Eq |  
+|6   	| Saturday  	|   2020/06/13	|  Added MathJax to render crtitical Maths Eq |  
 |7   	| Sunday  	|   2020/06/14	| -	|  
