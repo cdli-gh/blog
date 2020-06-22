@@ -1,6 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
-{% include head.html %}
+{% include head.html %}  
+
+<script>
+  var query = new Set()
+
+  function filterPosts(){
+    var all_articles= document.getElementsByClassName("article");
+    
+    for(i=0;i<all_articles.length;i++){
+      var tags = all_articles[i].getElementsByClassName("rcorner");
+      var tag_list = new Set();
+
+      for(j=0;j<tags.length;j++){
+        tag_list.add(tags[j].textContent.replace(/\u21b5/g,'').trim())
+      }
+
+      let intersection = new Set(
+          [...tag_list].filter(x => query.has(x)));
+
+      // console.log(i,query,tag_list,intersection)
+
+      if(intersection.size==query.size){
+        all_articles[i].style.display = "block";
+      }
+      else{
+        all_articles[i].style.display = "none";
+      }
+    }
+  }
+
+  function addFilter(button){
+    if(button.classList.contains("default")){
+      button.classList.remove("default");
+      button.classList.add("info");
+      
+      query.add(button.textContent.replace(/\u21b5/g,'').trim());
+    }
+    else{
+      button.classList.remove("info");
+      button.classList.add("default");
+      
+      query.delete(button.textContent.replace(/\u21b5/g,'').trim())
+    }
+    // console.log(query);
+    filterPosts();
+  }
+</script>
 
 <body>
   {% include nav.html %}
@@ -12,9 +58,35 @@
     </p>
   </section>
 
-  <!-- <div class="content markdown-body"> -->
-    {{content}}
-  <!-- </div> -->
+  {% assign tags =  site.blog | map: 'tags' | join: ','  | split: ',' | uniq | sort %}
+
+  <main>
+    <div  style="text-align:left;">
+      {% for tag in tags%}
+        <button type="button" class="btn default rcorner" onclick="addFilter(this)" style="font-family: 'Montserrat', sans-serif;font-size: 1rem;">{{tag}}</button>
+      {% endfor %}
+    </div>
+    
+    <br/>
+
+    {% for page in site.blog %}
+        <a href="{{ site.baseurl }}{{ page.url }}" style="text-decoration:none;">
+          <div class="article">
+            <p class="a-title">
+              {{ page.title }}
+            </p>
+            <p class="a-author">
+              {{ page.url | realtive_url}}
+            </p>
+            {% for i in page.tags %}
+              <div class="rcorner">
+                {{i}}
+              </div>
+            {% endfor %}
+          </div>
+        </a> 
+    {% endfor %}  
+  </main>
 
   {% include footer.html %}
 </body>

@@ -1,30 +1,34 @@
 ---
 layout: page
-title: api Eval#1 Week#3 
+title: "API Week 3: Making a functional Bibliography REST API"
 author: "Lars Willighagen"
-tags: ["draft","week","gsoc","gsoc2020","api","eval#1","week#3"]
+tags: ["week","gsoc","gsoc2020","api","eval#1","week#3"]
 ---
-Welcome of CDLI Blogs.
 
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
+Deliverable: Functional Component and REST API
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
+This week I worked on making the Bibliography REST API functional. Although the
+merge request has not been merged yet, most of the work is completed. The main
+thing left to do is wait for an update in the registry image of CakePHP or, either
+with changed PHP configuration (`allow_url_fopen`) or an added `php-curl` extension
+and an updated CakePHP version.
 
+As for deliverables, the merge request resolves this week's deliverable, as well
+as the first week's deliverable (writing API development documentation).
+
+Next week I have exams, so especially at the start of the week I will not be able
+to do much. Later, however, I can.
 
 ## Daily Work Update
 
-|\#|Day|Date|A short description of the work done|  
-|---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+| # | Day | Date       | A short description of the work done |
+|---|-----|------------|--------------------------------------|
+| 1 | Mon | 2020/06/15 | Working on BibTeX mappings |
+| 2 | Tue | 2020/06/16 |  |
+| 3 | Wed | 2020/06/17 |  |
+| 4 | Thu | 2020/06/18 | Updating CakePHP Docker to use cURL |
+| 5 | Fri | 2020/06/19 | Reviewing merge requests |
+| 6 | Sat | 2020/06/20 | Making functional Bibliography REST API |
+| 7 | Sun | 2020/06/21 |  |

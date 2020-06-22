@@ -114,6 +114,7 @@ main {
 .a-author {
   color: grey;
   font-weight: bold;
+  word-wrap: break-word;
 }
 
 .article:hover {
@@ -1386,3 +1387,32 @@ code {
   color: #0086f7;
   font-weight: bold;
 } /* Literal.Number.Integer.Long */
+.rcorner {
+  border-radius: 40px;
+  background: #1762ab;
+  padding: 0.5rem; 
+  margin-right: 0.5rem;
+  margin-top: 0.5rem;
+  color: white;
+  padding: auto 1rem;
+  text-decoration: none;
+  /* font-weight: bold; */
+  display: inline-block;
+} 
+.btn {
+  border: none; 
+  color: white; 
+  padding: 14px 28px;
+  /* cursor: pointer;  */
+  /* margin: 0.2vw; */
+  /* padding: auto 1rem; */
+  /* margin-right: 0.5rem; */
+  /* margin-top: 1%; */
+  text-decoration: none;
+}
+
+.default {background-color: #ddd; color: black;} /* Gray */
+.default:hover {background: #8f8f8f;}
+
+.info {background-color: #1762ab;} /* Blue */
+.info:hover {background: #0b7dda;}

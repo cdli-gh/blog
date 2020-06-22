@@ -23,8 +23,8 @@ A complete report of the work done during the week must be written here.
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2020/06/15	|Fixed the list view of the artifacts in alphabetical order.   	|  
 |2   	| Tuesday  	|   2020/06/16	|-   	|  
-|3   	| Wednesday  	|  2020/06/17 	|Worked with collection model. Created model class to map SQLite database table. Performed CRUD operations.   	|  
-|4   	| Thursday  	|   2020/06/18	|   	|  
-|5   	| Friday  	|   2020/06/19	|   	|  
+|3   	| Wednesday  	|  2020/06/17 	|Worked with the collection model. Created model class to map SQLite database table. Performed CRUD operations.   	|  
+|4   	| Thursday  	|   2020/06/18	|Installed Docker Desktop WSL 2 backend.   	|  
+|5   	| Friday  	|   2020/06/19	|Framework installation.   	|  
 |6   	| Saturday  	|   2020/06/20	|   	|  
 |7   	| Sunday  	|   2020/06/21	|   	|  
