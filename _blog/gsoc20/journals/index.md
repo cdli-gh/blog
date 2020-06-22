@@ -52,8 +52,7 @@ Objectives are separated in two categories: essential and additional, they are a
 | Week | Objectives                            | Deliverables                                                                                           |
 | ---- | ------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | 1    | Upload article attributes to database | CRUD Operations for article attributes and different types of journals.                                |
-| 2    | Upload article content to database    | Controllers to manage authors and article content/HTML to the database 
-Implementation of CKEditor & MathJax |
+| 2    | Upload article content to database    | Controllers to manage authors and article content/HTML to the database |
 | 3    | Display varioues types of articles    | Make Different pages for different types of articles.                                                  |
 | 4    | Migration of article                  | Migrate old CDLI articles to new schema and display                                                    |
 | 5    | Testing                               | Testing Implementations of Milestone 1 i.e Week 1 to week 4                                                                |
