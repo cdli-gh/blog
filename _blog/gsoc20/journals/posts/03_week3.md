@@ -4,17 +4,14 @@ title: journals Eval#1 Week#3
 author: "Nisheal"
 tags: ["week","gsoc","gsoc2020","journals","eval#1","week#3"]
 ---
+
+## Week Summary
+
 Hola,
 
 This was the third week of GSoC I've finished much of my deliverables and doing imporvements on the same.
 I worked on an issue which I was facing while integrating MathJax and CKEditor with my dashbaord and raised a PR for the same.
 Now javascript libraries of vendor folder are more usable.
-
-
-## Week Summary
-
-A complete report of the work done during the week must be written here. 
-
 
 ## Daily Work Update
 
