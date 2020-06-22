@@ -20,6 +20,9 @@ This project focuses on the publication of various types of journals that CDLI h
 <i>Contributions to CDLI:</i>
 <a href="https://gitlab.com/cdli/framework/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all&author_username=nishealj
 ">Link<a><br>
+<i>Ongoing work status:</i>
+<a href="https://docs.google.com/spreadsheets/d/1G9bFZZEGgC9URRTA15ZaxRsDyZIPjIQr4x13S4bi7xc/edit#gid=0
+">Link<a><br>
 
 <b>Mentor: </b> <a target="_blank" href='mailto:lizardcircusus@gmail.com'>David Wong</a>
 
