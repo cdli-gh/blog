@@ -58,12 +58,8 @@
     </p>
   </section>
 
-  {% assign tags =  site.blog | map: 'tags' | join: ','  | split: ',' | uniq %}
-  
+  {% assign tags =  site.blog | map: 'tags' | join: ','  | split: ',' | uniq | sort %}
 
-
-
-  
   <main>
     <div  style="text-align:left;">
       {% for tag in tags%}
