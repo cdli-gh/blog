@@ -13,6 +13,14 @@
       {% endif %}
     </p>
   </section>
+  
+  <div style="text-align: center; font-family: 'Montserrat', sans-serif;font-size: 1rem;">
+    {% for i in page.tags %}
+      <div class="rcorner">
+        {{i}}
+      </div>
+    {% endfor %}
+  </div>
 
   <div class="content markdown-body">
     {{content}}
