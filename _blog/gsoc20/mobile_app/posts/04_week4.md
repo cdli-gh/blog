@@ -23,7 +23,7 @@ A complete report of the work done during the week must be written here.
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2020/06/22	|Admin panel structure design. Environment setup.   	|  
 |2   	| Tuesday  	|   2020/06/23	|Admin panel.   	|  
-|3   	| Wednesday  	|  2020/06/24 	|Admin panel.   	|  
+|3   	| Wednesday  	|  2020/06/24 	|CRUD operations.   	|  
 |4   	| Thursday  	|   2020/06/25	|   	|  
 |5   	| Friday  	|   2020/06/26	|   	|  
 |6   	| Saturday  	|   2020/06/27	|   	|  
