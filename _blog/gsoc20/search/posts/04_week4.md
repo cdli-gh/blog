@@ -2,29 +2,23 @@
 layout: page
 title: search Eval#1 Week#4
 author: "Vedant"
-tags: ["draft","week","gsoc","gsoc2020","searchl#1","week#4"]
+tags: ["week","gsoc","gsoc2020","searchl#1","week#4"]
 ---
 Welcome of CDLI Blogs.
 
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
-
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
+To be updated on 28-06-2020
 
 
 ## Daily Work Update
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|1   	| Monday 	|   2020/06/22	|  a. WIP : Access setup for Normal User, Editors and Granular access. 	|  
+|2   	| Tuesday  	|   2020/06/23	| a. Done with Triggers for inactive users (Objective-A , Week 4). <br> b. Created a guide for 2FA using Google Authenticator. |  
+|3   	| Wednesday  	|  2020/06/24 	| a. Created [PR !140](https://gitlab.com/cdli/framework/-/merge_requests/140) for 2FA Guide. <br> b. WIP : Access setup for Normal User.  	|  
+|4   	| Thursday  	|   2020/06/25	|   	|  
+|5   	| Friday  	|   2020/06/26	|   	|  
+|6   	| Saturday  	|   2020/06/27	|   	|  
+|7   	| Sunday  	|   2020/06/28	|   	|  
