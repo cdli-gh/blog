@@ -45,22 +45,6 @@ Objectives are separated in two categories: essential and additional, they are a
 ### Tentative timeline  
 
 <!---
-| Week  |Objectives |Deliverables |  
-|:---:|---|---|  
-|1| a. Authentication (2FA) <br><br> b. Password Strength Checker <br><br> c. Implement Password Retrieval | a. Successful implementation of 2FA middleware. <br> b. Testing 2FA Middleware. <br> a. Implemented Password Checker. <br> b. Testing on the Register Page. <br> a. Implemented Password Retrieval Module. <br> b. Testing on the Login Page. |
-|2|  |   |
-|3|   |   |  
-|4|   |   |  
-|5|   |   |  
-|6|   |   |  
-|7|   |   |  
-|8|   |   |  
-|9|   |   |  
-|10|   |   |  
-|11|   |   |  
-|12|   |   |  
--->
-<!---
 <table>
   <tr>
     <td rowspan=2> Status </td> 
@@ -154,7 +138,7 @@ Objectives are separated in two categories: essential and additional, they are a
         <tr>
             <td rowspan=5 align="center"> 4 </td>
             <td rowspan=1>A. Triggers for inactive users.</td>
-            <td rowspan=1 align="center"></td>
+            <td rowspan=1 align="center"> :heavy_check_mark: </td>
             <td>a. For login activity older than 6 months, make account status inactive. </td>
         </tr>
         <tr>

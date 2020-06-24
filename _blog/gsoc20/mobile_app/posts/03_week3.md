@@ -26,5 +26,5 @@ A complete report of the work done during the week must be written here.
 |3   	| Wednesday  	|  2020/06/17 	|Worked with the collection model. Created model class to map SQLite database table. Performed CRUD operations.   	|  
 |4   	| Thursday  	|   2020/06/18	|Installed Docker Desktop WSL 2 backend.   	|  
 |5   	| Friday  	|   2020/06/19	|Framework installation.   	|  
-|6   	| Saturday  	|   2020/06/20	|   	|  
-|7   	| Sunday  	|   2020/06/21	|   	|  
+|6   	| Saturday  	|   2020/06/20	|Fixed issues.   	|  
+|7   	| Sunday  	|   2020/06/21	|APK file release for testing.   	|  

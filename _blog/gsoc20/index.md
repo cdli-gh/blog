@@ -15,12 +15,12 @@ A short description on complete outcome of GSoC 2020 program goes here.
 
 | \#  | Project              | Student  | Mentors     |
 | --- | -------------------- | -------- | ----------- |
-| 1   | API                  | Lars     | Ilya        |
-| 2   | Design Integration   | Samarth  | Amaan, Aman |
-| 3   | Image pipeline       | Aman     | Jacob       |
-| 4   | Numerals             | Logan    | Max         |
-| 5   | Search               | Vedant   | Émilie      |
-| 6   | Journals             | Nisheal  | David       |
-| 7   | Bibliography         | Ajit     | Rune, Sagar |
-| 8   | Translation pipeline | Himanshu | Ravneet     |
-| 9   | Mobile app           | Anila    | Willis      |
+| 1   | API                  | [Lars](https://www.linkedin.com/in/lars-willighagen/)     | [Ilya](https://www.linkedin.com/in/ilya-khait-bb8bb228/)        |
+| 2   | Design Integration   | [Samarth](https://www.linkedin.com/in/samarth-sharma-8611b6181/)  | [Amaan](https://www.linkedin.com/in/amaan-iqbal/), [Aman](https://www.linkedin.com/in/amanbis/) |
+| 3   | Image pipeline       | [Aman](https://www.linkedin.com/in/amansheaven/)     | [Jacob](https://www.orinst.ox.ac.uk/people/jacob-l-dahl)       |
+| 4   | Numerals             | [Logan](https://mrlogarithm.github.io/about-me/about.html)    | [Max](https://www.linkedin.com/in/maxim-ionov-0274bb3b/)         |
+| 5   | Search               | [Vedant](https://www.linkedin.com/in/karna98/)   | [Émilie](https://www.linkedin.com/in/epageperron/)      |
+| 6   | Journals             | [Nisheal](https://www.linkedin.com/in/nishealjohn/)  | [David](https://www.linkedin.com/in/david-wong-78023629/)       |
+| 7   | Bibliography         | [Ajit](https://www.linkedin.com/in/ajitjjadhav/)     | [Rune](https://www.linkedin.com/in/rune-rattenborg/), [Sagar](https://www.linkedin.com/in/sagar-sehgal/) |
+| 8   | Translation pipeline | [Himanshu](https://www.linkedin.com/in/himanshudce/) | [Ravneet](https://www.linkedin.com/in/ravneetpunia/)     |
+| 9   | Mobile app           | [Anila](https://www.linkedin.com/in/anila-hoxha/)    | [Willis](https://www.willismonroe.com/)      |

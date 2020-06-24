@@ -1,0 +1,30 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>{{ site.title }}</title>
+ <description>{{ site.description }}</description>
+ <link>{{ site.url }}</link>
+ <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+ <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+ <ttl>1800</ttl>
+
+ {% for page in site.blog %}
+    {% if page.tags contains "draft" %}
+    {% else %}
+        <item>
+            <title>{{ page.title }}</title>
+            <author>{{ page.author }}</author>
+            {% for tag in page.tags %}
+            <categroy>{{ tag }}</categroy>
+            {% endfor %}
+            <link>{{ page.url | absolute_url }}</link>
+            <guid isPermaLink="true">{{ page.url | absolute_url}}</guid>
+        </item>
+    {% endif %}
+ {% endfor %}
+
+</channel>
+</rss>

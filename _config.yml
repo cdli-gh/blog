@@ -1,9 +1,11 @@
-title: CDLI
+title: CDLI-Blog
+description: Cuneiform Digital Library Initiative Blog
 markdown: CommonMarkGhPages
-url: ""
+url: "https://cdli-gh.github.io"
 baseurl: "/blog"
 color_scheme: "#1762ab"
 # for atom feed
+
 # kramdown:
 #   html_to_native: true
 commonmark:
@@ -11,14 +13,13 @@ commonmark:
   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 
 author:
-name: Sagar
-email: sagar.r16@iiits.in
+  name: Sagar
+  email: sagar.r16@iiits.in
 
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-feed
   - jemoji
 
 paginate_path: "/page:num/"
@@ -37,4 +38,4 @@ collections:
     permalink: /:path
 
 
-exclude: ['sitemap.xml','feed.xml', 'LICENSE', 'README.md']
+exclude: ['sitemap.xml', 'LICENSE', 'README.md']
