@@ -1,7 +1,7 @@
 title: CDLI-Blog
 description: Cuneiform Digital Library Initiative Blog
 markdown: CommonMarkGhPages
-url: "https://cdli-gh.github.io/"
+url: "https://cdli-gh.github.io"
 baseurl: "/blog"
 color_scheme: "#1762ab"
 # for atom feed
