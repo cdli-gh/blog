@@ -26,5 +26,5 @@ A complete report of the work done during the week must be written here.
 |3   	| Wednesday  	|  2020/06/03 	|  BPE Codes formed and ready to be trained 	|  
 |4   	| Thursday  	|   2020/06/04	|  En-Sum model training started 	|  
 |5   	| Friday  	|   2020/06/05	|  Checkpoints saved and En-Sum Ready 	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|6   	| Saturday  	|   2020/06/06	|  Searched for English monolingual data 	|  
+|7   	| Sunday  	|   2020/06/07	|  Experimented on English Book Corpuses and Shakespeare Data 	|  
