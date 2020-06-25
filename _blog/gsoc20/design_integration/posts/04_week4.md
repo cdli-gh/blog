@@ -21,10 +21,10 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|1   	| Monday 	|   2020/06/22	| Tried possible solutions for threads on PR 130 and PR 132 	|  
+|2   	| Tuesday  	|   2020/06/23	| Fixed size of login/register div to resolve thread on PR 132  	|  
+|3   	| Wednesday  	|  2020/06/24 	|   	|  
+|4   	| Thursday  	|   2020/06/25	| Finalized WCAG-A on home page, login and register page, pitched in missing links on achors, remove unwanted JS from PR 132 and fix threads for the same  	|  
+|5   	| Friday  	|   2020/06/26	|   	|  
+|6   	| Saturday  	|   2020/06/27	|   	|  
+|7   	| Sunday  	|   2020/06/28	|   	|  
