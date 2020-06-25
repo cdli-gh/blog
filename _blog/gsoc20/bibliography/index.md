@@ -43,20 +43,20 @@ List of tasks which need to be co-ordinated with other developers:
 
 ### Tentative timeline  
 
-| Week  |Objectives | Deliverables |  
-|---|---|---|  
-|1| :heavy_check_mark: Implement linking of artifacts to the selected publication through the view page of the publication. <br> :heavy_check_mark: Implement linking of publications to the selected artifact through the view page of the artifact. <br> :heavy_check_mark: Implement linking of authors to the selected publication through the view page of the publication. <br> :heavy_check_mark: Implement linking of publications to the selected author through the view page of the author. |  :heavy_check_mark: Features for linking publications with artifacts and authors. |  
-|2| :heavy_check_mark: Implement linking publications to editors using the Author-Publication link pages. <br> :heavy_check_mark: Fixing bugs in the view pages and, creating add, edit and delete functions for authors data.  | :heavy_check_mark: Feature for linking editors and publications. <br> :heavy_check_mark: Features for managing authors data.  |  
-|3| :white_check_mark: Implement bulk linking of publications to artifacts using CSV file uploads. <br> Implement bulk linking of publications to authors using CSV files. <br> Implement bulk linking of publications to editors using CSV files. <br> :white_check_mark: Creating add, edit and delete functions for publication data.  | Feature for managing publications data. <br> Bulk upload for linking publications to artifacts, authors and editors.  |  
-|4| Implement bulk upload of publications using CSV files. <br> Making all the suggested changes to the link features. (suggestion on PRs [!122](https://gitlab.com/cdli/framework/-/merge_requests/122) and [!123](https://gitlab.com/cdli/framework/-/merge_requests/123)) <br> Document the completed features.  | Feature for bulk upload of publications. <br> Improvements to the link features. <br>   Documentation for all the completed features. |  
-|5| <!--  Implement merge publication feature. <br> Add search integration for the merge publication feature. Document the completed features <br> (tentative) Finalize details for linking entities with bibliographies and start working on it. -->  |    |  
+| Week  |Objectives | Deliverables |
+|---|---|---|
+|1| :heavy_check_mark: Implement linking of artifacts to the selected publication through the view page of the publication. <br> :heavy_check_mark: Implement linking of publications to the selected artifact through the view page of the artifact. <br> :heavy_check_mark: Implement linking of authors to the selected publication through the view page of the publication. <br> :heavy_check_mark: Implement linking of publications to the selected author through the view page of the author. |  :heavy_check_mark: Features for linking publications with artifacts and authors. |
+|2| :heavy_check_mark: Implement linking publications to editors using the Author-Publication link pages. <br> :heavy_check_mark: Fixing bugs in the view pages and, creating add, edit and delete functions for authors data.  | :heavy_check_mark: Feature for linking editors and publications. <br> :heavy_check_mark: Features for managing authors data.  |
+|3| :white_check_mark: Implement bulk linking of publications to artifacts using CSV file uploads. <br> Implement bulk linking of publications to authors using CSV files. <br> Implement bulk linking of publications to editors using CSV files. | Bulk upload for linking publications to artifacts, authors and editors.  |
+|4| :white_check_mark: Creating add, edit and delete functions for publication data. <br> Implement bulk upload of publications using CSV files. <br> Making all the suggested changes to the link features. (suggestion on PRs [!122](https://gitlab.com/cdli/framework/-/merge_requests/122) and [!123](https://gitlab.com/cdli/framework/-/merge_requests/123)) <br> Document the completed features.  | Feature for managing publications data. <br> Feature for bulk upload of publications. <br> Improvements to the link features. <br>  Documentation for all the completed features. |
+|5| <!--  Implement merge publication feature. <br> Add search integration for the merge publication feature. Document the completed features <br> (tentative) Finalize details for linking entities with bibliographies and start working on it. -->  |    |
 |6|   |   |
-|7|   |   |  
-|8|   |   |  
-|9|   |   |  
+|7|   |   |
+|8|   |   |
+|9|   |   | 
 |10|  |   |
-|11| Final thorough testing for all features and bug fixes. <br> Finalizing the user and developer documentations.   | Completed documentation and bug fixes.  |  
-|12| Buffer time for any remaining bug fixes and documentation. Final report for all the work done.  | -  |  
+|11| Final thorough testing for all features and bug fixes. <br> Finalizing the user and developer documentations.   | Completed documentation and bug fixes.  |
+|12| Buffer time for any remaining bug fixes and documentation. Final report for all the work done.  | -  |
 
 
 
