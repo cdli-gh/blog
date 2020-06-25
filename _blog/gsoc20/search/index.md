@@ -123,7 +123,7 @@ Objectives are separated in two categories: essential and additional, they are a
         </tr>
         <tr>
             <td rowspan=2>C. System setup for the Admin role.</td>
-            <td rowspan=2 align="center"></td>
+            <td rowspan=2 align="center"> :man_technologist: </td>
             <td>a. Admin should be able to access all pages.</td>
         </tr>
         <tr>
@@ -143,7 +143,7 @@ Objectives are separated in two categories: essential and additional, they are a
         </tr>
         <tr>
             <td rowspan=1>B. Create 2FA Google Authenticator Guide.</td>
-            <td rowspan=1 align="center"></td>
+            <td rowspan=1 align="center"> :heavy_check_mark: </td>
             <td>a. Documented 2FA Google Authenticator. </td>
         </tr>
         <tr>
