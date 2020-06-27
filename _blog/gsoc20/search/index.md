@@ -148,7 +148,7 @@ Objectives are separated in two categories: essential and additional, they are a
         </tr>
         <tr>
             <td rowspan=1>C. Fix ‘/logout’ functionality.</td>
-            <td rowspan=1 align="center"></td>
+            <td rowspan=1 align="center"> :heavy_check_mark: </td>
             <td>a. Restricting logout using GET request and accepting only POST request. </td>
         </tr>
         <tr>
