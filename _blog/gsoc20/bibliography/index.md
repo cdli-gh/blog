@@ -22,7 +22,7 @@ easily manageable by the admin, and also have a nice linked display.
 | 1 |:white_check_mark:|  Manage publications and authors | Creating add, edit and delete functions for the publications and authors pages. | #122 |
 | 2 |:heavy_check_mark: | Link publications | Feature for linking publications with artifacts, editors and authors.   |    #122      |
 | 3 |  | Bulk upload publications      | Feature for bulk uploading publications to the database using CSV files.            |   #122       |
-| 4 | :white_check_mark: | BUlk link publications | Feature for bulk linking publications to artifacts and authors using CSV files. | #122 |
+| 4 | :heavy_check_mark: | BUlk link publications | Feature for bulk linking publications to artifacts, authors and editors using CSV files. | #122 |
 | 5 |  | Export citations   | Feature for bulk exporting citations realted to artifacts from the search results.  |   #122       |
 | 6 |  | Documentation           | User and technical documentation for all the features.             |          |
 
@@ -47,9 +47,9 @@ List of tasks which need to be co-ordinated with other developers:
 |---|---|---|
 |1| :heavy_check_mark: Implement linking of artifacts to the selected publication through the view page of the publication. <br> :heavy_check_mark: Implement linking of publications to the selected artifact through the view page of the artifact. <br> :heavy_check_mark: Implement linking of authors to the selected publication through the view page of the publication. <br> :heavy_check_mark: Implement linking of publications to the selected author through the view page of the author. |  :heavy_check_mark: Features for linking publications with artifacts and authors. |
 |2| :heavy_check_mark: Implement linking publications to editors using the Author-Publication link pages. <br> :heavy_check_mark: Fixing bugs in the view pages and, creating add, edit and delete functions for authors data.  | :heavy_check_mark: Feature for linking editors and publications. <br> :heavy_check_mark: Features for managing authors data.  |
-|3| :heavy_check_mark: Implement bulk linking of publications to artifacts using CSV file uploads. <br> Implement bulk linking of publications to authors using CSV files. <br> Implement bulk linking of publications to editors using CSV files. | Bulk upload for linking publications to artifacts, authors and editors.  |
-|4| :white_check_mark: Creating add, edit and delete functions for publication data. <br> Implement bulk upload of publications using CSV files. <br> Making all the suggested changes to the link features. (suggestion on PRs [!122](https://gitlab.com/cdli/framework/-/merge_requests/122) and [!123](https://gitlab.com/cdli/framework/-/merge_requests/123)) <br> Document the completed features.  | Feature for managing publications data. <br> Feature for bulk upload of publications. <br> Improvements to the link features. <br>  Documentation for all the completed features. |
-|5| <!--  Implement merge publication feature. <br> Add search integration for the merge publication feature. Document the completed features <br> (tentative) Finalize details for linking entities with bibliographies and start working on it. -->  |    |
+|3| :heavy_check_mark: Implement bulk linking of publications to artifacts using CSV file uploads. (making components for the task for easy reusability for similar tasks).  | :heavy_check_mark: Bulk upload for linking publications to artifacts.  |
+|4| :heavy_check_mark: Implement bulk linking of publications to authors using CSV files. <br> :heavy_check_mark: Implement bulk linking of publications to editors using CSV files. :white_check_mark: Creating add, edit and delete functions for publication data. <br> Implement bulk upload of publications using CSV files. <br> Making some data input improvements to the link features.  | :heavy_check_mark: Bulk upload for linking publications to authors and editors. <br> Feature for managing publications data. <br> Feature for bulk upload of publications. <br> Improvements to the link features. |
+|5| <!-- Implement merge publication feature. <br> Add search integration for the merge publication feature. Document the completed features <br> (tentative) Finalize details for linking entities with bibliographies and start working on it. -->  |    |
 |6|   |   |
 |7|   |   |
 |8|   |   |
