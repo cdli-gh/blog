@@ -23,8 +23,8 @@ A complete report of the work done during the week must be written here.
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2020/06/01	|   Evaluated BLEU for Transformers	|  
 |2   	| Tuesday  	|   2020/06/02	|   Backtranslated Sumerian Monolingual Texts	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
+|3   	| Wednesday  	|  2020/06/03 	|  Obtained Preliminary Results using Back Translation 	|  
+|4   	| Thursday  	|   2020/06/04	|  Evaluated Results 	|  
 |5   	| Friday  	|   2020/06/05	|   	|  
 |6   	| Saturday  	|   2020/06/06	|   	|  
 |7   	| Sunday  	|   2020/06/07	|   	|  
