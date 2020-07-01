@@ -1,6 +1,6 @@
 ---
 layout: page
-title: API Week 5: Inscription REST API
+title: "API Week 5: Inscription REST API"
 author: "Lars Willighagen"
 tags: ["week","gsoc","gsoc2020","api","eval#2","week#5"]
 ---
