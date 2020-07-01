@@ -2,7 +2,7 @@
 layout: page
 title: API Week 4
 author: "Lars Willighagen"
-tags: ["week","gsoc","gsoc2020","apil#1","week#4"]
+tags: ["week","gsoc","gsoc2020","api","eval#1","week#4"]
 ---
 
 Deliverable: Prepare ATF and CONLL files
