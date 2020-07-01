@@ -1,8 +1,8 @@
 ---
 layout: page
-title: api Eval#2 Week#5
+title: API Week 5: Inscription REST API
 author: "Lars Willighagen"
-tags: ["draft","week","gsoc","gsoc2020","api","eval#2","week#5"]
+tags: ["week","gsoc","gsoc2020","api","eval#2","week#5"]
 ---
 
 Deliverable: Functional API for inscriptions and annotations
