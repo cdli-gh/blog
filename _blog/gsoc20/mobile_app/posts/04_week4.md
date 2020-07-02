@@ -21,7 +21,7 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/22	|Admin panel structure design. Environment setup.   	|  
+|1   	| Monday 	|   2020/06/22	|Admin panel structure design. CakePHP install, environment setup.   	|  
 |2   	| Tuesday  	|   2020/06/23	|Admin panel.   	|  
 |3   	| Wednesday  	|  2020/06/24 	|Admin panel.   	|  
 |4   	| Thursday  	|   2020/06/25	|Admin panel.   	|  
