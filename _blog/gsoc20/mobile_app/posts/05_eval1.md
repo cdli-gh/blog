@@ -17,7 +17,6 @@ The mobile app is almost complete. There are a few features which need to be tes
 |2   	| Admin panel 	|Admin panel structure design. Environment setup.   	|  
 |3   	| Questionnaire 	|User feedback form for the mobile app.   	|  
 
-<br>
 
 ## Learning and Success
 I am really enjoying working on an open source project. I like that there is always something new to learn. Even though I had some experience with Flutter, I learned a lot more features and how to use them along the project development.<br><br>
