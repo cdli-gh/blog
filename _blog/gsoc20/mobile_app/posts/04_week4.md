@@ -10,7 +10,7 @@ This page contains reports made for every week.<br><br>
 
 ## Week Summary
 
-I installed CakePHP and setup the environment to start working with the admin panel.
+I installed CakePHP and setup the environment to start working with the admin panel.<br><br>
 
 
 ## Daily Work Update
