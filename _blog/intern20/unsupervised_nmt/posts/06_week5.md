@@ -21,9 +21,9 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
+|1   	| Monday 	|   2020/06/01	|  Looked into languages for Transfer Learning, shortlisted- Russian, Spanish and Latin (data is a problem) 	|  
+|2   	| Tuesday  	|   2020/06/02	|  Russian WMT Weights from fairseq 	|  
+|3   	| Wednesday  	|  2020/06/03 	|  Spanish WMT Parallel data 	|  
 |4   	| Thursday  	|   2020/06/04	|   	|  
 |5   	| Friday  	|   2020/06/05	|   	|  
 |6   	| Saturday  	|   2020/06/06	|   	|  
