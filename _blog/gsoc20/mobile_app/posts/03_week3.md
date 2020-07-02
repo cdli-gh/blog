@@ -6,15 +6,11 @@ tags: ["week","gsoc","gsoc2020","mobile_app","eval#1","week#3"]
 ---
 Welcome of CDLI Blogs.
 
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
+This page contains reports made for every week.<br><br>
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
+This week I installed a Windows Subsystem for Linux (WSL) 2 in my machine to support Docker Desktop. WSL 2 feature for Windows solved my problem and I could install the CDLI framework and run the site.
 
 
 ## Daily Work Update
