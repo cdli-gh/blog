@@ -16,15 +16,12 @@ Trained Deep Neural Network Models for POS tagging with the variations in the mo
 
 Integrated Basic Pipeline taking input as atf file and giving the associated outputs \
 
-## Objectives and Deliverables
-Explain what were your objectives and the deliverables associated for this period.
-
 
 ## Learning and Success
-Briefly outline what you have learned and the sucesses you have achieved.
+Successfully built the 4 POS tagging models to achive the state of art results. Built the basic Sumerian-Translation-Pipeline integrating POS, NER and Machine Translation model. Produced results are good as reviewed by Mentor(s).   
 
 ## Difficulties
-Briefly outline roadblocks and difficulties you have enountered.
+Hard to get context of the sentence as the phrases are too small, although models are working pretty well with the limited datasets. 
 
 ## Plan update
-Explain here how your results will influence the planning of the rest of the program.
+Pretty much ahead of the schedule, so planning to work on producing POS and NER results in Conll-U format as well along with the pipeline.  
