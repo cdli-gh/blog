@@ -16,6 +16,7 @@ The mobile app is almost complete. There are a few features which need to be tes
 |1   	| Mobile app 	|Core functionalities and some additional features. Tests in Android platforms.   	|  
 |2   	| Admin panel 	|Admin panel structure design. Environment setup.   	|  
 |3   	| Questionnaire 	|User feedback form for the mobile app.   	|  
+
 <br><br>
 
 ## Learning and Success
