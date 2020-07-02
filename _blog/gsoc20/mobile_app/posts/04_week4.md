@@ -6,15 +6,11 @@ tags: ["week","gsoc","gsoc2020","mobile_appl#1","week#4"]
 ---
 Welcome of CDLI Blogs.
 
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
+This page contains reports made for every week.<br><br>
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
+I installed CakePHP and setup the environment to start working with the admin panel.
 
 
 ## Daily Work Update
