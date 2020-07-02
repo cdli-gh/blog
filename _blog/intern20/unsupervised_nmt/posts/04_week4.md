@@ -25,6 +25,6 @@ A complete report of the work done during the week must be written here.
 |2   	| Tuesday  	|   2020/06/02	|   Backtranslated Sumerian Monolingual Texts	|  
 |3   	| Wednesday  	|  2020/06/03 	|  Obtained Preliminary Results using Back Translation 	|  
 |4   	| Thursday  	|   2020/06/04	|  Evaluated Results 	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|5   	| Friday  	|   2020/06/05	|  Trained on more shards - Total monolingual used 0.2M	|  
+|6   	| Saturday  	|   2020/06/06	|   Further evaluations and BLEU Score computed 	|  
+|7   	| Sunday  	|   2020/06/07	|  Trained on more shards - Total monolingual used 0.7M 	|  
