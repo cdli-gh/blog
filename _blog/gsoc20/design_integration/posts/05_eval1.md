@@ -6,7 +6,7 @@ tags: ["eval","gsoc","gsoc2020","design_integrationl#1"]
 ---
 
 ## Summary
-Give here an overview of the work accomplished during the past 4 weeks. 
+The UI for home page and search results page have been added. The search page in itself is huge, components like filter modal, table layout, card layout, filter div etc have been successfully developed. Framework now support users that have disabled JavaScript and accessibility audit of WCAG 2.0 (Level A) has also been implemented.
 
 ## Objectives and Deliverables
 Explain what were your objectives and the deliverables associated for this period.
