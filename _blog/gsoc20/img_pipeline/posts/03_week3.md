@@ -21,10 +21,10 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	| Integrating upload service |  
-|2   	| Tuesday  	|   2020/06/02	| Database updates for upload |  
-|3   	| Wednesday  	|  2020/06/03 	| Adding enforcement to uploads |  
-|4   	| Thursday  	|   2020/06/04	| Refactoring upload service. |  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|1   	| Monday 	|   2020/06/15	| Integrating upload service |  
+|2   	| Tuesday  	|   2020/06/16	| Database updates for upload |  
+|3   	| Wednesday  	|  2020/06/17 	| Adding enforcement to uploads |  
+|4   	| Thursday  	|   2020/06/18	| Refactoring upload service. |  
+|5   	| Friday  	|   2020/06/19	| Worker Thread |  
+|6   	| Saturday  	|   2020/06/20	| OpenCV dockerfile |  
+|7   	| Sunday  	|   2020/06/21	|  OpenCV Dockerfile |  

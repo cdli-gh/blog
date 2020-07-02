@@ -6,17 +6,25 @@ tags: ["eval","gsoc","gsoc2020","img_pipelinel#1"]
 ---
 
 ## Summary
-Give here an overview of the work accomplished during the past 4 weeks. 
+Basic algrithm for processing images, and a novel way to get the framework process things on python runtime.
 
 ## Objectives and Deliverables
-Explain what were your objectives and the deliverables associated for this period.
+- Fatcross Algorithm
+  - HDR Images PreProcessing
+  - HDR Images Background Subtraction
+  - HDR Images Alignment
+  - HDR Images Basic Preprocessing
+- Framework Integration
+  - Task Queue
+  - File Upload & Task Components
+
 
 
 ## Learning and Success
-Briefly outline what you have learned and the sucesses you have achieved.
+Good accuracy with images with even complex backgrounds, the noise in the images are well handled. Learnt unique ways to boost images before processing them leading with better images.
 
 ## Difficulties
-Briefly outline roadblocks and difficulties you have enountered.
+Integration of python with the framework lead to discovery of chained problems with it like file storage, its not feasible to work ahead neglecting them.
 
 ## Plan update
-Explain here how your results will influence the planning of the rest of the program.
+With a good enough HDR processing algorithm by our side, I'll work on flatbeds and in parallel start completing the integration to framework.
