@@ -6,15 +6,14 @@ tags: ["week","gsoc","gsoc2020","mobile_app","eval#1","week#1"]
 ---
 Welcome of CDLI Blogs.
 
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
+This page contains reports made for every week.<br><br>
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
+This week I developed the basics of the CDLI tablet app in Flutter. Its core functionalities include:<br><br>
+1 - Data for each artifact displayed using a PageView class implementation.<br>
+2 - The collection of artifacts displayed in a grid list.<br>
+3 - Zoomable artifact images. Contents can be shared in other mobile platforms.<br><br>
 
 
 ## Daily Work Update

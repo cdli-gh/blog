@@ -1,30 +1,24 @@
 ---
 layout: page
-title: api Eval#2 Week#5
+title: "API Week 5: Inscription REST API"
 author: "Lars Willighagen"
-tags: ["draft","week","gsoc","gsoc2020","api","eval#2","week#5"]
+tags: ["week","gsoc","gsoc2020","api","eval#2","week#5"]
 ---
-Welcome of CDLI Blogs.
 
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
+Deliverable: Functional API for inscriptions and annotations
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
 
 
 ## Daily Work Update
 
-|\#|Day|Date|A short description of the work done|  
-|---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+| # | Day | Date       | A short description of the work done |
+|---|-----|------------|--------------------------------------|
+| 1 | Mon | 2020/06/29 |  |
+| 2 | Tue | 2020/06/30 | Answering emails |
+| 3 | Wed | 2020/07/01 | Discussing CakePHP upgrade with mentor, reviewing merge requests ([!134](https://gitlab.com/cdli/framework/-/merge_requests/134)) |
+| 4 | Thu | 2020/07/02 |  |
+| 5 | Fri | 2020/07/03 |  |
+| 6 | Sat | 2020/07/04 |  |
+| 7 | Sun | 2020/07/05 |  |

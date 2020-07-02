@@ -6,15 +6,13 @@ tags: ["week","gsoc","gsoc2020","mobile_app","eval#1","week#2"]
 ---
 Welcome of CDLI Blogs.
 
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
+This page contains reports made for every week.<br><br>
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
+This week I added a list view option for the artifacts collection and a search bar property. I focused on adapting some features of the mobile app to iOS platforms, which will be tested later on using Codemagic.<br>
+
+I also worked on getting the CDLI framework locally on my machine, but for some reasons I could not install it. I am still looking into finding a solution for this.<br><br>
 
 
 ## Daily Work Update

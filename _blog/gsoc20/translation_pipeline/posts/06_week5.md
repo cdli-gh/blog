@@ -21,10 +21,10 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|1   	| Monday 	|   2020/06/01	|  Preparing the NER dataset to be used for machine learning model	|  
+|2   	| Tuesday  	|   2020/06/02	|  Gone through github and research papers for NER rules |  
+|3   	| Wednesday  	|  2020/06/03 	|  Created rules/features for Named Entity Recognation for NER	|  
+|4   	| Thursday  	|   2020/06/04	|  Working on conditional random field model for NER  	|  
+|5   	| Friday  	|   2020/06/05	|   Working on conditional random field model for NER	|  
+|6   	| Saturday  	|   2020/06/06	|  Integrating Pipeline with NER CRF and previous models	|  
+|7   	| Sunday  	|   2020/06/07	|  Integrating Pipeline with NER CRF and previous models 	|  

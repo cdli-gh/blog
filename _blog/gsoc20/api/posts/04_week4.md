@@ -1,8 +1,8 @@
 ---
 layout: page
-title: api Eval#1 Week#4
+title: API Week 4
 author: "Lars Willighagen"
-tags: ["week","gsoc","gsoc2020","apil#1","week#4"]
+tags: ["week","gsoc","gsoc2020","api","eval#1","week#4"]
 ---
 
 Deliverable: Prepare ATF and CONLL files
@@ -21,6 +21,6 @@ of this week, I mainly prepared for university exams.
 | 2 | Tue | 2020/06/23 |  |
 | 3 | Wed | 2020/06/24 |  |
 | 4 | Thu | 2020/06/25 |  |
-| 5 | Fri | 2020/06/26 |  |
+| 5 | Fri | 2020/06/26 | Reviewing merge requests |
 | 6 | Sat | 2020/06/27 |  |
 | 7 | Sun | 2020/06/28 |  |
