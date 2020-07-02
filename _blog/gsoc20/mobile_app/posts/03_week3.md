@@ -10,7 +10,7 @@ This page contains reports made for every week.<br><br>
 
 ## Week Summary
 
-This week I installed a Windows Subsystem for Linux (WSL) 2 in my machine to support Docker Desktop. WSL 2 feature for Windows solved my problem and I could install the CDLI framework and run the site.
+This week I installed a Windows Subsystem for Linux (WSL) 2 in my machine to support Docker Desktop. WSL 2 feature for Windows solved my problem and I could install the CDLI framework and run the site.<br><br>
 
 
 ## Daily Work Update
