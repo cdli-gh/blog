@@ -42,7 +42,7 @@ The main difficulty is the clarity on setting up of role-based access which will
 
 ## Plan update
 
-Considering Phase-1 objectives and deliverables, I was able to accomplish 80% of deliverables and the remaining 20% will be completed during the 1st evaluation period or will be shifted to buffer week if additional time is required.
+Considering Phase-1 objectives and deliverables, I was able to accomplish 80% of deliverables and the remaining 20% will be completed during the 1st evaluation period or will be shifted to buffer week (if additional time is required).
 
-And on upcoming objectives for the next phase, I'll be discussed with my mentor and start to work from next week onwards.
+For the next phase schedule, I will discuss it with my mentor and then start to work from next week onwards.
 
