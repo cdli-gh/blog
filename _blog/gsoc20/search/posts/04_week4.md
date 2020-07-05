@@ -4,12 +4,43 @@ title: search Eval#1 Week#4
 author: "Vedant"
 tags: ["week","gsoc","gsoc2020","searchl#1","week#4"]
 ---
-Welcome of CDLI Blogs.
 
 ## Week Summary
 
-To be updated on 28-06-2020
+Namaste 🙏 ,    
+Welcome to the fourth weekly blog of GSoC'20 for CDLI. 
 
+### What did you do this week?
+
+The week was quite a productive one as I was able to achieve the deliverables which were expected. The first objective was to create an event in DB to deactivate user with an inactivity period of more than 6 months and successfully added in DB. The Two Factor Guide documentation was added to [MTAAC and CDLI Documentation](https://cdli-gh.github.io/guides/cdli_two_factor_guide.html). Next objective was to use POST request and restrict GET request for logout functionality which is implemented and under review. There was a request to add 'Skip 2FA' to ease the login and register in development mode. The remaining time was used to work on the Access Setup for the framework.
+
+### What is coming up next?
+
+In the upcoming week, I will try to work on the changes suggested for access setup and plan the objectives and schedule for the 2nd phase objectives.
+
+### Did you get stuck anywhere?
+
+After the two reviews for access setup, lack of clarity regarding the Sample Role Page and many other changes were suggested. The changes suggested will require an extra week for its implementation which I'm planning to do during the evaluation period.
+
+### Branch (worked on):  
+1. [phoenix/feature/authorization](https://gitlab.com/cdli/framework/-/tree/phoenix/feature/authorization)
+2. [phoenix/feature/authentication](https://gitlab.com/cdli/framework/-/tree/phoenix/feature/authentication)
+3. [phoenix/feature/optimize-setup](https://gitlab.com/cdli/framework/-/tree/phoenix/feature/optimize-setup) 
+
+### Issues : 
+1. **Closed or worked related to:**
+    - [#84](https://gitlab.com/cdli/framework/-/issues/84)
+2. **Opened:** 
+    - No new issue created during this week. 
+
+### Pull Request : 
+1. **Merged (or under review):**
+    - [!137](https://gitlab.com/cdli/framework/-/merge_requests/137)
+    - [!140](https://gitlab.com/cdli/framework/-/merge_requests/140)
+    - [!141](https://gitlab.com/cdli/framework/-/merge_requests/141)
+    - [!144](https://gitlab.com/cdli/framework/-/merge_requests/144)  
+2. **Reviewed:**
+    - [!130](https://gitlab.com/cdli/framework/-/merge_requests/130)
 
 ## Daily Work Update
 
