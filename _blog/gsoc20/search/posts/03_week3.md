@@ -35,7 +35,6 @@ I’m in discussion with my mentor for access setup for each functionality in th
 1. **Merged (or under review):**
     - [!129](https://gitlab.com/cdli/framework/-/merge_requests/129)
     - [!137](https://gitlab.com/cdli/framework/-/merge_requests/137) 
-
 2. **Reviewed:**
     - [!126](https://gitlab.com/cdli/framework/-/merge_requests/126)
     - [!130](https://gitlab.com/cdli/framework/-/merge_requests/130)
