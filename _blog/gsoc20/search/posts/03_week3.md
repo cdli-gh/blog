@@ -4,17 +4,42 @@ title: search Eval#1 Week#3
 author: "Vedant"
 tags: ["week","gsoc","gsoc2020","search","eval#1","week#3"]
 ---
-Welcome of CDLI Blogs.
-
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
+Namaste 🙏 ,    
+Welcome to the third weekly blog of GSoC'20 for CDLI. 
+
+### What did you do this week?
+
+This week I started by working on the Access Control Page. The Access Control Page provides the functionality for Admin to set additional roles for users. After the completion of the Access Control Page, it was time to set up access to public side pages. Also, there were a lot of broken links which need to be fixed within the framework. I tried to implement the Sample Role Page which can help developers to understand how to set up a role in the framework.
+
+### What is coming up next?
+
+The next week focus will be on completing the objectives of Week 4 along with the Access setup for the framework.
+
+### Did you get stuck anywhere?
+
+I’m in discussion with my mentor for access setup for each functionality in the framework. We are going to set up access based on admin and public pages for now, further it will be expanded to on a granular level.
+
+### Branch (worked on):  
+1. [phoenix/feature/authorization](https://gitlab.com/cdli/framework/-/tree/phoenix/feature/authorization) 
+
+### Issues : 
+1. **Closed or worked related to:**
+    - [#245](https://gitlab.com/cdli/framework/-/issues/245)
+2. **Opened:** 
+    - [#264](https://gitlab.com/cdli/framework/-/issues/264) 
+
+### Pull Request : 
+1. **Merged (or under review):**
+    - [!129](https://gitlab.com/cdli/framework/-/merge_requests/129)
+    - [!137](https://gitlab.com/cdli/framework/-/merge_requests/137) 
+
+2. **Reviewed:**
+    - [!126](https://gitlab.com/cdli/framework/-/merge_requests/126)
+    - [!130](https://gitlab.com/cdli/framework/-/merge_requests/130)
+    - [!132](https://gitlab.com/cdli/framework/-/merge_requests/132)   
 
 
 ## Daily Work Update
