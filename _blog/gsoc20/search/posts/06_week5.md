@@ -2,29 +2,22 @@
 layout: page
 title: search Eval#2 Week#5
 author: "Vedant"
-tags: ["draft","week","gsoc","gsoc2020","search","eval#2","week#5"]
+tags: ["week","gsoc","gsoc2020","search","eval#2","week#5"]
 ---
-Welcome of CDLI Blogs.
-
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
+To be updated on 2020/07/05.
 
 
 ## Daily Work Update
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|1   	| Monday 	|   2020/06/29	|  a. WIP : Access setup for Public and Admin access. 	|  
+|2   	| Tuesday  	|   2020/06/30	|  Break 	|  
+|3   	| Wednesday  	|  2020/07/01 	|  Break 	|  
+|4   	| Thursday  	|   2020/07/02	|  a. WIP : Access setup for Public and Admin access.  	|  
+|5   	| Friday  	|   2020/07/03	|  a. Completed Week-3, Week-4 and Evaluation Blog. 	|  
+|6   	| Saturday  	|   2020/07/04	|  a. Done with [PR !141](https://gitlab.com/cdli/framework/-/merge_requests/141) <br> b. Done with [PR !144](https://gitlab.com/cdli/framework/-/merge_requests/144)   	|  
+|7   	| Sunday  	|   2020/07/05	|  a. WIP : Access setup for Public and Admin access. 	|  
