@@ -2,29 +2,21 @@
 layout: page
 title: search Eval#2 Week#6
 author: "Vedant"
-tags: ["draft","week","gsoc","gsoc2020","search","eval#2","week#6"]
+tags: ["week","gsoc","gsoc2020","search","eval#2","week#6"]
 ---
-Welcome of CDLI Blogs.
-
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
-
+To be updated on 2020/07/12.
 
 ## Daily Work Update
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|1   	| Monday 	|   2020/07/06	| a. WIP : Access setup for Public, Editor and Admin access. 	|  
+|2   	| Tuesday  	|   2020/07/07	|  a. Done with access setup for Public, Editor and Admin. [PR !137](https://gitlab.com/cdli/framework/-/merge_requests/137) <br> b. Access Setup for Granular Roles will be addressed in buffer week. 	|  
+|3   	| Wednesday  	|  2020/07/08 	|  a. Exploring Elastic Search for Cakephp. <br> b. Setting up Elastic Search. |  
+|4   	| Thursday  	|   2020/07/09	|   	|  
+|5   	| Friday  	|   2020/07/10	|   	|  
+|6   	| Saturday  	|   2020/07/11	|   	|  
+|7   	| Sunday  	|   2020/07/12	|   	|  
