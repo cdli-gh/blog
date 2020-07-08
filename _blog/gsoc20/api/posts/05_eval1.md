@@ -11,7 +11,8 @@ API, both the internal one and the public-facing REST API. I also documented how
 this API and others should be implemented, to ensure consistency between
 implementations.
 
-Bibliography exports can now be fetched with file extensions (for BibTeX and RIS)
+Bibliography exports can now be fetched with file extensions (for BibTeX and
+[RIS](https://dev.to/citation-js/creating-a-ris-mapping-from-the-original-specification-1kfo))
 and with `Accept` HTTP headers. Although this is currently implemented for only
 artifacts and publications, the code for processing the request parameters is
 extracted into a component which, when loaded, automatically adds bibliography
