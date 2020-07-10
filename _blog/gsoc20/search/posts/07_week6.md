@@ -17,6 +17,6 @@ To be updated on 2020/07/12.
 |2   	| Tuesday  	|   2020/07/07	|  a. Done with access setup for Public, Editor and Admin. [PR !137](https://gitlab.com/cdli/framework/-/merge_requests/137) <br> b. Access Setup for Granular Roles will be addressed in buffer week. 	|  
 |3   	| Wednesday  	|  2020/07/08 	|  a. Exploring Elastic Search for Cakephp. <br> b. Setting up Elastic Search. |  
 |4   	| Thursday  	|   2020/07/09	|  a. Done with setup of Elastic Search. <br> b. Exploring search query using Elastic Search.	|  
-|5   	| Friday  	|   2020/07/10	|   	|  
+|5   	| Friday  	|   2020/07/10	|   a. Created GeneralFunctionsComponent for commonly used functions. <br> b. WIP : Simple Search. 	|  
 |6   	| Saturday  	|   2020/07/11	|   	|  
 |7   	| Sunday  	|   2020/07/12	|   	|  
