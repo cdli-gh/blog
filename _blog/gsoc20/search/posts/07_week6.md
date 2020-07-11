@@ -18,5 +18,5 @@ To be updated on 2020/07/12.
 |3   	| Wednesday  	|  2020/07/08 	|  a. Exploring Elastic Search for Cakephp. <br> b. Setting up Elastic Search. |  
 |4   	| Thursday  	|   2020/07/09	|  a. Done with setup of Elastic Search. <br> b. Exploring search query using Elastic Search.	|  
 |5   	| Friday  	|   2020/07/10	|   a. Created GeneralFunctionsComponent for commonly used functions. <br> b. WIP : Simple Search. 	|  
-|6   	| Saturday  	|   2020/07/11	|   	|  
+|6   	| Saturday  	|   2020/07/11	|  a. Exploring ways to migrate MySQL Data to Elastic Search.  	|  
 |7   	| Sunday  	|   2020/07/12	|   	|  
