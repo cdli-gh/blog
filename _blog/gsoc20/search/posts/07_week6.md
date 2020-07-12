@@ -19,4 +19,4 @@ To be updated on 2020/07/12.
 |4   	| Thursday  	|   2020/07/09	|  a. Done with setup of Elastic Search. <br> b. Exploring search query using Elastic Search.	|  
 |5   	| Friday  	|   2020/07/10	|   a. Created GeneralFunctionsComponent for commonly used functions. <br> b. WIP : Simple Search. 	|  
 |6   	| Saturday  	|   2020/07/11	|  a. Exploring ways to migrate MySQL Data to Elastic Search.  	|  
-|7   	| Sunday  	|   2020/07/12	|   	|  
+|7   	| Sunday  	|   2020/07/12	|  a. ElasicSearch + Logstash docker setup completed. <br> b. Testing indexing from MariaDB to ElasticSearch using Logstash.	|  
