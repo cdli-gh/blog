@@ -9,7 +9,9 @@ Deliverable: Documentation and URIs for the schema of RDF, XML and JSON-LD files
 
 ## Week Summary
 
-
+In the Thursday discussion, an [existing schema](https://github.com/cdli-gh/mtaac_work)
+came up. This will be adapted to the current framework for export. The deliverable,
+however, is not complete.
 
 ## Daily Work Update
 
