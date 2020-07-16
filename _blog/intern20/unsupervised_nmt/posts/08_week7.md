@@ -21,10 +21,10 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
+|1   	| Monday 	|   2020/06/01	|  Evauated the resuls with restriced data after performing the second phase training 	|  
+|2   	| Tuesday  	|   2020/06/02	|   Modified data preperation script in order to include TLM	|  
+|3   	| Wednesday  	|  2020/06/03 	|  Started training with TLM loss in addition to MLM 	|  
+|4   	| Thursday  	|   2020/06/04	|  Started second phase training with TLM 	|  
 |5   	| Friday  	|   2020/06/05	|   	|  
 |6   	| Saturday  	|   2020/06/06	|   	|  
 |7   	| Sunday  	|   2020/06/07	|   	|  
