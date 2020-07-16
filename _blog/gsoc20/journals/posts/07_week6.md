@@ -4,27 +4,20 @@ title: journals Eval#2 Week#6
 author: "Nisheal"
 tags: ["week","gsoc","gsoc2020","journals","eval#2","week#6"]
 ---
-Welcome of CDLI Blogs.
-
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
+This week I'm working on the challanges in the conversion of tex files.
 
 
 ## Daily Work Update
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|1   	| Monday 	|   2020/07/12	|  Handle images and missingfigures 	|  
+|2   	| Tuesday  	|   2020/07/13	|  Create log for latex conversion 	|  
+|3   	| Wednesday  	|  2020/07/14 	|  Function to extract longtables 	|  
+|4   	| Thursday  	|   2020/07/15	|   conversion of longtables to html tables	|  
+|5   	| Friday  	|   2020/07/16	|   	|  
+|6   	| Saturday  	|   2020/07/17	|   	|  
+|7   	| Sunday  	|   2020/07/18	|   	|  
