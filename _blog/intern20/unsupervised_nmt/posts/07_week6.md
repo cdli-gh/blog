@@ -27,4 +27,4 @@ A complete report of the work done during the week must be written here.
 |4   	| Thursday  	|   2020/06/04	|  Still pre-training, reached 200 epochs. Prepared scripts to be used for the next steps 	|  
 |5   	| Friday  	|   2020/06/05	|  Training stopped and evaluated. Poor results, probably because of very out-of-domain English data. Created data_prep_2 	|  
 |6   	| Saturday  	|   2020/06/06	|  Created data with English data from UrIII Admin texts and started training	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|7   	| Sunday  	|   2020/06/07	|  Created end-to-end inference script for evaluation and getting translation for an input	|  
