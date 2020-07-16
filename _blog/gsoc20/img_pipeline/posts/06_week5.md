@@ -21,10 +21,10 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|1   	| Monday 	|   2020/06/29	| Endpoint for storage |  
+|2   	| Tuesday  	|   2020/06/30	| File Storage Setup |  
+|3   	| Wednesday  	|  2020/07/01 	| File Storage Setup |  
+|4   	| Thursday  	|   2020/07/02	| File Storage Setup |  
+|5   	| Friday  	|   2020/07/03	| Algorithm Conventional Images |  
+|6   	| Saturday  	|   2020/07/04	| Algorithm Conventional Images |  
+|7   	| Sunday  	|   2020/07/05	| Algorithm Conventional Images |  

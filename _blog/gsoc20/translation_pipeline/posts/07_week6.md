@@ -21,10 +21,10 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|1   	| Monday 	|   2020/06/01	|  Worked on ATF2Conll version for The resulted POS_NER output 	|  
+|2   	| Tuesday  	|   2020/06/02	|  Worked on ATF2Conll version for The resulted POS_NER output 	|  
+|3   	| Wednesday  	|  2020/06/03 	|   Integrated the above in the Pipeline	|  
+|4   	| Thursday  	|   2020/06/04	|   Working on extracting the ETCSL dataset by making tags similar to ORACC	|  
+|5   	| Friday  	|   2020/06/05	| Writing code for using combining both the dataset	|  
+|6   	| Saturday  	|   2020/06/06	|  Combined Augmented and ETCSL dataset for POS and applied 	|  
+|7   	| Sunday  	|   2020/06/07	|  Working on Deep learning model for NER 	|  

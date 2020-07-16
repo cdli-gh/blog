@@ -27,4 +27,4 @@ A complete report of the work done during the week must be written here.
 |4   	| Thursday  	|   2020/06/04	|  Trained Es-Eng model using Transformer and saved weights 	|  
 |5   	| Friday  	|   2020/06/05	|  Used Es-Eng weights and started training Sum-Eng 	|  
 |6   	| Saturday  	|   2020/06/06	|  Evaluated Sum-Eng results after TL from Es-Eng	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|7   	| Sunday  	|   2020/06/07	|  Back Translated all shards (1M Sumerian) and evaluated results 	|  
