@@ -18,5 +18,5 @@ To be updated on 2020/07/19.
 |3   	| Wednesday  	|  2020/07/15 	| a. WIP: Simple Search using ElasticSearch.  	|  
 |4   	| Thursday  	|   2020/07/16	| a. WIP: Simple Search using ElasticSearch (Query Formation).  	|  
 |5   	| Friday  	|   2020/07/17	|  a. WIP: Simple Search using ElasticSearch (Query Formation).	|  
-|6   	| Saturday  	|   2020/07/18	|   	|  
+|6   	| Saturday  	|   2020/07/18	| a. WIP: Simple Search using ElasticSearch (Sample search result display). 	|  
 |7   	| Sunday  	|   2020/07/19	|   	|  
