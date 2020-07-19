@@ -27,4 +27,4 @@ A complete report of the work done during the week must be written here.
 |4   	| Thursday  	|   2020/07/09	|   	|  
 |5   	| Friday  	|   2020/07/10	|   	|  
 |6   	| Saturday  	|   2020/07/11	| Fixed markup on desktop layout and rectified issues on the stylesheet for desktop and mobile layout   	|  
-|7   	| Sunday  	|   2020/07/12	|   	|  
+|7   	| Sunday  	|   2020/07/12	| Update layout for export options on Objects page and accessibility changes  	|  
