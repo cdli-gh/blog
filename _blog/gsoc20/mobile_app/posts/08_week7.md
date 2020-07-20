@@ -21,10 +21,10 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|1   	| Monday 	|   2020/07/20	|Added navigation drawer for the mobile app.   	|  
+|2   	| Tuesday  	|   2020/07/21	|   	|  
+|3   	| Wednesday  	|  2020/07/22 	|   	|  
+|4   	| Thursday  	|   2020/07/23	|   	|  
+|5   	| Friday  	|   2020/07/24	|   	|  
+|6   	| Saturday  	|   2020/07/25	|   	|  
+|7   	| Sunday  	|   2020/07/26	|   	|  
