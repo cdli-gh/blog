@@ -4,27 +4,19 @@ title: bibliography Eval#2 Week#7
 author: "Ajit"
 tags: ["week","gsoc","gsoc2020","bibliography","eval#2","week#7"]
 ---
-Welcome of CDLI Blogs.
-
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
-
+This week, I majorly worked on completing the merge publications feature. The entire workflow for the feature was completed for saving the merged publication along with the merged associated artifacts list. The display for publications and search for filtering the publications list will be done as next tasks.
 
 ## Daily Work Update
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|1   	| Monday 	|   2020/06/13	|  Layout and workflow for merge publications. 	|  
+|2   	| Tuesday  	|   2020/06/14	|  Layout and workflow for merge publications. 	|  
+|3   	| Wednesday  	|  2020/06/15 	|  Layout and workflow for merge publications. 	|  
+|4   	| Thursday  	|   2020/06/16	|  Merge and save associated artifacts. 	|  
+|5   	| Friday  	|   2020/06/17	|  Merge and save associated artifacts. 	|  
+|6   	| Saturday  	|   2020/06/18	|  Fixed bibtexkey autocomplete bugs for artifacts-publications pages. 	|  
+|7   	| Sunday  	|   2020/06/19	|   	|  

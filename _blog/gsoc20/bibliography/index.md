@@ -22,7 +22,7 @@ easily manageable by the admin, and also have a nice linked display.
 | 1 |:white_check_mark:|  Manage publications and authors | Creating add, edit and delete functions for the publications and authors pages. | #122 |
 | 2 |:heavy_check_mark: | Link publications | Feature for linking publications with artifacts, editors and authors.   |    #122, #274      |
 | 3 |  | Bulk upload publications      | Feature for bulk uploading publications to the database using CSV files.            |   #122       |
-| 4 | :heavy_check_mark: | BUlk link publications | Feature for bulk linking publications to artifacts, authors and editors using CSV files. | #122 |
+| 4 | :heavy_check_mark: | Bulk link publications | Feature for bulk linking publications to artifacts, authors and editors using CSV files. | #122 |
 | 5 |  | Export citations   | Feature for bulk exporting citations realted to artifacts from the search results.  |   #122       |
 | 6 |  | Documentation           | User and technical documentation for all the features.             |          |
 
@@ -48,10 +48,10 @@ List of tasks which need to be co-ordinated with other developers:
 |1| :heavy_check_mark: Implement linking of artifacts to the selected publication through the view page of the publication. <br> :heavy_check_mark: Implement linking of publications to the selected artifact through the view page of the artifact. <br> :heavy_check_mark: Implement linking of authors to the selected publication through the view page of the publication. <br> :heavy_check_mark: Implement linking of publications to the selected author through the view page of the author. |  :heavy_check_mark: Features for linking publications with artifacts and authors. |
 |2| :heavy_check_mark: Implement linking publications to editors using the Author-Publication link pages. <br> :heavy_check_mark: Fixing bugs in the view pages and, creating add, edit and delete functions for authors data.  | :heavy_check_mark: Feature for linking editors and publications. <br> :heavy_check_mark: Features for managing authors data.  |
 |3| :heavy_check_mark: Implement bulk linking of publications to artifacts using CSV file uploads. (making components for the task for easy reusability for similar tasks).  | :heavy_check_mark: Bulk upload for linking publications to artifacts.  |
-|4| :heavy_check_mark: Implement bulk linking of publications to authors using CSV files. <br> :heavy_check_mark: Implement bulk linking of publications to editors using CSV files. <br> :heavy_check_mark: Creating add, edit and delete functions for publication data. <br>  :white_check_mark: Making some data input and display improvements to the link artifacts-publications features.  | :heavy_check_mark: Bulk upload for linking publications to authors and editors. <br> :heavy_check_mark: Feature for managing publications data. <br> Improvements to the artifacts-publications link features. |
-|5| Implement bulk upload of publications using CSV files. <br> Design and implement merge publication feature. <!-- <br> Add search integration for the merge publication feature. Document the completed features <br> (tentative) Finalize details for linking entities with bibliographies and start working on it. -->  | Feature for bulk upload of publications. <br> Entire structure for merge publications feature. |
-|6|   |   |
-|7|   |   |
+|4| :heavy_check_mark: Implement bulk linking of publications to authors using CSV files. <br> :heavy_check_mark: Implement bulk linking of publications to editors using CSV files. <br> :heavy_check_mark: Creating add, edit and delete functions for publication data. <br>  :heavy_check_mark: Making some data input and display improvements to the link artifacts-publications features.  | :heavy_check_mark: Bulk upload for linking publications to authors and editors. <br> :heavy_check_mark: Feature for managing publications data. |
+|5| :white_check_mark: Implement bulk upload of publications using CSV files. (While most of the work is done, a bug fix is remaining which has not been figured out yet). | :white_check_mark: Feature for bulk upload of publications. <br>  |
+|6| :heavy_check_mark: Bug fixes for the previous features.  | -  |
+|7| :heavy_check_mark: Design and implement merge publication feature.   | :heavy_check_mark: Entire structure for merge publications feature.  |
 |8|   |   |
 |9|   |   | 
 |10|  |   |
