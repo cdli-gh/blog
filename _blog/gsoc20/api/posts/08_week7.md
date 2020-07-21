@@ -13,7 +13,9 @@ Other deliverables to complete:
 
 ## Week Summary
 
-
+The merge request for updating the database models has held my merge requests back.
+Apart from that, I have been working on other things. The deliverable is not
+finished.
 
 ## Daily Work Update
 
@@ -25,4 +27,4 @@ Other deliverables to complete:
 | 4 | Thu | 2020/07/16 |  |
 | 5 | Fri | 2020/07/17 |  |
 | 6 | Sat | 2020/07/18 |  |
-| 7 | Sun | 2020/07/19 |  |
+| 7 | Sun | 2020/07/19 | Review merge request ([!150](https://gitlab.com/cdli/framework/-/merge_requests/150)) |

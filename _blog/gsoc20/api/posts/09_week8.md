@@ -1,30 +1,31 @@
 ---
 layout: page
-title: api Eval#2 Week#8
+title: "API Week #8: More Linked Data"
 author: "Lars Willighagen"
-tags: ["draft","week","gsoc","gsoc2020","api","eval#2","week#8"]
+tags: ["week","gsoc","gsoc2020","api","eval#2","week#8"]
 ---
-Welcome of CDLI Blogs.
 
-Please update the author name and add tags too. 
+Deliverable: Finish links to journal system\*
 
-This page should contain the report made for every week.
+\* Journal system may not be ready for that yet
 
-Replace Project# with your project name.
+Other deliverables to complete:
+  - Functional API for linked data (RDF and JSON-LD)
+  - Documentation and URIs for the schema of RDF, XML and JSON-LD files
+  - Functional API for inscriptions and annotations (see [!149](https://gitlab.com/cdli/framework/-/merge_requests/149))
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
 
 
 ## Daily Work Update
 
-|\#|Day|Date|A short description of the work done|  
-|---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+| # | Day | Date       | A short description of the work done |
+|---|-----|------------|--------------------------------------|
+| 1 | Mon | 2020/07/13 | Make JSON API, research XML and JSON-LD/RDF APIs |
+| 2 | Tue | 2020/07/14 |  |
+| 3 | Wed | 2020/07/15 |  |
+| 4 | Thu | 2020/07/16 |  |
+| 5 | Fri | 2020/07/17 |  |
+| 6 | Sat | 2020/07/18 |  |
+| 7 | Sun | 2020/07/19 |  |
