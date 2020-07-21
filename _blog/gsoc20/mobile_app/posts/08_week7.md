@@ -22,7 +22,7 @@ A complete report of the work done during the week must be written here.
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2020/07/20	|Added navigation drawer for the mobile app.   	|  
-|2   	| Tuesday  	|   2020/07/21	|   	|  
+|2   	| Tuesday  	|   2020/07/21	|Fixed navigation drawer. Made changes to overall design of the mobile app.   	|  
 |3   	| Wednesday  	|  2020/07/22 	|   	|  
 |4   	| Thursday  	|   2020/07/23	|   	|  
 |5   	| Friday  	|   2020/07/24	|   	|  
