@@ -56,13 +56,13 @@ Feedback from prospective users will guide the exact format of the visualization
 |1| ~~Entry segmentation~~ & ~~Commodity identification~~   |   Scripts for ~~(i) segmentation~~; ~~(ii) commodity labeling~~  |  
 |2| ~~Data extraction~~  | Script to convert corpus text file into JSON data  |  
 |3| ~~Full pipeline complete~~  | API endpoint which serves extracted data. Need to update to fetch most recent corpus as soon as the new search API is ready.  |  
-|4| Sketches and feedback; start filtering tools  | Sketches delivered to prospective users  |  
-|5| Filtering tools  | Script implementing filtering tools: query &#8614; list of matching texts  |  
-|6| Start Viz Work | Demo  |  
-|7| Viz  | Demo  |  
-|8| Viz  | Demo  |  
-|9| Finalize Viz | Final Demo  |  
-|10| Test cross-browser compatibility & visual polish  |   |  
-|11| User guide, begin framework integration  |   |  
-|12| Integration with CDLI framework  |   |
+|4| ~~Sketches and feedback; start filtering tools~~  | Sketches delivered to prospective users  |  
+|5| ~~Start Viz Work~~ |       |  
+|6| ~~Viz~~  |       |  
+|7| ~~Integration with CDLI framework~~  | Demo  |
+|8| Viz: implement demo feedback  | Demo  |  
+|9| Finalize viz interface | Final Demo  |  
+|10| Filtering tools  | Script implementing filtering tools: query &#8614; list of matching texts  |  
+|11| Test cross-browser compatibility & visual polish  |   |  
+|12| User guide |	|
 
