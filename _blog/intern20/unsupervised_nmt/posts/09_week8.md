@@ -21,7 +21,7 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|  Tried Training but CUDA Issues persist 	|  
+|1   	| Monday 	|   2020/06/01	|  Tried Training but CUDA Issues persist, prepared and pushed all code 	|  
 |2   	| Tuesday  	|   2020/06/02	|   	|  
 |3   	| Wednesday  	|  2020/06/03 	|   	|  
 |4   	| Thursday  	|   2020/06/04	|   	|  
