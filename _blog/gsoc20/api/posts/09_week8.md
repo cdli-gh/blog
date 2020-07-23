@@ -25,7 +25,7 @@ Other deliverables to complete:
 | 1 | Mon | 2020/07/13 | Make JSON API, research XML and JSON-LD/RDF APIs |
 | 2 | Tue | 2020/07/14 | Make XML API |
 | 3 | Wed | 2020/07/15 | Make all linked-data APIs, generate schema documentation |
-| 4 | Thu | 2020/07/16 |  |
+| 4 | Thu | 2020/07/16 | Have [!134](https://gitlab.com/cdli/framework/-/merge_requests/134) merged; update WIP merge request ([!146](https://gitlab.com/cdli/framework/-/merge_requests/146)) |
 | 5 | Fri | 2020/07/17 |  |
 | 6 | Sat | 2020/07/18 |  |
 | 7 | Sun | 2020/07/19 |  |
