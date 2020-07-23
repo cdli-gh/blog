@@ -23,8 +23,8 @@ Other deliverables to complete:
 | # | Day | Date       | A short description of the work done |
 |---|-----|------------|--------------------------------------|
 | 1 | Mon | 2020/07/13 | Make JSON API, research XML and JSON-LD/RDF APIs |
-| 2 | Tue | 2020/07/14 |  |
-| 3 | Wed | 2020/07/15 |  |
+| 2 | Tue | 2020/07/14 | Make XML API |
+| 3 | Wed | 2020/07/15 | Make all linked-data APIs, generate schema documentation |
 | 4 | Thu | 2020/07/16 |  |
 | 5 | Fri | 2020/07/17 |  |
 | 6 | Sat | 2020/07/18 |  |
