@@ -21,10 +21,10 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|1   	| Monday 	|   2020/06/01	|  Fine tunning language model for pos 	|  
+|2   	| Tuesday  	|   2020/06/02	|  Fine tunning Langueg model for ner 	|  
+|3   	| Wednesday  	|  2020/06/03 	| Working on combination of word embeddings along with flair embeddings	|  
+|4   	| Thursday  	|   2020/06/04	|  Parameter tunning 	|  
+|5   	| Friday  	|   2020/06/05	|   Prameter tunning	|  
+|6   	| Saturday  	|   2020/06/06	|  Integrating FLAIR Model with pipeline |  
+|7   	| Sunday  	|   2020/06/07	|  updating atf2conll formatting and applying for 1.5M summerian text	|  
