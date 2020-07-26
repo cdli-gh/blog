@@ -17,10 +17,10 @@ A complete report of the work done during the week must be written here.<br><br>
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/07/06	|-   	|  
-|2   	| Tuesday  	|   2020/07/07	|-   	|  
-|3   	| Wednesday  	|  2020/07/08 	|-   	|  
-|4   	| Thursday  	|   2020/07/09	|Admin panel.   	|  
-|5   	| Friday  	|   2020/07/10	|Admin panel.   	|  
-|6   	| Saturday  	|   2020/07/11	|Admin panel.   	|  
-|7   	| Sunday  	|   2020/07/12	|-   	|  
+|1   	| Monday 	|   2020/06/29	|-   	|  
+|2   	| Tuesday  	|   2020/06/30	|-   	|  
+|3   	| Wednesday  	|  2020/07/01 	|-   	|  
+|4   	| Thursday  	|   2020/07/02	|Admin panel.   	|  
+|5   	| Friday  	|   2020/07/03	|Admin panel.   	|  
+|6   	| Saturday  	|   2020/07/04	|Admin panel.   	|  
+|7   	| Sunday  	|   2020/07/05	|-   	|  
