@@ -6,15 +6,16 @@ tags: ["week","gsoc","gsoc2020","journals","eval#2","week#8"]
 ---
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
+This is the evaluation week I've completed all the needed task for this milestone, I'll raise a PR and complete all testing.
+Also create a video demonstrations for my peers.
 
 
 ## Daily Work Update
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/07/27	|   	|  
-|2   	| Tuesday  	|   2020/07/28	|   	|  
+|1   	| Monday 	|   2020/07/27	|  Working on PR 	|  
+|2   	| Tuesday  	|   2020/07/28	|    	|  
 |3   	| Wednesday  	|  2020/07/29 	|   	|  
 |4   	| Thursday  	|   2020/07/30	|   	|  
 |5   	| Friday  	|   2020/07/31	|   	|  
