@@ -22,7 +22,7 @@ A complete report of the work done during the week must be written here.
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2020/07/27	|Completed the help and feedback form. Fixed some issues related to the admin panel.    	|  
-|2   	| Tuesday  	|   2020/07/28	|Updates on add.ctp file. Used Bootstrap for interface components and added validation to input fields.    	|  
+|2   	| Tuesday  	|   2020/07/28	|Updated add.ctp file. Used Bootstrap for interface components and added validation to input fields.    	|  
 |3   	| Wednesday  	|  2020/07/29 	|   	|  
 |4   	| Thursday  	|   2020/07/30	|   	|  
 |5   	| Friday  	|   2020/07/31	|   	|  
