@@ -21,10 +21,10 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/07/13	| Proxy setup |  
-|2   	| Tuesday  	|   2020/07/14	| Proxy Setup|  
-|3   	| Wednesday  	|  2020/07/15 	| Algorithm Flatbed Scan |  
-|4   	| Thursday  	|   2020/07/16	| Algorithm Flatbed Scan |  
-|5   	| Friday  	|   2020/07/05	|   	|  
-|6   	| Saturday  	|   2020/07/06	|   	|  
-|7   	| Sunday  	|   2020/07/07	|   	|  
+|1   	| Monday 	|   2020/07/20	| Proxy setup |  
+|2   	| Tuesday  	|   2020/07/21	| Proxy Setup|  
+|3   	| Wednesday  	|  2020/07/22 	| Algorithm Flatbed Scan |  
+|4   	| Thursday  	|   2020/07/23	| Algorithm Flatbed Scan |  
+|5   	| Friday  	|   2020/07/24	| Task Queue |  
+|6   	| Saturday  	|   2020/07/25	| File Service Integration |  
+|7   	| Sunday  	|   2020/07/26	| File Service Integration |  

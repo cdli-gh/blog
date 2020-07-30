@@ -21,10 +21,10 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/07/06	| Controller Upload |  
-|2   	| Tuesday  	|   2020/07/07	| Controller Upload |  
-|3   	| Wednesday  	|  2020/07/08 	| Algorithm FlatBed Scan |  
-|4   	| Thursday  	|   2020/07/09	| Algorithm FlatBed Scan |  
-|5   	| Friday  	|   2020/07/10	| Algorithm FlatBed Scan |  
-|6   	| Saturday  	|   2020/07/11	| Nginx Config |  
-|7   	| Sunday  	|   2020/07/12	| Nginx Config |  
+|1   	| Monday 	|   2020/07/13	| Controller Upload |  
+|2   	| Tuesday  	|   2020/07/14	| Controller Upload |  
+|3   	| Wednesday  	|  2020/07/15 	| Algorithm FlatBed Scan |  
+|4   	| Thursday  	|   2020/07/16	| Algorithm FlatBed Scan |  
+|5   	| Friday  	|   2020/07/17	| Algorithm FlatBed Scan |  
+|6   	| Saturday  	|   2020/07/18	| Nginx Config |  
+|7   	| Sunday  	|   2020/07/19	| Nginx Config |  
