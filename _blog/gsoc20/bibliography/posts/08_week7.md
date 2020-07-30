@@ -13,10 +13,10 @@ This week, I majorly worked on completing the merge publications feature. The en
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/13	|  Layout and workflow for merge publications. 	|  
-|2   	| Tuesday  	|   2020/06/14	|  Layout and workflow for merge publications. 	|  
-|3   	| Wednesday  	|  2020/06/15 	|  Layout and workflow for merge publications. 	|  
-|4   	| Thursday  	|   2020/06/16	|  Merge and save associated artifacts. 	|  
-|5   	| Friday  	|   2020/06/17	|  Merge and save associated artifacts. 	|  
-|6   	| Saturday  	|   2020/06/18	|  Fixed bibtexkey autocomplete bugs for artifacts-publications pages. 	|  
-|7   	| Sunday  	|   2020/06/19	|   	|  
+|1   	| Monday 	|   2020/07/13	|  Layout and workflow for merge publications. 	|  
+|2   	| Tuesday  	|   2020/07/14	|  Layout and workflow for merge publications. 	|  
+|3   	| Wednesday  	|  2020/07/15 	|  Layout and workflow for merge publications. 	|  
+|4   	| Thursday  	|   2020/07/16	|  Merge and save associated artifacts. 	|  
+|5   	| Friday  	|   2020/07/17	|  Merge and save associated artifacts. 	|  
+|6   	| Saturday  	|   2020/07/18	|  Fixed bibtexkey autocomplete bugs for artifacts-publications pages. 	|  
+|7   	| Sunday  	|   2020/07/19	|   	|  

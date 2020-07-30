@@ -21,10 +21,10 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/01	|   	|  
-|2   	| Tuesday  	|   2020/06/02	|   	|  
-|3   	| Wednesday  	|  2020/06/03 	|   	|  
-|4   	| Thursday  	|   2020/06/04	|   	|  
-|5   	| Friday  	|   2020/06/05	|   	|  
-|6   	| Saturday  	|   2020/06/06	|   	|  
-|7   	| Sunday  	|   2020/06/07	|   	|  
+|1   	| Monday 	|   2020/07/27	|Completed the help and feedback form. Fixed some issues related to the admin panel.    	|  
+|2   	| Tuesday  	|   2020/07/28	|Updated add.ctp file. Used Bootstrap for interface components and added validation to input fields. Updated edit.ctp file.    	|  
+|3   	| Wednesday  	|  2020/07/29 	|Fixed the view of displaying data in a tabular format. Added the edit date only functionality.    	|  
+|4   	| Thursday  	|   2020/07/30	|   	|  
+|5   	| Friday  	|   2020/07/31	|   	|  
+|6   	| Saturday  	|   2020/08/01	|   	|  
+|7   	| Sunday  	|   2020/08/02	|   	|  
