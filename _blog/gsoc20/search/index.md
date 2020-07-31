@@ -114,20 +114,20 @@ Objectives are separated in two categories: essential and additional, they are a
             <td>a. To view, add or remove the roles of users of the system.</td>
         </tr>
         <tr>
-            <td rowspan=2>B. System setup for roles viz. Users, Editors and Granular Access.</td>
-            <td rowspan=2 align="center"> :man_technologist: </td>
+            <td rowspan=2>B. System setup for roles Users and Granular Access. (Granular Access will be addressed in 3rd phase.)</td>
+            <td rowspan=2 align="center"> :heavy_check_mark: :man_technologist: </td>
             <td>a. System should display contents based on roles as described in objectives.</td>
         </tr>
         <tr>
             <td>b. Testing web pages in the system.</td>
         </tr>
         <tr>
-            <td rowspan=2>C. System setup for the Admin role.</td>
-            <td rowspan=2 align="center"> :man_technologist: </td>
-            <td>a. Admin should be able to access all pages.</td>
+            <td rowspan=2>C. System setup for the Admin, Editor role.</td>
+            <td rowspan=2 align="center"> :heavy_check_mark: </td>
+            <td>a. Admin & Editor should be able to access all pages.</td>
         </tr>
         <tr>
-            <td>b. Re-testing of web pages according to admin role.</td>
+            <td>b. Re-testing of web pages according to admin & Editor role.</td>
         </tr>
         <tr>
             <td rowspan=1>D. Documenting Role based Access.</td>
@@ -153,7 +153,7 @@ Objectives are separated in two categories: essential and additional, they are a
         </tr>
         <tr>
             <td rowspan=2>D. Documentation & Report for Phase-1.</td>
-            <td rowspan=2 align="center"></td>
+            <td rowspan=2 align="center"> :heavy_check_mark: </td>
             <td>a. Phase-1: all implementation should be documented. </td>
         </tr>
         <tr>
@@ -161,31 +161,42 @@ Objectives are separated in two categories: essential and additional, they are a
         </tr>
         <!-- Week-5 -->
         <tr>
-            <td rowspan=1 align="center"> 5 </td>
-            <td rowspan=1></td>
-            <td rowspan=1 align="center"></td>
-            <td></td>
+            <td rowspan=2 align="center"> 5 </td>
+            <td rowspan=1> A. Overall Setup for Admin, Editor and public roles. </td>
+            <td rowspan=1 align="center"> :heavy_check_mark: </td>
+            <td>a. Access setup completed except for Granular Roles. </td>
         </tr>
-        <!-- Week-6 -->
         <tr>
-            <td rowspan=1 align="center"> 6 </td>
-            <td rowspan=1></td>
-            <td rowspan=1 align="center"></td>
-            <td></td>
+            <td rowspan=1>B. Minor issues : Optional 2FA in development mode.</td>
+            <td rowspan=1 align="center"> :heavy_check_mark: </td>
+            <td>a. Implemented required changes for development mode. </td>
         </tr>
-        <!-- Week-7 -->
+        <!-- Week-6 - 7 - 8-->
         <tr>
-            <td rowspan=1 align="center"> 7 </td>
-            <td rowspan=1></td>
-            <td rowspan=1 align="center"></td>
-            <td></td>
+            <td rowspan=5 align="center"> 6 - 8 </td>
+            <td rowspan=1> A. Setting up ElasticSearch </td>
+            <td rowspan=1 align="center"> :heavy_check_mark: </td>
+            <td> a. ElasticSearch is configured along with Logstash and ElasticSearch API’s queries works as expected. </td>
         </tr>
-        <!-- Week-8 -->
         <tr>
-            <td rowspan=1 align="center"> 8 </td>
-            <td rowspan=1></td>
-            <td rowspan=1 align="center"></td>
-            <td></td>
+            <td rowspan=1> B. Creating ElasticSearch indices using Logstash. </td>
+            <td rowspan=1 align="center"> :heavy_check_mark: </td>
+            <td>a. ElasticSearch indices created from data in MySQL Database. </td>
+        </tr>
+        <tr>
+            <td rowspan=1> C. Simple Search with ElasticSearch. </td>
+            <td rowspan=1 align="center"> :heavy_check_mark: </td>
+            <td>a. Simple search works as expected using ElasticSearch. (4 out of 6 Search Categories)</td>
+        </tr>
+      <tr>
+            <td rowspan=1> D. Testing Simple Search. </td>
+            <td rowspan=1 align="center"> :heavy_check_mark: </td>
+            <td>a. Compared to previous simple search implementation, the results are retrieved within a span seconds. </td>
+        </tr>
+      <tr>
+            <td rowspan=1> E. Expanded and Compact View. </td>
+            <td rowspan=1 align="center"> :heavy_check_mark: </td>
+            <td>a. Users can view the search results in expanded and compact view format. </td>
         </tr>
         <!-- Week-9 -->
         <tr>
