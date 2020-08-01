@@ -14,7 +14,7 @@ Replace Project# with your project name.
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
+This week I worked on building the main functionalities of the admin panel. I included the table in the DB to store the data which will be fetched to be displayed in the mobile app. I also worked on CRUD operations.<br><br>
 
 
 ## Daily Work Update
