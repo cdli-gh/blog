@@ -21,10 +21,10 @@ A complete report of the work done during the week must be written here.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/27	|UI updates on 150 and ported stylesheet|  
-|2   	| Tuesday  	|   2020/06/28	|   	|  
-|3   	| Wednesday  	|  2020/06/29 	|Reviewd PR 148 and evened out PR 146   	|  
-|4   	| Thursday  	|   2020/06/30	|   	|  
-|5   	| Friday  	|   2020/06/31	| Concluded change on PR 150 and opened a issue(305) about leftover stuff from 150  	|  
-|6   	| Saturday  	|   2020/06/1	|   	|  
-|7   	| Sunday  	|   2020/06/2	|   	|  
+|1   	| Monday 	|   2020/07/27	|UI updates on 150 and ported stylesheet|  
+|2   	| Tuesday  	|   2020/07/28	|   	|  
+|3   	| Wednesday  	|  2020/07/29 	|Reviewd PR 148 and evened out PR 146   	|  
+|4   	| Thursday  	|   2020/07/30	|   	|  
+|5   	| Friday  	|   2020/07/31	| Concluded change on PR 150 and opened a issue(305) about leftover stuff from 150  	|  
+|6   	| Saturday  	|   2020/08/1	|   	|  
+|7   	| Sunday  	|   2020/08/2	|   	|  
