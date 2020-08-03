@@ -12,13 +12,15 @@ This week started with fixing of errors which were remaining for the bulk upload
 
 
 Also, the remaining changes to the artifacts_publications pages were made which also included the publications reference display using Bibliography API on all the required pages.
-
+The publications and artifacts data cards are shown below in the image of a sample edit page. Similar information cards were added for add features on the appropriate pages.
+![screencapture-127-0-0-1-2354-admin-artifacts-publications-edit-1-2020-07-30-14_38_52](https://user-images.githubusercontent.com/35206075/88910419-134edd00-d27a-11ea-8076-0ca231072538.png)
 
 After this, work for integrating authors and editors input with the publications add/edit pages was completed.
-
+Publications add page is shown below.
+![screencapture-127-0-0-1-2354-admin-publications-add-2020-07-30-14_43_13](https://user-images.githubusercontent.com/35206075/88910412-11851980-d27a-11ea-9fa7-be39a6bb1ebd.png)
 
 Finally, issues regarding data validation for authors data pages were fixed. This included changing the data saving format for Asian order names as well as requiring input of atleast first or last name for saving the data.
-
+![Screenshot from 2020-07-30 14-32-57](https://user-images.githubusercontent.com/35206075/88910297-ea2e4c80-d279-11ea-8348-4fc18b7cd1aa.png)
 
 ## Daily Work Update
 

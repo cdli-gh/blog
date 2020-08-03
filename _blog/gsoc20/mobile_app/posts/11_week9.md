@@ -6,15 +6,11 @@ tags: ["week","gsoc","gsoc2020","mobile_app","eval#3","week#9"]
 ---
 Welcome of CDLI Blogs.
 
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
+This page contains reports made for every week.<br><br>
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
+This week I worked on the admin panel. I tested CRUD operations, fixed some errors/issues, and updated the template pages layouts.<br><br>
 
 
 ## Daily Work Update
@@ -24,7 +20,7 @@ A complete report of the work done during the week must be written here.
 |1   	| Monday 	|   2020/07/27	|Completed the help and feedback form. Fixed some issues related to the admin panel.    	|  
 |2   	| Tuesday  	|   2020/07/28	|Updated add.ctp file. Used Bootstrap for interface components and added validation to input fields. Updated edit.ctp file.    	|  
 |3   	| Wednesday  	|  2020/07/29 	|Fixed the view of displaying data in a tabular format. Added the edit date only functionality.    	|  
-|4   	| Thursday  	|   2020/07/30	|   	|  
-|5   	| Friday  	|   2020/07/31	|   	|  
-|6   	| Saturday  	|   2020/08/01	|   	|  
-|7   	| Sunday  	|   2020/08/02	|   	|  
+|4   	| Thursday  	|   2020/07/30	|Work related to the admin panel.   	|  
+|5   	| Friday  	|   2020/07/31	|-   	|  
+|6   	| Saturday  	|   2020/08/01	|Fixed minor issues and errors. Worked on view template page using Bootstrap cards.   	|  
+|7   	| Sunday  	|   2020/08/02	|Fixed Edit/Change Date/Delete actions. Added pagination to view.ctp and manage_data.ctp pages. Used DOMDocument to parse HTML in CakePHP.   	|  

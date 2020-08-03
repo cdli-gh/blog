@@ -6,15 +6,11 @@ tags: ["week","gsoc","gsoc2020","mobile_app","eval#2","week#6"]
 ---
 Welcome of CDLI Blogs.
 
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
+This page contains reports made for every week.<br><br>
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
+This week I worked on building the main functionalities of the admin panel. I included the table in the DB to store the data which will be fetched to be displayed in the mobile app. I also worked on CRUD operations.<br><br>
 
 
 ## Daily Work Update

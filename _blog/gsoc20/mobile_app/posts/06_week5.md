@@ -10,7 +10,7 @@ This page contains reports made for every week.<br><br>
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here.<br><br>
+I started working on the web admin interface.<br><br>
 
 
 ## Daily Work Update
