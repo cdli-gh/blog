@@ -23,4 +23,4 @@ This week I worked on the admin panel. I tested CRUD operations, fixed some erro
 |4   	| Thursday  	|   2020/07/30	|Work related to the admin panel.   	|  
 |5   	| Friday  	|   2020/07/31	|-   	|  
 |6   	| Saturday  	|   2020/08/01	|Fixed minor issues and errors. Worked on view template page using Bootstrap cards.   	|  
-|7   	| Sunday  	|   2020/08/02	|Fixed Edit/Change Date/Delete actions. Added pagination to manage_data.ctp page.   	|  
+|7   	| Sunday  	|   2020/08/02	|Fixed Edit/Change Date/Delete actions. Added pagination to view.ctp and manage_data.ctp pages.   	|  
