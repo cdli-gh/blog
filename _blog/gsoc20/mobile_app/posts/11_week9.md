@@ -27,4 +27,4 @@ A complete report of the work done during the week must be written here.
 |4   	| Thursday  	|   2020/07/30	|Work related to the admin panel.   	|  
 |5   	| Friday  	|   2020/07/31	|-   	|  
 |6   	| Saturday  	|   2020/08/01	|Fixed minor issues and errors. Worked on view template page using Bootstrap cards.   	|  
-|7   	| Sunday  	|   2020/08/02	|   	|  
+|7   	| Sunday  	|   2020/08/02	|Fixed Edit/Change Date/Delete actions. Added pagination to manage_data.ctp page.   	|  
