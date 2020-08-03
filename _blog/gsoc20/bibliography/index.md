@@ -23,23 +23,16 @@ easily manageable by the admin, and also have a nice linked display.
 | 2 |:heavy_check_mark: | Link publications | Feature for linking publications with artifacts, editors and authors.   |    #122, #274      |
 | 3 | :heavy_check_mark: | Bulk upload publications      | Feature for bulk uploading publications to the database using CSV files.            |   #122       |
 | 4 | :heavy_check_mark: | Bulk link publications | Feature for bulk linking publications to artifacts, authors and editors using CSV files. | #122 |
-| 5 |  | Export citations   | Feature for bulk exporting citations realted to artifacts from the search results.  |   #122       |
-| 6 |  | Documentation      | User and technical documentation for all the features.             |          |
+| 5 |  | Documentation      | User and technical documentation for all the features.             |          |
 
 
 ### Additional Objectives
 
 | | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
-| 1 |  | Merge publications | Admin feature for merging publications with search for publications. |         |
+| 1 | :white_check_mark: | Merge publications | Admin feature for merging publications with search for publications. |         |
 | 2 |  | Link entities | Linking entities with bibliographies.       |          |
 
-
-### Dependent Tasks
-List of tasks which need to be co-ordinated with other developers:
-
-- :heavy_check_mark: Handling the bulk export citation interface using bibliography API.
-- Changing the publication table view to list of bibliographies using bibliography API.
 
 ### Tentative timeline  
 
@@ -53,7 +46,7 @@ List of tasks which need to be co-ordinated with other developers:
 |6| :heavy_check_mark: Bug fixes for the previous features.  | -  |
 |7| :heavy_check_mark: Design and implement merge publication feature.   | :heavy_check_mark: Entire structure for merge publications feature.  |
 |8| :heavy_check_mark: Integrating add authors and editors for the publications data management pages. <br> :heavy_check_mark: Design changes for artifacts-publications pages. |:heavy_check_mark: Publications data management pages. |
-|9|   |   | 
+|9| :heavy_check_mark: Implement publication index and view pages.  | :heavy_check_mark: Publication view and index.  | 
 |10|  |   |
 |11| Final thorough testing for all features and bug fixes. <br> Finalizing the user and developer documentations.   | Completed documentation and bug fixes.  |
 |12| Buffer time for any remaining bug fixes and documentation. Final report for all the work done.  | -  |
