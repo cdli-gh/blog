@@ -34,6 +34,6 @@ Week 8:
 |2   	| Tuesday  	|   2020/06/02	| Set figure state from URL parameters on page load. |  
 |3   	| Wednesday  	|  2020/06/03 	| Make similar item histograms use log scale, for easier comparison to the main histogram. Update sign mapping with new values incl. urud-da = uruda. Add autocomplete to search bar, to help find unexpected spellings. |  
 |4   	| Thursday  	|   2020/06/04	| Weekly meeting. |  
-|5   	| Friday  	|   2020/06/05	| |  
+|5   	| Friday  	|   2020/06/05	| Profile and optimize JS code for faster load times. |  
 |6   	| Saturday  	|   2020/06/06	| 	|  
 |7   	| Sunday  	|   2020/06/07	|   	|  
