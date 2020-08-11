@@ -23,7 +23,7 @@ easily manageable by the admin, and also have a nice linked display.
 | 2 |:heavy_check_mark: | Link publications | Feature for linking publications with artifacts, editors and authors.   |    #122, #274      |
 | 3 | :heavy_check_mark: | Bulk upload publications      | Feature for bulk uploading publications to the database using CSV files.            |   #122       |
 | 4 | :heavy_check_mark: | Bulk link publications | Feature for bulk linking publications to artifacts, authors and editors using CSV files. | #122 |
-| 5 |  | Documentation      | User and technical documentation for all the features.             |          |
+| 5 | :white_check_mark: | Documentation      | User and technical documentation for all the features.             |          |
 
 
 ### Additional Objectives
@@ -31,7 +31,7 @@ easily manageable by the admin, and also have a nice linked display.
 | | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
 | 1 | :heavy_check_mark: | Merge publications | Admin feature for merging publications with search for publications. |         |
-| 2 | :white_check_mark: | Link entities | Linking entities with bibliographies.       |          |
+| 2 |  | Link entities | Linking entities with bibliographies.       |          |
 
 
 ### Tentative timeline  
