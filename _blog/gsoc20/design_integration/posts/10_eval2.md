@@ -17,7 +17,7 @@ The layout for Advance search, search settings, Image view and Object view page 
 - [x] Achieve WCAG-A accessibility 
 
 ## Difficulties
-Understood core concepts of cakePhp and importance of Helpers
+ Code repetetion and confusion with the core concepts of php were quite bothering at first but now I understood core concepts of cakePhp and importance of Helpers
 
 ## Plan update
 I completed all the tasks mentioned in my proposal, for the third phase I'll be working on the following:
