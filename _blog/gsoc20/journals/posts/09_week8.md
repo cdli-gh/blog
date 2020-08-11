@@ -15,9 +15,9 @@ Also create a video demonstrations for my peers.
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2020/07/27	|  Working on PR 	|  
-|2   	| Tuesday  	|   2020/07/28	|    	|  
-|3   	| Wednesday  	|  2020/07/29 	|   	|  
-|4   	| Thursday  	|   2020/07/30	|   	|  
-|5   	| Friday  	|   2020/07/31	|   	|  
-|6   	| Saturday  	|   2020/08/01	|   	|  
-|7   	| Sunday  	|   2020/08/02	|   	|  
+|2   	| Tuesday  	|   2020/07/28	| Raised a PR   	|  
+|3   	| Wednesday  	|  2020/07/29 	| Integrate converter to CDLJ part-2 	|  
+|4   	| Thursday  	|   2020/07/30	|  Fix issues with integration 	|  
+|5   	| Friday  	|   2020/07/31	|  Improve cdlj template	|  
+|6   	| Saturday  	|   2020/08/01	|  Fix converter issues 	|  
+|7   	| Sunday  	|   2020/08/02	|  Fix converter issues 	|  
