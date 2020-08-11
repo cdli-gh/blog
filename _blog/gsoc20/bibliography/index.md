@@ -30,8 +30,8 @@ easily manageable by the admin, and also have a nice linked display.
 
 | | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
-| 1 | :white_check_mark: | Merge publications | Admin feature for merging publications with search for publications. |         |
-| 2 |  | Link entities | Linking entities with bibliographies.       |          |
+| 1 | :heavy_check_mark: | Merge publications | Admin feature for merging publications with search for publications. |         |
+| 2 | :white_check_mark: | Link entities | Linking entities with bibliographies.       |          |
 
 
 ### Tentative timeline  
@@ -47,7 +47,7 @@ easily manageable by the admin, and also have a nice linked display.
 |7| :heavy_check_mark: Design and implement merge publication feature.   | :heavy_check_mark: Entire structure for merge publications feature.  |
 |8| :heavy_check_mark: Integrating add authors and editors for the publications data management pages. <br> :heavy_check_mark: Design changes for artifacts-publications pages. |:heavy_check_mark: Publications data management pages. |
 |9| :heavy_check_mark: Implement publication index and view pages.  | :heavy_check_mark: Publication view and index.  | 
-|10|  |   |
+|10| :heavy_check_mark: Filters for index and merge publication pages and complete display for merge publications. | :heavy_check_mark: Completed merge publications feature.  |
 |11| Final thorough testing for all features and bug fixes. <br> Finalizing the user and developer documentations.   | Completed documentation and bug fixes.  |
 |12| Buffer time for any remaining bug fixes and documentation. Final report for all the work done.  | -  |
 
