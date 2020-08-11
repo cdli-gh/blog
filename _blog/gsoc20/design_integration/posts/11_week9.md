@@ -26,5 +26,5 @@ A complete report of the work done during the week must be written here.
 |3   	| Wednesday  	|  2020/07/29 	|Reviewd PR 148 and evened out PR 146   	|  
 |4   	| Thursday  	|   2020/07/30	|   	|  
 |5   	| Friday  	|   2020/07/31	| Concluded change on PR 150 and opened a issue(305) about leftover stuff from 150  	|  
-|6   	| Saturday  	|   2020/08/1	|   	|  
+|6   	| Saturday  	|   2020/08/1	| Added in download button and UI polishing on objects page, opened an issue for search related nitpicks  	|  
 |7   	| Sunday  	|   2020/08/2	|   	|  
