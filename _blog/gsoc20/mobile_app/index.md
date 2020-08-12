@@ -15,10 +15,10 @@ highly-customized UX. CDLI tablet app will be accessible for both Android and iO
 Objectives are separated in two categories: essential and additional, they are also listed in priority order. 
 #### Essential Objectives
 
-|\#|Objectives|Associated Deliverables|issue(s)|  
+|\#|Objectives|Status|Associated Deliverables|issue(s)|  
 |---	|---	|---	|---	|  
-|1   	|Mobile app   	|Recreate the existing CDLI tablet app using Flutter.   	|   	|  
-|2   	|Admin panel   	|Provide a web admin interface for the mobile app data entry and management.   	|   	|  
+|1   	|Mobile app   	|Complete   	|Recreate the existing CDLI tablet app using Flutter.   	|   	|  
+|2   	|Admin panel   	|Complete   	|Provide a web admin interface for the mobile app data entry and management.   	|   	|  
 |3   	|   	|   	|   	|  
 |4   	|   	|   	|   	|  
 |5   	|   	|   	|   	|  
@@ -28,8 +28,8 @@ Objectives are separated in two categories: essential and additional, they are a
 
 |\#|Objectives|Associated Deliverables|issue(s)|  
 |---	|---	|---	|---	|  
-|1   	|Extra functionalities   	|Implement additional app features for a highly-customized UX.   	|   	|  
-|2   	|Web entries   	|Display the entries in the web with the same functionalities as in the mobile app.   	|   	|  
+|1   	|Extra functionalities   	|Complete   	|Implement additional app features for a highly-customized UX.   	|   	|  
+|2   	|Web entries   	|-   	|Display the entries in the web with the same functionalities as in the mobile app.   	|   	|  
 |3   	|   	|   	|   	|  
 |4   	|   	|   	|   	|  
 |5   	|   	|   	|   	|  
@@ -37,7 +37,7 @@ Objectives are separated in two categories: essential and additional, they are a
 
 ### Tentative timeline  
 
-| Week  |Objectives |Deliverables |  
+| Week  |Status |Deliverables |  
 |---|---|---|  
 |1|Mobile app   |Start building the basic functionalities of the mobile app.   |  
 |2|Admin panel   |Build a web admin interface for entering and managing data about the collection that will feed contents to the mobile app.   |  
