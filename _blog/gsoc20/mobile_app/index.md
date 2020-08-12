@@ -26,14 +26,14 @@ Objectives are separated in two categories: essential and additional, they are a
 
 #### Additional Objectives
 
-|\#|Objectives|Associated Deliverables|issue(s)|  
-|---	|---	|---	|---	|  
+|\#|Objectives|Status|Associated Deliverables|issue(s)|  
+|---	|---	|---	|---	|---	|  
 |1   	|Extra functionalities   	|Complete   	|Implement additional app features for a highly-customized UX.   	|   	|  
 |2   	|Web entries   	|-   	|Display the entries in the web with the same functionalities as in the mobile app.   	|   	|  
-|3   	|   	|   	|   	|  
-|4   	|   	|   	|   	|  
-|5   	|   	|   	|   	|  
-|6   	|   	|   	|   	|  
+|3   	|   	|   	|   	|   	|  
+|4   	|   	|   	|   	|   	|  
+|5   	|   	|   	|   	|   	|  
+|6   	|   	|   	|   	|   	|  
 
 ### Tentative timeline  
 
