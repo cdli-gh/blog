@@ -16,13 +16,13 @@ Objectives are separated in two categories: essential and additional, they are a
 #### Essential Objectives
 
 |\#|Objectives|Status|Associated Deliverables|issue(s)|  
-|---	|---	|---	|---	|  
+|---	|---	|---	|---	|---	| 
 |1   	|Mobile app   	|Complete   	|Recreate the existing CDLI tablet app using Flutter.   	|   	|  
 |2   	|Admin panel   	|Complete   	|Provide a web admin interface for the mobile app data entry and management.   	|   	|  
-|3   	|   	|   	|   	|  
-|4   	|   	|   	|   	|  
-|5   	|   	|   	|   	|  
-|6   	|   	|   	|   	|  
+|3   	|   	|   	|   	|   	|  
+|4   	|   	|   	|   	|   	|  
+|5   	|   	|   	|   	|   	|  
+|6   	|   	|   	|   	|   	|  
 
 #### Additional Objectives
 
