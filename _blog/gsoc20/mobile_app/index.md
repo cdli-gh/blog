@@ -17,8 +17,8 @@ Objectives are separated in two categories: essential and additional, they are a
 
 |\#|Objectives|Status|Associated Deliverables|issue(s)|  
 |---	|---	|---	|---	|---	| 
-|1   	|Mobile app   	|Complete   	|Recreate the existing CDLI tablet app using Flutter.   	|[#158] (https://gitlab.com/cdli/framework/-/issues/158)   	|  
-|2   	|Admin panel   	|Complete   	|Provide a web admin interface for the mobile app data entry and management.   	|[#158] (https://gitlab.com/cdli/framework/-/issues/158)   	|  
+|1   	|Mobile app   	|Complete   	|Recreate the existing CDLI tablet app using Flutter.   	|[#158](https://gitlab.com/cdli/framework/-/issues/158)   	|  
+|2   	|Admin panel   	|Complete   	|Provide a web admin interface for the mobile app data entry and management.   	|[#158](https://gitlab.com/cdli/framework/-/issues/158)   	|  
 |3   	|   	|   	|   	|   	|  
 |4   	|   	|   	|   	|   	|  
 |5   	|   	|   	|   	|   	|  
