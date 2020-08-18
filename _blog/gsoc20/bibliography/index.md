@@ -48,8 +48,8 @@ easily manageable by the admin, and also have a nice linked display.
 |8| :heavy_check_mark: Integrating add authors and editors for the publications data management pages. <br> :heavy_check_mark: Design changes for artifacts-publications pages. |:heavy_check_mark: Publications data management pages. |
 |9| :heavy_check_mark: Implement publication index and view pages.  | :heavy_check_mark: Publication view and index.  | 
 |10| :heavy_check_mark: Filters for index and merge publication pages and complete display for merge publications. | :heavy_check_mark: Completed merge publications feature.  |
-|11| Final thorough testing for all features and bug fixes. <br> Finalizing the user and developer documentations.   | Completed documentation and bug fixes.  |
-|12| Buffer time for any remaining bug fixes and documentation. Final report for all the work done.  | -  |
+|11| Buffer time for completing remaining work. <br> Final thorough testing for all features and bug fixes.    | -  |
+|12| Buffer time for any remaining bug fixes and documentation. <br> Final report for all the work done.  | Completed documentation and bug fixes.  |
 
 
 
