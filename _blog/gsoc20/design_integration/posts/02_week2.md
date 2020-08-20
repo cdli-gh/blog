@@ -4,17 +4,13 @@ title: design_integration Eval#1 Week#2
 author: "Samarth"
 tags: ["week","gsoc","gsoc2020","design_integration","eval#1","week#2"]
 ---
-Welcome of CDLI Blogs.
-
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
-
 ## Week Summary
-
-A complete report of the work done during the week must be written here. 
+Second week arrives now I see that some pages are loaded with content, my mentors
+already thought of this issue and suggested adding a scroll to top helper. PR was made 
+for the same, afterwards I started working on the results section of the search page. The 
+table layout was very challenging fixing certain portions of the table while the rest are
+scrollable was one of the things that I struggled with. Towards the end I found some solutions 
+for the deadlocks that I was facing and relevant issues and PR's were made
 
 
 ## Daily Work Update
