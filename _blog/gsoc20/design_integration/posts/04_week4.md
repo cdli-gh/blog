@@ -4,18 +4,11 @@ title: design_integration Eval#1 Week#4
 author: "Samarth"
 tags: ["week","gsoc","gsoc2020","design_integrationl#1","week#4"]
 ---
-Welcome of CDLI Blogs.
-
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
-
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
-
+The deliverable for this week was the accessibility audit, by this time my was full of accessibility 
+loopholes. In order to fix that I spent this week majorly on accesibility audit namely on search results
+(table and card layout), home, sidenav bar and profile.
 
 ## Daily Work Update
 
