@@ -4,17 +4,11 @@ title: design_integration Eval#1 Week#3
 author: "Samarth"
 tags: ["week","gsoc","gsoc2020","design_integration","eval#1","week#3"]
 ---
-Welcome of CDLI Blogs.
-
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
-
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
+Third week arrives and now framework is like my second home, I'm now familiar with 
+every page as if they are like rooms in my home. I couldn't help but notice some 'room'
+for improvement in those rooms. So, I spent this week searching and fixing UI/UX issues. 
 
 
 ## Daily Work Update
