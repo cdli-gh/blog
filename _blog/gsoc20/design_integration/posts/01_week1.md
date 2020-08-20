@@ -4,17 +4,14 @@ title: design_integration Eval#1 Week#1
 author: "Samarth"
 tags: ["week","gsoc","gsoc2020","design_integration","eval#1","week#1"]
 ---
-Welcome of CDLI Blogs.
-
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
 
 ## Week Summary
 
-A complete report of the work done during the week must be written here. 
+For the first week I started out with the side navigation bar. Initially I only made
+a JS based version of it, later on I was instructed to also add in support for people 
+that have disabled JS so I added a NO-script fallback for the same. Midway I made the
+PR and did fixes on layout.ctp(core layout of every page in the framework) and proceeded
+with minor adjustments in search page
 
 
 ## Daily Work Update
