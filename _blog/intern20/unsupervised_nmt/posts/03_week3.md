@@ -1,6 +1,6 @@
 ---
 layout: page
-title: unsupervised_nmt
+title: Week 3- FairSeq and Training
 author: "Rachit"
 tags: ["project","research","internship", "unsupervised", "nmt"]
 ---
