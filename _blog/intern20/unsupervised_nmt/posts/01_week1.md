@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week #1- Tokenisers and Benchmark
+title: Week 1- Tokenisers and Benchmark
 author: "Rachit"
 tags: ["project","research","internship", "unsupervised", "nmt"]
 ---
