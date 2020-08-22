@@ -1,6 +1,6 @@
 ---
 layout: page
-title: unsupervised_nmt
+title: Week 6- XLM and Pre-Training
 author: "Rachit"
 tags: ["project","research","internship", "unsupervised", "nmt"]
 ---
