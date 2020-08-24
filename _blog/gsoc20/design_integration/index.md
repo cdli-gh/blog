@@ -14,10 +14,10 @@ Objectives are separated in two categories: essential and additional, they are a
 
 |\#|Objectives|Associated Deliverables|Pull request(s)|Status|  
 |---	|---	|---	|--- |---	|  
-|1   	|UI enhancement   	| Update UI of Search results page, Object page and Advanced search page as per the screens on zeplin  	|   	|✔️   | 
-|2   	|UI Implementation  	| Implement/Build UI for Search settings, Image View and Home     	|   	| ✔️   |
-|3   	|Accessibility enhancement - 1  	| Add a minimum accessibility level of A following WCAG   	|   	| ✔️   | 
-|4   	|Boost UX   	| Suggest and implement changes to improve UX.   	|   	|   ✔️   |
+|1   	|UI enhancement   	| Update UI of Search results page, Object page and Advanced search page as per the screens on zeplin  	| !114,!130 , !147 	|✔️   | 
+|2   	|UI Implementation  	| Implement/Build UI for Search settings, Image View and Home     	| !150, !152, !161,!64 | ✔️   |
+|3   	|Accessibility enhancement - 1  	| Add a minimum accessibility level of A following WCAG   	| !142,    	| ✔️   | 
+|4   	|Boost UX   	| Suggest and implement changes to improve UX.   	| !111 ,!117,!125,!132 ,!168, !178	|   ✔️   |
 
 
 #### Additional Objectives
