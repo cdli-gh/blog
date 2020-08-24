@@ -12,7 +12,7 @@ Short description here.
 Objectives are separated in two categories: essential and additional, they are also listed in priority order. 
 #### Essential Objectives
 
-|\#|Objectives|Associated Deliverables|issue(s)|Status|  
+|\#|Objectives|Associated Deliverables|Pull request(s)|Status|  
 |---	|---	|---	|--- |---	|  
 |1   	|UI enhancement   	| Update UI of Search results page, Object page and Advanced search page as per the screens on zeplin  	|   	|✔️   | 
 |2   	|UI Implementation  	| Implement/Build UI for Search settings, Image View and Home     	|   	| ✔️   |
@@ -22,7 +22,7 @@ Objectives are separated in two categories: essential and additional, they are a
 
 #### Additional Objectives
 
-|\#|Objectives|Associated Deliverables|issue(s)|Status|  
+|\#|Objectives|Associated Deliverables|Pull request(s)|Status|  
 |---	|---	|---	|--- |---	|  
 |1   	|Accessibility enhancement - 2   	| Update the minimum accessibility level of A to AA following WCAG  |   	|  
 |2   	|Enhance Support for browsers without JS   	| Make public essential functionality less dependent on JS    	|   	|  
