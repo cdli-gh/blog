@@ -4,18 +4,9 @@ title: design_integration Eval#2 Week#6
 author: "Samarth"
 tags: ["week","gsoc","gsoc2020","design_integration","eval#2","week#6"]
 ---
-Welcome of CDLI Blogs.
-
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
-
 ## Week Summary
-
-A complete report of the work done during the week must be written here. 
-
+Already done with the advance search page I noticed that the layout of search settings was similar to that of advance search.
+So, I quickly finished the markup portion, with me fairly ahead of the schedule I incorporated the accessibility work within this week
 
 ## Daily Work Update
 
