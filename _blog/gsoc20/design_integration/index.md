@@ -24,8 +24,8 @@ Objectives are separated in two categories: essential and additional, they are a
 
 |\#|Objectives|Associated Deliverables|Pull request(s)|Status|  
 |---	|---	|---	|--- |---	|  
-|1   	|Accessibility enhancement - 2   	| Update the minimum accessibility level of A to AA following WCAG  |   	|  
-|2   	|Enhance Support for browsers without JS   	| Make public essential functionality less dependent on JS    	|   	|  
+|1   	|Accessibility enhancement - 2   	| Update the minimum accessibility level of A to AA following WCAG  | !165  	|  
+|2   	|Enhance Support for browsers without JS   	| Make public essential functionality less dependent on JS    	| No-js functionality was within the markup PRs  	|  
 
 ### Tentative timeline  
 
