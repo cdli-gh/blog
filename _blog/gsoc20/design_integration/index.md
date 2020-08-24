@@ -17,7 +17,7 @@ Objectives are separated in two categories: essential and additional, they are a
 |1   	|UI enhancement   	| Update UI of Search results page, Object page and Advanced search page as per the screens on zeplin  	| !130,!147,!150 	|✔️   | 
 |2   	|UI Implementation  	| Implement/Build UI for Search settings, Image View, Home and more     	| !114,!152,!161,!164 | ✔️   |
 |3   	|Accessibility enhancement - 1 | Add a minimum accessibility level of A following WCAG | !142    	| ✔️   | 
-|4   	|Boost UX   	| Suggest and implement changes to improve UX.   	| !111 ,!117,!125,!132,!168,!178	|   ✔️   |
+|4   	|Boost UX   	| Suggest and implement changes to improve UX.   	| !111,!117,!125,!132,!168,!178	|   ✔️   |
 
 
 #### Additional Objectives
