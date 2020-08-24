@@ -36,10 +36,10 @@ Objectives are separated in two categories: essential and additional, they are a
 |3|Enhance UI/UX - I | Restructure or build components inside the cdli framework to improve UI/UX    |  
 |4|Accessibility enhancement - I   | Add WCAG-A accessibility enhancement onto frequently visited pages inside framework  |  
 |5|Advance Search page | Construct the advance search page based upon the designs mentioned on Zeplin  |  
-|6|Search Settings page  | Construct the advance search page based upon the designs mentioned on Zeplin  |  
+|6|Search Settings page  | Construct the search settings page based upon the designs mentioned on Zeplin  |  
 |7|Enhance UI/UX -II  | Restructure or build components inside the cdli framework to improve UI/UX  |  
-|8|Objects page | Construct the advance search page based upon the designs mentioned on Zeplin   |  
-|9|Image View page | Construct the advance search page based upon the designs mentioned on Zeplin   |  
+|8|Objects page | Construct the objects page based upon the designs mentioned on Zeplin   |  
+|9|Image View page | Construct the image view page based upon the designs mentioned on Zeplin   |  
 |10|Provide No js Support | Make sure that all the pages within the framework are working without the use of JS. If not provide NO-js fallbacks   |  
 |11|Accessibility enhancement - II   | Add WCAG-AA accessibility enhancement onto frequently visited pages inside framework  |  
 |12|Document, test and add in further features   | Documentation, code cleanup, testing and further feature implementation to be added(if time persists)  |  
