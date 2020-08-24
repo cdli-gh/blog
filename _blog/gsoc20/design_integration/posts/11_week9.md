@@ -4,18 +4,10 @@ title: design_integration Eval#3 Week#9
 author: "Samarth"
 tags: ["week","gsoc","gsoc2020","design_integration","eval#3","week#9"]
 ---
-Welcome of CDLI Blogs.
-
-Please update the author name and add tags too. 
-
-This page should contain the report made for every week.
-
-Replace Project# with your project name.
 
 ## Week Summary
-
-A complete report of the work done during the week must be written here. 
-
+My second evalution went perfect as well now I started scouting for issues that are already mentioned up on the framework
+for the remaining period. I resolved threads and certain issues on previous PR's this week and also closed some older issues that have been fixed and reviewd some PR
 
 ## Daily Work Update
 
