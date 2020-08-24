@@ -24,8 +24,8 @@ Objectives are separated in two categories: essential and additional, they are a
 
 |\#|Objectives|Associated Deliverables|Pull request(s)|Status|  
 |---	|---	|---	|--- |---	|  
-|1   	|Accessibility enhancement - 2   	| Update the minimum accessibility level of A to AA following WCAG  | !165  	|  
-|2   	|Enhance Support for browsers without JS   	| Make public essential functionality less dependent on JS    	| No-js functionality was within the markup PRs  	|  
+|1   	|Accessibility enhancement - 2   	| Update the minimum accessibility level of A to AA following WCAG  | !165  	|  |
+|2   	|Enhance Support for browsers without JS   	| Make public essential functionality less dependent on JS    	| No-js functionality was within the markup PRs  	| ✔️  |
 
 ### Tentative timeline  
 
@@ -33,16 +33,16 @@ Objectives are separated in two categories: essential and additional, they are a
 |---|---|---|  
 |1|Home and sidebar | Construct the sidebar, work on homepage and update components of search result page such as search box and pagination controls  |  
 |2|Search page  | Complete remainder of the search i.e. search results, tablet view, card view etc  |  
-|3|Enhance UI/UX | Restructure or build components inside the cdli framework to improve UI/UX    |  
-|4|Accessibility enhancement   | Add WCAG-A accessibility enhancement onto frequently visited pages inside framework  |  
-|5|   |   |  
-|6|   |   |  
-|7|   |   |  
-|8|   |   |  
-|9|   |   |  
-|10|   |   |  
-|11|   |   |  
-|12|   |   |  
+|3|Enhance UI/UX - I | Restructure or build components inside the cdli framework to improve UI/UX    |  
+|4|Accessibility enhancement - I   | Add WCAG-A accessibility enhancement onto frequently visited pages inside framework  |  
+|5|Advance Search page | Construct the advance search page based upon the designs mentioned on Zeplin  |  
+|6|Search Settings page  | Construct the advance search page based upon the designs mentioned on Zeplin  |  
+|7|Enhance UI/UX -II  | Restructure or build components inside the cdli framework to improve UI/UX  |  
+|8|Objects page | Construct the advance search page based upon the designs mentioned on Zeplin   |  
+|9|Image View page | Construct the advance search page based upon the designs mentioned on Zeplin   |  
+|10|Provide No js Support | Make sure that all the pages within the framework are working without the use of JS. If not provide NO-js fallbacks   |  
+|11|Accessibility enhancement - II   | Add WCAG-AA accessibility enhancement onto frequently visited pages inside framework  |  
+|12|Document, test and add in further features   | Documentation, code cleanup, testing and further feature implementation to be added(if time persists)  |  
 
 
 
