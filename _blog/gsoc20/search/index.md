@@ -115,7 +115,7 @@ Objectives are separated in two categories: essential and additional, they are a
         </tr>
         <tr>
             <td rowspan=2>B. System setup for roles Users and Granular Access. (Granular Access will be addressed in 3rd phase.)</td>
-            <td rowspan=2 align="center"> :heavy_check_mark: :man_technologist: </td>
+            <td rowspan=2 align="center"> :heavy_check_mark: </td>
             <td>a. System should display contents based on roles as described in objectives.</td>
         </tr>
         <tr>
@@ -188,22 +188,25 @@ Objectives are separated in two categories: essential and additional, they are a
             <td rowspan=1 align="center"> :heavy_check_mark: </td>
             <td>a. Simple search works as expected using ElasticSearch. (4 out of 6 Search Categories)</td>
         </tr>
-      <tr>
+        <tr>
             <td rowspan=1> D. Testing Simple Search. </td>
             <td rowspan=1 align="center"> :heavy_check_mark: </td>
             <td>a. Compared to previous simple search implementation, the results are retrieved within a span seconds. </td>
         </tr>
-      <tr>
+        <tr>
             <td rowspan=1> E. Expanded and Compact View. </td>
             <td rowspan=1 align="center"> :heavy_check_mark: </td>
             <td>a. Users can view the search results in expanded and compact view format. </td>
         </tr>
         <!-- Week-9 -->
         <tr>
-            <td rowspan=1 align="center"> 9 </td>
-            <td rowspan=1></td>
-            <td rowspan=1 align="center"></td>
-            <td></td>
+            <td rowspan=2 align="center"> 9 </td>
+            <td rowspan=2> A. Simple Search Improvisation </td>
+            <td rowspan=2 align="center"> :heavy_check_mark: </td>
+            <td> A. Fixing minor issues related to Simple Search. </td>
+        </tr>
+        <tr>
+            <td> B. Integrating different search options like Results per page, Pagination, Compact & Expanded view. </td>
         </tr>
         <!-- Week-10 -->
         <tr>
