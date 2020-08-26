@@ -15,7 +15,7 @@ Since Dataset is very limited (Most of the phrases are one word as well) we will
 My primary work is to build an NLP-Pipeline for which I will integrate the following models in a pipeline and provide a command line interface for the user.
 1. POS
 2. NER
-3. [Sumerian Machine translation](https://github.com/cdli-gh/Semi-Supervised-NMT-for-Sumerian-English) model by Rachit Bansal.
+3. [Sumerian Machine translation](https://github.com/cdli-gh/Semi-Supervised-NMT-for-Sumerian-English) Model
 
 The final model will provide the detailed information(POS tagging, Named Entity Recognation, English Translation) about any input Sumerian text (of UrIII period) in human readable form using the above models.
 
