@@ -6,28 +6,21 @@ tags:
   ['project', 'gsoc', 'gsoc2020', 'translation_pipeline', 'eval#1', 'week#2']
 ---
 
-## Translation Pipeline for whole Ur III corpus
+## Translation Pipeline for whole Ur III corpus (GSCO-2020)
 
-The primary objective for this project is to build the End to End translation pipeline which takes a raw sumerian text as input and gives the detailed structure of the sentence along with its English translation. The POS Tagging and NER models are used to give valuable information about the sentences. In Linguistics, part-of-speech tagging (POS) and Named-Entity-Recognition(NER) are the fundamental tasks which are very useful for Information retrieval, information extraction, text categorisation and linguistic research for corpora. POS is the process of marking up a word in a text (corpus) as corresponding to a particular part of speech, such as nouns, verbs, adjectives, adverbs, etc. whereas Named-entity recognition (NER) is a subtask of information extraction that seeks to locate and classify named entities mentioned in unstructured text into predefined categories such as person names, organizations, locations etc.
+The primary objective for this project is to build the End to End translation pipeline which takes a raw sumerian text as input and gives the detailed structure of the sentence along with its English translation. The POS Tagging and NER models are used to give valuable information about the sentences. In Linguistics, part-of-speech tagging (POS) and Named-Entity-Recognition(NER) are the fundamental tasks which are very useful for Information retrieval, information extraction, text categorisation and linguistic research for corpora. POS is the process of marking up a word in a text (corpus) as corresponding to a particular part of speech, such as nouns, verbs, adjectives, adverbs, etc. whereas Named-entity recognition (NER) is a subtask of information extraction that seeks to locate and classify named entities mentioned in unstructured text into predefined categories such as person names, organizations, locations etc. There are different POS and NER tags in sumerian which are described here [ORACC](https://cdli-gh.github.io/guides/guide_tagsets.html). We will work on two different tasks and build the models for NER and POS.  
 
-Presently we have two datasets to build our models.
+Since Dataset is very limited (Most of the phrases are one word as well) we will try to combine different approaches as described below. We will use a rule based methods (for example word followed by dumu(son of) most likely to be Personal name(Noun)) along with probabilistic approaches such as CRF(Conditional Random Fields) and HMM(Hidden Markov Models). We will also use Deep learning architectures used for Sequence modeling Using LSTMs and will try to combine it with previously used model features to make the best out of the limited dataset. We will also apply text ausmentation to increase the number of phrases using the dictionary we have and try to apply current state of art techniques for the best results.
 
-1. [MTACC_GOLD_CORPUS](https://github.com/cdli-gh/Sumerian-NER/tree/master/Raw/CDIL_morph_raw)
-2. Dictionary of words tagged with Named Entities (Ex. Word - '{d}li9-si4',Tag - DN)
-
-There are different POS tags in sumerian as described here [ORACC](https://cdli-gh.github.io/guides/guide_tagsets.html) but out of these we will work on Noun(N), Verb(V), Numbers(NU), Conjunction(CNJ) and all other named entities which will be tagged as NE. These four are majorly used POS tags in Sumerian, other POS tags are rarely used and there is no dataset available to understand those. For the Named-Entity-Recognition also we will majorly rely on the first datasets as well. As in the second dataset we only have words without any left or right context which may not be helpful in training. For NER we have almost all the tags in the dataset (DN,EN,FN,GN,RN,MN,ON,PN etc.) (Though some are very limited) which are available here [ORACC](https://cdli-gh.github.io/guides/guide_tagsets.html). Out of these some are majorly used such as (PN - Personal name) and some are very rare such as (AN - Agricultural Name).
-
-Since Dataset is very limited (Most of the phrases are one word as well) we will try to combine different approaches as described below. We will use a rule based methods (rules such as words ending with -ta most likely to be verbs, word followed by dumu(son of) most likely to be Personal name(Noun)) along with probabilistic approaches such as CRF(Conditional Random Fields) and HMM(Hidden Markov Models). We will also use Deep learning architectures used for Sequence modeling Using LSTMs and will try to combine it with previously used model features to make the best out of the limited dataset.
-
-My primary work is to build a Translation pipeline for which we will integrate the following models in a pipeline.
-Best performing POS model.
-Best Performing NER model.
-Numeral model implemented by Logan
-Improvised Machine translation model by Rachit Bansal
+My primary work is to build an NLP-Pipeline for which I will integrate the following models in a pipeline.
+1. POS
+2. NER
+3. [Machine translation](https://github.com/cdli-gh/Semi-Supervised-NMT-for-Sumerian-English) model by Rachit Bansal.
 
 The final model will provide the detailed information(POS tagging, Named Entity Recognation, English Translation) about any input Sumerian text (of UrIII period) in human readable form using the above models.
 
-**GitHub Repository: [cdli-gh/Sumerian-Translation-Pipeline](https://github.com/cdli-gh/Sumerian-Translation-Pipeline)**
+## GitHub Repository: [cdli-gh/Sumerian-Translation-Pipeline](https://github.com/cdli-gh/Sumerian-Translation-Pipeline)
+
 
 ### Objectives and Deliverables
 
@@ -39,7 +32,7 @@ Objectives are separated in two categories: essential and additional, they are a
 | --- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1   | Building Part of speech model using Rule based Probabilistic methods (CRF, HMM), and Deep learning approach                         | POS tagging model for sumerian language                                                                | No Ending marked for the sentences, difficult to get context |
 | 2   | Building Named-Entity-Recognition model using POS tagger, Rule based Probabilistic methods(CRF), Spacy and Deep learning approaches | Sumerian Named-Entity-Recognition model                                                                | No Ending marked for the sentences, difficult to get context |
-| 3   | Combining features of probabilistic approach along with Neural networks for both POS and NER models                                 | Improved performance of POS and NER models                                                             |                                                              |
+| 3   | Using current state of art techniques for both POS and NER models                                 | Improved performance of POS and NER models                                                             |                                                              |
 | 4   | Integrating POS, NER, Numeral and Machine translation model                                                                         | Final translation pipeline, will be used to provide the detailed information about input sumerian text |                                                              |
 | 5   | Deploying Command line interface on Github for the complete integrated pipeline                                                     | A command line interface for user                                                                      |                                                              |
 
