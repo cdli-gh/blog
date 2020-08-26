@@ -12,10 +12,10 @@ The primary objective for this project is to build the End to End translation pi
 
 Since Dataset is very limited (Most of the phrases are one word as well) we will try to combine different approaches as described below. We will use a rule based methods (for example word followed by dumu(son of) most likely to be Personal name(Noun)) along with probabilistic approaches such as CRF(Conditional Random Fields) and HMM(Hidden Markov Models). We will also use Deep learning architectures used for Sequence modeling Using LSTMs and will try to combine it with previously used model features to make the best out of the limited dataset. We will also apply text ausmentation to increase the number of phrases using the dictionary we have and try to apply current state of art techniques for the best results.
 
-My primary work is to build an NLP-Pipeline for which I will integrate the following models in a pipeline.
+My primary work is to build an NLP-Pipeline for which I will integrate the following models in a pipeline and provide a command line interface for the user.
 1. POS
 2. NER
-3. [Machine translation](https://github.com/cdli-gh/Semi-Supervised-NMT-for-Sumerian-English) model by Rachit Bansal.
+3. [Sumerian Machine translation](https://github.com/cdli-gh/Semi-Supervised-NMT-for-Sumerian-English) model by Rachit Bansal.
 
 The final model will provide the detailed information(POS tagging, Named Entity Recognation, English Translation) about any input Sumerian text (of UrIII period) in human readable form using the above models.
 
@@ -36,12 +36,6 @@ Objectives are separated in two categories: essential and additional, they are a
 | 4   | Integrating POS, NER, Numeral and Machine translation model                                                                         | Final translation pipeline, will be used to provide the detailed information about input sumerian text |                                                              |
 | 5   | Deploying Command line interface on Github for the complete integrated pipeline                                                     | A command line interface for user                                                                      |                                                              |
 
-#### Additional Objectives
-
-| \#  | Objectives                                                                                                                                                                                                                                                                                 | Associated Deliverables                             | issue(s) |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- | -------- |
-| 1   | Coordinating with Rachit Bansal (Working on Machine Translation) to make rules based on POS and Named Entity tags for experimenting with MT models. such as Sumerian words tagged with any Named Entity or NU (Number for which we have seperate Numeral model) need not to be translated] | Improved Translation accuracy of Sumerian language. |          |
-| 2   | Implementing other models for POS tagging and NER by introducing different features or changing in deep learning architectures(such as different word embeddings, BERT models etc.)                                                                                                        | Part of research, may improve accuracy              |          |
 
 ### Tentative timeline
 
@@ -50,10 +44,34 @@ Objectives are separated in two categories: essential and additional, they are a
 | 1       | Preparing data for training POS model by extracting from the above dataset using conll-U parser and creating rules with the help of previous research papers and discussing with the language experts to take inputs as features                                          | Prepared sumerian data and rules to be worked with.                                             | Completed |
 | 2       | Implementing Conditional Random Field(CRF) and Hidden Markov Models (HMMs) to train POS tagging model on the prepared dataset                                                                                                                                             | First POS tagging Model for sumerian language                                                   | Completed |
 | 3       | Extracting monolingual sumerian data using regex according to our input and training Fast-text and Word2vec word embeddings for sumerian language. Preparing data to be used for Neural Network model                                                                     | Extracted monolingual sumerian data with word vectors to be used for training                   | Completed |
-| 4       | Training Deep Neural Network Models for POS tagging with the variations in the model ( such as changing optimisers, word embeddings, CNN artichture, BERT etc.)                                                                                                           | Improvised POS tagging model based on Seq2seq modeling(Neural Network architecture)             | Completed |
+| 4       | Training Deep Neural Network Models for POS tagging with the variations in the model ( such as changing optimisers, word embeddings, etc.)                                                                                                           | Improvised POS tagging model based on Seq2seq modeling(Neural Network architecture)             | Completed |
 | 5       | Preparing data to be used for NER, Creating rules with the help of previous research papers and language experts. Creating a Classification model as an experiment using RNNs for the second dataset [ Word, Tag ] to integrate that as input in our Probabilistic Model. | Prepared features and dataset to be worked with. Classification Model using second Dataset      | Completed  |
-| 6       | Implementing NER model using Conditional Random Field(CRF), Spacy and other statistical machine translation techniques                                                                                                                                                    | First Named Entity recognition model.                                                           | Completed |
-| 7       | Training Deep Neural Network model for Named entity recognition with the variations in the model ( such as changing optimisers, word embeddings etc.)                                                                                                                     | Second NER model based on Seq2seq modeling(Neural Network architecture)                         | Completed |
-| 8       | Combining features of probabilistic approach with the Deep neural networks for both POS and NER model                                                                                                                                                                     | Improved Results for both NER and POS tagging models                                            | Completed |
-| 9 - 10  | Discussion with other student developers Rachit Bansal(Machine translation) and Logan (Numeral Models) to understand their Models, combining and connecting different models (POS, Numeral, MT systems) based on rules to improve translation.                            | Understanding the whole pipeline processing and preparing basic connected pipeline architecture | Completed |
+| 6       | Implementing NER model using Conditional Random Field(CRF) and Training Deep Neural Network model for Named entity recognition with the variations in the models                                                                                                                                                    | First Named Entity recognition model.                                                           | Completed |
+| 7       | Parameter Tunning for Named entity recognition and language training FLAIR model for Both POS and NER                                                                                                                    | Flair Language Model for POS and NER   | Completed |
+| 8       | Training BERT Language Model for both POS and NER model along with different word embeddings  | BERT language model for NER and POS tagging                                            | Completed |
+| 9  | Fine Tunning FLAIR and BERT Language Model for both NER and POS, producing results   | Improved scores | Completed |
+| 10  |Discussion with Machine translation student developer to understand their Models, combining and connecting different models (POS, NER, MT systems).                            | Understanding the whole pipeline processing and preparing basic connected pipeline architecture | Completed |
+
 | 11 - 12 | Integrating all the models and deploying command line interface for the final pipeline to be used by the user                                                                                                                                                             | Translation Pipeline for sumerian language                                                      | Completed |
+
+
+#### Additional Objectives
+
+| \#  | Objectives| Associated Deliverables| status |
+| --- | --------- | --------------------------------------------------- | -------- |
+| 1   | Coordinating with Rachit Bansal (Working on Machine Translation) to make rules based on POS and Named Entity tags for experimenting with MT models. such as Sumerian words tagged with any Named Entity or NU (Number for which we have seperate Numeral model) need not to be translated] | Improved Translation accuracy of Sumerian language. |  Completed        | 
+| 2   | Parameter tunning for POS tagging and NER models by introducing different features or changing in deep learning architectures(such as different word embeddings, tokenizers, optimizers etc.)   | Part of research, may improve accuracy   |    Completed      |
+
+| 3   | Producing final POS and NER results in combined form in CDLI-CONLL format along with previously annotated morphological syntax  | Better visual representation of results   |   Completed       |
+
+| 4   | Building Docker container and Web API for to provide user interface   |  User interface to use Pipeline   |Completed |
+
+
+#### To Do
+| \#  | Objectives| Issues | status |
+| --- | --------- | --------------------------------------------------- | -------- |
+| 1   | BIntegrating web API and docker cotainer to CDLI framework  |  Backend knowledge of web servers and CDLI framework including PHP and Databse |    |
+
+
+
+
