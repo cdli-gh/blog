@@ -59,7 +59,7 @@ Objectives are separated in two categories: essential and additional, they are a
 | \#  | Objectives| Associated Deliverables| status |
 | --- | --------- | --------------------------------------------------- | -------- |
 | 1   | Producing final POS and NER results in combined form in CDLI-CONLL format along with previously annotated morphological syntax  | Improved informational results   |   Completed       |
-| 2   | Building Docker container and Web API for to provide user interface   |  User interface for easy access to Pipeline   |Completed |
+| 2   | Building Docker container and Web API to provide user interface   |  User interface for easy access to Pipeline   |Completed |
 
 
 #### To Do
