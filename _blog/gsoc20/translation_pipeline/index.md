@@ -51,8 +51,7 @@ Objectives are separated in two categories: essential and additional, they are a
 | 8       | Training BERT Language Model for both POS and NER model along with different word embeddings  | BERT language model for NER and POS tagging                                            | Completed |
 | 9  | Fine Tunning FLAIR and BERT Language Model for both NER and POS, producing results   | Improved scores | Completed |
 | 10  |Discussion with Machine translation student developer to understand their Models, combining and connecting different models (POS, NER, MT systems).                            | Understanding the whole pipeline processing and preparing basic connected pipeline architecture | Completed |
-
-| 11 - 12 | Integrating all the models and deploying command line interface for the final pipeline to be used by the user                                                                                                                                                             | Translation Pipeline for sumerian language                                                      | Completed |
+| 11 - 12 | Integrating all the models and deploying command line interface for the final pipeline to be used by the user  | Translation Pipeline for sumerian language  | Completed |
 
 
 #### Additional Objectives
@@ -61,16 +60,14 @@ Objectives are separated in two categories: essential and additional, they are a
 | --- | --------- | --------------------------------------------------- | -------- |
 | 1   | Coordinating with Rachit Bansal (Working on Machine Translation) to make rules based on POS and Named Entity tags for experimenting with MT models. such as Sumerian words tagged with any Named Entity or NU (Number for which we have seperate Numeral model) need not to be translated] | Improved Translation accuracy of Sumerian language. |  Completed        | 
 | 2   | Parameter tunning for POS tagging and NER models by introducing different features or changing in deep learning architectures(such as different word embeddings, tokenizers, optimizers etc.)   | Part of research, may improve accuracy   |    Completed      |
-
 | 3   | Producing final POS and NER results in combined form in CDLI-CONLL format along with previously annotated morphological syntax  | Better visual representation of results   |   Completed       |
-
-| 4   | Building Docker container and Web API for to provide user interface   |  User interface to use Pipeline   |Completed |
+| 4   | Building Docker container and Web API for to provide user interface   |  User interface for easy access to Pipeline   |Completed |
 
 
 #### To Do
 | \#  | Objectives| Issues | status |
 | --- | --------- | --------------------------------------------------- | -------- |
-| 1   | BIntegrating web API and docker cotainer to CDLI framework  |  Backend knowledge of web servers and CDLI framework including PHP and Databse |    |
+| 1   | Integrating web API and docker cotainer to CDLI framework  |  Backend knowledge of web servers and CDLI framework including PHP and Databse |    |
 
 
 
