@@ -69,6 +69,3 @@ Objectives are separated in two categories: essential and additional, they are a
 | --- | --------- | --------------------------------------------------- | -------- |
 | 1   | Integrating web API and docker cotainer to CDLI framework  |  Backend knowledge of web servers and CDLI framework including PHP and Databse |    |
 
-
-
-
