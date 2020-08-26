@@ -58,10 +58,8 @@ Objectives are separated in two categories: essential and additional, they are a
 
 | \#  | Objectives| Associated Deliverables| status |
 | --- | --------- | --------------------------------------------------- | -------- |
-| 1   | Coordinating with Rachit Bansal (Working on Machine Translation) to make rules based on POS and Named Entity tags for experimenting with MT models. such as Sumerian words tagged with any Named Entity or NU (Number for which we have seperate Numeral model) need not to be translated] | Improved Translation accuracy of Sumerian language. |  Completed        | 
-| 2   | Parameter tunning for POS tagging and NER models by introducing different features or changing in deep learning architectures(such as different word embeddings, tokenizers, optimizers etc.)   | Part of research, may improve accuracy   |    Completed      |
-| 3   | Producing final POS and NER results in combined form in CDLI-CONLL format along with previously annotated morphological syntax  | Better visual representation of results   |   Completed       |
-| 4   | Building Docker container and Web API for to provide user interface   |  User interface for easy access to Pipeline   |Completed |
+| 1   | Producing final POS and NER results in combined form in CDLI-CONLL format along with previously annotated morphological syntax  | Improved informational results   |   Completed       |
+| 2   | Building Docker container and Web API for to provide user interface   |  User interface for easy access to Pipeline   |Completed |
 
 
 #### To Do
