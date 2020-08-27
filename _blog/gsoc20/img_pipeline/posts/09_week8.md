@@ -25,6 +25,6 @@ A complete report of the work done during the week must be written here.
 |2   	| Tuesday  	|   2020/07/28	| Algorithm JPEGS |  
 |3   	| Wednesday  	|  2020/07/29 	| Algorithm JPEGS |  
 |4   	| Thursday  	|   2020/07/30	| Upload Dashboard |  
-|5   	| Friday  	|   2020/07/31	|   	|  
-|6   	| Saturday  	|   2020/08/01	|   	|  
-|7   	| Sunday  	|   2020/08/02	|   	|  
+|5   	| Friday  	|   2020/07/31	| Upload JS|  
+|6   	| Saturday  	|   2020/08/01	| Upload CSS |  
+|7   	| Sunday  	|   2020/08/02	| Upload CSS |  
