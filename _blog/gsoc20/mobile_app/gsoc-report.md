@@ -39,17 +39,17 @@ My contributions to the CDLI framework repository:
 To watch the CDLI tablet app demo video, click [here](https://drive.google.com/file/d/1Bq09m2OeLeuMyPTsHOtFYWRPYYAp6cK-/view?usp=sharing).
 
 <p float="left">
-  <img src="https://github.com/anila-a/GSoC-2020/blob/master/img/Screenshot_1.jpg" alt="Splash Screen" width="225" height="400">
-  <img src="https://github.com/anila-a/GSoC-2020/blob/master/img/Screenshot_2.jpg" alt="Page Layout" width="225" height="400">
-  <img src="https://github.com/anila-a/GSoC-2020/blob/master/img/Screenshot_3.jpg" alt="Sliding Up Panel" width="225" height="400">
-  <img src="https://github.com/anila-a/GSoC-2020/blob/master/img/Screenshot_4.jpg" alt="Dashboard" width="225" height="400">
+  <img src="https://github.com/cdli-gh/blog/blob/gh-pages/_blog/gsoc20/mobile_app/img/Screenshot_1.jpg" alt="Splash Screen" width="225" height="400">
+  <img src="https://github.com/cdli-gh/blog/blob/gh-pages/_blog/gsoc20/mobile_app/img/Screenshot_2.jpg" alt="Page Layout" width="225" height="400">
+  <img src="https://github.com/cdli-gh/blog/blob/gh-pages/_blog/gsoc20/mobile_app/img/Screenshot_3.jpg" alt="Sliding Up Panel" width="225" height="400">
+  <img src="https://github.com/cdli-gh/blog/blob/gh-pages/_blog/gsoc20/mobile_app/img/Screenshot_4.jpg" alt="Dashboard" width="225" height="400">
 </p>
 
 <p float="left">
-  <img src="https://github.com/anila-a/GSoC-2020/blob/master/img/Screenshot_5.jpg" alt="Grid Layout" width="225" height="400">
-  <img src="https://github.com/anila-a/GSoC-2020/blob/master/img/Screenshot_6.jpg" alt="List Layout" width="225" height="400">
-  <img src="https://github.com/anila-a/GSoC-2020/blob/master/img/Screenshot_7.jpg" alt="Help & Feedback" width="225" height="400">
-  <img src="https://github.com/anila-a/GSoC-2020/blob/master/img/Screenshot_8.jpg" alt="Search" width="225" height="400">
+  <img src="https://github.com/cdli-gh/blog/blob/gh-pages/_blog/gsoc20/mobile_app/img/Screenshot_5.jpg" alt="Grid Layout" width="225" height="400">
+  <img src="https://github.com/cdli-gh/blog/blob/gh-pages/_blog/gsoc20/mobile_app/img/Screenshot_6.jpg" alt="List Layout" width="225" height="400">
+  <img src="https://github.com/cdli-gh/blog/blob/gh-pages/_blog/gsoc20/mobile_app/img/Screenshot_7.jpg" alt="Help & Feedback" width="225" height="400">
+  <img src="https://github.com/cdli-gh/blog/blob/gh-pages/_blog/gsoc20/mobile_app/img/Screenshot_8.jpg" alt="Search" width="225" height="400">
 </p>
 
 #### Web admin interface
