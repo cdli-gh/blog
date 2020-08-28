@@ -7,7 +7,36 @@ tags: ["week","gsoc","gsoc2020","search","eval#3","week#9"]
 
 ## Week Summary
 
-To be updated on 2020/08/02. 
+Namaste 🙏 ,   
+Welcome to the ninth weekly blog of GSoC'20 for CDLI. 
+
+### What did you do this week?
+
+The publication category for the Simple Search was integrated. Support for different search results view viz. compact and expanded along with custom pagination were integrated with the backend. Next part was to configure granular roles for search results which were successfully handled on the backend side and implemented.
+
+### What is coming up next?
+
+The upcoming week will consist of implementing a Search Settings page and start with the Advance Search queries.
+
+### Did you get stuck anywhere?
+
+There was a duplication of search results due to one-to-many relationships between linked data which will be addressed in the upcoming week.
+
+### Branch (worked on): 
+1. [phoenix/feature/search](https://gitlab.com/cdli/framework/-/tree/phoenix/feature/search)
+
+### Issues : 
+1. **Closed or worked related to:**
+  - [#298](https://gitlab.com/cdli/framework/-/issues/298)
+2. **Opened:**
+  - [#309](https://gitlab.com/cdli/framework/-/issues/309)
+
+### Pull Request : 
+1. **Merged (or under review):**
+  - [!156](https://gitlab.com/cdli/framework/-/merge_requests/156)
+2. **Reviewed:** No PR reviewed during this week.
+
+
 
 
 ## Daily Work Update
