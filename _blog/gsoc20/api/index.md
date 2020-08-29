@@ -5,6 +5,8 @@ author: "Lars Willighagen"
 tags: ["project","gsoc","gsoc2020","api"]
 ---
 
+> **Final results: see [results](posts/results)**
+
 ## Metadata and data API
 In this project, data is made usable outside of the visual interface. This process
 is guided by FAIR principles:
