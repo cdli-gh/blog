@@ -6,11 +6,15 @@ tags: ["eval","gsoc","gsoc2020","mobile_app","eval#3"]
 ---
 
 ## Summary
-Give here an overview of the work accomplished during the past 4 weeks. 
+In the past four weeks I worked on some final details and fixed some issues regarding the web admin interface. I implemented some additional functionalities in the mobile app and updated the layout for a better UX. I tested the mobile app and prepared the merge request for review.<br><br>
 
 ## Objectives and Deliverables
-Explain what were your objectives and the deliverables associated for this period.
-
+|No.|Objective|A short description of the work done|  
+|---	|---	|---	|  
+|1   	| Admin panel	|Imported the existing data in the database table. Fixed image upload action, authentication, and views.    |  
+|2   	| Mobile app 	|Integrated Flutter with Firebase to complete a Help and Feedback form. Updated the app layout.   	| 
+|3   	| Tests 	|Tested the mobile app in different devices.   	|
+<br>
 
 ## Learning and Success
 Briefly outline what you have learned and the sucesses you have achieved.
