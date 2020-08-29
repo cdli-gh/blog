@@ -5,6 +5,9 @@ author: "Lars Willighagen"
 tags: ["gsoc","gsoc2020","api"]
 ---
 
+This post evaluates the results of the entire API project. For information on
+the project itself, see [the index page](../).
+
 ## Objectives and Deliverables
 
 ### Essential Objectives
