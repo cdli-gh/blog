@@ -65,9 +65,7 @@ The association data can also be edited using the edit page that contains both t
 Edit page with the information of the artifact and publication for the selected publication along with the input fields:
 
 <div style="text-align:center">
-  <div style="border: 2px solid black">
-    <img src="https://user-images.githubusercontent.com/35206075/91659976-d41de100-eaf0-11ea-9f19-87922d89582a.png" width="900" />
-  </div>
+    <img src="https://user-images.githubusercontent.com/35206075/91659976-d41de100-eaf0-11ea-9f19-87922d89582a.png" style="border: 2px solid black" width="1000" />
 </div>
  
 The add pages have a similar design with their respective elements.
