@@ -10,9 +10,9 @@ In order to make CDLI's bibliographic data more useful, this project aims to mak
 It mainly deals with the creation of the management pages for this data so that it can be easily handled by the admin and it can be viewed by the users.
 
 ## Team
-- Ajit Jadhav - Student Developer
-- Rune Rattenborg - Mentor
-- Sagar - Mentor
+- Ajit Jadhav - Student Developer ([LinkedIn](https://www.linkedin.com/in/ajitjjadhav/))
+- Rune Rattenborg - Mentor ([Website](https://katalog.uu.se/profile/?id=N18-1120), [LinkedIn](https://www.linkedin.com/in/rune-rattenborg/))
+- Sagar - Mentor ([LinkedIn](https://www.linkedin.com/in/sagar-sehgal/))
 
 ## Technologies
 - CakePHP 3
@@ -53,39 +53,49 @@ Publications have associated data like artifacts, authors and editors that have 
 For example, in case of artifact-publication association:
 
 1. Add association directly:
-![screencapture-127-0-0-1-2354-admin-artifacts-publications-add-2020-08-26-16_24_36](https://user-images.githubusercontent.com/35206075/91298598-f0064780-e7bd-11ea-86e7-f0a1b4f2f100.png)
+Add association for any artifact using its artifact id (or P#) and any publication using its bibtexkey along with the other associated data fields.
 
 2. Add associated artifact to a selected publication:
-![screencapture-127-0-0-1-2354-admin-artifacts-publications-add-artifact-1-2020-08-26-16_25_06](https://user-images.githubusercontent.com/35206075/91298560-e086fe80-e7bd-11ea-9931-2b85c4721159.png)
+Through the publication view page, the admin can access feature for associating artifacts for the publication. Selected publication information and list of associated artifacts are provided.
 
 3. Add associated publication to a selected artifact:
-![screencapture-127-0-0-1-2354-admin-artifacts-publications-add-publication-1-2020-08-26-16_25_26](https://user-images.githubusercontent.com/35206075/91298557-df55d180-e7bd-11ea-9c44-f97ebf5e460e.png)
+The association data can also be edited using the edit page that contains both the artifact and publication information for the selected association. Selected artifact information and list of associated publications are provided.
 
-The association data can also be edited.
+Edit page with the information of the artifact and publication for the selected publication along with the input fields:
+
+<center>
+ <table class="center" style="border: 10px solid black"><tr><td>
+    <img src="https://user-images.githubusercontent.com/35206075/91659976-d41de100-eaf0-11ea-9f19-87922d89582a.png" width="650" />
+</td></tr></table>
+</center>
+![screencapture-127-0-0-1-2354-admin-artifacts-publications-add-artifact-1-2020-08-30-17_28_16](https://user-images.githubusercontent.com/35206075/91659976-d41de100-eaf0-11ea-9f19-87922d89582a.png)
+The add pages have a similar design with their respective elements.
 
 ### 2. Admin feature for managing publications data and public features for viewing the publications data
 This involved creation of add, edit and delete functions for the admin for managing the publications. Publications index for viewing all the entries along with search options for filtering through the results are also provided. Also, the publication view contains publication details along with listing of associated data like artifacts, authors and editors. Index and view for public users was also created with display of only published publications and public artifacts along with restrictions on search to make sure that the user is not able get search results using private information.
 
-Publication admin index:
-![screencapture-127-0-0-1-2354-admin-publications-2020-08-25-18_47_31](https://user-images.githubusercontent.com/35206075/91299370-1ed0ed80-e7bf-11ea-9890-767c7549e999.png)
-Public view also has the same structure with restrictions on search and no options for editing data.
+Publications index (admin):
+![screencapture-127-0-0-1-2354-admin-publications-2020-08-30-17_32_42](https://user-images.githubusercontent.com/35206075/91660069-7fc73100-eaf1-11ea-8f15-699660bc7788.png)
 
-Publication view (admin):
-<TBA>
+Public index also has the same structure with restrictions on search and no options for editing data.
+
+Publication view:
+![screencapture-127-0-0-1-2354-publications-1-2020-08-30-17_33_22](https://user-images.githubusercontent.com/35206075/91660070-8190f480-eaf1-11ea-85c7-849334566b1f.png)
+
 The edit options on view page are only available if the user is admin.
 
 ### 3. Admin feature for managing authors data and public features for viewing the authors data
-This involved creation of add, edit and delete functions for managing the authors for the admin along with author index for viewing all the entries. Also, publication view was created that contains author details along with listing of associated data like artifacts, authors and editors. Index and view for public users was also created with display of only published publications and public artifacts. These pages have a similar structure to the publication pages.
+This involved functions for managing the authors for the admin along with author index for viewing all the entries. Also, author view was created that contains publications details. Similarly, index and view pages for public users were also created. These pages have a similar structure to the publication pages.
 
-### 4. Bulk upload for publications, artifacts-publications link, authors-publications link and editors-publications link
-For handling bulk upload of data for any of the tables in the database, the Bulk Upload Component was created. It is able to handle bulk upload for most of the database tables with only a few lines of code and proper data formatting in the model. The instruction for using the component for any other tables is provided [here](#).
+### 4. Bulk upload for publications, artifact-publication associations, author-publication associations and editor-publication associations
+For handling bulk upload of data for any of the tables in the database, the Bulk Upload Component was created. It is able to handle bulk upload for most of the database tables with only a few lines of code and proper data formatting in the model. The instructions for using the component for any other tables is provided [here](#).
 A CSV file with proper format containing the data is used for the upload. The admin is provided with a validation error report before proceeding with the data save. On proceeding, the data is saved in the database and an error report that can be exported as a CSV file is provided that contains all the entries that could'nt be saved and their errors due to which they couldn't be saved. The exported error report can be used for bulk uploading those entries after fixing the errors.
 
 Validation errors and confirmation for proceeding (in case if validation errors exist):
-![Screenshot from 2020-08-20 14-04-53](https://user-images.githubusercontent.com/35206075/91298829-54c1a200-e7be-11ea-84c8-529466af3531.png)
+![screencapture-127-0-0-1-2354-admin-artifacts-publications-add-bulk-2020-08-30-19_47_26](https://user-images.githubusercontent.com/35206075/91661473-f23c0f00-eaf9-11ea-965e-b99c25657b29.png)
 
 Error report:
-![Screenshot from 2020-08-20 14-05-07](https://user-images.githubusercontent.com/35206075/91298835-568b6580-e7be-11ea-8781-19a754f632af.png)
+![screencapture-127-0-0-1-2354-admin-artifacts-publications-add-bulk-2020-08-30-19_48_57](https://user-images.githubusercontent.com/35206075/91661478-f36d3c00-eaf9-11ea-91bf-0b7890caedd2.png)
 
 ## Bonus Task
 
