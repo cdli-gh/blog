@@ -63,12 +63,10 @@ The association data can also be edited using the edit page that contains both t
 
 Edit page with the information of the artifact and publication for the selected publication along with the input fields:
 
-<center>
- <table class="center" style="border: 10px solid black"><tr><td>
-    <img src="https://user-images.githubusercontent.com/35206075/91659976-d41de100-eaf0-11ea-9f19-87922d89582a.png" width="650" />
+ <table style="border: 2px solid black"><tr><td align="center">
+    <img src="https://user-images.githubusercontent.com/35206075/91659976-d41de100-eaf0-11ea-9f19-87922d89582a.png" width="900" />
 </td></tr></table>
-</center>
-![screencapture-127-0-0-1-2354-admin-artifacts-publications-add-artifact-1-2020-08-30-17_28_16](https://user-images.githubusercontent.com/35206075/91659976-d41de100-eaf0-11ea-9f19-87922d89582a.png)
+
 The add pages have a similar design with their respective elements.
 
 ### 2. Admin feature for managing publications data and public features for viewing the publications data
