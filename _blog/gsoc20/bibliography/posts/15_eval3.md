@@ -5,9 +5,11 @@ author: "Ajit"
 tags: ["eval","gsoc","gsoc2020","bibliography","eval#3"]
 ---
 
-This post contains the report for the entire project. For more information on the project, see the (project index page)[].
-
 <div style="margin:0px 150px;border:0px;">
+ 
+ 
+This post contains the report for the entire project. For more information on the project, see the [project index page](https://cdli-gh.github.io/blog/gsoc20/bibliography/index).
+
  
 ## About the project
 In order to make CDLI's bibliographic data more useful, this project aims to make features for managing the bibliography and related data for the admin and also to provide a way for the users to browse and view the data.
