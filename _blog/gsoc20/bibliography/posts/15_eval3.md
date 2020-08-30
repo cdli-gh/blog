@@ -4,7 +4,8 @@ title: bibliography Eval#3
 author: "Ajit"
 tags: ["eval","gsoc","gsoc2020","bibliography","eval#3"]
 ---
-
+<div class="container">
+ 
 ## About the project
 In order to make CDLI's bibliographic data more useful, this project aims to make features for managing the bibliography and related data for the admin and also to provide a way for the users to browse and view the data.
 It mainly deals with the creation of the management pages for this data so that it can be easily handled by the admin and it can be viewed by the users.
@@ -63,10 +64,12 @@ The association data can also be edited using the edit page that contains both t
 
 Edit page with the information of the artifact and publication for the selected publication along with the input fields:
 
- <table style="border: 2px solid black"><tr><td align="center">
+<div style="text-align:center">
+ <table style="border: 2px solid black"><tr><td>
     <img src="https://user-images.githubusercontent.com/35206075/91659976-d41de100-eaf0-11ea-9f19-87922d89582a.png" width="900" />
 </td></tr></table>
-
+<div>
+ 
 The add pages have a similar design with their respective elements.
 
 ### 2. Admin feature for managing publications data and public features for viewing the publications data
@@ -117,7 +120,7 @@ I learned a lot about development practices and technologies like CakePHP 3.
 I would be available to help with further improving my current project or in general with any task that I can help with in case if required. Developing for CDLI has been an enjoyable experience and I plan to be a long-time contributor for CDLI.
 
 
- 
+ </div>
  
 
 
