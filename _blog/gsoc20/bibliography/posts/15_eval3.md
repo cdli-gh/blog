@@ -4,7 +4,7 @@ title: bibliography Eval#3
 author: "Ajit"
 tags: ["eval","gsoc","gsoc2020","bibliography","eval#3"]
 ---
-<div class="container">
+<div style="margin:0px 100px;border:0px;">
  
 ## About the project
 In order to make CDLI's bibliographic data more useful, this project aims to make features for managing the bibliography and related data for the admin and also to provide a way for the users to browse and view the data.
@@ -74,12 +74,16 @@ The add pages have a similar design with their respective elements.
 This involved creation of add, edit and delete functions for the admin for managing the publications. Publications index for viewing all the entries along with search options for filtering through the results are also provided. Also, the publication view contains publication details along with listing of associated data like artifacts, authors and editors. Index and view for public users was also created with display of only published publications and public artifacts along with restrictions on search to make sure that the user is not able get search results using private information.
 
 Publications index (admin):
-![screencapture-127-0-0-1-2354-admin-publications-2020-08-30-17_32_42](https://user-images.githubusercontent.com/35206075/91660069-7fc73100-eaf1-11ea-8f15-699660bc7788.png)
+<div style="text-align:center">
+    <img src="https://user-images.githubusercontent.com/35206075/91660069-7fc73100-eaf1-11ea-8f15-699660bc7788.png" style="border: 2px solid black" width="1000" />
+</div>
 
 Public index also has the same structure with restrictions on search and no options for editing data.
 
 Publication view:
-![screencapture-127-0-0-1-2354-publications-1-2020-08-30-17_33_22](https://user-images.githubusercontent.com/35206075/91660070-8190f480-eaf1-11ea-85c7-849334566b1f.png)
+<div style="text-align:center">
+    <img src="https://user-images.githubusercontent.com/35206075/91660070-8190f480-eaf1-11ea-85c7-849334566b1f.png" style="border: 2px solid black" width="1000" />
+</div>
 
 The edit options on view page are only available if the user is admin.
 
@@ -91,10 +95,14 @@ For handling bulk upload of data for any of the tables in the database, the Bulk
 A CSV file with proper format containing the data is used for the upload. The admin is provided with a validation error report before proceeding with the data save. On proceeding, the data is saved in the database and an error report that can be exported as a CSV file is provided that contains all the entries that could'nt be saved and their errors due to which they couldn't be saved. The exported error report can be used for bulk uploading those entries after fixing the errors.
 
 Validation errors and confirmation for proceeding (in case if validation errors exist):
-![screencapture-127-0-0-1-2354-admin-artifacts-publications-add-bulk-2020-08-30-19_47_26](https://user-images.githubusercontent.com/35206075/91661473-f23c0f00-eaf9-11ea-965e-b99c25657b29.png)
+<div style="text-align:center">
+    <img src="https://user-images.githubusercontent.com/35206075/91661473-f23c0f00-eaf9-11ea-965e-b99c25657b29.png" style="border: 2px solid black" width="1000" />
+</div>
 
 Error report:
-![screencapture-127-0-0-1-2354-admin-artifacts-publications-add-bulk-2020-08-30-19_48_57](https://user-images.githubusercontent.com/35206075/91661478-f36d3c00-eaf9-11ea-91bf-0b7890caedd2.png)
+<div style="text-align:center">
+    <img src="https://user-images.githubusercontent.com/35206075/91661478-f36d3c00-eaf9-11ea-91bf-0b7890caedd2.png" style="border: 2px solid black" width="1000" />
+</div>
 
 ## Bonus Task
 
@@ -103,10 +111,14 @@ Error report:
 The data conversion from the old flat structure to the new fully associated database leads to duplicates or near duplicates for the publications data. While there is ongoing work for improving the data conversion scripts based on the data patterns, it is very difficult to obtain a perfect data format conversion due to the difference in structure of the data. This feature helps in making the process of cleaning the data easier. The admin can search the publications based on the provided set of criteria and then select the entries for merging and cleaning. Once selected, the publication details along with the artifacts associated to all the selected entries and related association data can be modified and finalized and the publication can be merged.
 
 Search publications for merging:
-![screencapture-127-0-0-1-2354-admin-publications-merge-select-2020-08-25-18_49_39](https://user-images.githubusercontent.com/35206075/91299039-a79b5980-e7be-11ea-9b34-73e3b343e4b1.png)
+<div style="text-align:center">
+    <img src="https://user-images.githubusercontent.com/35206075/91299039-a79b5980-e7be-11ea-9b34-73e3b343e4b1.png" style="border: 2px solid black" width="1000" />
+</div>
 
 Editing details for the merged publication:
-![screencapture-127-0-0-1-2354-admin-publications-merge-2020-08-25-18_55_18](https://user-images.githubusercontent.com/35206075/91299036-a5d19600-e7be-11ea-9094-f10ec96d8bb0.png)
+<div style="text-align:center">
+    <img src="https://user-images.githubusercontent.com/35206075/91299036-a5d19600-e7be-11ea-9094-f10ec96d8bb0.png" style="border: 2px solid black" width="1000" />
+</div>
 
 ## Conclusion
 
