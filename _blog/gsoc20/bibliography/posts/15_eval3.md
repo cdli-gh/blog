@@ -1,10 +1,13 @@
 ---
 layout: page
-title: bibliography Eval#3
+title: Final Report
 author: "Ajit"
 tags: ["eval","gsoc","gsoc2020","bibliography","eval#3"]
 ---
-<div style="margin:0px 100px;border:0px;">
+
+This post contains the report for the entire project. For more information on the project, see the (project index page)[].
+
+<div style="margin:0px 150px;border:0px;">
  
 ## About the project
 In order to make CDLI's bibliographic data more useful, this project aims to make features for managing the bibliography and related data for the admin and also to provide a way for the users to browse and view the data.
@@ -31,7 +34,7 @@ It mainly deals with the creation of the management pages for this data so that 
 5. Documentation for all the work done.
 
 ## Contributions
-My major contributions during GSoC can be found in the following links
+My major contributions during GSoC can be found in the following links:
 
 - [Link artifacts and publications](https://gitlab.com/cdli/framework/-/merge_requests/122)
 - [Improvements to artifact-publication link feature](https://gitlab.com/cdli/framework/-/merge_requests/153)
@@ -57,9 +60,11 @@ For example, in case of artifact-publication association:
 Add association for any artifact using its artifact id (or P#) and any publication using its bibtexkey along with the other associated data fields.
 
 2. Add associated artifact to a selected publication:
-Through the publication view page, the admin can access feature for associating artifacts for the publication. Selected publication information and list of associated artifacts are provided.
+Through the publication view page, the admin can access feature for associating artifacts to the publication. Selected publication information and list of associated artifacts are provided.
 
-3. Add associated publication to a selected artifact:
+3. Add associated publication to a selected artifact: Similarly, the admin can access feature for associating publications to the artifact. Selected artifact information and list of associated publications are provided.
+
+
 The association data can also be edited using the edit page that contains both the artifact and publication information for the selected association. Selected artifact information and list of associated publications are provided.
 
 Edit page with the information of the artifact and publication for the selected publication along with the input fields:
@@ -71,7 +76,7 @@ Edit page with the information of the artifact and publication for the selected 
 The add pages have a similar design with their respective elements.
 
 ### 2. Admin feature for managing publications data and public features for viewing the publications data
-This involved creation of add, edit and delete functions for the admin for managing the publications. Publications index for viewing all the entries along with search options for filtering through the results are also provided. Also, the publication view contains publication details along with listing of associated data like artifacts, authors and editors. Index and view for public users was also created with display of only published publications and public artifacts along with restrictions on search to make sure that the user is not able get search results using private information.
+This involved creation of add, edit and delete functions for the admin for managing the publications. Publications index for viewing all the entries along with search options for filtering through the results are also provided. Also, the publication view contains publication details along with listing of associated data like artifacts, authors and editors. Index and view for public users were also created with display of only published publications and public artifacts along with restrictions on search to make sure that the user is not able get search results using private information.
 
 Publications index (admin):
 <div style="text-align:center">
@@ -91,8 +96,9 @@ The edit options on view page are only available if the user is admin.
 This involved functions for managing the authors for the admin along with author index for viewing all the entries. Also, author view was created that contains publications details. Similarly, index and view pages for public users were also created. These pages have a similar structure to the publication pages.
 
 ### 4. Bulk upload for publications, artifact-publication associations, author-publication associations and editor-publication associations
-For handling bulk upload of data for any of the tables in the database, the Bulk Upload Component was created. It is able to handle bulk upload for most of the database tables with only a few lines of code and proper data formatting in the model. The instructions for using the component for any other tables is provided [here](#).
-A CSV file with proper format containing the data is used for the upload. The admin is provided with a validation error report before proceeding with the data save. On proceeding, the data is saved in the database and an error report that can be exported as a CSV file is provided that contains all the entries that could'nt be saved and their errors due to which they couldn't be saved. The exported error report can be used for bulk uploading those entries after fixing the errors.
+For handling bulk upload of data for any of the tables in the database, the Bulk Upload Component was created. It is able to handle bulk upload for most of the database tables with only a few lines of code and proper data formatting in the model.
+
+A CSV file in the required format containing the data is used for the upload. The admin is provided with a validation error report before proceeding with the data save. On proceeding, the data is saved in the database and an error report that can be exported as a CSV file is provided that contains all the entries that could'nt be saved and their errors due to which they couldn't be saved. The exported error report can be used for bulk uploading those entries after fixing the errors.
 
 Validation errors and confirmation for proceeding (in case if validation errors exist):
 <div style="text-align:center">
@@ -123,12 +129,11 @@ Editing details for the merged publication:
 ## Conclusion
 
 My project was mostly to design and implement features for managing bibliography related data. The mentors were very helpful and patient while guiding me and the code reviews were very detailed and I was able to learn a lot from them. Some parts were challenging and I was stuck at a them for a while but with the help from the entire CDLI community, I was able to fix them gradually and complete the features.
-I learned a lot about development practices and technologies like CakePHP 3.
+I learned a lot about development practices and technologies like CakePHP 3 throughout my project.
 
 ## Future plan
 
 I would be available to help with further improving my current project or in general with any task that I can help with in case if required. Developing for CDLI has been an enjoyable experience and I plan to be a long-time contributor for CDLI.
-
 
  </div>
  
