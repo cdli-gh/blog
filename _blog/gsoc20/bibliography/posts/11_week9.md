@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bibliography Eval#3 Week#9
+title: Week 9
 author: "Ajit"
 tags: ["week","gsoc","gsoc2020","bibliography","eval#3","week#9"]
 ---
@@ -23,9 +23,9 @@ Since I was sick at the start of the week, I couldn't do much for the first thre
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2020/07/27	|   	|  
-|2   	| Tuesday  	|   2020/06/28	|   	|  
-|3   	| Wednesday  	|   2020/06/29	|    	|  
-|4   	| Thursday  	|   2020/06/30	|  Working on publications index and view pages. 	|  
-|5   	| Friday  	|   2020/06/31	|  Working on publications index and view pages. 	|  
-|6   	| Saturday  	|   2020/06/01	|  Fixing bugs and resolving conflicts for publications add/edit and bulk upload pages. |  
-|7   	| Sunday  	|   2020/06/02	|  Worked on getting PR 155 merged.	|  
+|2   	| Tuesday  	|   2020/07/28	|   	|  
+|3   	| Wednesday  	|   2020/07/29	|    	|  
+|4   	| Thursday  	|   2020/07/30	|  Working on publications index and view pages. 	|  
+|5   	| Friday  	|   2020/07/31	|  Working on publications index and view pages. 	|  
+|6   	| Saturday  	|   2020/08/01	|  Fixing bugs and resolving conflicts for publications add/edit and bulk upload pages. |  
+|7   	| Sunday  	|   2020/08/02	|  Worked on getting PR 155 merged.	|  

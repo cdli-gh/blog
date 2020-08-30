@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bibliography Eval#1 Week#3 
+title: Week 3
 author: "Ajit"
 tags: ["week","gsoc","gsoc2020","bibliography","eval#1","week#3"]
 ---
