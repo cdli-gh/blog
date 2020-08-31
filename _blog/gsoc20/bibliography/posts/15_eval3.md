@@ -5,7 +5,7 @@ author: "Ajit"
 tags: ["eval","gsoc","gsoc2020","bibliography","eval#3"]
 ---
 
-<div style="margin:0px 150px;border:0px;">
+<div style="margin:0px 200px;border:0px;">
  
  
 This post contains the report for the entire project. For more information on the project, see the [project index page](https://cdli-gh.github.io/blog/gsoc20/bibliography/index).
@@ -77,6 +77,12 @@ Edit page with the information of the artifact and publication for the selected 
  
 The add pages have a similar design with their respective elements.
 
+#### Pull Requests
+
+- [Link artifacts and publications](https://gitlab.com/cdli/framework/-/merge_requests/122)
+- [Improvements to artifact-publication link feature](https://gitlab.com/cdli/framework/-/merge_requests/153)
+- [Link authors to publications and editors to publications](https://gitlab.com/cdli/framework/-/merge_requests/123)
+
 ### 2. Admin feature for managing publications data and public features for viewing the publications data
 This involved creation of add, edit and delete functions for the admin for managing the publications. Publications index for viewing all the entries along with search options for filtering through the results are also provided. Also, the publication view contains publication details along with listing of associated data like artifacts, authors and editors. Index and view for public users were also created with display of only published publications and public artifacts along with restrictions on search to make sure that the user is not able get search results using private information.
 
@@ -94,8 +100,21 @@ Publication view:
 
 The edit options on view page are only available if the user is admin.
 
+#### Pull Requests
+
+- [Publications data management and bulk upload](https://gitlab.com/cdli/framework/-/merge_requests/157)
+- [Merge Publications and publications index and view](https://gitlab.com/cdli/framework/-/merge_requests/166)
+- [Public Publications index](https://gitlab.com/cdli/framework/-/merge_requests/190)
+
 ### 3. Admin feature for managing authors data and public features for viewing the authors data
 This involved functions for managing the authors for the admin along with author index for viewing all the entries. Also, author view was created that contains publications details. Similarly, index and view pages for public users were also created. These pages have a similar structure to the publication pages.
+
+#### Pull Requests
+
+- [Manage Authors Data for admin](https://gitlab.com/cdli/framework/-/merge_requests/128)
+- [Authors data public view](https://gitlab.com/cdli/framework/-/merge_requests/131)
+- [Authors data validation fix](https://gitlab.com/cdli/framework/-/merge_requests/155)
+
 
 ### 4. Bulk upload for publications, artifact-publication associations, author-publication associations and editor-publication associations
 For handling bulk upload of data for any of the tables in the database, the Bulk Upload Component was created. It is able to handle bulk upload for most of the database tables with only a few lines of code and proper data formatting in the model.
@@ -111,6 +130,14 @@ Error report:
 <div style="text-align:center">
     <img src="https://user-images.githubusercontent.com/35206075/91661478-f36d3c00-eaf9-11ea-91bf-0b7890caedd2.png" style="border: 2px solid black" width="1000" />
 </div>
+
+#### Pull Requests
+
+- [Creating Bulk upload component and bulk upload for Artifact-Publication links](https://gitlab.com/cdli/framework/-/merge_requests/136)
+- [Bulk Upload Authors-Publications and Editors-Publications](https://gitlab.com/cdli/framework/-/merge_requests/143)
+- [Publications data management and bulk upload](https://gitlab.com/cdli/framework/-/merge_requests/157)
+- [Improvements to bulk upload](https://gitlab.com/cdli/framework/-/merge_requests/191)
+
 
 ## Bonus Task
 
@@ -128,14 +155,21 @@ Editing details for the merged publication:
     <img src="https://user-images.githubusercontent.com/35206075/91299036-a5d19600-e7be-11ea-9094-f10ec96d8bb0.png" style="border: 2px solid black" width="1000" />
 </div>
 
+#### Pull Requests
+
+- [Merge Publications and publications index and view](https://gitlab.com/cdli/framework/-/merge_requests/166)
+
 ## Conclusion
 
-My project was mostly to design and implement features for managing bibliography related data. The mentors were very helpful and patient while guiding me and the code reviews were very detailed and I was able to learn a lot from them. Some parts were challenging and I was stuck at a them for a while but with the help from the entire CDLI community, I was able to fix them gradually and complete the features.
+My project was mainly to design and implement features for managing bibliography related data.
+The CDLI database holds the worldwide canonical text catalogue for cuneiform texts of more than 300,000 records from the earliest part of human history. This project will enable the CDLI admin and users to improve the data quality and interoperability of the CDLI database that will be of critical relevance to the scholarly community working with cuneiform sources.
+
+The mentors were very helpful and patient while guiding me and the code reviews were very detailed and I was able to learn a lot from them. Some parts were challenging and I was stuck at a them for a while but with the help from the entire CDLI community, I was able to fix them gradually and complete the features.
 I learned a lot about development practices and technologies like CakePHP 3 throughout my project.
 
 ## Future plan
 
-I would be available to help with further improving my current project or in general with any task that I can help with in case if required. Developing for CDLI has been an enjoyable experience and I plan to be a long-time contributor for CDLI.
+I enjoyed contributing to CDLI for developing their framework. Considering that there is still room for more development related to my project and the entire framework as a whole, I would like to help with the development in the future. I would be available to help with further improving my current project or in general with any task that I can help with in case if required. Developing for CDLI has been an enjoyable experience and I plan to be a long-time contributor for CDLI.
 
  </div>
  
