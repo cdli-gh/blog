@@ -14,17 +14,17 @@ Objectives are separated in two categories: essential and additional, they are a
 
 |\#|Objectives|Associated Deliverables|Pull request(s)|Status|  
 |---	|---	|---	|--- |---	|  
-|1   	|UI enhancement   	| Update UI of Search results page, Object page and Advanced search page as per the screens on zeplin  	| !130,!147,!150 	|✔️   | 
-|2   	|UI Implementation  	| Implement/Build UI for Search settings, Image View, Home and more     	| !114,!152,!161,!164 | ✔️   |
-|3   	|Accessibility enhancement - 1 | Add a minimum accessibility level of A following WCAG | !142    	| ✔️   | 
-|4   	|Boost UX   	| Suggest and implement changes to improve UX.   	| !111,!117,!125,!132,!168,!178	|   ✔️   |
+|1   	|UI enhancement   	| Update UI of Search results page, Object page and Advanced search page as per the screens on zeplin  	| [!130](https://gitlab.com/cdli/framework/-/merge_requests/130) ,[!147](https://gitlab.com/cdli/framework/-/merge_requests/147),[!150](https://gitlab.com/cdli/framework/-/merge_requests/150) 	|✔️   | 
+|2   	|UI Implementation  	| Implement/Build UI for Search settings, Image View, Home and more     	| [!114](https://gitlab.com/cdli/framework/-/merge_requests/114), [!152](https://gitlab.com/cdli/framework/-/merge_requests/152), [!161](https://gitlab.com/cdli/framework/-/merge_requests/161),[!164](https://gitlab.com/cdli/framework/-/merge_requests/164) | ✔️   |
+|3   	|Accessibility enhancement - 1 | Add a minimum accessibility level of A following WCAG | [!142](https://gitlab.com/cdli/framework/-/merge_requests/142)    	| ✔️   | 
+|4   	|Boost UX   	| Suggest and implement changes to improve UX.   	| [!111](https://gitlab.com/cdli/framework/-/merge_requests/111),[!117](https://gitlab.com/cdli/framework/-/merge_requests/117),[!125](https://gitlab.com/cdli/framework/-/merge_requests/125),[!132](https://gitlab.com/cdli/framework/-/merge_requests/132),[!168](https://gitlab.com/cdli/framework/-/merge_requests/168),[!178](https://gitlab.com/cdli/framework/-/merge_requests/178)	|   ✔️   |
 
 
 #### Additional Objectives
 
 |\#|Objectives|Associated Deliverables|Pull request(s)|Status|  
 |---	|---	|---	|--- |---	|  
-|1   	|Accessibility enhancement - 2   	| Update the minimum accessibility level of A to AA following WCAG  | !165  	|  |
+|1   	|Accessibility enhancement - 2   	| Update the minimum accessibility level of A to AA following WCAG  | [!165](https://gitlab.com/cdli/framework/-/merge_requests/165)  	|  |
 |2   	|Enhance Support for browsers without JS   	| Make public essential functionality less dependent on JS    	| No-js functionality was within the markup PRs  	| ✔️  |
 
 ### Tentative timeline  
