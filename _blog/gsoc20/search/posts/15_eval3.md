@@ -2,7 +2,7 @@
 layout: page
 title: Eval - 3
 author: "Vedant"
-tags: ["draft","eval","gsoc","gsoc2020","search","eval#3"]
+tags: ["eval","gsoc","gsoc2020","search","eval#3"]
 ---
 
 ## Summary
