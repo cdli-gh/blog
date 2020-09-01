@@ -208,26 +208,49 @@ Objectives are separated in two categories: essential and additional, they are a
         <tr>
             <td> B. Integrating different search options like Results per page, Pagination, Compact & Expanded view. </td>
         </tr>
-        <!-- Week-10 -->
+        <!-- Week- 10 - 12 -->
         <tr>
-            <td rowspan=1 align="center"> 10 </td>
-            <td rowspan=1></td>
-            <td rowspan=1 align="center"></td>
-            <td></td>
+            <td rowspan=11 align="center"> 10 - 12 </td>
+            <td rowspan=1> A. Search Settings Page. </td>
+            <td rowspan=1 align="center"> :heavy_check_mark: </td>
+            <td> Implemented Search Settings page and integrated with search results page. </td>
         </tr>
-        <!-- Week-11 -->
         <tr>
-            <td rowspan=1 align="center"> 11 </td>
-            <td rowspan=1></td>
-            <td rowspan=1 align="center"></td>
-            <td></td>
+            <td rowspan=3> B. Advanced Search. </td>
+            <td rowspan=3 align="center"> :heavy_check_mark: </td>
+            <td>a. Rewriting Advanced Search from scratch. <br>  </td>
         </tr>
-        <!-- Week-12 -->
         <tr>
-            <td rowspan=1 align="center"> 12 </td>
-            <td rowspan=1></td>
-            <td rowspan=1 align="center"></td>
-            <td></td>
+            <td> b. Caching results for faster access for next set of results. </td>
+        </tr>
+        <tr>
+            <td> c. Regex support. </td>
+        </tr>
+        <tr>
+            <td rowspan=3> C. Filter support for Search. </td>
+            <td rowspan=3 align="center"> :heavy_check_mark: </td>
+            <td> a. Populating Filters. </td>
+        </tr>
+        <tr>
+            <td> b. Applying Filters.  </td>
+        </tr>
+        <tr>
+            <td> c. Displaying Applied Filters. </td>
+        </tr>
+        <tr>
+            <td rowspan=1> D. Custom Pagination. </td>
+            <td rowspan=1 align="center"> :heavy_check_mark: </td>
+            <td>a. Developed pagination for results with custom data. </td>
+        </tr>
+        <tr>
+            <td rowspan=1> E. Expanded and Compact View. </td>
+            <td rowspan=1 align="center"> :heavy_check_mark: </td>
+            <td>a. Extended view support for Advanced Search results. </td>
+        </tr>
+        <tr>
+            <td rowspan=1> F. RocketChat. </td>
+            <td rowspan=1 align="center"> :heavy_check_mark: </td>
+            <td>a. Tested Rocketchat to integrate with the framework. </td>
         </tr>
 <!--         <tr>
             <td rowspan=4>L1 Name</td>
