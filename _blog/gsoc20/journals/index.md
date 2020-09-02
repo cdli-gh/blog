@@ -62,7 +62,7 @@ Objectives are separated in two categories: essential and additional, they are a
 | 7    | Convert articles at editor Dashboard. |Complete |Finishing the latex tex to HTML conversion for journals.                                               |
 | 8    | Display of article content            |Complete |Display of HTML Content of the journal (Individually)                                                  |
 | 9    | Testing                               |Complete |Testing Implementations of Milestone 2 i.e Week 6 to week 8.                                                                |
-| 10   | Integration Testing                   | |Testing the data variation to the database with article content and integration with other modules.    |
-| 11   | Unit Testing                          | |Initalize unit testing for CDLI Framework and write possible tests journals dashboard                  |
-| 12   | Improvements                          | |Manually test the entire journal dashboard, ready the project for submission and document necessary details (CKEditor, pdf2html and tests). |
-| 13   | Finishing the project                 | |Testing the project and making release/production ready.                                               |
+| 10   | Integration Testing                   |Complete |Testing the data variation to the database with article content and integration with other modules.    |
+| 11   | Unit Testing                          |Complete |Initalize unit testing for CDLI Framework and write possible tests journals dashboard                  |
+| 12   | Improvements                          |Complete |Manually test the entire journal dashboard, ready the project for submission and document necessary details (CKEditor, pdf2html and tests). |
+| 13   | Finishing the project                 |Complete |Testing the project and making release/production ready.                                               |
