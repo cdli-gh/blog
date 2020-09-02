@@ -47,7 +47,6 @@ Objectives are separated in two categories: essential and additional, they are a
 | --- | ---------------------- | ----------------------- | -------- |
 | 1   | Improvements to CI/CD  | Gitlab CI/CD Pipelines  |          |
 | 2   | Initalize unit testing | Framework Testing       |          |
-| 3   |                        |                         |          |
 
 ### Tentative timeline
 
