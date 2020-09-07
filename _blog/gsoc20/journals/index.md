@@ -29,7 +29,7 @@ I've been accepted for the project Journals Management and Display, the project 
 ## GSoC Final Report and Summary.
 
 ### What Was Done
-All the essential and additional objectives of the project were completed which includes,
+During these three months I have completed all the essential and additional objectives of the project which includes
 | \#  | Objectives         | Pull Requests |    Status                                                      |
 | --- | ------------------ | -------- | ------------------------------------------------------------------------------- |
 |1|CRUD operations for the article upload|<a href='https://gitlab.com/cdli/framework/-/merge_requests/55'>!55</a>, <a href='https://gitlab.com/cdli/framework/-/merge_requests/139'>!139</a>|Merged|
@@ -39,12 +39,9 @@ All the essential and additional objectives of the project were completed which 
 |5|Schema & Data migrations|-|Completed|
 |6|Initalize Lint+Unit testing with CI/CD|<a href='https://gitlab.com/cdli/framework/-/merge_requests/41'>!41</a>,<a href='https://gitlab.com/cdli/framework/-/merge_requests/45'>!45</a>, <a href='https://gitlab.com/cdli/framework/-/merge_requests/51'>!51</a>, <a href='https://gitlab.com/cdli/framework/-/merge_requests/76'>!76</a>, <a href='https://gitlab.com/cdli/framework/-/merge_requests/85'>!85</a>, <a href='https://gitlab.com/cdli/framework/-/merge_requests/92'>!92</a>, <a href='https://gitlab.com/cdli/framework/-/merge_requests/98'>!98</a>, <a href='https://gitlab.com/cdli/framework/-/merge_requests/172'>!172</a>|Merged|
 
-
-
 ### What Is Left
-
-### Objectives and Deliverables
-
+My next assignments are to re-test the entire dashboard and fix the details which were suggested by my mentor. While completing the project 
+I see scopes for many possible feature which could ease the entire process of article upload which has to be improved <a href='https://gitlab.com/cdli/framework/-/issues?label_name%5B%5D=Journals'>issues</a>
 ### Objectives and Deliverables
 
 Objectives are separated in two categories: essential and additional, they are also listed in priority order.
