@@ -8,7 +8,7 @@ tags: ['project', 'gsoc', 'gsoc2020', 'journals', 'eval#1', 'week#2']
 ## Project Overview.
 
 I'm <a href="https://in.linkedin.com/in/nishealjohn">Nisheal John</a>, participating in Google Summer of Code 2020 with CDLI.
-I've been accepted for the project Journals Management and Display, the project focuses on the publication of various types of articles that CDLI hosts, currently CDLI hosts four articles, two peer-reviewed journals (CDL Journal and CDL Bulletin), the CDL Pre-prints repository and the CDL Notes. For the upload of articles, appropriate designs and workflow need to be developed which includes the development of required routes, controllers, views & tests. The major challenges to this project are the conversion of the editor's article inputs to CDLI's article publications which will be carried out by using latex and Maths libraries. The editors will be uploading the latex file of the article and the dashboard will convert the latex file into the needed HTML content i.e the CDLI web template building a latex parsers is the heart of this project. Further in the project necessary end-to-end & unit testing phases should be established to improve the development workflow and avoid build issues.<br>
+I've been accepted for the project Journals Management and Display, the project focuses on the publication of various types of articles that CDLI hosts, currently CDLI hosts four articles, two peer-reviewed journals (CDL Journal and CDL Bulletin), the CDL Pre-prints repository and the CDL Notes. For the upload of articles, appropriate designs and workflow need to be developed which includes the development of required routes, controllers, views & tests. The major challenges to this project are the conversion of the editor's article inputs to CDLI's article publications which will be carried out by using latex and Maths libraries. The editors will be uploading the latex file of the article and the dashboard will convert the latex file into the needed HTML content i.e the CDLI web template. Building latex and Math parser is the heart of this project. Further in the project necessary end-to-end & unit testing phases should be established to improve the development workflow and avoid build issues.<br>
 
 <i>Project:</i>
 <a target="_blank" href="https://summerofcode.withgoogle.com/projects/#5756188689432576
@@ -50,7 +50,7 @@ Objectives are separated in two categories: essential and additional, they are a
 | 1   | Improvements to CI/CD  | Gitlab CI/CD Pipelines  |          |
 | 2   | Initalize unit testing | Framework Testing       |          |
 
-### Tentative timeline
+### Timeline
 
 | Week | Objectives                            |Status |Deliverables                                                                                           |
 | ---- | ------------------------------------- |------ |------------------------------------------------------------------------------------------------------ |
@@ -67,3 +67,5 @@ Objectives are separated in two categories: essential and additional, they are a
 | 11   | Unit Testing                          |Complete |Initalize unit testing for CDLI Framework and write possible tests journals dashboard                  |
 | 12   | Improvements                          |Complete |Manually test the entire journal dashboard, ready the project for submission and document necessary details (CKEditor, pdf2html and tests). |
 | 13   | Finishing the project                 |Complete |Testing the project and making release/production ready.                                               |
+
+### Weekly Reports
