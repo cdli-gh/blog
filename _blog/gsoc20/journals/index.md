@@ -32,8 +32,6 @@ I shall always be indebted to such a welcoming organisation and my mentor for hi
 
 ### What Was Done
 During these three months I have completed all the essential and additional objectives of the project which includes
-| \#  | Objectives         | Status | Associated Deliverables                                                         | issue(s) |
-| --- | ------------------ | -------- | ------------------------------------------------------------------------------- | -------- |
 
 | \#  | Objectives         | Pull Requests |    Status |
 | --- | ------------------ | -------- | ------------ |
