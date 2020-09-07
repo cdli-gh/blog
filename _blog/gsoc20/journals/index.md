@@ -27,6 +27,8 @@ I've been accepted for the project Journals Management and Display, the project 
 <b>Mentor: </b> <a target="_blank" href='mailto:lizardcircusus@gmail.com'>David Wong</a>
 
 ## GSoC Final Report and Summary.
+Participating in GSoC was a great learning experience, I faced alot of challenges in this journey which helped me learning key skills.
+I shall always be indebted to such a welcoming organisation and my mentor for his help.
 
 ### What Was Done
 During these three months I have completed all the essential and additional objectives of the project which includes
