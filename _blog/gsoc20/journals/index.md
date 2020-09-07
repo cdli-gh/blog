@@ -28,6 +28,23 @@ I've been accepted for the project Journals Management and Display, the project 
 
 ## GSoC Final Report and Summary.
 
+### What Was Done
+All the essential and additional objectives of the project were completed which includes,
+| \#  | Objectives         | Pull Requests |    Status                                                      |
+| --- | ------------------ | -------- | ------------------------------------------------------------------------------- |
+|1|CRUD operations for the article upload|<a href='https://gitlab.com/cdli/framework/-/merge_requests/55'>!55</a>, <a href='https://gitlab.com/cdli/framework/-/merge_requests/139'>!139</a>|Merged|
+|2|Conversion of article latex to article HTML|<a href='https://gitlab.com/cdli/framework/-/merge_requests/158'>!158</a>|PR Ready|
+|3|Display of articles with PR|<a href='https://gitlab.com/cdli/framework/-/merge_requests/55'>!55</a>|Merged|
+|4|Linking articles and publications|<a href='https://gitlab.com/cdli/framework/-/merge_requests/189'>!189</a>|Merged|
+|5|Schema & Data migrations|-|Completed|
+|6|Initalize Lint+Unit testing with CI/CD|<a href='https://gitlab.com/cdli/framework/-/merge_requests/41'>!41</a>,<a href='https://gitlab.com/cdli/framework/-/merge_requests/45'>!45</a>, <a href='https://gitlab.com/cdli/framework/-/merge_requests/51'>!51</a>, <a href='https://gitlab.com/cdli/framework/-/merge_requests/76'>!76</a>, <a href='https://gitlab.com/cdli/framework/-/merge_requests/85'>!85</a>, <a href='https://gitlab.com/cdli/framework/-/merge_requests/92'>!92</a>, <a href='https://gitlab.com/cdli/framework/-/merge_requests/98'>!98</a>, <a href='https://gitlab.com/cdli/framework/-/merge_requests/172'>!172</a>|Merged|
+
+
+
+### What Is Left
+
+### Objectives and Deliverables
+
 ### Objectives and Deliverables
 
 Objectives are separated in two categories: essential and additional, they are also listed in priority order.
@@ -39,16 +56,16 @@ Objectives are separated in two categories: essential and additional, they are a
 | 1   | Article CRUD     | Complete|Feature for editors to CRUD different types of articles.                      |  <a target="_blank" href='https://gitlab.com/cdli/framework/-/issues/265'>#265</a>        |
 | 2   | Article Conversion |Complete |Backend to convert the editor's uploaded article to CDLI Standards for display. |   <a target="_blank" href='https://gitlab.com/cdli/framework/-/issues/267'>#267</a>       |
 | 3   | Article Display    |Complete |Display all the articles at their respective pages and indiviual view for each article.|   <a target="_blank" href='https://gitlab.com/cdli/framework/-/issues/266'>#266</a>       |
-| 4   | Schema Migration   | Complete |Make necessary changes to the schema for journals dashboard.                    |          |
-| 5   | Article Migration  | Complete |Move old & archived articles to the new architecture.                           |          |
-| 6   | Testing            | Complete |Implement necessary testing for the project and sync with CI/CD.                |          |
+| 4   | Schema Migration   | Complete |Make necessary changes to the schema for journals dashboard.                    |  -        |
+| 5   | Article Migration  | Complete |Move old & archived articles to the new architecture.                           |  -        |
+| 6   | Testing            | Complete |Implement necessary testing for the project and sync with CI/CD.                |  <a href='https://gitlab.com/cdli/framework/-/issues/185'>#185</a>        |
 
 #### Additional Objectives
 
 | \#  | Objectives             | Associated Deliverables | issue(s) |
 | --- | ---------------------- | ----------------------- | -------- |
-| 1   | Improvements to CI/CD  | Gitlab CI/CD Pipelines  |          |
-| 2   | Initalize unit testing | Framework Testing       |          |
+| 1   | Improvements to CI/CD  | Gitlab CI/CD Pipelines  |   -       |
+| 2   | Initalize unit testing | Framework Testing       |   <a href='https://gitlab.com/cdli/framework/-/issues/185'>#185</a>       |
 
 ### Timeline
 
