@@ -32,8 +32,8 @@ I shall always be indebted to such a welcoming organisation and my mentor for hi
 
 ### What Was Done
 During these three months I have completed all the essential and additional objectives of the project which includes
-| \#  | Objectives         | Pull Requests |    Status                                                      |
-| --- | ------------------ | -------- | ------------------------------------------------------------------------------- |
+| \#  | Objectives         | Pull Requests |    Status |
+| --- | ------------------ | -------- | ------------ |
 |1|CRUD operations for the article upload|<a href='https://gitlab.com/cdli/framework/-/merge_requests/55'>!55</a>, <a href='https://gitlab.com/cdli/framework/-/merge_requests/139'>!139</a>|Merged|
 |2|Conversion of article latex to article HTML|<a href='https://gitlab.com/cdli/framework/-/merge_requests/158'>!158</a>|PR Ready|
 |3|Display of articles with PR|<a href='https://gitlab.com/cdli/framework/-/merge_requests/55'>!55</a>|Merged|
