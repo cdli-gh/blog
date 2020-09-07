@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Journals
-author: 'Nisheal'
+title: Journals Management and Display
+author: 'Nisheal John'
 tags: ['project', 'gsoc', 'gsoc2020', 'journals', 'eval#1', 'week#2']
 ---
 
-## Journals Management & Display.
+## Project Overview.
 
 I'm <a href="https://in.linkedin.com/in/nishealjohn">Nisheal John</a>, participating in Google Summer of Code 2020 with CDLI.
 This project focuses on the publication of various types of journals that CDLI hosts, currently CDLI hosts four journals, two peer-reviewed journals (CDL Journal and CDL Bulletin), the CDL Pre-prints repository and the CDL Notes. For the upload of articles, appropriate designs and workflow need to be developed which includes the development of required routes, controllers, views & tests. The major challenges to this project are the conversion of the editor's article inputs to CDLI's article publications which will be carried out by using latex and Maths libraries. Further in the project necessary end-to-end & unit testing phases should be established to improve the development workflow and avoid build issues.<br>
@@ -25,6 +25,8 @@ This project focuses on the publication of various types of journals that CDLI h
 ">Link<a><br>
 
 <b>Mentor: </b> <a target="_blank" href='mailto:lizardcircusus@gmail.com'>David Wong</a>
+
+## GSoC Final Report and Summary.
 
 ### Objectives and Deliverables
 
