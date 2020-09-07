@@ -6,7 +6,7 @@ tags: ["eval","gsoc","gsoc2020","journals","eval#3"]
 ---
 
 ## Summary
-I’ve successfully finished all the deliverables of the project. It was challenging at all the instances but I managed to tackle all of it. It was a great experience and I'm looking forward to contributing more to CDL
+I’ve successfully finished all the deliverables of the project. It was challenging at all the instances but I managed to tackle all of it. It was a great experience and I'm looking forward to contributing more to CDLI
 
 
 #### Essential Objectives
