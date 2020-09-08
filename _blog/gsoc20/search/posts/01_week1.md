@@ -1,6 +1,6 @@
 ---
 layout: page
-title: search Eval#1 Week#1
+title: Week 1
 author: "Vedant"
 tags: ["week","gsoc","gsoc2020","search","eval#1","week#1"]
 ---
