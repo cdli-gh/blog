@@ -127,6 +127,8 @@ main {
   font-size: 1.2rem;
   color: #2f2f2f;
   padding: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 .content p {
