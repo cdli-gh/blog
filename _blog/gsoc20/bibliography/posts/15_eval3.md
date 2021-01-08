@@ -4,8 +4,6 @@ title: Final Report
 author: "Ajit"
 tags: ["eval","gsoc","gsoc2020","bibliography","eval#3"]
 ---
-
-<div style="margin:0px 200px;border:0px;">
  
  
 This post contains the report for the entire project. For more information on the project, see the [project index page](https://cdli-gh.github.io/blog/gsoc20/bibliography/index).
@@ -171,7 +169,6 @@ I learned a lot about development practices and technologies like CakePHP 3 thro
 
 I enjoyed contributing to CDLI for developing their framework. Considering that there is still room for more development related to my project and the entire framework as a whole, I would like to help with the development in the future. I would be available to help with further improving my current project or in general with any task that I can help with in case if required. Developing for CDLI has been an enjoyable experience and I plan to be a long-time contributor for CDLI.
 
- </div>
  
 
 
