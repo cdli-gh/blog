@@ -16,13 +16,10 @@ A short description on complete outcome of GSoC 2021 program goes here.
 | \#  | Project              | Student  | Mentors     |
 | --- | -------------------- | -------- | ----------- |
 | Project No. | Project Name | Student Developer Name | Mentor Name |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 1 |  |  |  |
+| 2 |  |  |  |
+| 3 |  |  |  |
+| 4 |  |  |  |
+| 5 |  |  |  |
+| 6 |  |  |  |
+| ... |  |  |  |

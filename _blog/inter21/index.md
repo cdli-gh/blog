@@ -1,7 +1,7 @@
 ---
 title: "Internship 2021"
 layout: page
-author: "Developer Name"
+author: ""
 tags: ['intern', 'intern2021']
 ---
 
@@ -14,14 +14,9 @@ A short description on complete outcome of Research Internship 2020 program goes
 
 | \#  | Project              | Student  | Mentors     |
 | --- | -------------------- | -------- | ----------- |
-| Project No. | Project Name | Student Developer Name | Mentor Name |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 1 | Project Name | Student Developer Name | Mentor Name |
+| 2 |  |  |  |
+| 3 |  |  |  |
+| 4 |  |  |  |
+| 5 |  |  |  |
+| ... |  |  |  |
