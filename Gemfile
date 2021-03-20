@@ -16,8 +16,6 @@ gem "jekyll-sitemap", "~> 1.4"
 
 gem "jemoji", "~> 0.11.1"
 
-gem "nokogiri", ">= 1.11.0"
-
 
 # gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
