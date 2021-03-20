@@ -2,7 +2,7 @@
 layout: page
 title: First Evaluation
 author: "Developer Name"
-tags: ["eval","gsoc","gsoc2021","projectHashTag","eval#1"]
+tags: ["eval","intern","intern2021","projectHashTag","eval#1"]
 ---
 
 ## Summary

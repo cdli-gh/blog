@@ -2,7 +2,7 @@
 layout: page
 title: Week 1
 author: "Developer Name"
-tags: ["week","gsoc","gsoc2020","projectHashTag","week#9","eval#2"]
+tags: ["week","intern","intern2020","projectHashTag","week#8","eval#2"]
 ---
 
 ## Week Summary
