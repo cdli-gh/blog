@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Transliterations editor and API
-author: 'Vishv Kakadiya'
-tags: ['project', 'gsoc', 'gsoc2021', 'transliterationsEditorAndAPI']
+title: 3D Viewer Integration
+author: 'Mustafa Dhar'
+tags: ['project', 'gsoc', 'gsoc2021', '3dViewerIntegration']
 ---
 
 ## Project Title
