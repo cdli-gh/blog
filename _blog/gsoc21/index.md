@@ -23,4 +23,4 @@ A short description on complete outcome of GSoC 2021 program goes here.
 | 4   | Design Challenge       | [Somil Jain](https://www.linkedin.com/in/somil-jain-294239159/)    | [Samarth Sharma](https://www.linkedin.com/in/samarth-sharma-8611b6181/), [Amaan Iqbal](https://www.linkedin.com/in/amaan-iqbal/)|
 | 5   | 3D Viewer Integration  | [Mustafa Dhar](https://www.linkedin.com/in/mustafa-dhar-7a87291a1/)    | [Sandra Woolley](https://www.linkedin.com/in/sandra-woolley-b8aa0734/), [Tim Collins](https://www.linkedin.com/in/tim-collins-1671b47/)|
 | 6   | Journals Open Review Workflow and Integration | [Apoorva Agarwal](https://www.linkedin.com/in/apoorva-agarwal-8420ab1b3/)    | [Nisheal John](https://www.linkedin.com/in/nishealjohn/)|
-| 7   | Digital Library Management   | [daksh](https://www.linkedin.com/in/daksh-paleria-606211190/)    | [Jacob Lebovitch Dahl](https://www.orinst.ox.ac.uk/people/jacob-l-dahl), [Joe Barber]()|
+| 7   | Digital Library Management   | [Daksh Paleria](https://www.linkedin.com/in/daksh-paleria-606211190/)    | [Jacob Lebovitch Dahl](https://www.orinst.ox.ac.uk/people/jacob-l-dahl), [Joe Barber]()|

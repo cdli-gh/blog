@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Project Title
-author: 'Developer Name'
-tags: ['project', 'gsoc', 'gsoc2021', 'projectHashTag']
+title: Discovery Search and Advanced Search features
+author: 'Yashraj Desai'
+tags: ['project', 'gsoc', 'gsoc2021', 'discoverySearchAndAdvancedSearchFeatures']
 ---
 
 ## Project Title
