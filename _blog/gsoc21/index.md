@@ -8,6 +8,8 @@ tags: ['gsoc', 'gsoc2021']
 Welcome of CDLI GSoC 2020 Blogs.
 
 ## GSoC 2021 Proposed Ideas List 
+[Proposed Projects for GSoC 2021](https://github.com/cdli-gh/Framework/wiki/Google-Summer-of-Code-GSoC-2021-Cuneiform-Digital-Library-Initiative-(CDLI)-ideas-list)
+
 
 ## Overall GSoC 2021 Review
 
