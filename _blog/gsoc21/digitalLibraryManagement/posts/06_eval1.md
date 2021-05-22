@@ -1,8 +1,8 @@
 ---
 layout: page
 title: First Evaluation
-author: "Developer Name"
-tags: ["eval","gsoc","gsoc2021","projectHashTag","eval#1"]
+author: "Daksh Paleria"
+tags: ["eval","gsoc","gsoc2021","digitalLibraryManagement","eval#1"]
 ---
 
 ## Summary

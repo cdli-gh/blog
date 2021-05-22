@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Week 1
-author: "Developer Name"
-tags: ["week","gsoc","gsoc2020","projectHashTag","week#2","eval#1"]
+author: "Yashraj Desai"
+tags: ["week","gsoc","gsoc2020","discoverySearchAndAdvancedSearchFeatures","week#2","eval#1"]
 ---
 
 ## Week Summary

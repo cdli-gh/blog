@@ -1,8 +1,8 @@
 ---
 layout: page
 title: First Evaluation
-author: "Developer Name"
-tags: ["eval","gsoc","gsoc2021","projectHashTag","eval#1"]
+author: "Somil Jain"
+tags: ["eval","gsoc","gsoc2021","designChallengeSomilJain","eval#1"]
 ---
 
 ## Summary

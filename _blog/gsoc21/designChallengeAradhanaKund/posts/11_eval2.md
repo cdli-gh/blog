@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Second Evaluation
-author: "Developer Name"
-tags: ["eval","gsoc","gsoc2021","projectHashTag","eval#2"]
+author: "Aradhana Kund"
+tags: ["eval","gsoc","gsoc2021","DesignChallengeAradhanaKund","eval#2"]
 ---
 
 ## Summary

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Week 1
-author: "Developer Name"
-tags: ["week","gsoc","gsoc2020","projectHashTag","week#7","eval#2"]
+author: "Apoorva Agarwal"
+tags: ["week","gsoc","gsoc2020","journalsOpenReviewWorkflowAndIntegration","week#7","eval#2"]
 ---
 
 ## Week Summary

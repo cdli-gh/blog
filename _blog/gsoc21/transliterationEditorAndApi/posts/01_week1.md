@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Week 1
-author: "Developer Name"
-tags: ["week","gsoc","gsoc2020","projectHashTag","week#1","eval#1"]
+author: "Vishv Kakadiya"
+tags: ["week","gsoc","gsoc2020","transliterationsEditorAndAPI","week#1","eval#1"]
 ---
 
 ## Week Summary

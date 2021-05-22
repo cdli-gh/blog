@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Second Evaluation
-author: "Developer Name"
-tags: ["eval","gsoc","gsoc2021","projectHashTag","eval#2"]
+author: "Daksh Paleria"
+tags: ["eval","gsoc","gsoc2021","digitalLibraryManagement","eval#2"]
 ---
 
 ## Summary

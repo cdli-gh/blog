@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Second Evaluation
-author: "Developer Name"
-tags: ["eval","gsoc","gsoc2021","projectHashTag","eval#2"]
+author: "Somil Jain"
+tags: ["eval","gsoc","gsoc2021","designChallengeSomilJain","eval#2"]
 ---
 
 ## Summary

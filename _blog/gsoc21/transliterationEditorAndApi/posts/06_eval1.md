@@ -1,8 +1,8 @@
 ---
 layout: page
 title: First Evaluation
-author: "Developer Name"
-tags: ["eval","gsoc","gsoc2021","projectHashTag","eval#1"]
+author: "Vishv Kakadiya"
+tags: ["eval","gsoc","gsoc2021","transliterationsEditorAndAPI","eval#1"]
 ---
 
 ## Summary
