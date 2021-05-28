@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Project Title
-author: 'Developer Name'
-tags: ['project', 'intern', 'intern2021', 'projectHashTag']
+title: Design Integration and Accessibility Audit
+author: 'Mohit Sharma'
+tags: ['project', 'intern', 'intern2021', 'designIntegrationAndAccessibilityAudit']
 ---
 
-## Project Title
+## Design Integration and Accessibility Audit
 
 Project Description
 

@@ -8,15 +8,10 @@ tags: ['intern', 'intern2021']
 Welcome of CDLI GSoC 2020 Blogs.
 
 ## Overall Internship 2020 Review 
-A short description on complete outcome of Research Internship 2020 program goes here.
+A short description on complete outcome of Research Internship 2021 program goes here.
 
 ## Projects in Internship 2020
 
 | \#  | Project              | Student  | Mentors     |
 | --- | -------------------- | -------- | ----------- |
-| 1 | Project Name | Student Developer Name | Mentor Name |
-| 2 |  |  |  |
-| 3 |  |  |  |
-| 4 |  |  |  |
-| 5 |  |  |  |
-| ... |  |  |  |
+| 1 | Design Integration and Accessibility Audit | [Mohit Sharma](https://www.linkedin.com/in/mohit-sharma-06241a200/) | [Émilie Pagé-Perron](https://www.linkedin.com/in/epageperron/), [Amaan Iqbal](https://www.linkedin.com/in/amaan-iqbal/), [Nisheal John](https://www.linkedin.com/in/nishealjohn/), [Samarth Sharma](https://www.linkedin.com/in/samarth-sharma-8611b6181/) |

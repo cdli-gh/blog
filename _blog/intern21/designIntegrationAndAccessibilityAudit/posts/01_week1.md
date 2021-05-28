@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Week 1
-author: "Developer Name"
-tags: ["week","intern","intern2020","projectHashTag","week#10","eval#2"]
+author: "Mohit Sharma"
+tags: ["week","intern","intern2020","designIntegrationAndAccessibilityAudit","week#1","eval#1"]
 ---
 
 ## Week Summary
