@@ -2,17 +2,29 @@
 layout: page
 title: Discovery Search and Advanced Search features
 author: 'Yashraj Desai'
-tags: ['project', 'gsoc', 'gsoc2021', 'discoverySearchAndAdvancedSearchFeatures']
+tags: ['project', 'gsoc', 'gsoc2021', 'discoverySearchAndAdvancedSearchFeatures', 'draft']
 ---
 
-## Project Title
+## Discovery Search and Advanced Search Features
 
-Project Description
+CDLI Framework integrates features of the project in a logical infrastructure, prepares new data displays, including machine-readable outputs, to enhance knowledge diffusion. It includes a unified interface for the project website, more powerful search capabilities, more internal links to navigate the catalogue, and intuitive displays for calendars, glossaries, bibliographies, etc.
+
+The Project focuses on :\
+1.Implementing Fuzzy queries.\
+2.Add the "IDs" and “Keywords”  search field to both Simple & Advanced Search.\
+3.Enable search inscription with sign value permutation.\
+4.Highlight transliteration sign values in ATF display.\
+5.On add or edit, save a sanitised version of an inscription as a list of sign names.\
+6.Making search input flexible by allowing users to search using  both UTF-8 and ASCII characters.\
+7.Filter search result by RTI, Image, Transliterations, 3D data.\
+8.Port request to ElasticSearch from cURL to HttpClient.\
+9.Port elasticsearch to the cakephp elasticsearch plugin.
+
 
 ### Objectives and Deliverables
 
 :heavy_check_mark: --> Completed Tasks
-:white_check_mark: --> Ongoing Tasks
+:man_technologist: --> Ongoing Tasks
 
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
