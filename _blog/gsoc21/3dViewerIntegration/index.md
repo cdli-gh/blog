@@ -44,10 +44,10 @@ Implementing an RTI Viewer so that any CDLI tablet for which the PLY model is av
 |4| :white_check_mark: Render 3D Model  |  :white_check_mark: Load 3D Model(.PLY) in the 3D viewer and render it from the database. |
 |5| :white_check_mark: Testing and Debugging   |  :white_check_mark: Check all the functionality added is working good and if any bug is present debug it. |
 |6| :white_check_mark: Responsiveness  |  :white_check_mark: Make 3D Model responsive with 3D viewer for all devices. |
-|7| :white_check_mark: Enhancing UX  |  :white_check_mark: Suggest and implement different features for 3D Viewer to enhance User Experience(UX) while interacting with 3D Model(CDLI tablet). |
-|8| :white_check_mark: Easy Navigation  |  :white_check_mark: Users should easily navigate to the 3D viewer for a particular 3D model(CDLI tablet). |
-|9| :white_check_mark: Easy Navigation  |  :white_check_mark: Users should easily navigate to the 3D viewer for a particular 3D model(CDLI tablet). |
-|10| :white_check_mark: Testing and Debugging   |  :white_check_mark: Check all the functionality added is working good and if any bug is present debug it. |
+|7| :white_check_mark: UX Optimisation  |  :white_check_mark: Suggest and implement different features for 3D Viewer to enhance User Experience(UX) while interacting with 3D Model(CDLI tablet). |
+|8| :white_check_mark: UX Optimisation  |  :white_check_mark: Suggest and implement different features for 3D Viewer to enhance User Experience(UX) while interacting with 3D Model(CDLI tablet). |
+|9| :white_check_mark: Test and Debug   |  :white_check_mark: Check all the functionality added is working good and if any bug is present debug it. |
+|10| :white_check_mark: Test and Debug   |  :white_check_mark: Check all the functionality added is working good and if any bug is present debug it and complete documentation and launch. |
 
 
 
