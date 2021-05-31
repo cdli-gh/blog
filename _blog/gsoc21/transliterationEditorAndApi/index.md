@@ -35,15 +35,15 @@ The task is to integrate this infrastructure into CDLI's framework and allow cro
 
 | Week  |Objectives | Deliverables |
 |---|---|---|
-|1| :heavy_check_mark: Week Objective-1 <br> :white_check_mark: Week Objective-2  |  :heavy_check_mark: Week Deliverables |
-|2|   |   |
-|3|   |   |
-|4|   |   |
-|5|   |   |
-|6|   |   |
-|7|   |   |
-|8|   |   |
-|9|   |   |
-|10|   |   |
-|11|   |   |
-|12|   |   |
+|1| Implement Docker Conatiner for uqnu |  Makes the web app up and running inside a container. |
+|2| Integrate web app in framework | Enable service that communicates between newly added and already existed containers.  |
+|3| Database operations for JTF-data  | Make routes(Endpoint)  and controllers in CDLI backend to communicate with the service and Store JTF data in the Database along with the author and timestamp|
+|4| Version Control  | Integrating the git actions which can eventually enable version control. |
+|5| Storing and Retriving JTF-data  | Implementing the mechanism for the system that stores the data when changes occur to transliterations.  |
+|6| Tests and Fallback Plan  | Manually test the work has been done so far and write a few unit tests for this and tests for services which have been made so far and Trying a different approach if the git server won’t work as I have planned. |
+|7| Integrate version control in framework  | Integrating Version control  System with the CDLI interface.|
+|8| Communication between web app and API    | Implement a Service which can communicate to both the docker container. |
+|9| Data Accessibility  | Working on a Controller to store JTF data and make it accessible. |
+|10| Document, test add further features addons | Prepare the whole Documentation of the work I have done so far.Start working on bonus tasks, if time permits. and Create a service layer in the framework that can get requests and enable admins to approve the request. So modification of transliterations data can be done.  |
+
+
