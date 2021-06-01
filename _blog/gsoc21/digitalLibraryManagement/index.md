@@ -10,6 +10,10 @@ tags: ['project', 'gsoc', 'gsoc2021', 'digitalLibraryManagement']
 Hey, I'm [Daksh Paleria](https://www.linkedin.com/in/daksh-paleria-606211190/) participating in Google Summer of Code 2021 with CDLI.
 I've been accepted for the project Digital Library Management, the project is about preparing a dashboard that can show an admin the visual assets of the digital library for each artifact but also add, edit, delete, images using our archival images serve as a source of better quality images to prepare their web counterpart. Access to images should also be managed there (some images are not public).
 
+Project: [GSoC'21](https://summerofcode.withgoogle.com/projects/#6327175881424896)
+
+Work Status, Proposal: [Link](https://drive.google.com/drive/folders/17zfao7u9gfowSWieSYWuw8JJVlluXdE0?usp=sharing)
+
 ### Objectives and Deliverables
 
 :heavy_check_mark: --> Completed Tasks
