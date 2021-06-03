@@ -25,14 +25,15 @@ Work Status, Proposal: [Link](https://drive.google.com/drive/folders/17zfao7u9gf
 | 2 | :man_technologist: | Prepare Image Table | Storing information regarding images in our table | - |
 | 3 | :man_technologist: | Converting archive images to their web counterpart | Adding the functionality to convert archival images to web counterpart | - |
 | 4 | :man_technologist: | Dealing with Multiple Entries | Allowing the admins to select multiple entries and converting the images for them in one go | - | 
-| 5 | :man_technologist: | Dealing with Non Associated Images | Working around the images which are not associated with any of the artifacts | - |   
+| 5 | :man_technologist: | Uploading Archival Folder | Upload archival folder and use those images to create a thumbnail | - | 
+| 6 | :man_technologist: | Dealing with Non Associated Images | Working around the images which are not associated with any of the artifacts | - |   
 
 
 ### Additional Objectives
 
 | \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
-| 1 | :man_technologist: | CMD Script  | CMD Script to upload archival images from web server to wasabi server. Script should handle adding, remaining files on wasabi and deleting. | - |
+| 1 | :man_technologist: | CMD Script  | CMD Script to upload archival images from web server to wasabi server. Script should handle adding, renaming files on wasabi and deleting. | - |
 
 
 ### Tentative timeline  
@@ -45,7 +46,7 @@ Work Status, Proposal: [Link](https://drive.google.com/drive/folders/17zfao7u9gf
 |4| Generating Standard Templates  | Preparing standard templates, controllers for providing intial functionalities. Documetation of the work done till now |
 |5| Preparing Custom Controllers  | Preparing custom controllers for conversion, viewing of archival images |
 |6| Editing Current Templates | Editing current Artifact templates for adding a new tab to view Archival Image |
-|7| Working for Non Associated Images  | Developing controllers, templates for accessing Non Associated Images. |
-|8|  View Templates for Non Associated Images | Creating view templates for viewing non associated archival images, documenting the work done till now. |
+|7| Using Archival Images  | Testing conversion algorithm on archival iamges to check whether the thumbnails are of required specifiction |
+|8|  Working for Non Associated Images & View Templates for Non Associated Images | Developing controllers, templates for accessing Non Associated Images. Creating view templates for viewing non associated archival images, documenting the work done till now. |
 |9| Allowing Admins to Change type of Image | Developing the functionality to allow admins change the type of image. |
 |10| Document, test and further feature addons | Documenting the work, working around the additionl Objectives. |
