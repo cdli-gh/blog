@@ -5,49 +5,58 @@ author: 'Apoorva Agarwal'
 tags: ['project', 'gsoc', 'gsoc2021', 'journalsOpenReviewWorkflowAndIntegration']
 ---
 
-## Project Title
+## Journal Open Review Workflow And Integration
 
-Project Description
+Hola, I'm <a href="https://www.linkedin.com/in/apoorva-agarwal-8420ab1b3/">Apoorva Agarwal</a>, participating in Google Summer of Code 2021 with CDLI. I’ve been accepted for the project Journals Open Review Workflow and Integration. This project focuses on creating a functional pipeline which will consist of open submission and open review process before publishing articles in our CDLI journals dashboard. To implement  open journals in the system,  an appropriate workflow needs to be developed which is intended to be carried out using https://pkp.sfu.ca/ojs/ojs_download/ software. OJS(Open Journal System) is an open source solution to managing and publishing scholarly journals online. OJS is a highly flexible editor-operated journal management and publishing system. In addition to this, we intend to make further integration in the CDLI journals dashboard and display the endorsement of reviewers with published articles.
+
+<i>Project:</i>
+<a href="https://summerofcode.withgoogle.com/projects/#6225579101126656">GSoC'21</a>
+<br>
+<i>My GSoC'21 Proposal:</i>
+<a href="https://docs.google.com/document/d/1Bq1Be4UYaF08vBwasERpx2kiWuiVPWdkSEHBM-owUx4/edit#heading=h.rti1bbjk8idf">Link</a>
+<br>
+<i>Contributions to CDLI:</i>
+<a href="https://gitlab.com/cdli/framework/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all&author_username=apoorva1509">Link<a>
+<br>
+<i>Work status:</i>
+<a href="https://drive.google.com/drive/folders/15kmsiilnMfBEomd03VwUyAmDdcU-lmBV?usp=sharing">Link<a>
+<br>
+
+<b>Mentor: </b> <a href='mailto:nisheal.work@gmail.com'>Nisheal John</a>
 
 ### Objectives and Deliverables
 
 :heavy_check_mark: --> Completed Tasks
-:white_check_mark: --> Ongoing Tasks
+:man_technologist: --> Ongoing Tasks
 
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 |:heavy_check_mark:|  Task Objective | Task Deliverables | Issue Number here with link |
-
+| 1 | :man_technologist: | Creating Docker Container for ojs | Downloading ojs software and creating a docker container for it | - |
+| 2 | :man_technologist: | Ojs workflow for submission and review of articles | Creating a workflow for open submission and open review of articles | - |
+| 3 | :man_technologist: | REST API integration | Integrating API for submission of articles between ojs and CDLI and linking two databases | - |
+| 4 | :man_technologist: | Integrating OJS in the framework | Publishing the articles with the endorsement of the reviewers in CDLI journals dashboard | - |
 
 ### Additional Objectives
 
 | \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
-| 1 | :heavy_check_mark: | Additional Task Objective  | Additional Task Deliverables | Issue Link        |
-| 2 |  |   |  |  |
-| 3 |  |   |  |  |
-| 4 |  |   |  |  |
-| 5 |  |   |  |  |
-| 6 |  |   |  |  |
-| 7 |  |   |  |  |
-
+| 1 | :man_technologist: | Citation Index and metrics | Citation index is to cite the articles. Display the statistics related to articles | - |
+| 2 | :man_technologist: | DOI, ORCHID, and PUBLONS integration | Integration of DOI, ORCHID and PUBLONS in our workflow | - |
+| 3 | :man_technologist: | CI/CD pipeline | Setting up CI/CD with lint | - |
 
 ### Tentative timeline  
 
-| Week  |Objectives | Deliverables |
-|---|---|---|
-|1| :heavy_check_mark: Week Objective-1 <br> :white_check_mark: Week Objective-2  |  :heavy_check_mark: Week Deliverables |
-|2|   |   |
-|3|   |   |
-|4|   |   |
-|5|   |   |
-|6|   |   |
-|7|   |   |
-|8|   |   |
-|9|   |   |
-|10|   |   |
-|11|   |   |
-|12|   |   |
-
-
-
+| Week  | Status | Objectives | Deliverables |
+|---|---|---|---|
+| 1 | :man_technologist: | Creating Docker Container for ojs | Downloading ojs software and creating a docker container for it | - |
+| 2 | :man_technologist: | Setting up Editorial Workflow( for cdlj and cdlb) | Creating a workflow for open submission and open review of articles | - |
+| 3 | :man_technologist: | Develop the journals index for integrating ojs | Updating CDLI journals index to create a link between CDLI journals dashboard and ojs dashboard | - |
+| 4 | :man_technologist: | API integration for submission of articles between ojs and CDLI | Using API integration for submission of articles | - |
+| 5 | :man_technologist: | API integration | Using API integration to share data between dashboards | - |
+| 6 | :man_technologist: | Setting up connection between databases | Sharing data between CDLI and ojs databases | - |
+| 7 | :man_technologist: | Import/Export Data | Importing data in ojs from CDLI of submissions and exporting details of published articles from ojs to CDLI | - |
+| 8 | :man_technologist: | Publishing Articles | Publishing articles and displaying the endorsement of reviewers | - |
+| 9 | :man_technologist: | Citation index and metrics | Citation index is to cite the articles. Display the statistics related to articles | - |
+| 10 | :man_technologist: | DOI, ORCHID, and PUBLONS integration | Integration of DOI, ORCHID and PUBLONS in our workflow | - |
+| 11 | :man_technologist: | CI/CD pipeline | Setting up CI/CD with lint  and unit testing | - |
+  
