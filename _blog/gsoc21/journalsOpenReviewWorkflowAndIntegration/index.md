@@ -54,7 +54,7 @@ Hola, I'm <a href="https://www.linkedin.com/in/apoorva-agarwal-8420ab1b3/">Apoor
 | 4 | :man_technologist: | API integration for submission of articles between ojs and CDLI | Using API integration for submission of articles | - |
 | 5 | :man_technologist: | API integration | Using API integration to share data between dashboards | - |
 | 6 | :man_technologist: | Setting up connection between databases | Sharing data between CDLI and ojs databases | - |
-| 7 | :man_technologist: | Import/Export Data | Importing data in ojs from CDLI of submissions and exporting details of published articles from ojs to CDLI | - |
+| 7 | :man_technologist: | Using oAuth for single login | Using oAuth so that user have to login only once in CDLI | - |
 | 8 | :man_technologist: | Publishing Articles | Publishing articles and displaying the endorsement of reviewers | - |
 | 9 | :man_technologist: | Citation index and metrics | Citation index is to cite the articles. Display the statistics related to articles | - |
 | 10 | :man_technologist: | DOI, ORCHID, and PUBLONS integration | Integration of DOI, ORCHID and PUBLONS in our workflow | - |
