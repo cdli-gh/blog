@@ -16,8 +16,8 @@ Work done in week summary.
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2021/06/07	| Making UI Draft of the periods page |  
 |2   	| Tuesday  	|   2021/06/08	| 	Implementing the Periods Page UI - Web View |  
-|3   	| Wednesday  	|  2021/06/09 	| Implementing the Periods Page UI - Mobile View |  
-|4   	| Thursday  	|   2021/06/10	| Testing ,Getting the pr reviewed and implementing additional suggested changes |  
-|5   	| Friday  	|   2021/06/11	| Set breadcrumbs to all the index pages |  
-|6   	| Saturday  	|   2021/06/12	| Set breadcrumbs to all the single view pages	and remaining pages|  
+|3   	| Wednesday  	|  2021/06/09 	| Implementing the Periods Page UI - Tablet View |  
+|4   	| Thursday  	|   2021/06/10	| Implementing the Periods Page UI - Mobile View |  
+|5   	| Friday  	|   2021/06/11	| Implement the drafted admin dashboard skeleton |  
+|6   	| Saturday  	|   2021/06/12	| Testing ,Getting the pr reviewed and implementing additional suggested changes |  
 |7   	| Sunday  	|   2021/06/13	| Testing ,Getting the pr reviewed and implementing additional suggested changes |  
