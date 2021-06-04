@@ -50,6 +50,12 @@ Project Description
 |4| |  Tools Page |   Prepare tools page and its sub module.  | 
 |5| |  Common template for Edit, Add pages for different entities |  UI for common template of Add,edit of different entities.  |  
 |6| |  Common template for Index and View for different entities |  UI for common template of Add,edit of different entities and add button for Admins.  |  
+|7| | | |
+|8| | | |
+|9| | | |
+|10| | | |
+|11| | | |
+|12| | | |
  
 
 
