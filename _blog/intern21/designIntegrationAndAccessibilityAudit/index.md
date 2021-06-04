@@ -6,8 +6,10 @@ tags: ['project', 'intern', 'intern2021', 'designIntegrationAndAccessibilityAudi
 ---
 
 ## Design Integration and Accessibility Audit
+Hi! everyone, My name is Mohit Sharma. I have joined CDLI as an Intern in year 2021. My project is Design Integration and Accessibility Audit. This project will mainly focus on enhancing Accessibility of website so that people with disabilities can have more interaction with website and can surf freely. This project also aims to provide accessibility tests that can be run in the pipeline and developer's can check if their follows WCAG guidelines before pushing the code.
 
-Project Description
+Project : [CDLI Framework](https://gitlab.com/cdli/framework)
+My Contributions : [Link](https://gitlab.com/cdli/framework/-/merge_requests?scope=all&state=all&author_username=ViperM)
 
 ### Objectives and Deliverables
 
@@ -16,7 +18,7 @@ Project Description
 
 | \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
-| 1 | :white_check_mark: | Web Accessibility - I | Test (using screen reader and Axe DevTool) and Provide accessibility for pages inside framework |   |
+| 1 | :white_check_mark: | Web Accessibility | Test (using screen reader and Axe DevTool) and Provide accessibility for pages inside framework |   |
 | 2 | | Internet Explorer Support | Improve Compatibility of framework in Internet Explorer for it's users | [#500](https://gitlab.com/cdli/framework/-/issues/500) |
 | 3 | | Track No JS Users | Track users visits with Javascript disabled in Google Analytics | [#499](https://gitlab.com/cdli/framework/-/issues/499) |
 | 4 | | Accessibility Tests | Provide Accessibility tests that can be run in pipeline | [#600](https://gitlab.com/cdli/framework/-/issues/600), [#164](https://gitlab.com/cdli/framework/-/issues/164) |
