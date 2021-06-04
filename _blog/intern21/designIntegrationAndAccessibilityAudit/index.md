@@ -6,7 +6,7 @@ tags: ['project', 'intern', 'intern2021', 'designIntegrationAndAccessibilityAudi
 ---
 
 ## Design Integration and Accessibility Audit
-Hi! everyone, My name is Mohit Sharma. I have joined CDLI as an Intern in year 2021. My project is Design Integration and Accessibility Audit. This project will mainly focus on enhancing Accessibility of website so that people with disabilities can have more interaction with website and can surf freely. This project also aims to provide accessibility tests that can be run in the pipeline and developer's can check if their follows WCAG guidelines before pushing the code.
+Hi! everyone, My name is Mohit Sharma. I have joined CDLI as an Intern in year 2021. My project is Design Integration and Accessibility Audit. This project will mainly focus on enhancing Accessibility of website so that people with disabilities can have more interaction with website and can surf freely. This project also aims to provide accessibility tests that can be run in the pipeline and developer's can check if their pr follows WCAG guidelines before pushing the code.
 
 Project : [CDLI Framework](https://gitlab.com/cdli/framework)  <br/>
 My Contributions : [Link](https://gitlab.com/cdli/framework/-/merge_requests?scope=all&state=all&author_username=ViperM)
