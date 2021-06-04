@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 1
+title: Week 2
 author: "Aradhana Kund"
 tags: ["week","gsoc","gsoc2020","DesignChallengeAradhanaKund","week#2","eval#1"]
 ---
@@ -14,10 +14,10 @@ Work done in week summary.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   YYYY/MM/DD	| |  
-|2   	| Tuesday  	|   YYYY/MM/DD	| 	|  
-|3   	| Wednesday  	|  YYYY/MM/DD 	| |  
-|4   	| Thursday  	|   YYYY/MM/DD	|  |  
-|5   	| Friday  	|   YYYY/MM/DD	|  |  
-|6   	| Saturday  	|   YYYY/MM/DD	| 	|  
-|7   	| Sunday  	|   YYYY/MM/DD	|  |  
+|1   	| Monday 	|   2021/06/14	| Implement the Desktop Skeleton of Admin Dashboard |  
+|2   	| Tuesday  	|   2021/06/15	| Implement the Tablet Skeleton of Admin Dashboard	|  
+|3   	| Wednesday  	|  2021/06/16 	| Implement the Mobile Skeleton of Admin Dashboard |  
+|4   	| Thursday  	|   2021/06/17	| Make the upload section Responsive to all views |  
+|5   	| Friday  	|   2021/06/18	| Displaying functionality option accoring to the access |  
+|6   	| Saturday  	|   2021/06/19	| Rechecking everything and implementing changes(if suggested) on the pr	|  
+|7   	| Sunday  	|   2021/06/20	| Rechecking everything and implementing changes(if suggested) on the pr |  
