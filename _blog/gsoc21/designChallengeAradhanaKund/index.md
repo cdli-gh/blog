@@ -50,8 +50,8 @@ This project aims to improve the complete styling of the website using minimal s
 | Week  | Status | Objectives | Deliverables |
 |---|---|---|---|
 | 1 | :man_technologist: | Periods Page and Breadcrumbs | Redesign and implement the periods page for web/tab/mobile view and add breadcrumbs to all view/edit/index pages of all entities | - |
-| 2 | :man_technologist: | Admin Dashboard | Implement the skeleton of admin dashboard with all its functionalities depending on access | - |
-| 3 | :man_technologist: | Admin Dashboard and Raw Image Scan | Prepare the raw image scan part of admin dashboard and Prepare the web/tab/mobile view of admin dashboard with all its functionalities (upload options and access checking) | - |
+| 2 | :man_technologist: | Admin Dashboard | Implement the skeleton of admin dashboard with all its functionalities depending on access (upload options and access checking) | - |
+| 3 | :man_technologist: | Admin Dashboard and Raw Image Scan | Implement the raw image scan part of admin dashboard and the web/tab/mobile view of admin dashboard with all its functionalities. | - |
 | 4 | :man_technologist: | Resources Page | Implement the skeleton for Resources Page | - |
 | 5 | :man_technologist: | Common Templates | Implement the common templates for view/edit/add/index pages. | - |
 | 6 | :man_technologist: |  Common Templates | Implement the common templates for view/edit/add/index pages. | - |
