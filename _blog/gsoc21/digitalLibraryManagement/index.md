@@ -12,7 +12,11 @@ I've been accepted for the project Digital Library Management, the project is ab
 
 Project: [GSoC'21](https://summerofcode.withgoogle.com/projects/#6327175881424896)
 
-Work Status, Proposal: [Link](https://drive.google.com/drive/folders/17zfao7u9gfowSWieSYWuw8JJVlluXdE0?usp=sharing)
+Proposal: [Link](https://docs.google.com/document/d/1_B54MqUZHQOMm2iRRvYYVMqDiDcIz5tq9iY6Qm7fvnw/edit?usp=sharing)
+
+Contributions: [Link](https://gitlab.com/cdli/framework/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all&author_username=dakshp07)
+
+Work Status: [Link](https://drive.google.com/drive/folders/17zfao7u9gfowSWieSYWuw8JJVlluXdE0?usp=sharing)
 
 ### Objectives and Deliverables
 

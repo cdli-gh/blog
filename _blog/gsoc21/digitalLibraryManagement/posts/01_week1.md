@@ -2,7 +2,7 @@
 layout: page
 title: Week 1
 author: "Daksh Paleria"
-tags: ["week","gsoc","gsoc2020","digitalLibraryManagement","week#1","eval#1"]
+tags: ["week","gsoc","gsoc2021","digitalLibraryManagement","week#1","eval#1"]
 ---
 
 ## Week Summary
