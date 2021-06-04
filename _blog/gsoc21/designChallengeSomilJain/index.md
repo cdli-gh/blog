@@ -7,7 +7,7 @@ tags: ['project', 'gsoc', 'gsoc2021', 'designChallengeSomilJain']
 
 ## Design Challenge - Planning UX, UI and User testing.
 
-Project Description
+My projects will be about HCI and UI part of the framework, where I will be designing and would be doing further testing for different missing important modules in the framework.
 
 ### Objectives and Deliverables
 
