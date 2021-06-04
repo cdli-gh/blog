@@ -20,8 +20,7 @@ This project aims to improve the complete styling of the website using minimal s
 <a href="https://gitlab.com/aradhana_kund">Link<a>
 <br>
 
-<b>Mentor: </b> <a href='https://www.linkedin.com/in/epageperron/'>Émilie Pagé-Perron</a>
-<b>Mentor: </b> <a href='https://www.linkedin.com/in/amaan-iqbal/'>Amaan Iqbal</a>
+<b>Mentor: </b> <a href='https://www.linkedin.com/in/epageperron/'>Émilie Pagé-Perron</a> , <a href='https://www.linkedin.com/in/amaan-iqbal/'>Amaan Iqbal</a>
 
 ### Objectives and Deliverables
 
