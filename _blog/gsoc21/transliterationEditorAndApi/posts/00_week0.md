@@ -5,7 +5,7 @@ author: "Vishv Kakadiya"
 tags: ["week","gsoc","gsoc2021","transliterationsEditorAndAPI","week#1","eval#1"]
 ---
 
-##Summary
+## Summary
 
 We had our first meeting with both the mentors. Got to know about each other and CDLI. We decided on the communication plans and how other things will take place. Set clear milestones and primary goals for the projects.
  
