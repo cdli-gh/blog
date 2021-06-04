@@ -31,7 +31,7 @@ This project aims to improve the complete styling of the website using minimal s
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
 | 1 |  | Redesigning and Implementing the periods page | Implementing periods page for web/tab/mobile view | [!251](https://gitlab.com/cdli/framework/-/issues/251) |
-| 2 |  | Modify the common template | Improvise the common template for view/add/edit pages of the entities | - |
+| 2 |  | Modify the common template | Improvise the common template for view/add/edit/index pages of the entities | [!601](https://gitlab.com/cdli/framework/-/issues/601),[!602](https://gitlab.com/cdli/framework/-/issues/602) |
 | 3 |  | Implementing Admin Dashboard | Implementing web/tab/mobile view of admin dashboard along with raw image scan upload | [!75](https://gitlab.com/cdli/framework/-/issues/75) |
 | 4 |  | Resources Page | Implementing web/tab/mobile view of about us and Resources Page | [!209](https://gitlab.com/cdli/framework/-/issues/209) |
 | 5 |  | About Us | Implementing web/tab/mobile view of About us. | [!591](https://gitlab.com/cdli/framework/-/issues/591) |
@@ -40,8 +40,8 @@ This project aims to improve the complete styling of the website using minimal s
 
 | \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
-| 1 |  | Index Page | Improvise the common template for Index pages of the entities | - |
-| 2 |  | 404 Page | Improvise and Implement the 404 Page | - |
+| 1 |  | Index Page | Improvise the common template for Index pages of the entities | [!601](https://gitlab.com/cdli/framework/-/issues/601),[!602](https://gitlab.com/cdli/framework/-/issues/602) |
+| 2 |  | 404 Page | Improvise and Implement the 404 Page | [!404](https://gitlab.com/cdli/framework/-/issues/404) |
 | 3 |  | Single Artifact View | Improvise the Single Artifact View | - |
 
 ### Tentative timeline  
