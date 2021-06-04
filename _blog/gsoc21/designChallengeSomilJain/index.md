@@ -16,7 +16,7 @@ Project Description
 
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 ||  Admin Dashboard | Admin dashboard, Raw image scan, History |  |
+| 1 ||  Admin Dashboard | Admin dashboard, Raw image scan, History | [#75](https://gitlab.com/cdli/framework/-/issues/75) |
 | 2 ||  Journal Integration | Single Article default view, user flow of integrated OJS system, Review UI on published articles |  |
 | 3 ||  Resource page | Resource page UI, Tools kit, Team's page and checking user's accessibility | |
 | 4 ||  Redesigning Artifacts pages | Single Artifact view, index page and photos  |  |
