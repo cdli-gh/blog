@@ -9,7 +9,7 @@ tags: ['project', 'gsoc', 'gsoc2021', 'DesignChallenge']
 
 Hello everyone, I'm <a href="https://www.linkedin.com/in/aradhanakund/">Aradhana Kund</a>, participating in Google Summer of Code 2021 with CDLI. I’ve been accepted for the project DESIGN CHALLENGE. This project focuses on re-unify the design so as to facilitate more interaction between the user and the website. 
 This project aims to improve the complete styling of the website using minimal space and complexity. Also, it aims to improve the designing of certain parts of the website to improve the User Interface. Ultimately, this project aims to add in important pages and improve the frontend, UI-UX of existing pages with proper accessibility to all kind of users .
-
+<br>
 <i>Project:</i>
 <a href="https://summerofcode.withgoogle.com/projects/#5212285703815168">GSoC'21</a>
 <br>
