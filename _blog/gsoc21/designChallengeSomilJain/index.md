@@ -22,8 +22,8 @@ Project Description
 | 4 ||  Redesigning Artifacts pages | Single Artifact view, index page and photos  | [#517](https://gitlab.com/cdli/framework/-/issues/517), [#496](https://gitlab.com/cdli/framework/-/issues/496), [#358](https://gitlab.com/cdli/framework/-/issues/358)  |
 | 5 ||  Common template for Edit, Add form pages for different entities | UI for common template of Add,edit of different entities | [#601](https://gitlab.com/cdli/framework/-/issues/602) |
 | 6 ||  Common template for Index and single View for different entities| Planning and designing merged index pages for all user roles | [#472](https://gitlab.com/cdli/framework/-/issues/472)  [#602](https://gitlab.com/cdli/framework/-/issues/602) |
-| 7 ||  Design extra pages - 1  | Decide UX of 404 page, Does not exist results, Login/Regiser UX, Logout modal and UI |  |
-| 8 ||  Design extra pages - 2 | Posting page, Delete Modal (and role based permission), Copy button on citation, About us page |  |
+| 7 ||  Design extra pages - 1  | Decide UX of 404 page, Does not exist results, Login/Regiser UX, Logout modal and UI | [#334](https://gitlab.com/cdli/framework/-/issues/334) |
+| 8 ||  Design extra pages - 2 | Posting page, Delete Modal (and role based permission), Copy button on citation, About us page |  [#113](https://gitlab.com/cdli/framework/-/issues/113) |
 
 
 
