@@ -18,7 +18,7 @@ The task is to integrate this infrastructure into CDLI's framework and allow cro
 
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 |:white_check_mark:|  Framework integration | Integrate JTF API and web application run in a framework docker container. | - |
+| 1 |:white_check_mark:|  Framework integration | Integrate JTF API and web application run in a framework docker container. | [#604](https://gitlab.com/cdli/framework/-/issues/604) [#605](https://gitlab.com/cdli/framework/-/issues/605) |
 | 2 ||  Accessibility  | Make web application accessible via a framework URL. | - |
 | 3 ||  Database Operations  | Storing JTF data into CDLI Database. | - |
 | 4 ||  Version Control  | Implement version control system that efficiently stores changes to transliterations. | - |
