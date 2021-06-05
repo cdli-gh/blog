@@ -51,8 +51,8 @@ This project aims to improve the complete styling of the website using minimal s
 | 2 |  | Admin Dashboard | Implement the skeleton of admin dashboard with all its functionalities depending on access (upload options and access checking) | - |
 | 3 |  | Admin Dashboard and Raw Image Scan | Implement the raw image scan part of admin dashboard and the web/tab/mobile view of admin dashboard with all its functionalities. | - |
 | 4 |  | Resources Page | Implement the skeleton for Resources Page | - |
-| 5 |  | Common Templates | Implement the common templates for view/edit/add/index pages. | - |
-| 6 |  |  Common Templates | Implement the common templates for view/edit/add/index pages. | - |
+| 5 |  | Common Templates | Implement the common templates for view/index pages of entities. | - |
+| 6 |  |  Common Templates | Implement the common templates for edit/add pages of entities. | - |
 | 7 |  |  | - |
 | 8 |  |  | - |
 | 9 |  |  | - |
