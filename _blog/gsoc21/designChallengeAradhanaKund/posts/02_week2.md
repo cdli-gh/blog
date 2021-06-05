@@ -2,7 +2,7 @@
 layout: page
 title: Week 1
 author: "Aradhana Kund"
-tags: ["week","gsoc","gsoc2020","DesignChallengeAradhanaKund","week#2","eval#1"]
+tags: ["week","gsoc","gsoc2020","DesignChallengeAradhanaKund","week#3","eval#1"]
 ---
 
 ## Week Summary
@@ -21,3 +21,4 @@ Work done in week summary.
 |5   	| Friday  	|   YYYY/MM/DD	|  |  
 |6   	| Saturday  	|   YYYY/MM/DD	| 	|  
 |7   	| Sunday  	|   YYYY/MM/DD	|  |  
+

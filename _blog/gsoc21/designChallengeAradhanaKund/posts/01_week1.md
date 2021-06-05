@@ -2,7 +2,7 @@
 layout: page
 title: Week 1
 author: "Aradhana Kund"
-tags: ["week","gsoc","gsoc2020","DesignChallengeAradhanaKund","week#1","eval#1"]
+tags: ["week","gsoc","gsoc2020","DesignChallengeAradhanaKund","week#3","eval#1"]
 ---
 
 ## Week Summary
@@ -14,10 +14,11 @@ Work done in week summary.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2021/06/07	| Making UI Draft of the periods page |  
-|2   	| Tuesday  	|   2021/06/08	| 	Implementing the Periods Page UI - Web View |  
-|3   	| Wednesday  	|  2021/06/09 	| Implementing the Periods Page UI - Mobile View |  
-|4   	| Thursday  	|   2021/06/10	| Testing ,Getting the pr reviewed and implementing additional suggested changes |  
-|5   	| Friday  	|   2021/06/11	| Set breadcrumbs to all the index pages |  
-|6   	| Saturday  	|   2021/06/12	| Set breadcrumbs to all the single view pages	and remaining pages|  
-|7   	| Sunday  	|   2021/06/13	| Testing ,Getting the pr reviewed and implementing additional suggested changes |  
+|1   	| Monday 	|   YYYY/MM/DD	| |  
+|2   	| Tuesday  	|   YYYY/MM/DD	| 	|  
+|3   	| Wednesday  	|  YYYY/MM/DD 	| |  
+|4   	| Thursday  	|   YYYY/MM/DD	|  |  
+|5   	| Friday  	|   YYYY/MM/DD	|  |  
+|6   	| Saturday  	|   YYYY/MM/DD	| 	|  
+|7   	| Sunday  	|   YYYY/MM/DD	|  |  
+

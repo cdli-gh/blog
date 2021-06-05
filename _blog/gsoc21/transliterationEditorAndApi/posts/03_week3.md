@@ -2,7 +2,7 @@
 layout: page
 title: Week 1
 author: "Vishv Kakadiya"
-tags: ["week","gsoc","gsoc2020","transliterationsEditorAndAPI","week#3","eval#1"]
+tags: ["week","gsoc","gsoc2021","transliterationsEditorAndAPI","week#3","eval#1"]
 ---
 
 ## Week Summary

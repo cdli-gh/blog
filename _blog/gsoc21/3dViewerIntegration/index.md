@@ -13,6 +13,8 @@ To Enhance the 3D Viewer user experience by adding responsiveness, physical torq
 
 Implementing an RTI Viewer so that any CDLI tablet for which the PLY model is available has an easy-to-navigate option for the 3D viewer for that model in 3D viewer.  
 
+Work Status: [Link](https://drive.google.com/drive/folders/1zx4uBOB8_9TkFnr3Hd5K0ckeTNb0gwj8)
+
 ### Objectives and Deliverables
 
 :heavy_check_mark: --> Completed Tasks
