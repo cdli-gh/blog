@@ -18,18 +18,18 @@ The task is to integrate this infrastructure into CDLI's framework and allow cro
 
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 |:white_check_mark:|  Framework integration | Integrate JTF API and web application run in a framework docker container. | - |
-| 2 |:white_check_mark:|  Accessibility  | Make web application accessible via a framework URL. | - |
-| 3 |:white_check_mark:|  Database Operations  | Storing JTF data into CDLI Database. | - |
-| 4 |:white_check_mark:|  Version Control  | Implement version control system that efficiently stores changes to transliterations. | - |
-| 5 |:white_check_mark:|  JTF-LIB Integration  | JTF API integration with the framework's public API & JTF output function in the API. | - |
+| 1 |:white_check_mark:|  Framework integration | Integrate JTF API and web application run in a framework docker container. | [#604](https://gitlab.com/cdli/framework/-/issues/604) [#605](https://gitlab.com/cdli/framework/-/issues/605) |
+| 2 ||  Accessibility  | Make web application accessible via a framework URL. | - |
+| 3 ||  Database Operations  | Storing JTF data into CDLI Database. | - |
+| 4 ||  Version Control  | Implement version control system that efficiently stores changes to transliterations. | - |
+| 5 ||  JTF-LIB Integration  | JTF API integration with the framework's public API & JTF output function in the API. | - |
 
 
 ### Additional Objectives
 
 | \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
-| 1 | :white_check_mark: | CDLI Crowdsourcing functions  | Users should add / modify transliterations data and send them for approval directly from the application. |  -  |
+| 1 |  | CDLI Crowdsourcing functions  | Users should add / modify transliterations data and send them for approval directly from the application. |  -  |
 
 ### Tentative timeline  
 
