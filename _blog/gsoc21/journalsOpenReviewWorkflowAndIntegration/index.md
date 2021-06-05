@@ -31,32 +31,32 @@ Hola, I'm <a href="https://www.linkedin.com/in/apoorva-agarwal-8420ab1b3/">Apoor
 
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 | :man_technologist: | Creating Docker Container for ojs | Downloading ojs software and creating a docker container for it | - |
-| 2 | :man_technologist: | Ojs workflow for submission and review of articles | Creating a workflow for open submission and open review of articles | - |
-| 3 | :man_technologist: | REST API integration | Integrating API for submission of articles between ojs and CDLI and linking two databases | - |
-| 4 | :man_technologist: | Integrating OJS in the framework | Publishing the articles with the endorsement of the reviewers in CDLI journals dashboard | - |
+| 1 | :man_technologist: | Integrating ojs Docker Container in the framework | Downloading ojs software and creating a docker container for it | <a href="https://gitlab.com/cdli/framework/-/issues/598">#598</a> |
+| 2 | - | Ojs workflow for submission and review of articles | Creating a workflow for open submission and open review of articles | <a href="https://gitlab.com/cdli/framework/-/issues/603">#603</a> |
+| 3 | - |  API integration | Integrating API for sharing data between two dashboards | <a href="https://gitlab.com/cdli/framework/-/issues/606">#606</a> |
+| 4 | - | Connecting ojs module to the CDLI journals dashboard | Publishing the articles with the endorsement of the reviewers in CDLI journals dashboard | <a href="https://gitlab.com/cdli/framework/-/issues/599">#599</a>,<a href="https://gitlab.com/cdli/framework/-/issues/470">#470</a> |
 
 ### Additional Objectives
 
 | \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
-| 1 | :man_technologist: | Citation Index and metrics | Citation index is to cite the articles. Display the statistics related to articles | - |
-| 2 | :man_technologist: | DOI, ORCHID, and PUBLONS integration | Integration of DOI, ORCHID and PUBLONS in our workflow | - |
-| 3 | :man_technologist: | CI/CD pipeline | Setting up CI/CD with lint | - |
+| 1 | - | Citation Index and metrics | Citation index is to cite the articles. Display the statistics related to articles | - |
+| 2 | - | DOI, ORCHID, and PUBLONS integration | Integration of DOI, ORCHID and PUBLONS in our workflow | - |
+| 3 | - | CI/CD pipeline | Setting up CI/CD with lint | - |
 
 ### Tentative timeline  
 
 | Week  | Status | Objectives | Deliverables |
 |---|---|---|---|
-| 1 | :man_technologist: | Creating Docker Container for ojs | Downloading ojs software and creating a docker container for it | - |
-| 2 | :man_technologist: | Setting up Editorial Workflow( for cdlj and cdlb) | Creating a workflow for open submission and open review of articles | - |
-| 3 | :man_technologist: | Develop the journals index for integrating ojs | Updating CDLI journals index to create a link between CDLI journals dashboard and ojs dashboard | - |
-| 4 | :man_technologist: | API integration for submission of articles between ojs and CDLI | Using API integration for submission of articles | - |
-| 5 | :man_technologist: | API integration | Using API integration to share data between dashboards | - |
-| 6 | :man_technologist: | Setting up connection between databases | Sharing data between CDLI and ojs databases | - |
-| 7 | :man_technologist: | Using oAuth for single login | Using oAuth so that user have to login only once in CDLI | - |
-| 8 | :man_technologist: | Publishing Articles | Publishing articles and displaying the endorsement of reviewers | - |
-| 9 | :man_technologist: | Citation index and metrics | Citation index is to cite the articles. Display the statistics related to articles | - |
-| 10 | :man_technologist: | DOI, ORCHID, and PUBLONS integration | Integration of DOI, ORCHID and PUBLONS in our workflow | - |
-| 11 | :man_technologist: | CI/CD pipeline | Setting up CI/CD with lint  and unit testing | - |
+| 1 | :man_technologist: | Integrating ojs Docker Container in the framework | Downloading ojs software and creating a docker container for it and integrating it in CDLI framework| 
+| 2 | - | Setting up Editorial Workflow( for cdlj and cdlb) | Creating a workflow for open submission and open review of articles |
+| 3 | - | Develop the journals index for integrating ojs | Updating CDLI journals index to create a link between CDLI journals dashboard and ojs dashboard | 
+| 4 | - | API integration for submission of articles between ojs and CDLI | Using API integration for submission of articles | 
+| 5 | - | API integration | Using API integration to share data between dashboards | 
+| 6 | - | Setting up connection between databases | Sharing data between CDLI and ojs databases | 
+| 7 | - | Using oAuth for single login | Using oAuth so that user have to login only once in CDLI |
+| 8 | - | Publishing Articles | Publishing articles and displaying the endorsement of reviewers | 
+| 9 | - | Citation index and metrics | Citation index is to cite the articles. Display the statistics related to articles |
+| 10 | - | DOI, ORCHID, and PUBLONS integration | Integration of DOI, ORCHID and PUBLONS in our workflow | 
+| 11 | - | CI/CD pipeline | Setting up CI/CD with lint  and unit testing | 
   
