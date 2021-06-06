@@ -15,43 +15,55 @@ Proposal Link : [Discovery search and advanced search features](https://docs.goo
 
 ### Objectives and Deliverables
 
-:heavy_check_mark: --> Completed Tasks
-:white_check_mark: --> Ongoing Tasks
 
-| \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
-| --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 |:white_check_mark:|  Add “Ids” and “Keywords” search fields to both simple and advanced search | Users will be able to search for specific keywords,Id/Numbers artifacts | [#314](https://gitlab.com/cdli/framework/-/issues/314) |
-| 2 |:white_check_mark:| Implementation of fuzzy queries | Fuzzy queries would yield search results in all search fields|[#593](https://gitlab.com/cdli/framework/-/issues/593) |
-| 3 |:white_check_mark:| Enable search inscription with sign value permutation |When a user will enable this search feature and search for sign values, all possible sign values with matching sign names of the query will be returned| [#596](https://gitlab.com/cdli/framework/-/issues/596)
-| 4 |:white_check_mark:| Highlight transliteration sign values in ATF display |The sign values will be highlighted in the compact search results page|[#347](https://gitlab.com/cdli/framework/-/issues/347)
-| 5 |:white_check_mark:| On add or edit save a sanitized version of inscription as a list of sign names |When an artifact is added/edited the sanitised jtf data will be stored in the database|[#120](https://gitlab.com/cdli/framework/-/issues/120#note_550066667)
-| 6 |:white_check_mark:| Users will have the flexibility to search with both UTF-8 and ASCII characters |Users will have the flexibility to search with both UTF-8 and ASCII characters |[#597](https://gitlab.com/cdli/framework/-/issues/597)
-| 7 |:white_check_mark:| Filter search results by RTI Image, Transliterations , 3D Data | Users can apply filters such as RTI Image, Transliterations, 3D Data and get search results | [#136](https://gitlab.com/cdli/framework/-/issues/136)
-| 8 |:white_check_mark:| Port request to Elasticsearch from cURL to HttpClient | Replaced cURL implementation with HTTP Client|[#350](https://gitlab.com/cdli/framework/-/issues/350)
+| \# | Objectives                    | Associated Deliverables         | issue(s) |
+| --- | ----------------------------- | ---------------------------------------------- | -------- |
+| 1 |  Add “Ids” and “Keywords” search fields to both simple and advanced search | Users will be able to search for specific keywords,Id/Numbers artifacts | [#314](https://gitlab.com/cdli/framework/-/issues/314) |
+| 2 | Implementation of fuzzy queries | Fuzzy queries would yield search results in all search fields|[#593](https://gitlab.com/cdli/framework/-/issues/593) |
+| 3 | Enable search inscription with sign value permutation |When a user will enable this search feature and search for sign values, all possible sign values with matching sign names of the query will be returned| [#596](https://gitlab.com/cdli/framework/-/issues/596)
+| 4 | Highlight transliteration sign values in ATF display |The sign values will be highlighted in the compact search results page|[#347](https://gitlab.com/cdli/framework/-/issues/347)
+| 5 | On add or edit save a sanitized version of inscription as a list of sign names |When an artifact is added/edited the sanitised jtf data will be stored in the database|[#120](https://gitlab.com/cdli/framework/-/issues/120#note_550066667)
+| 6 | Input flexibility enhancements |Users will have the flexibility to search with both UTF-8 and ASCII characters |[#597](https://gitlab.com/cdli/framework/-/issues/597)
+| 7 | Filter search results by RTI Image, Transliterations , 3D Data | Users can apply filters such as RTI Image, Transliterations, 3D Data and get search results | [#136](https://gitlab.com/cdli/framework/-/issues/136)
+| 8 | Port request to Elasticsearch from cURL to HttpClient | Replaced cURL implementation with HTTP Client|[#350](https://gitlab.com/cdli/framework/-/issues/350)
 
 
 
 ### Additional Objectives
 
-| \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
-| --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
-| 1 | :white_check_mark: | Implementation of CakePHP elasticsearch plugin  | Cakephp Elasticsearch plugin implemented along with documentation | [#460](https://gitlab.com/cdli/framework/-/issues/460) |
+| \#  | Objectives         | Associated Deliverables                                             | issue(s) |
+| --- | ------------------ | ------------------------------------------------------------------- | -------- |
+| 1 | Implementation of CakePHP elasticsearch plugin  | Cakephp Elasticsearch plugin implemented along with documentation | [#460](https://gitlab.com/cdli/framework/-/issues/460) |
 
-
+### Dependencies
+* JTF Data (Vishv)
+* Images Table (Daksh)
 
 ### Tentative timeline  
 
-| Week  |Objectives | Deliverables |
-|---|---|---|
-|1|Ids and Keywords search fields|Users will be able to search for specific keywords,Id/Numbers artifacts both in simple and advanced search|
-|2|Fuzzy queries|Fuzzy queries would yield search results in all search fields|
-|3|Search Inscription with sign value permutaion|When a user will enable this search feature and search for sign values, all possible sign values with matching sign names of the query will be returned|
-|4|Highlight transliteration sign values in ATF display|The sign values will be highlighted in the compact search results page|
-|5|Testing and Documentation |Testing and documentation of all the objectives in coding phase 1|
-|6|Inscription Sanitisation Script|When an artifact is added/edited the sanitised jtf data will be stored in the database|
-|7|Input flexibility enhancements|Users will have the flexibility to search with both UTF-8 and ASCII characters|
-|8|Filter search results by RTI Image, Transliterations, 3D Data|Users can apply filters such as RTI Image, Transliterations, 3D Data and get search results.|
-|9|Port request to Elasticsearch from cURL to HttpClient|Replaced cURL implementation with HTTP Client|
-|10|Testing and Documentation|Testing and documentation of all the objectives in coding phase 2|
+<table>
+  <tr>
+    <td> <strong>Status</strong> </td> 
+    <td></td>
+    <td align="center"> Working </td>
+    <td align="center"> :man_technologist: </td>
+    <td></td>
+    <td align="center"> Completed </td>
+    <td align="center"> :heavy_check_mark: </td>
+  </tr>
+</table>
+
+| Week  |Objectives | Deliverables | Status |
+|---|---|---|---|
+|1|Ids and Keywords search fields|Users will be able to search for specific keywords,Id/Numbers artifacts both in simple and advanced search|:man_technologist:|
+|2|Fuzzy queries|Fuzzy queries would yield search results in all search fields||
+|3|Search Inscription with sign value permutaion|When a user will enable this search feature and search for sign values, all possible sign values with matching sign names of the query will be returned||
+|4|Highlight transliteration sign values in ATF display|The sign values will be highlighted in the compact search results page||
+|5|Testing and Documentation |Testing and documentation of all the objectives in coding phase 1||
+|6|Inscription Sanitisation Script|When an artifact is added/edited the sanitised jtf data will be stored in the database||
+|7|Input flexibility enhancements|Users will have the flexibility to search with both UTF-8 and ASCII characters||
+|8|Filter search results by RTI Image, Transliterations, 3D Data|Users can apply filters such as RTI Image, Transliterations, 3D Data and get search results.||
+|9|Port request to Elasticsearch from cURL to HttpClient|Replaced cURL implementation with HTTP Client||
+|10|Testing and Documentation|Testing and documentation of all the objectives in coding phase 2||
 
 
