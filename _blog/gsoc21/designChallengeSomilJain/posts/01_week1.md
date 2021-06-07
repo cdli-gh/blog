@@ -14,7 +14,7 @@ Work done in week summary.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2021/06/07	| Basic skeleton of Dashboard, flow of Raw image scan |  
+|1   	| Monday 	|   2021/06/07	| Basic skeleton of Dashboard, flow and UI of Uploads |  
 |2   	| Tuesday  	|   2021/06/08	| 	 |  
 |3   	| Wednesday  	|  2021/06/09 	|  |  
 |4   	| Thursday  	|   2021/06/10	|  |  
