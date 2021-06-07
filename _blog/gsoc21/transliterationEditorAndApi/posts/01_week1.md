@@ -14,7 +14,7 @@ Work done in week summary.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   YYYY/MM/DD	| |  
+|1   	| Monday 	|   2021/06/07	| Created Submodule for uqun and tested it locally |  
 |2   	| Tuesday  	|   YYYY/MM/DD	| 	|  
 |3   	| Wednesday  	|  YYYY/MM/DD 	| |  
 |4   	| Thursday  	|   YYYY/MM/DD	|  |  
