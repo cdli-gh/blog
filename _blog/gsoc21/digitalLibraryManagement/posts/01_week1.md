@@ -15,7 +15,7 @@ Work done in week summary.
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2021/06/07	| Updated the design for Single Artifact View Page. |  
-|2   	| Tuesday  	|   YYYY/MM/DD	| 	|  
+|2   	| Tuesday  	|   2021/06/08	| Designed the selcting multiple images page.	|  
 |3   	| Wednesday  	|  YYYY/MM/DD 	| |  
 |4   	| Thursday  	|   YYYY/MM/DD	|  |  
 |5   	| Friday  	|   YYYY/MM/DD	|  |  
