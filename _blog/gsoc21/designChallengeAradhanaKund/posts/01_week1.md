@@ -2,7 +2,7 @@
 layout: page
 title: Week 1
 author: "Aradhana Kund"
-tags: ["week","gsoc","gsoc2020","DesignChallengeAradhanaKund","week#3","eval#1"]
+tags: ["week","gsoc","gsoc2020","DesignChallengeAradhanaKund","week#1","eval#1"]
 ---
 
 ## Week Summary
@@ -14,9 +14,9 @@ Work done in week summary.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   YYYY/MM/DD	| |  
-|2   	| Tuesday  	|   YYYY/MM/DD	| 	|  
-|3   	| Wednesday  	|  YYYY/MM/DD 	| |  
+|1   	| Monday 	|   2021/06/07	| Designed the UI for periods page. |  
+|2   	| Tuesday  	|   2021/06/08	| Implemented the Web View for periods page.	|  
+|3   	| Wednesday  	|  YYYY/MM/DD 	|  |  
 |4   	| Thursday  	|   YYYY/MM/DD	|  |  
 |5   	| Friday  	|   YYYY/MM/DD	|  |  
 |6   	| Saturday  	|   YYYY/MM/DD	| 	|  
