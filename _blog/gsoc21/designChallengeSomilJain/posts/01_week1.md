@@ -16,7 +16,7 @@ Work done in week summary.
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2021/06/07	| Basic skeleton of Dashboard, flow and UI of Uploads |  
 |2   	| Tuesday  	|   2021/06/08	| Suggested changes and Error handling in Uploads and Admin Dashboard Mobile view.	 |  
-|3   	| Wednesday  	|  2021/06/09 	|  |  
+|3   	| Wednesday  	|  2021/06/09 	| Decided parameters of uploaded raw image scans, table UI and error cases.   |  
 |4   	| Thursday  	|   2021/06/10	|  |  
 |5   	| Friday  	|   2021/06/11	|  |
 |6   	| Saturday  	|   2021/06/12	|  |  
