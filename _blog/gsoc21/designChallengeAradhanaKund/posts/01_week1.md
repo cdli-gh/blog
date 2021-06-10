@@ -16,7 +16,7 @@ Work done in week summary.
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2021/06/07	| Designed the UI for periods page. |  
 |2   	| Tuesday  	|   2021/06/08	| Implemented the Web View for periods page.	|  
-|3   	| Wednesday  	|  YYYY/MM/DD 	|  |  
+|3   	| Wednesday  	|  2021/06/09 	| Implemented the Mobile and Tablet View for periods page. |  
 |4   	| Thursday  	|   YYYY/MM/DD	|  |  
 |5   	| Friday  	|   YYYY/MM/DD	|  |  
 |6   	| Saturday  	|   YYYY/MM/DD	| 	|  
