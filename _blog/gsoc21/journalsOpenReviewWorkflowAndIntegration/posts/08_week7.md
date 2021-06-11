@@ -2,7 +2,7 @@
 layout: page
 title: Week 7
 author: "Apoorva Agarwal"
-tags: ["week","gsoc","gsoc2021","journalsOpenReviewWorkflowAndIntegration","week#7","eval#2"]
+tags: ["draft","week","gsoc","gsoc2021","journalsOpenReviewWorkflowAndIntegration","week#7","eval#2"]
 ---
 
 ## Week Summary
