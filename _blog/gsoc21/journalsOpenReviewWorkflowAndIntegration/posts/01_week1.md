@@ -17,7 +17,7 @@ Work done in week summary.
 |1   	| Monday 	|   2021/06/07	| Created container for ojs and tested it locally |  
 |2   	| Tuesday  	|   2021/06/08	| Raised PR for ojs container and made changes related to volume 	|  
 |3   	| Wednesday  	|  2021/06/09 	| Worked on errors in ojs container |  
-|4   	| Thursday  	|   2021/06/10	| - |  
+|4   	| Thursday  	|   2021/06/10	| Read Harry Potter :) |  
 |5   	| Friday  	|   2021/06/11	|  |  
 |6   	| Saturday  	|   2021/06/12	| 	|  
 |7   	| Sunday  	|   2021/06/13	|  |  
