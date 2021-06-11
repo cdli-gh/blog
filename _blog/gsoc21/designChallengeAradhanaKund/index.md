@@ -29,9 +29,9 @@ This project aims to improve the complete styling of the website using minimal s
 
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 |  | Redesigning and Implementing the periods page | Implementing periods page for web/tab/mobile view | [#251](https://gitlab.com/cdli/framework/-/issues/251) |
+| 1 | :man_technologist: | Redesigning and Implementing the periods page | Implementing periods page for web/tab/mobile view | [#251](https://gitlab.com/cdli/framework/-/issues/251) |
 | 2 |  | Modify the common template | Improvise the common template for view/add/edit/index pages of the entities | [#601](https://gitlab.com/cdli/framework/-/issues/601),[#602](https://gitlab.com/cdli/framework/-/issues/602) |
-| 3 |  | Implementing Admin Dashboard | Implementing web/tab/mobile view of admin dashboard along with raw image scan upload | [#75](https://gitlab.com/cdli/framework/-/issues/75) |
+| 3 | :man_technologist: | Implementing Admin Dashboard | Implementing web/tab/mobile view of admin dashboard along with raw image scan upload | [#75](https://gitlab.com/cdli/framework/-/issues/75) |
 | 4 |  | Resources Page | Implementing web/tab/mobile view of about us and Resources Page | [#209](https://gitlab.com/cdli/framework/-/issues/209) |
 | 5 |  | About Us | Implementing web/tab/mobile view of About us. | [#591](https://gitlab.com/cdli/framework/-/issues/591) |
   
@@ -47,10 +47,10 @@ This project aims to improve the complete styling of the website using minimal s
 
 | Week  | Status | Objectives | Deliverables |
 |---|---|---|---|
-| 1 | :heavy_check_mark: | Periods Page and Drafted design of admin dashboard | Redesign and implement the periods page for web/tab/mobile view and implement drafted design of admin dashboard | - |
-| 2 |  | Admin Dashboard | Implement the skeleton of admin dashboard with all its functionalities depending on access (upload options and access checking) | - |
-| 3 |  | Admin Dashboard Mobile view and Upload Part | Implement the uploads part of admin dashboard and the web/tab/mobile view of admin dashboard with all its functionalities. | - |
-| 4 |  | Raw Image Scan | Implement the raw image scan part of admin dashboard and its web/tab/mobile view with all its functionalities. | - |
+| 1 | :man_technologist: | Periods Page and Drafted design of admin dashboard | Redesign and implement the periods page for web/tab/mobile view and implement drafted design of admin dashboard | - |
+| 2 | :man_technologist: | Admin Dashboard | Implement the skeleton of admin dashboard with all its functionalities depending on access (upload options and access checking) | - |
+| 3 | :man_technologist: | Admin Dashboard Mobile view and Upload Part | Implement the uploads part of admin dashboard and the web/tab/mobile view of admin dashboard with all its functionalities. | - |
+| 4 | :man_technologist: | Raw Image Scan | Implement the raw image scan part of admin dashboard and its web/tab/mobile view with all its functionalities. | - |
 | 5 |  | Resources Page | Implement the skeleton for Resources Page | - |
 | 6 |  | Common Templates | Implement the common templates for view/index pages of entities. | - |
 | 7 |  |  Common Templates | Implement the common templates for edit/add pages of entities. | - |
