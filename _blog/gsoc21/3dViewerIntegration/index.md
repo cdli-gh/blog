@@ -19,6 +19,7 @@ Work Status: [Link](https://drive.google.com/drive/folders/1zx4uBOB8_9TkFnr3Hd5K
 
 :heavy_check_mark: --> Completed Tasks
 :white_check_mark: --> Ongoing Tasks
+:raised_hands: --> Work Demonstration
 
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
@@ -40,10 +41,10 @@ Work Status: [Link](https://drive.google.com/drive/folders/1zx4uBOB8_9TkFnr3Hd5K
 
 | Week  |Objectives | Deliverables |
 |---|---|---|
-|1| :white_check_mark: Make basic 3D Viewer  |  :white_check_mark: Convert 3D Viewer files to CakePHP. <br> :white_check_mark: Make URL controller for 3D Viewer in the framework. |
-|2| :white_check_mark: Basic 3D Viewer up  |  :white_check_mark: Setting up the routes for the 3D Viewer page in the framework. <br> :white_check_mark: Setting up parameterized routes to take ObjectID from URL and render model accordingly. |
+|1| :white_check_mark: Make basic 3D Viewer  |  :white_check_mark: Convert 3D Viewer files to CakePHP. <br> :white_check_mark: Make URL controller for 3D Viewer in the framework. <br> :raised_hands: 3D Viewer should be up on framework with error in loading 3D models.|
+|2| :white_check_mark: Basic 3D Viewer up  |  :white_check_mark: Setting up the routes for the 3D Viewer page in the framework. <br> :white_check_mark: Setting up parameterized routes to take ObjectID from URL and render model accordingly. <br> :raised_hands: 3D Viewer should be able to load 3D models from assets in the webroot. |
 |3| :white_check_mark: Model from the database.   |  :white_check_mark: Set up routes to get 3D Model (.PLY) from data from the CDLI database.  |
-|4| :white_check_mark: Render 3D Model  |  :white_check_mark: Load 3D Model(.PLY) in the 3D viewer and render it from the database. |
+|4| :white_check_mark: Render 3D Model  |  :white_check_mark: Load 3D Model(.PLY) in the 3D viewer and render it from the database. <br> :raised_hands: 3D Viewer should be able to load 3D models from cdli database. |
 |5| :white_check_mark: Testing and Debugging   |  :white_check_mark: Check all the functionality added is working good and if any bug is present debug it. |
 |6| :white_check_mark: Responsiveness  |  :white_check_mark: Make 3D Model responsive with 3D viewer for all devices. |
 |7| :white_check_mark: UX Optimisation  |  :white_check_mark: Suggest and implement different features for 3D Viewer to enhance User Experience(UX) while interacting with 3D Model(CDLI tablet). |
