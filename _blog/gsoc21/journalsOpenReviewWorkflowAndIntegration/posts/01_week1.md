@@ -14,10 +14,10 @@ Work done in week summary.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   YYYY/MM/DD	| |  
-|2   	| Tuesday  	|   YYYY/MM/DD	| 	|  
-|3   	| Wednesday  	|  YYYY/MM/DD 	| |  
-|4   	| Thursday  	|   YYYY/MM/DD	|  |  
-|5   	| Friday  	|   YYYY/MM/DD	|  |  
-|6   	| Saturday  	|   YYYY/MM/DD	| 	|  
-|7   	| Sunday  	|   YYYY/MM/DD	|  |  
+|1   	| Monday 	|   2021/06/07	| Created container for ojs and tested it locally |  
+|2   	| Tuesday  	|   2021/06/08	| Raised PR for ojs container and made changes related to volume 	|  
+|3   	| Wednesday  	|  2021/06/09 	| Worked on errors in ojs container |  
+|4   	| Thursday  	|   2021/06/10	| - |  
+|5   	| Friday  	|   2021/06/11	|  |  
+|6   	| Saturday  	|   2021/06/12	| 	|  
+|7   	| Sunday  	|   2021/06/13	|  |  
