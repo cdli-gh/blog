@@ -14,10 +14,10 @@ Work done in week summary.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   YYYY/MM/DD	| |  
-|2   	| Tuesday  	|   YYYY/MM/DD	| 	|  
-|3   	| Wednesday  	|  YYYY/MM/DD 	| |  
-|4   	| Thursday  	|   YYYY/MM/DD	|  |  
-|5   	| Friday  	|   YYYY/MM/DD	|  |  
-|6   	| Saturday  	|   YYYY/MM/DD	| 	|  
-|7   	| Sunday  	|   YYYY/MM/DD	|  |  
+|1   	| Monday 	|   2021/06/07	| - |  
+|2   	| Tuesday  	|   2021/06/08	| :octocat: Added Controller for 3D Viewer in cakephp.	|  
+|3   	| Wednesday  	|  2021/06/09 	| :octocat: Added testing page in templates for 3D Viewer. <br> :octocat: Created route to 3D Viewer page. |  
+|4   	| Thursday  	|   2021/06/10	| :octocat: Added HTML 3D Viewer code in testing page to render 3D Viewer. <br> :octocat: Linked all required javascript and css files.  |  
+|5   	| Friday  	|   2021/06/11	|  |  
+|6   	| Saturday  	|   2021/06/12	| 	|  
+|7   	| Sunday  	|   2021/06/13	|  |  
