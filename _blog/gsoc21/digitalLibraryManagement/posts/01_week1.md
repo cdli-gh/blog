@@ -19,5 +19,5 @@ Work done in week summary.
 |3   	| Wednesday  	|  2021/06/09 	| Posted the design on [#609](https://gitlab.com/cdli/framework/-/issues/609) to get reviews from mentors. |  
 |4   	| Thursday  	|   2021/06/10	|  |  
 |5   	| Friday  	|   2021/06/11	| Updated the Single Artifact View Page Designs. |  
-|6   	| Saturday  	|   YYYY/MM/DD	| 	|  
+|6   	| Saturday  	|  2021/06/12	| Designed a dediacted page for images management (Single Artifact View). |  
 |7   	| Sunday  	|   YYYY/MM/DD	|  |  
