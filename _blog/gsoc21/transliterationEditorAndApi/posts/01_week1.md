@@ -18,6 +18,6 @@ Work done in week summary.
 |2   	| Tuesday  	|   2021/06/08	| Had a meeting with mentor and dockerized uqun	|  
 |3   	| Wednesday  	|  2021/06/09 	| Raised PR for dockerized uqun and make a changes in submodule |  
 |4   	| Thursday  	|   2021/06/10	| Worked on changes given by Nisheal |  
-|5   	| Friday  	|   YYYY/MM/DD	|  |  
-|6   	| Saturday  	|   YYYY/MM/DD	| 	|  
-|7   	| Sunday  	|   YYYY/MM/DD	|  |  
+|5   	| Friday  	|    2021/06/11	| Had a meeting with mentor, discussed the issues and worked on that |  
+|6   	| Saturday  	|    2021/06/12	| Researched about cuneiform languages 	|  
+|7   	| Sunday  	|    2021/06/13	| - |  
