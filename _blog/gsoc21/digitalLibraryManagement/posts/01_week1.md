@@ -6,9 +6,7 @@ tags: ["week","gsoc","gsoc2021","digitalLibraryManagement","week#1","eval#1"]
 ---
 
 ## Week Summary
-
- 
-Work done in week summary.
+This week i worked in designing the different pages which will be required in the project. Had multiple discussions with design team, mentors to keep the User Interface simple and easy to wok around. Decided with mentors about the informarion which should be dispalyed to the admins when they are making an changes in the Visual Assets Of Digital Library (DL).
 
 ## Daily Work Update
 
@@ -20,4 +18,4 @@ Work done in week summary.
 |4   	| Thursday  	|   2021/06/10	|  |  
 |5   	| Friday  	|   2021/06/11	| Updated the Single Artifact View Page Designs. |  
 |6   	| Saturday  	|  2021/06/12	| Designed a dediacted page for images management (Single Artifact View). |  
-|7   	| Sunday  	|   YYYY/MM/DD	|  |  
+|7   	| Sunday  	|   2021/06/13	| Dicussed the pages with the design, updated them accordingly. |  
