@@ -18,4 +18,4 @@ This week i worked in designing the different pages which will be required in th
 |4   	| Thursday  	|   2021/06/10	|  |  
 |5   	| Friday  	|   2021/06/11	| Updated the Single Artifact View Page Designs. |  
 |6   	| Saturday  	|  2021/06/12	| Designed a dediacted page for images management (Single Artifact View). |  
-|7   	| Sunday  	|   2021/06/13	| Dicussed the pages with the design, updated them accordingly. |  
+|7   	| Sunday  	|   2021/06/13	| Dicussed the pages with the design team, updated them accordingly. |  
