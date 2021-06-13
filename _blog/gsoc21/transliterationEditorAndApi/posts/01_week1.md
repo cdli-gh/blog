@@ -8,7 +8,7 @@ tags: ["week","gsoc","gsoc2021","transliterationsEditorAndAPI","week#1","eval#1"
 ## Week Summary
 
  
-Work done in week summary.
+After a great community bonding period, I officially started working on my project. For the first week, I have created a docker container for uqnu and integrated it into the existing infrastructure. Made it up and running on localhost and 3002 port. Faced a lot of issues on running on the desired host. 
 
 ## Daily Work Update
 
