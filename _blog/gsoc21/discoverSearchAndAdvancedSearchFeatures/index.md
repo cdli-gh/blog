@@ -55,9 +55,9 @@ Proposal Link : [Discovery search and advanced search features](https://docs.goo
 
 | Week  |Objectives | Deliverables | Status |
 |---|---|---|---|
-|1|Ids and Keywords search fields|Users will be able to search for specific keywords,Id/Numbers artifacts both in simple and advanced search|:man_technologist:|
-|2|Fuzzy queries|Fuzzy queries would yield search results in all search fields||
-|3|Search Inscription with sign value permutaion|When a user will enable this search feature and search for sign values, all possible sign values with matching sign names of the query will be returned||
+|1|Ids and Keywords search fields|Users will be able to search for specific keywords,Id/Numbers artifacts both in simple and advanced search|:heavy_check_mark:|
+|2|Fuzzy queries|Fuzzy queries would yield search results in all search fields|:heavy_check_mark:|
+|3|Search Inscription with sign value permutaion|When a user will enable this search feature and search for sign values, all possible sign values with matching sign names of the query will be returned| :man_technologist: |
 |4|Highlight transliteration sign values in ATF display|The sign values will be highlighted in the compact search results page||
 |5|Testing and Documentation |Testing and documentation of all the objectives in coding phase 1||
 |6|Inscription Sanitisation Script|When an artifact is added/edited the sanitised jtf data will be stored in the database||
