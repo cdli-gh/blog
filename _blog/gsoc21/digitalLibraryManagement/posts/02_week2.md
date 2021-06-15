@@ -14,8 +14,8 @@ Work done in week summary.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   YYYY/MM/DD	| |  
-|2   	| Tuesday  	|   YYYY/MM/DD	| 	|  
+|1   	| Monday 	|   2020/06/14	| |  
+|2   	| Tuesday  	|   2020/06/15	| Prepared images table and discussed it with the mentors on [#87](https://gitlab.com/cdli/framework/-/issues/87)	|  
 |3   	| Wednesday  	|  YYYY/MM/DD 	| |  
 |4   	| Thursday  	|   YYYY/MM/DD	|  |  
 |5   	| Friday  	|   YYYY/MM/DD	|  |  
