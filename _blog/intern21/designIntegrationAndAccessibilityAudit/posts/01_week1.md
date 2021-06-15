@@ -19,5 +19,5 @@ Work done in week summary.
 |3   	| Wednesday  	|  YYYY/MM/DD 	| Fix Side Menubar (to not get focus when closed), CDLI logo and twitter button focus ring [!316](https://gitlab.com/cdli/framework/-/merge_requests/316) |  
 |4   	| Thursday  	|   YYYY/MM/DD	| Provide alternative for missing Pagination numbers [!315](https://gitlab.com/cdli/framework/-/merge_requests/315) |  
 |5   	| Friday  	|   YYYY/MM/DD	| Improve Accessibility for Default Page Layout i.e Header and Footer [!316](https://gitlab.com/cdli/framework/-/merge_requests/316) |  
-|6   	| Saturday  	|   YYYY/MM/DD	| 	|  
+|6   	| Saturday  	|   YYYY/MM/DD	| Testing, Getting the pr reviewed and implementing additional suggested changes	|  
 |7   	| Sunday  	|   YYYY/MM/DD	|  |  
