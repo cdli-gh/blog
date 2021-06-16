@@ -20,4 +20,4 @@ Work done in week summary.
 |4   	| Thursday  	|   2021/06/10	|  Raw image scan UI and usertesting of Admin dashboard. |  
 |5   	| Friday  	|   2021/06/11	|  Form wizard introduction for Raw image scan UI|
 |6   	| Saturday  	|   2021/06/12	| Raw image scan flow and UI  |  
-|7   	| Sunday  	|   2021/06/13	| |
+|7   	| Sunday  	|   2021/06/13	| Raw image scan prototype testing and analysis of results |
