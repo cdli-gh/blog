@@ -19,5 +19,5 @@ Work done in week summary.
 |3   	| Wednesday  	|  2021/06/09 	| Decided parameters of uploaded raw image scans, table UI and error cases.  |  
 |4   	| Thursday  	|   2021/06/10	|  Raw image scan UI and usertesting of Admin dashboard. |  
 |5   	| Friday  	|   2021/06/11	|  Form wizard introduction for Raw image scan UI|
-|6   	| Saturday  	|   2021/06/12	|  |  
+|6   	| Saturday  	|   2021/06/12	| Raw image scan flow and UI  |  
 |7   	| Sunday  	|   2021/06/13	| |
