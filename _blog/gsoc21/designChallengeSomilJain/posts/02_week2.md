@@ -14,10 +14,10 @@ Work done in week summary.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2021/06/14	| |  
-|2   	| Tuesday  	|   2021/06/15	| |  
-|3   	| Wednesday  	|  2021/06/16 	|  |  
-|4   	| Thursday  	|   2021/06/17	|   |  
+|1   	| Monday 	|   2021/06/14	| CDLJ,CDLB Index page |  
+|2   	| Tuesday  	|   2021/06/15	| OJS integration flow |  
+|3   	| Wednesday  	|  2021/06/16 	| Single Article view |  
+|4   	| Thursday  	|   2021/06/17	| Single Article View    |  
 |5   	| Friday  	|   2021/06/18	|  |
 |6   	| Saturday  	|   2021/06/19	|  |  
 |7   	| Sunday  	|   2021/06/20	|  |
