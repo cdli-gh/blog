@@ -14,8 +14,8 @@ Work done in week summary.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2021/06/14	| Implemented the desktop view of the admin dashboard. |  
-|2   	| Tuesday  	|   2021/06/15	| Implemented the small screen view of the admin dashboard-Accordians	|  
+|1   	| Monday 	|   2021/06/14	| Implemented the desktop view of the admin dashboard and discussed about implementation of breadcrumbs. |  
+|2   	| Tuesday  	|   2021/06/15	| Implemented the small screen view of the admin dashboard-Accordians.	|  
 |3   	| Wednesday  	|  2021/06/16 	| Made the upload section dynamic according to the dropdown option selected. |  
 |4   	| Thursday  	|   YYYY/MM/DD	|  |  
 |5   	| Friday  	|   YYYY/MM/DD	|  |  
