@@ -48,7 +48,7 @@ This project aims to improve the complete styling of the website using minimal s
 | Week  | Status | Objectives | Deliverables |
 |---|---|---|---|
 | 1 | :heavy_check_mark: | Periods Page and Drafted design of admin dashboard | Redesign and implement the periods page for web/tab/mobile view and implement drafted design of admin dashboard | - |
-| 2 | :man_technologist: | Admin Dashboard | Implement the skeleton of admin dashboard with all its functionalities depending on access (upload options and access checking) | - |
+| 2 | :heavy_check_mark: | Admin Dashboard | Implement the skeleton of admin dashboard with all its functionalities depending on access (upload options and access checking) | - |
 | 3 | :man_technologist: | Admin Dashboard Mobile view and Upload Part | Implement the uploads part of admin dashboard and the web/tab/mobile view of admin dashboard with all its functionalities. | - |
 | 4 | :man_technologist: | Raw Image Scan | Implement the raw image scan part of admin dashboard and its web/tab/mobile view with all its functionalities. | - |
 | 5 |  | Resources Page | Implement the skeleton for Resources Page | - |
