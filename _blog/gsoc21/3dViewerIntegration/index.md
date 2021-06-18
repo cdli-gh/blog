@@ -23,7 +23,7 @@ Work Status: [Link](https://drive.google.com/drive/folders/1zx4uBOB8_9TkFnr3Hd5K
 
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 |:white_check_mark:|  3D Viewer in cake-php | Upgrade 3D Viewer to cake-php. | - |
+| 1 |:heavy_check_mark:|  3D Viewer in cake-php | Convert 3D Viewer to cake-php. | - |
 | 2 |:white_check_mark:|  Load 3D Model(.PLY) | Loading 3D Model in .PLY format from CDLI database. | - |
 | 3 |:white_check_mark:|  Responsiveness | 3D Viewer should be responsive to all devices with their associated 3D Models. | - |
 | 4 |:white_check_mark:|  User Experience(UX) | Suggesting and implementing user experience(UX) of 3D Viewer. | - |
