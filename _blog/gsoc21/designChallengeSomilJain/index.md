@@ -16,8 +16,8 @@ My projects will be about HCI and UI part of the framework, where I will be desi
 
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 ||  Admin Dashboard | Admin dashboard, Raw image scan, History | [#75](https://gitlab.com/cdli/framework/-/issues/75), [#455](https://gitlab.com/cdli/framework/-/issues/455)  |
-| 2 ||  Journal Integration | Single Article default view, user flow of integrated OJS system, Review UI on published articles | [#470](https://gitlab.com/cdli/framework/-/issues/470), [#599](https://gitlab.com/cdli/framework/-/issues/599) |
+| 1 ||  Admin Dashboard | Admin dashboard, Raw image scan | [#75](https://gitlab.com/cdli/framework/-/issues/75), [#455](https://gitlab.com/cdli/framework/-/issues/455)  |
+| 2 ||  Journal Integration | Single Article default view, user flow of integrated OJS system | [#470](https://gitlab.com/cdli/framework/-/issues/470), [#599](https://gitlab.com/cdli/framework/-/issues/599) |
 | 3 ||  Resource page | Resource page UI, Tools kit, Team's page and checking user's accessibility | [#209](https://gitlab.com/cdli/framework/-/issues/209)|
 | 4 ||  Redesigning Artifacts pages | Single Artifact view, index page and photos  | [#517](https://gitlab.com/cdli/framework/-/issues/517), [#496](https://gitlab.com/cdli/framework/-/issues/496), [#358](https://gitlab.com/cdli/framework/-/issues/358)  |
 | 5 ||  Common template for Edit, Add form pages for different entities | UI for common template of Add,edit of different entities | [#601](https://gitlab.com/cdli/framework/-/issues/602) |
@@ -32,8 +32,8 @@ My projects will be about HCI and UI part of the framework, where I will be desi
 | \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
 | 1 | :heavy_check_mark: | Additional Task Objective  | Additional Task Deliverables | Issue Link        |
-| 2 |  |   |  |  |
-| 3 |  |   |  |  |
+| 2 |  |   | History for Admin dashboard |  |
+| 3 |  |   |Review UI on published articles, filters on index opages of CDLJ,CDLB  |  |
 | 4 |  |   |  |  |
 | 5 |  |   |  |  |
 | 6 |  |   |  |  |
