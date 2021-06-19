@@ -45,7 +45,7 @@ Work Status: [Link](https://drive.google.com/drive/folders/17zfao7u9gfowSWieSYWu
 | Week  | Status |Objectives | Deliverables | issue(s)
 |---|---|---|---| --- |
 |1| :heavy_check_mark: | Designing the Pages | Get reviews from mentors regarding the design of pages and formalize the workflow | [#609](https://gitlab.com/cdli/framework/-/issues/609) |
-|2| :man_technologist: | Preparing Image Table   | Raise an issue to get review regarding theimage table, prepare a script to populate the tables intially | [#87](https://gitlab.com/cdli/framework/-/issues/87)  |
+|2| :man_technologist: | Preparing Image Table   | Raise an issue to get review regarding the image table, prepare a script to populate the tables intially | [#87](https://gitlab.com/cdli/framework/-/issues/87)  |
 |3|  | Installation of Conversion Algorithm | Installing the library and try to add them in nginx or cake container | [#87](https://gitlab.com/cdli/framework/-/issues/87)  |
 |4|  | Generating Standard Templates  | Preparing standard templates, controllers for providing intial functionalities. Documetation of the work done till now | [#87](https://gitlab.com/cdli/framework/-/issues/87)  |
 |5|  | Preparing Custom Controllers  | Preparing custom controllers for conversion, viewing of archival images |[#87](https://gitlab.com/cdli/framework/-/issues/87)   |
