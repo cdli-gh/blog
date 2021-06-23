@@ -15,8 +15,8 @@ Work done in week summary.
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2020/06/21	| Got the review of the script from mentor, fixed it accordingly. |  
-|2   	| Tuesday  	|   YYYY/MM/DD	| 	|  
-|3   	| Wednesday  	|  YYYY/MM/DD 	| |  
+|2   	| Tuesday  	|   2020/06/22	| 	|  
+|3   	| Wednesday  	|  2020/06/23 	| Added a few more key values pairs in phton script so that we can store more information in JSON and in tables. |  
 |4   	| Thursday  	|   YYYY/MM/DD	|  |  
 |5   	| Friday  	|   YYYY/MM/DD	|  |  
 |6   	| Saturday  	|   YYYY/MM/DD	| 	|  
