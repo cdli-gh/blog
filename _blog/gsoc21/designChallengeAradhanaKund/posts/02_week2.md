@@ -17,8 +17,8 @@ Work done in week summary.
 |1   	| Monday 	|   2021/06/14	| Implemented the desktop view of the admin dashboard and discussed about implementation of breadcrumbs. |  
 |2   	| Tuesday  	|   2021/06/15	| Implemented the small screen view of the admin dashboard-Accordians.	|  
 |3   	| Wednesday  	|  2021/06/16 	| Made the upload section dynamic according to the dropdown option selected. |  
-|4   	| Thursday  	|   YYYY/MM/DD	|  |  
-|5   	| Friday  	|   YYYY/MM/DD	|  |  
-|6   	| Saturday  	|   YYYY/MM/DD	| 	|  
-|7   	| Sunday  	|   YYYY/MM/DD	|  |  
+|4   	| Thursday  	|   2021/06/17	| Set the options for file upload and set the existing urls|  
+|5   	| Friday  	|   2021/06/18	| Error handling and set the add button for small screens. |  
+|6   	| Saturday  	|   2021/06/19	| Rechecked if everything works fine and fixed bugs.	|  
+|7   	| Sunday  	|   2021/06/20	|  |  
 
