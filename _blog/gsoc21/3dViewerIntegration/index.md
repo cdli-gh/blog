@@ -17,9 +17,7 @@ Work Status: [Link](https://drive.google.com/drive/folders/1zx4uBOB8_9TkFnr3Hd5K
 
 ### Objectives and Deliverables
 
-:heavy_check_mark: --> Completed Tasks
-
-:white_check_mark: --> Ongoing Tasks
+:heavy_check_mark: --> Completed Tasks  :white_check_mark: --> Ongoing Tasks
 
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
@@ -39,11 +37,7 @@ Work Status: [Link](https://drive.google.com/drive/folders/1zx4uBOB8_9TkFnr3Hd5K
 
 ### Tentative timeline
 
-:heavy_check_mark: --> Completed Tasks
-
-:white_check_mark: --> Ongoing Tasks
-
-:raised_hands: --> Work Demonstration
+:heavy_check_mark: --> Completed Tasks  :white_check_mark: --> Ongoing Tasks  :raised_hands: --> Work Demonstration
 
 | Week  |Objectives | Deliverables |
 |---|---|---|
