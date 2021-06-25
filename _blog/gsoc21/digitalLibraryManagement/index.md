@@ -26,8 +26,8 @@ Work Status: [Link](https://drive.google.com/drive/folders/17zfao7u9gfowSWieSYWu
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
 | 1 | :heavy_check_mark: | Design Pages | Design the pages for viewing archival images, selecting multiple artifacts at a time, upload archival images | [#609](https://gitlab.com/cdli/framework/-/issues/609) |
-| 2 | :man_technologist: | Prepare Image Table | Storing information regarding images in our table | [#87](https://gitlab.com/cdli/framework/-/issues/87) |
-| 3 |  | Converting archive images to their web counterpart | Adding the functionality to convert archival images to web counterpart | [#87](https://gitlab.com/cdli/framework/-/issues/87) |
+| 2 | :heavy_check_mark: | Prepare Image Table | Storing information regarding images in our table | [#87](https://gitlab.com/cdli/framework/-/issues/87) |
+| 3 | :man_technologist: | Converting archive images to their web counterpart | Adding the functionality to convert archival images to web counterpart | [#87](https://gitlab.com/cdli/framework/-/issues/87) |
 | 4 |  | Dealing with Multiple Entries | Allowing the admins to select multiple entries and converting the images for them in one go | [#607](https://gitlab.com/cdli/framework/-/issues/607) | 
 | 5 |  | Uploading Archival Folder | Upload archival folder and use those images to create a thumbnail | [#586](https://gitlab.com/cdli/framework/-/issues/586) | 
 | 6 |  | Dealing with Non Associated Images | Working around the images which are not associated with any of the artifacts | [#608](https://gitlab.com/cdli/framework/-/issues/608) |   
@@ -45,9 +45,9 @@ Work Status: [Link](https://drive.google.com/drive/folders/17zfao7u9gfowSWieSYWu
 | Week  | Status |Objectives | Deliverables | issue(s)
 |---|---|---|---| --- |
 |1| :heavy_check_mark: | Designing the Pages | Get reviews from mentors regarding the design of pages and formalize the workflow | [#609](https://gitlab.com/cdli/framework/-/issues/609) |
-|2| :man_technologist: | Preparing Image Table   | Raise an issue to get review regarding the image table, prepare a script to populate the tables intially | [#87](https://gitlab.com/cdli/framework/-/issues/87)  |
-|3|  | Installation of Conversion Algorithm | Installing the library and try to add them in nginx or cake container | [#87](https://gitlab.com/cdli/framework/-/issues/87)  |
-|4|  | Generating Standard Templates  | Preparing standard templates, controllers for providing intial functionalities. Documetation of the work done till now | [#87](https://gitlab.com/cdli/framework/-/issues/87)  |
+|2| :heavy_check_mark: | Preparing Image Table   | Raise an issue to get review regarding the image table, prepare a script to populate the tables intially | [#87](https://gitlab.com/cdli/framework/-/issues/87)  |
+|3| :man_technologist: | Installation of Conversion Algorithm | Installing the library and try to add them in nginx or cake container | [#87](https://gitlab.com/cdli/framework/-/issues/87)  |
+|4| :man_technologist: | Generating Standard Templates  | Preparing standard templates, controllers for providing intial functionalities. Documetation of the work done till now | [#87](https://gitlab.com/cdli/framework/-/issues/87)  |
 |5|  | Preparing Custom Controllers  | Preparing custom controllers for conversion, viewing of archival images |[#87](https://gitlab.com/cdli/framework/-/issues/87)   |
 |6|  | Editing Current Templates | Editing current Artifact templates for adding a new tab to view Archival Image | [#87](https://gitlab.com/cdli/framework/-/issues/87)  |
 |7|  | Using Archival Images  | Testing conversion algorithm on archival iamges to check whether the thumbnails are of required specifiction | [#586](https://gitlab.com/cdli/framework/-/issues/586) |
