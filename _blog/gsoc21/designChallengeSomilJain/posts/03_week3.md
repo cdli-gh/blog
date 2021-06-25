@@ -13,8 +13,8 @@ tags: ["week","gsoc","gsoc2020","designChallengeSomilJain","week#2","eval#1"]
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2021/06/21	| Citing article |  
-|2   	| Tuesday  	|   2021/06/22	| Common flow for citing CDLI's pages - I |  
+|1   	| Monday 	|   2021/06/21	| Citing article & Forms UX research |  
+|2   	| Tuesday  	|   2021/06/22	| Common flow for citing CDLI's pages - I & Forms UX research |  
 |3   	| Wednesday  	|  2021/06/23 	| Posting Page Edit & add and research for Resources page |  
 |4   	| Thursday  	|   2021/06/24	| UX for Resources page  |  
 |5   	| Friday  	|   2021/06/25	| Resources page and its quick access links |
