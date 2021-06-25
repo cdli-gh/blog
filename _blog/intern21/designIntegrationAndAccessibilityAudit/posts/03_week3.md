@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 1
+title: Week 3
 author: "Mohit Sharma"
 tags: ["week","intern","intern2020","designIntegrationAndAccessibilityAudit","week#3","eval#1"]
 ---
@@ -14,10 +14,10 @@ Work done in week summary.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   YYYY/MM/DD	| |  
-|2   	| Tuesday  	|   YYYY/MM/DD	| 	|  
-|3   	| Wednesday  	|  YYYY/MM/DD 	| |  
-|4   	| Thursday  	|   YYYY/MM/DD	|  |  
-|5   	| Friday  	|   YYYY/MM/DD	|  |  
-|6   	| Saturday  	|   YYYY/MM/DD	| 	|  
-|7   	| Sunday  	|   YYYY/MM/DD	|  |  
+|1   	| Monday 	|   2021/06/21	| Improve Paginator as discussed in Design Meet |  
+|2   	| Tuesday  	|   2021/06/22	| Research on Google Analytics	|  
+|3   	| Wednesday  	|  2021/06/23 	| Research on Google Tag Manager |  
+|4   	| Thursday  	|   2021/06/24	| Configure Google Tag Manager in the framework |  
+|5   	| Friday  	|   2021/06/25	| Add Custom Tags in Google tag Manager to track Non Javascript Users |  
+|6   	| Saturday  	|   2021/06/26	| 	|  
+|7   	| Sunday  	|   2021/06/27	|  |  
