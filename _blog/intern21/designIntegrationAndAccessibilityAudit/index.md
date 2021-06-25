@@ -18,9 +18,9 @@ My Contributions : [Link](https://gitlab.com/cdli/framework/-/merge_requests?sco
 
 | \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
-| 1 | :white_check_mark: | Web Accessibility | Test (using screen reader and Axe DevTool) and Provide accessibility for pages inside framework |   |
-| 2 |:white_check_mark: | Internet Explorer Support | Improve Compatibility of framework in Internet Explorer for it's users | [#500](https://gitlab.com/cdli/framework/-/issues/500) |
-| 3 | | Track No JS Users | Track users visits with Javascript disabled in Google Analytics | [#499](https://gitlab.com/cdli/framework/-/issues/499) |
+| 1 | :heavy_check_mark: | Web Accessibility | Test (using screen reader and Axe DevTool) and Provide accessibility for pages inside framework |   |
+| 2 |:heavy_check_mark: | Internet Explorer Support | Improve Compatibility of framework in Internet Explorer for it's users | [#500](https://gitlab.com/cdli/framework/-/issues/500) |
+| 3 | :white_check_mark:| Track No JS Users | Track users visits with Javascript disabled in Google Analytics | [#499](https://gitlab.com/cdli/framework/-/issues/499) |
 | 4 | | Accessibility Tests | Provide Accessibility tests that can be run in pipeline | [#600](https://gitlab.com/cdli/framework/-/issues/600), [#164](https://gitlab.com/cdli/framework/-/issues/164) |
 
 
@@ -36,9 +36,9 @@ My Contributions : [Link](https://gitlab.com/cdli/framework/-/merge_requests?sco
 
 | Week | Status  |Objectives | Deliverables |
 |---|---|---|---|
-|1| :white_check_mark: | Accessibility Enhancement | Testing of pages using screen reader and Axe DevTool and implement changes to improve accessibility |
-|2| :white_check_mark:| Internet Explorer Support | Improve Compatibility of framework in Internet Explorer for it's users |
-|3| | Track No JS Users | Track users visits with Javascript disabled in Google Analytics |
+|1| :heavy_check_mark: | Accessibility Enhancement | Testing of pages using screen reader and Axe DevTool and implement changes to improve accessibility |
+|2| :heavy_check_mark:| Internet Explorer Support | Improve Compatibility of framework in Internet Explorer for it's users |
+|3|:white_check_mark: | Track No JS Users | Track users visits with Javascript disabled in Google Analytics |
 |4| | Staff Page | Extend staff page to also have a photo of staff |
 |5| | Web Accessibility - I | Test accessibility of new implemented Admin Dashboard and Article Pages | 
 |6| | Web Accessibility - II | Test accessibility of new implemented Resource Page and Tools Page |
