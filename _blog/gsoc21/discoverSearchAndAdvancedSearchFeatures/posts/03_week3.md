@@ -14,10 +14,10 @@ Work done in week summary.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   YYYY/MM/DD	| |  
-|2   	| Tuesday  	|   YYYY/MM/DD	| 	|  
-|3   	| Wednesday  	|  YYYY/MM/DD 	| |  
-|4   	| Thursday  	|   YYYY/MM/DD	|  |  
+|1   	| Monday 	|   2021/06/21	| Meeting with mentors to discuss implentation of "Search Inscriptions with sign value permutation". |  
+|2   	| Tuesday  	|   2021/06/22	| Researched about indexing local jtf files using logstash. |  
+|3   	| Wednesday  	|  2021/06/23 	| Researched about indexing local jtf files using curl. |  
+|4   	| Thursday  	|   2021/06/24	| Tested indexing jtf files using logstash and curl.  |  
 |5   	| Friday  	|   YYYY/MM/DD	|  |  
 |6   	| Saturday  	|   YYYY/MM/DD	| 	|  
 |7   	| Sunday  	|   YYYY/MM/DD	|  |  
