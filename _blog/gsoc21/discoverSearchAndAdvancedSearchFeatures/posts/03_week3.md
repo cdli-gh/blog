@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Week 1
+title: Week 3
 author: "Yashraj Desai"
 tags: ["week","gsoc","gsoc2020","discoverySearchAndAdvancedSearchFeatures","week#3","eval#1"]
 ---
 
 ## Week Summary
 
- 
 Work done in week summary.
 
 ## Daily Work Update
