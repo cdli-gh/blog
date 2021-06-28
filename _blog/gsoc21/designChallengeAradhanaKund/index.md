@@ -51,7 +51,7 @@ This project aims to improve the complete styling of the website using minimal s
 | 2 | :heavy_check_mark: | Admin Dashboard | Implement the skeleton of admin dashboard with all its functionalities depending on access (upload options and access checking) | - |
 | 3 | :heavy_check_mark: | Admin Dashboard Mobile view and Upload Part | Implement the uploads part of admin dashboard and the web/tab/mobile view of admin dashboard with all its functionalities. | - |
 | 4 | :man_technologist: | Raw Image Scan | Implement the raw image scan part of admin dashboard and its web/tab/mobile view with all its functionalities. | - |
-| 5 | :man_technologist: | Resources Page and prepopulation ofraw image scan | Implement the skeleton for Resources Page Dropdown for js and no js users along with the pre population of raw image scan artifacat number and Edge. | - |
+| 5 | :man_technologist: | Resources Page and prepopulation of raw image scan | Implement the skeleton for Resources Page Dropdown for js and no js users along with the pre population of raw image scan artifacat number and Edge. | - |
 | 6 |  | Resources Page | Implement the resource page web, mobile and tab view for js and no js users. Also integrate the resources links for js and no js on the side nav bar. | - |
 | 7 |  |  Common Templates | Implement the common templates for Index pages of entities. | - |
 | 7 |  |  | - |
