@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 1
+title: Week 4
 author: "Aradhana Kund"
 tags: ["week","gsoc","gsoc2020","DesignChallengeAradhanaKund","week#4","eval#1"]
 ---
@@ -14,8 +14,8 @@ Work done in week summary.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   YYYY/MM/DD	| |  
-|2   	| Tuesday  	|   YYYY/MM/DD	| 	|  
+|1   	| Monday 	|   2021/06/28	| Prepared the rough skeleton of resources page. |  
+|2   	| Tuesday  	|   2021/06/29	| Completed the web and mobile implementation of resources page along with the resurce dropdown.	|  
 |3   	| Wednesday  	|  YYYY/MM/DD 	| |  
 |4   	| Thursday  	|   YYYY/MM/DD	|  |  
 |5   	| Friday  	|   YYYY/MM/DD	|  |  
