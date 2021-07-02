@@ -17,7 +17,7 @@ Work done in week summary.
 |1   	| Monday 	|   2021/06/28	| Integrated search setting page functionalities with front-end. |  
 |2   	| Tuesday  	|   2021/06/29	| Discussed about abstractization function in jtf-lib and integrating it in framework with mentors.|  
 |3   	| Wednesday  	| 2021/06/30 	| Tested and created PR for search settings page. |  
-|4   	| Thursday  	|   YYYY/MM/DD	|  |  
-|5   	| Friday  	|   YYYY/MM/DD	|  |  
+|4   	| Thursday  	|   2021/07/01	| Implemented changes in search settings PR according to feedback from mentor. |  
+|5   	| Friday  	|   2021/07/02	| Tested and created PR for implementation of CakePhp HTTP client. |  
 |6   	| Saturday  	|   YYYY/MM/DD	| 	|  
 |7   	| Sunday  	|   YYYY/MM/DD	|  |  
