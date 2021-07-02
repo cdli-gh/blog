@@ -7,7 +7,7 @@ tags: ["week","gsoc","gsoc2020","designChallengeSomilJain","week#2","eval#1"]
 
 ## Week Summary
 
- This week my primary objective was resources page, I have also explored various ways to have a common way across the framework for citing that page.
+ This week my primary objective was resources page, how to make it more accessible and the mobile view of resources page. Also have been working on UX of form elements to make user journey easy.
 
 ## Daily Work Update
 
