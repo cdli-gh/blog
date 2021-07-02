@@ -15,9 +15,9 @@ Work done in week summary.
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2021/06/28	| Prepared the rough skeleton of resources page. |  
-|2   	| Tuesday  	|   2021/06/29	| Completed the web and mobile implementation of resources page along with the resurce dropdown.	|  
-|3   	| Wednesday  	|  YYYY/MM/DD 	| |  
-|4   	| Thursday  	|   YYYY/MM/DD	|  |  
-|5   	| Friday  	|   YYYY/MM/DD	|  |  
+|2   	| Tuesday  	|   2021/06/29	| Completed the web and mobile implementation of resources page.	|  
+|3   	| Wednesday  	|  2021/06/30 	| Prepared the resource dropdown along with resource side nav-bar. |  
+|4   	| Thursday  	|   2021/07/01	| Worked for fixing no-js dropdowns ,fixed footer styling as well as the side nav styling. |  
+|5   	| Friday  	|   2021/07/02	| Prepopulation of raw image scan part (artifact number). |  
 |6   	| Saturday  	|   YYYY/MM/DD	| 	|  
 |7   	| Sunday  	|   YYYY/MM/DD	|  |  
