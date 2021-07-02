@@ -30,10 +30,12 @@ This project aims to improve the complete styling of the website using minimal s
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
 | 1 | :heavy_check_mark: | Redesigning and Implementing the periods page | Implementing periods page for web/tab/mobile view | [#251](https://gitlab.com/cdli/framework/-/issues/251) |
-| 2 | :heavy_check_mark: | Implementing Admin Dashboard | Implementing web/tab/mobile view of admin dashboard along with raw image scan upload | [#75](https://gitlab.com/cdli/framework/-/issues/75) |
+| 2 | :heavy_check_mark: | Implementing Admin Dashboard | Implementing web/tab/mobile view of admin dashboard | [#75](https://gitlab.com/cdli/framework/-/issues/75) |
 | 3 | :man_technologist: | Resources Page | Implementing web/tab/mobile view of about us and Resources Page | [#209](https://gitlab.com/cdli/framework/-/issues/209) |
-| 4 |  | Modify the common template | Improvise the common template for view/add/edit/index pages of the entities | [#601](https://gitlab.com/cdli/framework/-/issues/601),[#602](https://gitlab.com/cdli/framework/-/issues/602) |
-| 5 |  | About Us | Implementing web/tab/mobile view of About us. | [#591](https://gitlab.com/cdli/framework/-/issues/591) |
+| 4 | :heavy_check_mark: | Add functiionality for no-js and footer styling | Making dropdowns work for no-js and fixing footer discrepancies. | [#214](https://gitlab.com/cdli/framework/-/issues/214) |
+| 5 | :man_technologist: | Raw Image Scan | Implementing Raw Image Scan for admin dashboard along with edge and artifact no. pre population |  |
+| 6 |  | Modify the common template | Improvise the common template for view/add/edit/index pages of the entities | [#601](https://gitlab.com/cdli/framework/-/issues/601),[#602](https://gitlab.com/cdli/framework/-/issues/602) |
+| 7 |  | About Us | Implementing web/tab/mobile view of About us. | [#591](https://gitlab.com/cdli/framework/-/issues/591) |
   
 ### Additional Objectives
 
@@ -50,11 +52,10 @@ This project aims to improve the complete styling of the website using minimal s
 | 1 | :heavy_check_mark: | Periods Page and Drafted design of admin dashboard | Redesign and implement the periods page for web/tab/mobile view and implement drafted design of admin dashboard | - |
 | 2 | :heavy_check_mark: | Admin Dashboard | Implement the skeleton of admin dashboard with all its functionalities depending on access (upload options and access checking) | - |
 | 3 | :heavy_check_mark: | Admin Dashboard Mobile view and Upload Part | Implement the uploads part of admin dashboard and the web/tab/mobile view of admin dashboard with all its functionalities. | - |
-| 4 | :man_technologist: | Raw Image Scan | Implement the raw image scan part of admin dashboard and its web/tab/mobile view with all its functionalities. | - |
-| 5 | :man_technologist: | Resources Page and prepopulation of raw image scan | Implement the skeleton for Resources Page Dropdown for js and no js users along with the pre population of raw image scan artifacat number and Edge. | - |
-| 6 |  | Resources Page | Implement the resource page web, mobile and tab view for js and no js users. Also integrate the resources links for js and no js on the side nav bar. | - |
+| 4 | :man_technologist: | Raw Image Scan and removing admin dashboard pr discrepancies| Implement the raw image scan part of admin dashboard and its web view with steepper and dropzone as well as removing admin dashboard pr discrepancies | - |
+| 5 | :heavy_check_mark: | Add functiionality for no-js, footer styling and resource page skeleton | Making dropdowns work for no-js and fixing footer discrepancies. Also preparing skeleton for resource page(js) | - |
+| 6 | :man_technologist: | Resources Page and prepopulation of raw image scan | Implement the final skeleton for Resources Page Dropdown for js and no js users along with the pre population of raw image scan artifacat number and Edge. | - |
 | 7 |  |  Common Templates | Implement the common templates for Index pages of entities. | - |
-| 7 |  |  | - |
 | 8 |  |  | - |
 | 9 |  |  | - |
 | 10 |  |  | - |
