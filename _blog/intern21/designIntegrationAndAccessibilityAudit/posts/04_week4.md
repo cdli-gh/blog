@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 1
+title: Week 4
 author: "Mohit Sharma"
 tags: ["week","intern","intern2020","designIntegrationAndAccessibilityAudit","week#4","eval#1"]
 ---
@@ -14,10 +14,10 @@ Work done in week summary.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   YYYY/MM/DD	| |  
-|2   	| Tuesday  	|   YYYY/MM/DD	| 	|  
-|3   	| Wednesday  	|  YYYY/MM/DD 	| |  
-|4   	| Thursday  	|   YYYY/MM/DD	|  |  
-|5   	| Friday  	|   YYYY/MM/DD	|  |  
-|6   	| Saturday  	|   YYYY/MM/DD	| 	|  
-|7   	| Sunday  	|   YYYY/MM/DD	|  |  
+|1   	| Monday 	|   2021/06/28	| Implement changes in pr suggested at Design meet |  
+|2   	| Tuesday  	|   2021/06/29	| Improve staff controller to add and edit image for staff	|  
+|3   	| Wednesday  	|  2021/06/30 	| Provide image validation and create image field in database |  
+|4   	| Thursday  	|   2021/07/01	| Show image on view and index staff pages |  
+|5   	| Friday  	|   2021/07/02	| Improve Search Paginator |  
+|6   	| Saturday  	|   2021/07/03	| 	|  
+|7   	| Sunday  	|   2021/07/04	|  |  
