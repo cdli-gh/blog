@@ -19,5 +19,5 @@ Work done in week summary.
 |3   	| Wednesday  	|  2020/06/30 	| Worked on fixing minor tweaks in the script. |  
 |4   	| Thursday  	|   2020/07/01	| Used cake bake in dev_cake conatiner to generate standard templates, controllers, models for images table |  
 |5   	| Friday  	|   2020/07/02	| Attended the friday general meet to discuss updates, doubts. |  
-|6   	| Saturday  	|   YYYY/MM/DD	| 	|  
+|6   	| Saturday  	|   2020/07/03	| Updated the script to handle remaining attributes such as size (MB & Pixels), height, width, PPI, Bits.	|  
 |7   	| Sunday  	|   YYYY/MM/DD	|  |  
