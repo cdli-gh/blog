@@ -52,7 +52,7 @@ This project aims to improve the complete styling of the website using minimal s
 | 1 | :heavy_check_mark: | Periods Page and Drafted design of admin dashboard | Redesign and implement the periods page for web/tab/mobile view and implement drafted design of admin dashboard | - |
 | 2 | :heavy_check_mark: | Admin Dashboard | Implement the skeleton of admin dashboard with all its functionalities depending on access (upload options and access checking) | - |
 | 3 | :heavy_check_mark: | Admin Dashboard Mobile view and Upload Part | Implement the uploads part of admin dashboard and the web/tab/mobile view of admin dashboard with all its functionalities. | - |
-| 4 | :man_technologist: | Raw Image Scan and removing admin dashboard pr discrepancies| Implement the raw image scan part of admin dashboard and its web view with steepper and dropzone as well as removing admin dashboard pr discrepancies | - |
+| 4 | :heavy_check_mark: | First draft of Raw Image Scan and removing admin dashboard pr discrepancies| Implement the raw image scan part of admin dashboard and its web view with steepper and dropzone as well as removing admin dashboard pr discrepancies | - |
 | 5 | :heavy_check_mark: | Add functiionality for no-js, footer styling and resource page skeleton | Making dropdowns work for no-js and fixing footer discrepancies. Also preparing skeleton for resource page(js) | - |
 | 6 | :man_technologist: | Resources Page and prepopulation of raw image scan | Implement the final skeleton for Resources Page Dropdown for js and no js users along with the pre population of raw image scan artifacat number and Edge. | - |
 | 7 |  |  Common Templates | Implement the common templates for Index pages of entities. | - |
