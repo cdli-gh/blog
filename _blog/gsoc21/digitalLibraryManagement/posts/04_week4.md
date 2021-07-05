@@ -6,9 +6,7 @@ tags: ["week","gsoc","gsoc2021","digitalLibraryManagement","week#4","eval#1"]
 ---
 
 ## Week Summary
-
- 
-Work done in week summary.
+This week initially i worked on some minor changes in script, used cake bake in docker conatiner dev_cake to generate standard templates, controllers. Since there were a few required libraries for image processing i created a virtual environment inside the project so that the user can install all the libraries in one go.
 
 ## Daily Work Update
 
