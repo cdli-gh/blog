@@ -23,5 +23,5 @@ For this week was working on the responsiveness of the 3D viewer, which was a ch
 |3   	| Wednesday  	|  2021/06/23 	| :octocat: Replaced container class to canvas in 3dviewer.scss and InteractiveViewer.js as it was interrupting with main.scss. |  
 |4   	| Thursday  	|   2021/06/24	| :octocat: Added media query for small screen. |  
 |5   	| Friday  	|   2021/06/25	| :octocat: Added resize function in InteractiveViewer.js to resize viewer according to view port. |  
-|6   	| Saturday  	|   2021/06/26	| 	|  
-|7   	| Sunday  	|   2021/06/27	|  |  
+|6   	| Saturday  	|   2021/06/26	| ---	|  
+|7   	| Sunday  	|   2021/06/27	| --- |  
