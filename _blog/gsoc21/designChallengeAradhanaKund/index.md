@@ -42,8 +42,8 @@ This project aims to improve the complete styling of the website using minimal s
 | \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
 | 1 | :man_technologist: | Index Page | Improvise the common template for Index pages of the entities | [#601](https://gitlab.com/cdli/framework/-/issues/601),[#602](https://gitlab.com/cdli/framework/-/issues/602) |
-| 2 |  | 404 Page | Improvise and Implement the 404 Page | [#404](https://gitlab.com/cdli/framework/-/issues/404) |
-| 3 |  | Single Artifact View | Improvise the Single Artifact View | - |
+| 2 | :man_technologist: | 404 Page | Improvise and Implement the 404 Page | [#404](https://gitlab.com/cdli/framework/-/issues/404) |
+| 3 | :man_technologist: | Single Artifact View | Improvise the Single Artifact View | - |
 
 ### Tentative timeline  
 
