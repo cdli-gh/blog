@@ -50,9 +50,9 @@ Hola, I'm <a href="https://www.linkedin.com/in/apoorva-agarwal-8420ab1b3/">Apoor
 |---|---|---|---|
 | 1 | :heavy_check_mark: | Integrating ojs Docker Container in the framework | Downloading ojs software and creating a docker container for it and integrating it in CDLI framework| 
 | 2 | :man_technologist: | Setting up Editorial Workflow( for cdlj and cdlb) | Creating a workflow for open submission and open review of articles |
-| 3 | :man_technologist: | Develop the journals index for integrating ojs | Updating CDLI journals index to create a link between CDLI journals dashboard and ojs dashboard | 
-| 4 | - | API integration for submission of articles between ojs and CDLI | Using API integration for submission of articles | 
-| 5 | - | API integration | Using API integration to share data between dashboards | 
+| 3 | :heavy_check_mark: | Develop the journals index for integrating ojs | Updating CDLI journals index to create a link between CDLI journals dashboard and ojs dashboard | 
+| 4 | :heavy_check_mark: | Final Testing of ojs container | Debug the errors in ojs container and final testing of ojs container and editorial workflow | 
+| 5 | :man_technologist: | Create document for ojs and solve additional issues | Create document for ojs and <a href="https://gitlab.com/cdli/framework/-/issues/575">#575</a>, <a href="https://gitlab.com/cdli/framework/-/issues/481">#481</a>, <a href="https://gitlab.com/cdli/framework/-/issues/291">#291</a> | 
 | 6 | - | Setting up connection between databases | Sharing data between CDLI and ojs databases | 
 | 7 | - | Using oAuth for single login | Using oAuth so that user have to login only once in CDLI |
 | 8 | - | Publishing Articles | Publishing articles and displaying the endorsement of reviewers | 

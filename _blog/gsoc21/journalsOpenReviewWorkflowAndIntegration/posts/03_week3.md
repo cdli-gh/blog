@@ -18,6 +18,6 @@ Work done in week summary.
 |2   	| Tuesday  	|   2021/06/22 | Worked on error about " SQL driver cannot be found" |  
 |3   	| Wednesday |   2021/06/23 | error in <a href="https://gitlab.com/cdli/framework/-/issues/575">#575</a>  |  
 |4   	| Thursday  |   2021/06/24 | Research about migration of database through volumes |  
-|5   	| Friday  	|   2021/06/25 |  |  
-|6   	| Saturday  |   2021/06/26 | 	|  
-|7   	| Sunday  	|   2021/06/27 |  |  
+|5   	| Friday  	|   2021/06/25 | Modified journal index to link to ojs |  
+|6   	| Saturday  |   2021/06/26 | Added database volume to ojs container |  
+|7   	| Sunday  	|   2021/06/27 | Debug the database init script  |  
