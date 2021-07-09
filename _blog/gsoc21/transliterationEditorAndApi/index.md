@@ -22,7 +22,7 @@ The task is to integrate this infrastructure into CDLI's framework and allow cro
 | 2 |:heavy_check_mark:|  Accessibility  | Make web application accessible via a framework URL. | [#629](https://gitlab.com/cdli/framework/-/issues/629) |
 | 3 |:white_check_mark: |  Database Operations  | Storing JTF data into CDLI Database. | - |
 | 4 ||  Version Control  | Implement version control system that efficiently stores changes to transliterations. | - |
-| 5 |:white_check_mark|  JTF-LIB Integration  | JTF API integration with the framework's public API & JTF output function in the API. | - |
+| 5 |:white_check_mark:|  JTF-LIB Integration  | JTF API integration with the framework's public API & JTF output function in the API. | - |
 
 
 ### Additional Objectives
