@@ -41,7 +41,7 @@ My Contributions : [Link](https://gitlab.com/cdli/framework/-/merge_requests?sco
 |3| :heavy_check_mark: | Track No JS Users | Track users visits with Javascript disabled in Google Analytics |
 |4| :white_check_mark: | Staff Page | Extend staff page to also have a photo of staff |
 |5| :white_check_mark: | Posting Page | Develop Add and Edit pages for Posting and Check for it's Accessibility |
-|6| | Web Accessibility - I | Test accessibility of new implemented Admin Dashboard and Article Pages | 
+|6| | Web Accessibility - I | Test accessibility of new implemented Admin Dashboard and Design Broken Artifact SVG for 404 error pages | 
 |7| | Web Accessibility - II | Test accessibility of new implemented Resource Page and Tools Page |
 |8| | Accessibility Tests | Provide Accessibility tests that can be run in pipeline |
 |9| | Web Accessibility - III | Test accessibility of new implemented Single Artifact View Page, About Us Page |
