@@ -45,9 +45,9 @@ My projects will be about HCI and UI part of the framework, where I will be desi
 | Week | Status | Objectives | Deliverables |
 |---|---|---|---|
 |1| :heavy_check_mark::|  Admin Dashboard |   Prepare Web & Mobile UI of Admin Dashboard and Raw Image Scan  |
-|2| :heavy_check_mark: |  Journals flow and UI |   Plan and user testing for OJS integration flow  <br>  Single Article view Header template <br> View Reviews on Article  |
-|3| :heavy_check_mark: |  Resource page |   Design UI and user testing for 6-8 people from CDLI audience.   | 
-|4| :he vy_check_mark: |  Tool  Page |   Prepare tools page and its sub module.  | 
+|2| :heavy_check_mark: |  Journals flow and UI |   Plan and user testing for OJS integration flow  <br>  Single Article view Header template   |
+|3| :heavy_check_mark: |  Resource page quick/Accessible links  |   Design UI and user testing for 6-8 people from CDLI audience.   | 
+|4| :heavy_check_mark: |  Resource & Tools Page |   Prepare tools page and its sub module.  | 
 |5|:heavy_check_mark:  |  Common template for Edit, Add pages for different entities |  UI for common template of Add,edit of different entities.  |  
 |6| |  Common template for Index and View for different entities |  UI for common template of Add,edit of different entities and add button for Admins.  |  
 |7| | | |
