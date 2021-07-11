@@ -8,7 +8,7 @@ tags: ["week","gsoc","gsoc2021","DesignChallengeAradhanaKund","week#3","eval#1"]
 ## Week Summary
 
  
-Work done in week summary.
+Initially I prepared the stepper for the raw image scan , then I set up the blueimp codebase so as to integrate it with the raw image scan dropzone. Then I continued with the debugging of the blueimp codebase so as to craete a prepopulated select dropdown. Handled minor pr discrepancies .
 
 ## Daily Work Update
 
