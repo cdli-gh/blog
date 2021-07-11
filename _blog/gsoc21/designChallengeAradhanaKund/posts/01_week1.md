@@ -8,7 +8,7 @@ tags: ["week","gsoc","gsoc2021","DesignChallengeAradhanaKund","week#1","eval#1"]
 ## Week Summary
 
  
-Work done in week summary.
+First I started with the Desiging of the timeline for Periods page ( for small and large screens ) and implemented it.Then I removed some pr discrepancies related to it. After this I started with the rough implementation of the skeleton of admin dashboard. Also attended the meets to get clarity on further implementations. 
 
 ## Daily Work Update
 
