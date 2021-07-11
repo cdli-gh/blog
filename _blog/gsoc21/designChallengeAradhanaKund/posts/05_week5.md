@@ -18,6 +18,6 @@ Work done in week summary.
 |2   	| Tuesday  	|   2021/07/06	| Improved footer styling.	|  
 |3   	| Wednesday  	|  2021/07/07 	| Made the no-js dropdown work for all the pages. |  
 |4   	| Thursday  	|   2021/07/08| Restructured the resources page code so as to have single code for small and large screens. |  
-|5   	| Friday  	|   2021/07/09	|  |  
-|6   	| Saturday  	|   YYYY/MM/DD	| 	|  
-|7   	| Sunday  	|   YYYY/MM/DD	|  |  
+|5   	| Friday  	|   2021/07/09	| Removed pr discrepancies related to the resources page and admin dashboard |  
+|6   	| Saturday  	|   2021/07/10	| Implemented 404 page.	|  
+|7   	| Sunday  	|   2021/07/11	| Implemented about us page. |  
