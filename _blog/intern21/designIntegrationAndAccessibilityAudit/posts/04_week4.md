@@ -20,4 +20,4 @@ Work done in week summary.
 |4   	| Thursday  	|   2021/07/01	| Show image on view and index staff pages |  
 |5   	| Friday  	|   2021/07/02	| Improve Search Paginator |  
 |6   	| Saturday  	|   2021/07/03	| 	|  
-|7   	| Sunday  	|   2021/07/04	|  |  
+|7   	| Sunday  	|   2021/07/04	| Testing, Implementing additional suggested changes and Weekly Design meet |  
