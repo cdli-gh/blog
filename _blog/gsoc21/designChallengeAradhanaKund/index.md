@@ -31,7 +31,7 @@ This project aims to improve the complete styling of the website using minimal s
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
 | 1 | :heavy_check_mark: | Redesigning and Implementing the periods page | Implementing periods page for web/tab/mobile view | [#251](https://gitlab.com/cdli/framework/-/issues/251) |
 | 2 | :heavy_check_mark: | Implementing Admin Dashboard | Implementing web/tab/mobile view of admin dashboard | [#75](https://gitlab.com/cdli/framework/-/issues/75) |
-| 3 | :man_technologist: | Resources Page | Implementing web/tab/mobile view of about us and Resources Page | [#209](https://gitlab.com/cdli/framework/-/issues/209) |
+| 3 | :heavy_check_mark: | Resources Page | Implementing web/tab/mobile view of about us and Resources Page | [#209](https://gitlab.com/cdli/framework/-/issues/209) |
 | 4 | :heavy_check_mark: | Add functiionality for no-js and footer styling | Making dropdowns work for no-js and fixing footer discrepancies. | [#214](https://gitlab.com/cdli/framework/-/issues/214) |
 | 5 | :man_technologist: | Raw Image Scan | Implementing Raw Image Scan for admin dashboard along with edge and artifact no. pre population |  |
 | 6 |  | Modify the common template | Improvise the common template for view/add/edit/index pages of the entities | [#601](https://gitlab.com/cdli/framework/-/issues/601),[#602](https://gitlab.com/cdli/framework/-/issues/602) |
