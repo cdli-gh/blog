@@ -55,7 +55,7 @@ This project aims to improve the complete styling of the website using minimal s
 | 4 | :heavy_check_mark: | First draft of Raw Image Scan and removing admin dashboard pr discrepancies| Implement the raw image scan part of admin dashboard and its web view with steepper and dropzone as well as removing admin dashboard pr discrepancies | - |
 | 5 | :heavy_check_mark: | 404 Page , About Us Page, footer style fix and Resources Header Dropdown | Implement the final skeleton for Resources Page Dropdown for js and no js users along with the pre population of raw image scan artifacat number and Edge. | - |
 | 6 | :heavy_check_mark: | Header fix for no-js, side nav fix and resource page Implementation | Making dropdowns work for no-js and fixing footer discrepancies. Also preparing skeleton for resource page(js) | - |
-| 7 |  |  Common Templates | Implement the common templates for Index pages of entities. | - |
+| 7 |  |  Common Templates and single artifact view modifications| Implement the common templates for Index pages of entities as well as work on improving the single artifact view ). Raw image scan continued . | - |
 | 8 |  |  | - |
 | 9 |  |  | - |
 | 10 |  |  | - |
