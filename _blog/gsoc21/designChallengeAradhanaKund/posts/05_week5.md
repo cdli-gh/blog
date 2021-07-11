@@ -8,7 +8,7 @@ tags: ["week","gsoc","gsoc2020","DesignChallengeAradhanaKund","week#5","eval#1"]
 ## Week Summary
 
  
-Work done in week summary.
+I started with adding accordions for js and no-js in the common accordion sass file. Restructured the code for no-js dropdown so as to contain one single code snippet for js and no-js instead of having noscript separately. Also restructured the code for resources page and admin dashboard so as to have a common code for small and large screens . Finally I implemented the 404 page as well as the ABOUT US page .
 
 ## Daily Work Update
 
