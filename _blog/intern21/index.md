@@ -5,12 +5,12 @@ author: ""
 tags: ['intern', 'intern2021']
 ---
 
-Welcome of CDLI GSoC 2020 Blogs.
+Welcome of CDLI GSoC 2021 Blogs.
 
-## Overall Internship 2020 Review 
+## Overall Internship 2021 Review 
 A short description on complete outcome of Research Internship 2021 program goes here.
 
-## Projects in Internship 2020
+## Projects in Internship 2021
 
 | \#  | Project              | Student  | Mentors     |
 | --- | -------------------- | -------- | ----------- |
