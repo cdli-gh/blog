@@ -33,17 +33,17 @@ This project aims to improve the complete styling of the website using minimal s
 | 2 | :heavy_check_mark: | Implementing Admin Dashboard | Implementing web/tab/mobile view of admin dashboard | [#75](https://gitlab.com/cdli/framework/-/issues/75) |
 | 3 | :heavy_check_mark: | Resources Page | Implementing web/tab/mobile view of about us and Resources Page | [#209](https://gitlab.com/cdli/framework/-/issues/209) |
 | 4 | :heavy_check_mark: | Add functiionality for no-js and footer styling | Making dropdowns work for no-js and fixing footer discrepancies. | [#214](https://gitlab.com/cdli/framework/-/issues/214) |
-| 5 | :man_technologist: | Raw Image Scan | Implementing Raw Image Scan for admin dashboard along with edge and artifact no. pre population |  |
-| 6 |  | Modify the common template | Improvise the common template for view/add/edit/index pages of the entities | [#601](https://gitlab.com/cdli/framework/-/issues/601),[#602](https://gitlab.com/cdli/framework/-/issues/602) |
-| 7 | :heavy_check_mark: | About Us | Implementing web/tab/mobile view of About us. | [#591](https://gitlab.com/cdli/framework/-/issues/591) |
+| 5 | :heavy_check_mark: | About Us | Implementing web/tab/mobile view of About us. | [#591](https://gitlab.com/cdli/framework/-/issues/591) |
+| 6 | :heavy_check_mark: | 404 Page | Improvise and Implement the 404 Page | [#334](https://gitlab.com/cdli/framework/-/issues/334) |
+| 7 | :man_technologist: | Single Artifact View | Improvise the Single Artifact View | - |
   
 ### Additional Objectives
 
 | \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
 | 1 | :man_technologist: | Index Page | Improvise the common template for Index pages of the entities | [#601](https://gitlab.com/cdli/framework/-/issues/601),[#602](https://gitlab.com/cdli/framework/-/issues/602) |
-| 2 | :heavy_check_mark: | 404 Page | Improvise and Implement the 404 Page | [#404](https://gitlab.com/cdli/framework/-/issues/404) |
-| 3 | :man_technologist: | Single Artifact View | Improvise the Single Artifact View | - |
+| 2 |  | Modify the common template | Improvise the common template for view/add/edit/index pages of the entities | [#601](https://gitlab.com/cdli/framework/-/issues/601),[#602](https://gitlab.com/cdli/framework/-/issues/602) |
+| 3 | :man_technologist: | Raw Image Scan | Implementing Raw Image Scan for admin dashboard along with edge and artifact no. pre population |  |
 
 ### Tentative timeline  
 
