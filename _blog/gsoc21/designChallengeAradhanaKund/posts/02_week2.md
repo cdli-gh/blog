@@ -8,7 +8,7 @@ tags: ["week","gsoc","gsoc2021","DesignChallengeAradhanaKund","week#2","eval#1"]
 ## Week Summary
 
  
-Work done in week summary.
+I implemented the desktopview of the Admin Dashboard and implemented the small screen view that is the accordions. Then I made a dynamic upload section so as to accept file according to the option selected. I worked on modifying and implementing the designs for the small screens ( that is the circular buttons and accordions ) . Finally worked on minor things like adding required urls and fixing bugs .
 
 ## Daily Work Update
 
