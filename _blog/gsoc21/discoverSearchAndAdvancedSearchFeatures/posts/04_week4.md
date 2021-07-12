@@ -14,6 +14,10 @@ Welcome to my fourth week blog of GSoC'21 !
 
 This week I integrated the search settings page functionalities with front-end and also I replaced the current curl based implementaion for performing requests with CakePhp HTTP client. We discussed about the abstractization function in jtf-lib and integrating it in the framework and finalised the work-flow for "Search inscriptions with sign value permutation". We also had discussions on ATF Display and on Images and Inscriptions table along with it's filters.
 
+### What is coming up next?
+
+Next week I will be working on implementing inscriptions search in both simple and advanced search and highlight matching search inscriptions in full and compact search results page.
+
 ### Did you get stuck anywhere?
 
 Not as such, it was pretty much a smooth week. :-)
