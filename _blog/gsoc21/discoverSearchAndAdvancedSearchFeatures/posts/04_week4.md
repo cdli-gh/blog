@@ -2,7 +2,7 @@
 layout: page
 title: Week 4
 author: "Yashraj Desai"
-tags: ["week","gsoc","gsoc2020","discoverySearchAndAdvancedSearchFeatures","week#4","eval#1"]
+tags: ["week","gsoc","gsoc2021","discoverySearchAndAdvancedSearchFeatures","week#4","eval#1"]
 ---
 
 ## Week Summary
