@@ -21,9 +21,9 @@ Proposal Link : [Discovery search and advanced search features](https://docs.goo
 | 1 |  Add “Ids” and “Keywords” search fields to both simple and advanced search | Users will be able to search for specific keywords,Id/Numbers artifacts | [#314](https://gitlab.com/cdli/framework/-/issues/314) |
 | 2 | Implementation of fuzzy queries | Fuzzy queries would yield search results in all search fields|[#593](https://gitlab.com/cdli/framework/-/issues/593) |
 | 3 | Port request to Elasticsearch from cURL to HttpClient | Replaced cURL implementation with HTTP Client|[#350](https://gitlab.com/cdli/framework/-/issues/350)
-| 4 | Enable search inscription with sign value permutation |When a user will enable this search feature and search for sign values, all possible sign values with matching sign names of the query will be returned| [#596](https://gitlab.com/cdli/framework/-/issues/596)
-| 5 | Highlight transliteration sign values in ATF display |The sign values will be highlighted in the compact search results page|[#347](https://gitlab.com/cdli/framework/-/issues/347)
-| 6 | On add or edit save a sanitized version of inscription as a list of sign names |When an artifact is added/edited the sanitised jtf data will be stored in the database|[#120](https://gitlab.com/cdli/framework/-/issues/120#note_550066667)
+| 4 | Highlight transliteration sign values in ATF display |The sign values will be highlighted in the full and compact search results page|[#347](https://gitlab.com/cdli/framework/-/issues/347)
+| 5 | Enable search inscription with sign value permutation |When a user will enable this search feature and search for sign values, all possible sign values with matching sign names of the query will be returned| [#596](https://gitlab.com/cdli/framework/-/issues/596)
+| 6 | On add or edit save a sanitized version of inscription as a list of sign names |When an artifact is added/edited the sign values and sign-names will be stored in the database|[#120](https://gitlab.com/cdli/framework/-/issues/120#note_550066667)
 | 7 | Input flexibility enhancements |Users will have the flexibility to search with both UTF-8 and ASCII characters |[#597](https://gitlab.com/cdli/framework/-/issues/597)
 | 8 | Filter search results by RTI Image, Transliterations , 3D Data | Users can apply filters such as RTI Image, Transliterations, 3D Data and get search results | [#136](https://gitlab.com/cdli/framework/-/issues/136)
 
@@ -58,10 +58,10 @@ Proposal Link : [Discovery search and advanced search features](https://docs.goo
 |1|Ids and Keywords search fields|Users will be able to search for specific keywords,Id/Numbers artifacts both in simple and advanced search|:heavy_check_mark:|
 |2|Fuzzy queries|Fuzzy queries would yield search results in all search fields|:heavy_check_mark:|
 |3|Port request to Elasticsearch from cURL to HttpClient|Replaced cURL implementation with HTTP Client|:heavy_check_mark:|
-|4|Search Inscription with sign value permutaion|When a user will enable this search feature and search for sign values, all possible sign values with matching sign names of the query will be returned| :man_technologist: |
-|5|Testing and Documentation |Testing and documentation of all the objectives in coding phase 1||
-|6|Highlight transliteration sign values in ATF display|The sign values will be highlighted in the compact search results page||
-|7|Inscription Sanitisation Script|When an artifact is added/edited the sanitised jtf data will be stored in the database||
+|4|Highlight transliteration sign values in ATF display|The sign values will be highlighted in the compact search results page|:heavy_check_mark:|
+|5|Testing and Documentation |Testing and documentation of all the objectives in coding phase 1|:man_technologist:|
+|6|Search Inscription with sign value permutaion|When a user will enable this search feature and search for sign values, all possible sign values with matching sign names of the query will be returned| :man_technologist: |
+|7| Store sign data in database on add/edit inscriptions|When an artifact is added/edited the sanitised jtf data along with sign values and sign-names will be stored in the database||
 |8|Input flexibility enhancements|Users will have the flexibility to search with both UTF-8 and ASCII characters||
 |9|Filter search results by RTI Image, Transliterations, 3D Data|Users can apply filters such as RTI Image, Transliterations, 3D Data and get search results.||
 |10|Testing and Documentation|Testing and documentation of all the objectives in coding phase 2||
