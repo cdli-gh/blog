@@ -8,7 +8,9 @@ tags: ["week","gsoc","gsoc2021","journalsOpenReviewWorkflowAndIntegration","week
 ## Week Summary
 
  
-Work done in week summary.
+Hola, by the end of week 2 the ojs container was up and running fine, but found an error while submitting an article in ojs("driver not found"), thus worked on debugging that error by adding various php extensions. 
+I created two different columns in cdli articles table for year and article number and modified journals add template accordingly.
+In the last two days of the week, I worked on creating database volume in cdli framework using init, so that database can be migrated and updated in different systems automatically, ie. without importing manually.
 
 ## Daily Work Update
 

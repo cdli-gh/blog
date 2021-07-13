@@ -7,8 +7,7 @@ tags: ["week","gsoc","gsoc2021","journalsOpenReviewWorkflowAndIntegration","week
 
 ## Week Summary
 
- 
-Work done in week summary.
+Hola, initially this week I debug all the errors in ojs container and plugins. By the end of this week, I tested the complete ojs editorial workflow, created a test submission following the different processes of author, editor and reviewer. We even discussed journals dashboard workflow to display articles once they are reviewed in ojs.
 
 ## Daily Work Update
 

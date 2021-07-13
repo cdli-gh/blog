@@ -34,7 +34,7 @@ Hola, I'm <a href="https://www.linkedin.com/in/apoorva-agarwal-8420ab1b3/">Apoor
 | 1 | :heavy_check_mark: | Integrating ojs Docker Container in the framework | Downloading ojs software and creating a docker container for it | <a href="https://gitlab.com/cdli/framework/-/issues/598">#598</a> |
 | 2 | :man_technologist: | Ojs workflow for submission and review of articles | Creating a workflow for open submission and open review of articles | <a href="https://gitlab.com/cdli/framework/-/issues/603">#603</a> |
 | 3 | - |  API integration | Integrating API for sharing data between two dashboards | <a href="https://gitlab.com/cdli/framework/-/issues/606">#606</a> |
-| 4 | - | Connecting ojs module to the CDLI journals dashboard | Publishing the articles with the endorsement of the reviewers in CDLI journals dashboard | <a href="https://gitlab.com/cdli/framework/-/issues/599">#599</a>,<a href="https://gitlab.com/cdli/framework/-/issues/470">#470</a> |
+| 4 | :man_technologist: | Connecting ojs module to the CDLI journals dashboard | Publishing the articles with the endorsement of the reviewers in CDLI journals dashboard | <a href="https://gitlab.com/cdli/framework/-/issues/599">#599</a>,<a href="https://gitlab.com/cdli/framework/-/issues/470">#470</a> |
 
 ### Additional Objectives
 
@@ -53,10 +53,10 @@ Hola, I'm <a href="https://www.linkedin.com/in/apoorva-agarwal-8420ab1b3/">Apoor
 | 3 | :heavy_check_mark: | Develop the journals index for integrating ojs | Updating CDLI journals index to create a link between CDLI journals dashboard and ojs dashboard | 
 | 4 | :heavy_check_mark: | Final Testing of ojs container | Debug the errors in ojs container and final testing of ojs container and editorial workflow | 
 | 5 | :man_technologist: | Create document for ojs and solve additional issues | Create document for ojs and <a href="https://gitlab.com/cdli/framework/-/issues/575">#575</a>, <a href="https://gitlab.com/cdli/framework/-/issues/481">#481</a>, <a href="https://gitlab.com/cdli/framework/-/issues/291">#291</a> | 
-| 6 | - | Setting up connection between databases | Sharing data between CDLI and ojs databases | 
-| 7 | - | Using oAuth for single login | Using oAuth so that user have to login only once in CDLI |
+| 6 | - | API Integration  | Sharing data between CDLI and ojs databases | 
+| 7 | - | Designing single article view | Remove header from latex convertor and design single article web view page |
 | 8 | - | Publishing Articles | Publishing articles and displaying the endorsement of reviewers | 
-| 9 | - | Citation index and metrics | Citation index is to cite the articles. Display the statistics related to articles |
+| 9 | - | Using oAuth for single login, Citation index and metrics | Using oAuth so that user have to login only once in CDLI, Citation index is to cite the articles. Display the statistics related to articles |
 | 10 | - | DOI, ORCHID, and PUBLONS integration | Integration of DOI, ORCHID and PUBLONS in our workflow | 
 | 11 | - | CI/CD pipeline | Setting up CI/CD with lint  and unit testing | 
   
