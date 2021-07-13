@@ -8,7 +8,7 @@ tags: ["week","gsoc","gsoc2020","DesignChallengeAradhanaKund","week#4","eval#1"]
 ## Week Summary
 
  
-Work done in week summary.
+I started with the preparation of the rough skeleton of resources page ( both small and large screen views) . Then I prepared the resources header dropdown ( for js and no-js both ) as well as the side nav bar ( for js only) . Apart from this I worked on fixing the no-js dropdowns and fixed footer styling issues. I worked on prepopulation of the raw image scan artifact number and then worked on preparing common accordion for cdli for both js and no-js . Finally I worked on removing admin dashboard and resources page pr discrepancies.
 
 ## Daily Work Update
 

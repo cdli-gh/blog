@@ -2,13 +2,13 @@
 layout: page
 title: Week 2
 author: "Yashraj Desai"
-tags: ["week","gsoc","gsoc2020","discoverySearchAndAdvancedSearchFeatures","week#2","eval#1"]
+tags: ["week","gsoc","gsoc2021","discoverySearchAndAdvancedSearchFeatures","week#2","eval#1"]
 ---
 
 ## Week Summary
 
 Namaste 🙏 ,    
-Welcome to my second weekly blog of GSoC'21 !
+Welcome to my second week blog of GSoC'21 !
 
 ### What did you do this week?
 

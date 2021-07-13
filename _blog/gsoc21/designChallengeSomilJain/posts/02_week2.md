@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 1
+title: Week 2
 author: "Somil Jain"
 tags: ["week","gsoc","gsoc2020","designChallengeSomilJain","week#2","eval#1"]
 ---
@@ -20,4 +20,4 @@ Work done in week summary.
 |4   	| Thursday  	|   2021/06/17	| Single Article View and Admin buttons for index pages and User Testing  |  
 |5   	| Friday  	|   2021/06/18	| Integrate dates, download options and keywords on basis of user testing. |
 |6   	| Saturday  	|   2021/06/19	| Filter of published and review completed for admins  |  
-|7   	| Sunday  	|   2021/06/20	|  |
+|7   	| Sunday  	|   2021/06/20	| - |

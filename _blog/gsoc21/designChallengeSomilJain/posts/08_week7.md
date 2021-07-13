@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 1
+title: Week 7
 author: "Somil Jain"
 tags: ["week","gsoc","gsoc2020","designChallengeSomilJain","week#7","eval#2"]
 ---
