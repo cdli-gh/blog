@@ -16,7 +16,7 @@ I did work on some of the additional issues as well like <a href="https://gitlab
 ## Objectives and Deliverables
 
 | \# | Objectives                    | Associated Deliverables         | Status |
-| --- | ----------------------------- | ---------------------------------------------- |
+| --- | ----------------------------- | ---------------------------------------------- | --- |
 | 1 | Integrating ojs Docker Container in the framework | Creating a docker container for ojs submodule | :heavy_check_mark: |
 | 2 | Ojs workflow for submission and review of articles |  Creating a workflow for open submission and open review of articles| :man_technologist: |
 | 3 | Develop the journals index for integrating ojs | Updating CDLI journals index to create a link between CDLI journals dashboard and ojs dashboard | :heavy_check_mark: |
