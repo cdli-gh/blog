@@ -18,6 +18,6 @@ Work done in week summary.
 |2   	| Tuesday  	|   2021/07/06	| -	|  
 |3   	| Wednesday  	|  2021/07/07 	| Worked on a route for update ATF/JTF |  
 |4   	| Thursday  	|   2021/07/08	| Worked on a route for update ATF/JTF  |  
-|5   	| Friday  	|   2021/07/09	|  |  
-|6   	| Saturday  	|   2021/07/10	| 	|  
-|7   	| Sunday  	|   2021/07/11	|  |  
+|5   	| Friday  	|   2021/07/09	| Had a meeting with mentor  |  
+|6   	| Saturday  	|   2021/07/10	| dockerized JTF-lib	|  
+|7   	| Sunday  	|   2021/07/11	| - |  
