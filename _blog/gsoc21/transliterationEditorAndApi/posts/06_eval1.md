@@ -6,22 +6,22 @@ tags: ["eval","gsoc","gsoc2021","transliterationsEditorAndAPI","eval#1"]
 ---
 
 ## Summary
-Eval-1 Work progress summary
-
+Got done with 3 objectives alomst. dockerized uqnu and its services. JTF-lib integration and fetch logic in uqnu so ATF can be fatched from URL through framework API.
 
 ## Objectives and Deliverables
 | \# | Objectives                    | Associated Deliverables         |
 | --- | ----------------------------- | ---------------------------------------------- |
-| 1 | Taks Objectives  | Task Deliverables |
-| 2 |   |  |
-| 3 |   |  |
+| 1 | Framework integration  | Integrated JTF API and web application run in a framework docker container. |
+| 2 | Accessibility  | Made web application accessible via a framework URL. |
+| 3 | JTF-LIB Integration | PR has not merged yet  |
 
 
 ## Learning and Success
-Learning Experience till now 
+
+I never experienced docker and cakePHP at this Scale. I have learned docker in depth and brushed my JS. I successfully able to completed tasks releted to docker and containerization.
 
 ## Difficulties
-difficulties faced till now
+I have faced bit difficulties in CakePHP. I never really worked on that part. Creating and handling API is quite tough in this.
 
 ## Plan update
-ANy updates in the timeline
+I am little bit behind the schedule so I am planning to spend more time on next week so i can ramp up fast and get done with the remaining tasks. 
