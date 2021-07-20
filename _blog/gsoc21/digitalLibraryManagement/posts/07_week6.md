@@ -14,8 +14,8 @@ Work done in week summary.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   YYYY/MM/DD	| |  
-|2   	| Tuesday  	|   YYYY/MM/DD	| 	|  
+|1   	| Monday 	|   2021/07/19	| Worked around the component for images, search. |  
+|2   	| Tuesday  	|   2021/07/20	| Attended the meeting to give updates on the progress and set up a timeline for second phase.	|  
 |3   	| Wednesday  	|  YYYY/MM/DD 	| |  
 |4   	| Thursday  	|   YYYY/MM/DD	|  |  
 |5   	| Friday  	|   YYYY/MM/DD	|  |  

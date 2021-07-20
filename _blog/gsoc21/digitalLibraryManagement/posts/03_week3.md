@@ -13,10 +13,10 @@ This week my task was to code a pyhton script which could help us gather all the
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2020/06/21	| Got the review of the script from mentor, fixed it accordingly. |  
-|2   	| Tuesday  	|   2020/06/22	| 	|  
-|3   	| Wednesday  	|  2020/06/23 	| Added a few more key values pairs in phton script so that we can store more information in JSON and in tables. |  
-|4   	| Thursday  	|   2020/06/24	| Tested out the script for web server, made some necessary changes. |  
-|5   	| Friday  	|   2020/06/25	| Attended the weekly meeting and decided to approach the results in csv format or multidimensional JSON Array. |  
-|6   	| Saturday  	|   2020/06/26	| Maded the changes in script so that we can dump data in CSV format.	|  
-|7   	| Sunday  	|   2020/06/27	|  |  
+|1   	| Monday 	|   2021/06/21	| Got the review of the script from mentor, fixed it accordingly. |  
+|2   	| Tuesday  	|   2021/06/22	| 	|  
+|3   	| Wednesday  	|  2021/06/23 	| Added a few more key values pairs in phton script so that we can store more information in JSON and in tables. |  
+|4   	| Thursday  	|   2021/06/24	| Tested out the script for web server, made some necessary changes. |  
+|5   	| Friday  	|   2021/06/25	| Attended the weekly meeting and decided to approach the results in csv format or multidimensional JSON Array. |  
+|6   	| Saturday  	|   2021/06/26	| Maded the changes in script so that we can dump data in CSV format.	|  
+|7   	| Sunday  	|   2021/06/27	|  |  
