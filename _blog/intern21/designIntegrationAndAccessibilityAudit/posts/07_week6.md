@@ -2,7 +2,7 @@
 layout: page
 title: Week 6
 author: "Mohit Sharma"
-tags: ["week","intern","intern2020","designIntegrationAndAccessibilityAudit","week#6","eval#2"]
+tags: ["week","intern","intern2021","designIntegrationAndAccessibilityAudit","week#6","eval#2"]
 ---
 
 ## Week Summary
