@@ -32,7 +32,7 @@ Work Status: [Link](https://drive.google.com/drive/folders/1zx4uBOB8_9TkFnr3Hd5K
 | \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
 | 1 | :heavy_check_mark: | Easy Navigation  | User should easily navigate to 3D Viewer for the particular model. |    [!318](https://gitlab.com/cdli/framework/-/merge_requests/318)     |
-| 2 | :white_check_mark: | Documentaion for 3Dviewer development | It should be easy for getting started with the development of 3DViewer by going through its documentation. |    [!350](https://gitlab.com/cdli/framework/-/merge_requests/350)     |
+| 2 | :heavy_check_mark: | Documentaion for 3Dviewer development | It should be easy for getting started with the development of 3DViewer by going through its documentation. |    [!350](https://gitlab.com/cdli/framework/-/merge_requests/350)     |
 
 
 ### Tentative timeline
@@ -46,8 +46,8 @@ Work Status: [Link](https://drive.google.com/drive/folders/1zx4uBOB8_9TkFnr3Hd5K
 |3| :heavy_check_mark: Responsiveness   |  :heavy_check_mark: Make 3D viewer responsive to all devices. <br> :raised_hands: 3D viewer should be able to change its size according to viewport.  |
 |4| :heavy_check_mark: Render 3D Model from database.  | :heavy_check_mark: Set up routes to get 3D Model (.PLY) from data from the CDLI database. <br> :heavy_check_mark: Load 3D Model(.PLY) in the 3D viewer and render it from the database. <br> :raised_hands: 3D Viewer should be able to load 3D models from cdli database. |
 |5| :heavy_check_mark: Testing and Debugging   |  :heavy_check_mark: Check all the functionality added is working good and if any bug is present debug it. |
-|6| :white_check_mark: UX Optimisation  |  :white_check_mark: Suggest and implement different features for 3D Viewer to enhance User Experience(UX) while interacting with 3D Model(CDLI tablet). |
-|7| :white_check_mark: UX Optimisation  |  :white_check_mark: Suggest and implement different features for 3D Viewer to enhance User Experience(UX) while interacting with 3D Model(CDLI tablet). |
+|6| :heavy_check_mark: UX Optimisation  |  :white_check_mark: Suggest and implement different features for 3D Viewer to enhance User Experience(UX) while interacting with 3D Model(CDLI tablet). |
+|7| :heavy_check_mark: UX Optimisation  |  :white_check_mark: Suggest and implement different features for 3D Viewer to enhance User Experience(UX) while interacting with 3D Model(CDLI tablet). |
 |8| :white_check_mark: UX Optimisation  |  :white_check_mark: Suggest and implement different features for 3D Viewer to enhance User Experience(UX) while interacting with 3D Model(CDLI tablet). |
 |9| :white_check_mark: Test and Debug   |  :white_check_mark: Check all the functionality added is working good and if any bug is present debug it. |
 |10| :white_check_mark: Test and Debug   |  :white_check_mark: Check all the functionality added is working good and if any bug is present debug it and complete documentation and launch. |
