@@ -15,10 +15,10 @@ The first phase was really thrilling and helped me alot to learn. I worked on va
 | 1 | Admin Dashboard | Admin dashboard Web & Mobile UI, Raw image scan UI and user flow |
 | 2 | Journal Integration  | Single Article default view, user flow of integrated OJS system & Journal's Index page for Admins and User side |
 | 3 |  Resource page | Easy naviagation flow, quick links and Resource page UI |
-| 4|  Common template for Edit, Add form pages for different entities | Accesibility research for forms, Forms UI and quick option of adding another entitiy while editing something |
-| 5|  404 page | Designed 404 page |
-| 6  About us page | About us, Our story page and logo assests of our funding partners |
-| 7|  Artifact page | Associated visual assets UI, revamping summary on basis of eye tracking |
+| 4 |  Common template for Edit, Add form pages for different entities | Accesibility research for forms, Forms UI and quick option of adding another entitiy while editing something |
+| 5 |  404 page | Designed 404 page |
+| 6 | About us page | About us, Our story page and logo assests of our funding partners |
+| 7 |  Artifact page | Associated visual assets UI, revamping summary on basis of eye tracking |
 
 
 
