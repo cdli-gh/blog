@@ -16,8 +16,8 @@ Work done in week summary.
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2021/07/19	| Worked around the component for images, search. |  
 |2   	| Tuesday  	|   2021/07/20	| Attended the meeting to give updates on the progress and set up a timeline for second phase.	|  
-|3   	| Wednesday  	|  YYYY/MM/DD 	| |  
-|4   	| Thursday  	|   YYYY/MM/DD	|  |  
+|3   	| Wednesday  	|  2021/07/21 	| Cleared my doubt with Yashraj regarding the button which is supposed to be put up on search page |  
+|4   	| Thursday  	|   2021/07/22	| Worked on the view template for images. |  
 |5   	| Friday  	|   YYYY/MM/DD	|  |  
 |6   	| Saturday  	|   YYYY/MM/DD	| 	|  
 |7   	| Sunday  	|   YYYY/MM/DD	|  |  
