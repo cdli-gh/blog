@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 1
+title: Week 6
 author: "Vishv Kakadiya"
 tags: ["week","gsoc","gsoc2020","transliterationsEditorAndAPI","week#6","eval#2"]
 ---
@@ -14,10 +14,10 @@ Work done in week summary.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   YYYY/MM/DD	| |  
-|2   	| Tuesday  	|   YYYY/MM/DD	| 	|  
-|3   	| Wednesday  	|  YYYY/MM/DD 	| |  
-|4   	| Thursday  	|   YYYY/MM/DD	|  |  
-|5   	| Friday  	|   YYYY/MM/DD	|  |  
+|1   	| Monday 	|   2021/07/19	| Bug resolving in routes |  
+|2   	| Tuesday  	|   2021/07/20	| create a new route for yashraj to convert ATFtoSignNames	|  
+|3   	| Wednesday  	|  2021/07/21 	| - |  
+|4   	| Thursday  	|   2021/07/22	| shifted logic to Node JS to update ATF & JTF |  
+|5   	| Friday  	|   2021/07/23	|  |  
 |6   	| Saturday  	|   YYYY/MM/DD	| 	|  
 |7   	| Sunday  	|   YYYY/MM/DD	|  |  
