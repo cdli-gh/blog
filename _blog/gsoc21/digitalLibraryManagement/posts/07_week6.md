@@ -6,9 +6,7 @@ tags: ["week","gsoc","gsoc2021","digitalLibraryManagement","week#6","eval#2"]
 ---
 
 ## Week Summary
-
- 
-Work done in week summary.
+This week started with the working for controllers, template for images table. Worked around populating the database with test images, making out the custom methods, template to suit our needs.
 
 ## Daily Work Update
 
@@ -20,4 +18,4 @@ Work done in week summary.
 |4   	| Thursday  	|   2021/07/22	| Worked on the view template for images. |  
 |5   	| Friday  	|   2021/07/23	| Attended the general meet to discuss on the view templates, give updates on progress. |  
 |6   	| Saturday  	|   2021/07/24	| Fixed minor tweaks in the temaplates.	|  
-|7   	| Sunday  	|   YYYY/MM/DD	|  |  
+|7   	| Sunday  	|   2021/07/25	|  |  
