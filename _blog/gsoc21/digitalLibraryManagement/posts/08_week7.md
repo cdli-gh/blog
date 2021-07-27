@@ -15,7 +15,7 @@ Work done in week summary.
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2021/07/26	| Updated the PR [!355](https://gitlab.com/cdli/framework/-/merge_requests/355) and finshed the view template. |  
-|2   	| Tuesday  	|   YYYY/MM/DD	| 	|  
+|2   	| Tuesday  	|   2021/07/27	| Added image type for RTI Images, added the functionality to view images in bigger resolution.	|  
 |3   	| Wednesday  	|  YYYY/MM/DD 	| |  
 |4   	| Thursday  	|   YYYY/MM/DD	|  |  
 |5   	| Friday  	|   YYYY/MM/DD	|  |  
