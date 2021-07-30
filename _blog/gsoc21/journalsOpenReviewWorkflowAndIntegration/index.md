@@ -32,8 +32,8 @@ Hola, I'm <a href="https://www.linkedin.com/in/apoorva-agarwal-8420ab1b3/">Apoor
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
 | 1 | :heavy_check_mark: | Integrating ojs Docker Container in the framework | Downloading ojs software and creating a docker container for it | <a href="https://gitlab.com/cdli/framework/-/issues/598">#598</a> |
-| 2 | :man_technologist: | Ojs workflow for submission and review of articles | Creating a workflow for open submission and open review of articles | <a href="https://gitlab.com/cdli/framework/-/issues/603">#603</a> |
-| 3 | - |  API integration | Integrating API for sharing data between two dashboards | <a href="https://gitlab.com/cdli/framework/-/issues/606">#606</a> |
+| 2 | :heavy_check_mark:| Ojs workflow for submission and review of articles | Creating a workflow for open submission and open review of articles | <a href="https://gitlab.com/cdli/framework/-/issues/603">#603</a> |
+| 3 | :man_technologist:   |  Ojs Datbase Connection | Integrating API for sharing data between two dashboards | <a href="https://gitlab.com/cdli/framework/-/issues/606">#606</a> |
 | 4 | :man_technologist: | Connecting ojs module to the CDLI journals dashboard | Publishing the articles with the endorsement of the reviewers in CDLI journals dashboard | <a href="https://gitlab.com/cdli/framework/-/issues/599">#599</a>,<a href="https://gitlab.com/cdli/framework/-/issues/470">#470</a> |
 
 ### Additional Objectives
@@ -49,12 +49,12 @@ Hola, I'm <a href="https://www.linkedin.com/in/apoorva-agarwal-8420ab1b3/">Apoor
 | Week  | Status | Objectives | Deliverables |
 |---|---|---|---|
 | 1 | :heavy_check_mark: | Integrating ojs Docker Container in the framework | Downloading ojs software and creating a docker container for it and integrating it in CDLI framework| 
-| 2 | :man_technologist: | Setting up Editorial Workflow( for cdlj and cdlb) | Creating a workflow for open submission and open review of articles |
+| 2 | :heavy_check_mark: | Setting up Editorial Workflow( for cdlj and cdlb) | Creating a workflow for open submission and open review of articles |
 | 3 | :heavy_check_mark: | Develop the journals index for integrating ojs | Updating CDLI journals index to create a link between CDLI journals dashboard and ojs dashboard | 
 | 4 | :heavy_check_mark: | Final Testing of ojs container | Debug the errors in ojs container and final testing of ojs container and editorial workflow | 
-| 5 | :man_technologist: | Create document for ojs and solve additional issues | Create document for ojs and <a href="https://gitlab.com/cdli/framework/-/issues/575">#575</a>, <a href="https://gitlab.com/cdli/framework/-/issues/481">#481</a>, <a href="https://gitlab.com/cdli/framework/-/issues/291">#291</a> | 
-| 6 | - | API Integration  | Sharing data between CDLI and ojs databases | 
-| 7 | - | Designing single article view | Remove header from latex convertor and design single article web view page |
+| 5 | :heavy_check_mark: | Create document for ojs and solve additional issues | Create document for ojs and <a href="https://gitlab.com/cdli/framework/-/issues/575">#575</a>, <a href="https://gitlab.com/cdli/framework/-/issues/481">#481</a>, <a href="https://gitlab.com/cdli/framework/-/issues/291">#291</a> | 
+| 6 | :man_technologist: | OJS Database Connection | Sharing data between CDLI and ojs databases | 
+| 7 | :man_technologist: | Designing single article view | Remove header from latex convertor and design single article web view page |
 | 8 | - | Publishing Articles | Publishing articles and displaying the endorsement of reviewers | 
 | 9 | - | Using oAuth for single login, Citation index and metrics | Using oAuth so that user have to login only once in CDLI, Citation index is to cite the articles. Display the statistics related to articles |
 | 10 | - | DOI, ORCHID, and PUBLONS integration | Integration of DOI, ORCHID and PUBLONS in our workflow | 
