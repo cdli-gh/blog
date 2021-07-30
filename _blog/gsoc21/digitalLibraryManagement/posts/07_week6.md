@@ -6,18 +6,16 @@ tags: ["week","gsoc","gsoc2021","digitalLibraryManagement","week#6","eval#2"]
 ---
 
 ## Week Summary
-
- 
-Work done in week summary.
+This week started with the working for controllers, template for images table. Worked around populating the database with test images, making out the custom methods, template to suit our needs.
 
 ## Daily Work Update
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   YYYY/MM/DD	| |  
-|2   	| Tuesday  	|   YYYY/MM/DD	| 	|  
-|3   	| Wednesday  	|  YYYY/MM/DD 	| |  
-|4   	| Thursday  	|   YYYY/MM/DD	|  |  
-|5   	| Friday  	|   YYYY/MM/DD	|  |  
-|6   	| Saturday  	|   YYYY/MM/DD	| 	|  
-|7   	| Sunday  	|   YYYY/MM/DD	|  |  
+|1   	| Monday 	|   2021/07/19	| Worked around the component for images, search. |  
+|2   	| Tuesday  	|   2021/07/20	| Attended the meeting to give updates on the progress and set up a timeline for second phase.	|  
+|3   	| Wednesday  	|  2021/07/21 	| Cleared my doubt with Yashraj regarding the button which is supposed to be put up on search page |  
+|4   	| Thursday  	|   2021/07/22	| Worked on the view template for images. |  
+|5   	| Friday  	|   2021/07/23	| Attended the general meet to discuss on the view templates, give updates on progress. |  
+|6   	| Saturday  	|   2021/07/24	| Fixed minor tweaks in the temaplates.	|  
+|7   	| Sunday  	|   2021/07/25	|  |  
