@@ -48,9 +48,9 @@ Work Status: [Link](https://drive.google.com/drive/folders/17zfao7u9gfowSWieSYWu
 |2| :heavy_check_mark: | Preparing Image Table   | Raise an issue to get review regarding the image table, prepare a script to populate the tables intially | [#87](https://gitlab.com/cdli/framework/-/issues/87)  |
 |3| :man_technologist: | Installation of Conversion Algorithm | Installing the library and try to add them in nginx or cake container | [#87](https://gitlab.com/cdli/framework/-/issues/87)  |
 |4| :heavy_check_mark: | Generating Standard Templates  | Preparing standard templates, controllers for providing intial functionalities. Documetation of the work done till now | [#87](https://gitlab.com/cdli/framework/-/issues/87)  |
-|5| :man_technologist: | Preparing Custom Controllers  | Preparing custom controllers for conversion, viewing of archival images |[#87](https://gitlab.com/cdli/framework/-/issues/87)   |
-|6| :man_technologist: | Editing Current Templates | Editing current Artifact templates for adding a new tab to view Archival Image | [#87](https://gitlab.com/cdli/framework/-/issues/87)  |
-|7|  | Using Archival Images  | Testing conversion algorithm on archival iamges to check whether the thumbnails are of required specifiction | [#586](https://gitlab.com/cdli/framework/-/issues/586) |
+|5| :heavy_check_mark: | Preparing Custom Controllers  | Preparing custom controllers for conversion, viewing of archival images |[#87](https://gitlab.com/cdli/framework/-/issues/87)   |
+|6| :heavy_check_mark:| Editing Current Templates | Editing current Artifact templates for adding a new tab to view Archival Image | [#87](https://gitlab.com/cdli/framework/-/issues/87)  |
+|7| :man_technologist: | Using Archival Images  | Testing conversion algorithm on archival iamges to check whether the thumbnails are of required specifiction | [#586](https://gitlab.com/cdli/framework/-/issues/586) |
 |8|  | Working for Non Associated Images & View Templates for Non Associated Images | Developing controllers, templates for accessing Non Associated Images. Creating view templates for viewing non associated archival images, documenting the work done till now. | [#608](https://gitlab.com/cdli/framework/-/issues/608) |
 |9|  | Allowing Admins to Change type of Image | Developing the functionality to allow admins change the type of image. | [#87](https://gitlab.com/cdli/framework/-/issues/87) |
 |10|  | Document, test and further feature addons | Documenting the work, working around the additionl Objectives. | - |
