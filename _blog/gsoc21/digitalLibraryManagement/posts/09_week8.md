@@ -15,7 +15,7 @@ Work done in week summary.
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2021/08/02	| Got the PR reviewed from one of the mentees. |  
-|2   	| Tuesday  	|   2021/08/03	| PR reviewed by mentor, implemented the changes suggested.	|  
+|2   	| Tuesday  	|   2021/08/03	| PR reviewed by mentor, implemented the changes suggested. Will be working on edit pages, TIFF images.	|  
 |3   	| Wednesday  	|  YYYY/MM/DD 	| |  
 |4   	| Thursday  	|   YYYY/MM/DD	|  |  
 |5   	| Friday  	|   YYYY/MM/DD	|  |  
