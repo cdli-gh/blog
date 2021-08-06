@@ -18,6 +18,6 @@ Work done in week summary.
 |2   	| Tuesday  	|   2021/08/03	| 	|  
 |3   	| Wednesday  	|  2021/08/04 	| |  
 |4   	| Thursday  	|   2021/08/05	|  |  
-|5   	| Friday  	|   2021/08/02	|  |  
+|5   	| Friday  	|   2021/08/06	|  |  
 |6   	| Saturday  	|   YYYY/MM/DD	| 	|  
 |7   	| Sunday  	|   YYYY/MM/DD	|  |  
