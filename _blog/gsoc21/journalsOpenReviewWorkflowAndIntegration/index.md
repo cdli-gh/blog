@@ -55,7 +55,7 @@ Hola, I'm <a href="https://www.linkedin.com/in/apoorva-agarwal-8420ab1b3/">Apoor
 | 5 | :heavy_check_mark: | Create document for ojs and solve additional issues | Create document for ojs and <a href="https://gitlab.com/cdli/framework/-/issues/575">#575</a>, <a href="https://gitlab.com/cdli/framework/-/issues/481">#481</a>, <a href="https://gitlab.com/cdli/framework/-/issues/291">#291</a> | 
 | 6 | :man_technologist: | OJS Database Connection | Sharing data between CDLI and ojs databases | 
 | 7 | :man_technologist: | Designing single article view | Remove header from latex convertor and design single article web view page |
-| 8 | - | Publishing Articles | Publishing articles and displaying the endorsement of reviewers | 
+| 8 | :man_technologist: | Publishing Articles | Publishing articles and displaying the endorsement of reviewers | 
 | 9 | - | Using oAuth for single login, Citation index and metrics | Using oAuth so that user have to login only once in CDLI, Citation index is to cite the articles. Display the statistics related to articles |
 | 10 | - | DOI, ORCHID, and PUBLONS integration | Integration of DOI, ORCHID and PUBLONS in our workflow | 
 | 11 | - | CI/CD pipeline | Setting up CI/CD with lint  and unit testing | 

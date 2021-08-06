@@ -19,5 +19,5 @@ Work done in week summary.
 |3   	| Wednesday |   2021/07/28	| Designed and seperated header part from main content in web view | 
 |4   	| Thursday  |   2021/07/29	| Configured ojs_db in framewok and setup the connection |  
 |5   	| Friday  	|   2021/07/30	| Created models for the required table from ojs_db |  
-|6   	| Saturday  |   2021/07/31	|  |  
-|7   	| Sunday  	|   2021/08/01	|  |  
+|6   	| Saturday  |   2021/07/31	| debug error while creating models and collected the database information for all the tables needed |  
+|7   	| Sunday  	|   2021/08/01	| created and tested model, controller and template for a ojs table |  
