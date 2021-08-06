@@ -49,7 +49,7 @@ Work Status: [Link](https://drive.google.com/drive/folders/1zx4uBOB8_9TkFnr3Hd5K
 |6| :heavy_check_mark: UX Optimisation  |  :heavy_check_mark: Suggest and implement different features for 3D Viewer to enhance User Experience(UX) while interacting with 3D Model(CDLI tablet). |
 |7| :heavy_check_mark: UX Optimisation  |  :heavy_check_mark: Suggest and implement different features for 3D Viewer to enhance User Experience(UX) while interacting with 3D Model(CDLI tablet). |
 |8| :heavy_check_mark: UX Optimisation  |  :heavy_check_mark: Suggest and implement different features for 3D Viewer to enhance User Experience(UX) while interacting with 3D Model(CDLI tablet). |
-|9| :white_check_mark: Test and Debug   |  :white_check_mark: Check all the functionality added is working good and if any bug is present debug it. |
+|9| :heavy_check_mark: Usability enhancing   |  :heavy_check_mark: Search different usability aspects and implemnt it. |
 |10| :white_check_mark: Test and Debug   |  :white_check_mark: Check all the functionality added is working good and if any bug is present debug it and complete documentation and launch. |
 
 
