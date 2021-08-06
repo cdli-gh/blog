@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 1
+title: Week 8
 author: "Vishv Kakadiya"
 tags: ["week","gsoc","gsoc2020","transliterationsEditorAndAPI","week#8","eval#2"]
 ---
@@ -14,10 +14,10 @@ Work done in week summary.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   YYYY/MM/DD	| |  
-|2   	| Tuesday  	|   YYYY/MM/DD	| 	|  
-|3   	| Wednesday  	|  YYYY/MM/DD 	| |  
-|4   	| Thursday  	|   YYYY/MM/DD	|  |  
-|5   	| Friday  	|   YYYY/MM/DD	|  |  
+|1   	| Monday 	|   2021/08/02	| |  
+|2   	| Tuesday  	|   2021/08/03	| 	|  
+|3   	| Wednesday  	|  2021/08/04 	| |  
+|4   	| Thursday  	|   2021/08/05	|  |  
+|5   	| Friday  	|   2021/08/02	|  |  
 |6   	| Saturday  	|   YYYY/MM/DD	| 	|  
 |7   	| Sunday  	|   YYYY/MM/DD	|  |  
