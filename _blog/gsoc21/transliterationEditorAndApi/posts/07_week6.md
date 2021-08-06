@@ -18,6 +18,6 @@ Work done in week summary.
 |2   	| Tuesday  	|   2021/07/20	| create a new route for yashraj to convert ATFtoSignNames	|  
 |3   	| Wednesday  	|  2021/07/21 	| - |  
 |4   	| Thursday  	|   2021/07/22	| shifted logic to Node JS to update ATF & JTF |  
-|5   	| Friday  	|   2021/07/23	|  |  
-|6   	| Saturday  	|   YYYY/MM/DD	| 	|  
-|7   	| Sunday  	|   YYYY/MM/DD	|  |  
+|5   	| Friday  	|   2021/07/23	| Had a meet with mentor and yashraj |  
+|6   	| Saturday  	|   2021/07/24	| Work on documentation	|  
+|7   	| Sunday  	|   2021/07/25	| - |  
