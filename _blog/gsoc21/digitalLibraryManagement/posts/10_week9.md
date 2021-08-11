@@ -16,7 +16,7 @@ Work done in week summary.
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2021/08/09	|  |  
 |2   	| Tuesday  	|   2021/08/10	| Implemented minor changes in the PR. |  
-|3   	| Wednesday  	|  YYYY/MM/DD 	| |  
+|3   	| Wednesday  	|  2021/08/11 	| Attended a meet with mentors and decided upon the plans for upcoming few weeks. |  
 |4   	| Thursday  	|   YYYY/MM/DD	|  |  
 |5   	| Friday  	|   YYYY/MM/DD	|  |  
 |6   	| Saturday  	|   YYYY/MM/DD	| 	|  
