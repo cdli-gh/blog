@@ -59,11 +59,11 @@ Proposal Link : [Discovery search and advanced search features](https://docs.goo
 |2|Fuzzy queries|Fuzzy queries would yield search results in all search fields|:heavy_check_mark:|
 |3|Port request to Elasticsearch from cURL to HttpClient|Replaced cURL implementation with HTTP Client|:heavy_check_mark:|
 |4|Highlight transliteration sign values in ATF display|The sign values will be highlighted in the compact search results page|:heavy_check_mark:|
-|5|Testing and Documentation |Testing and documentation of all the objectives in coding phase 1|:man_technologist:|
-|6|Search Inscription with sign value permutaion|When a user will enable this search feature and search for sign values, all possible sign values with matching sign names of the query will be returned| :man_technologist: |
+|5|Testing and Documentation |Testing and documentation of all the objectives in coding phase 1|:heavy_check_mark:|
+|6|Search Inscription with sign value permutaion|When a user will enable this search feature and search for sign values, all possible sign values with matching sign names of the query will be returned| :heavy_check_mark: |
 |7| Store sign data in database on add/edit inscriptions|When an artifact is added/edited the sanitised jtf data along with sign values and sign-names will be stored in the database||
-|8|Input flexibility enhancements|Users will have the flexibility to search with both UTF-8 and ASCII characters||
-|9|Filter search results by RTI Image, Transliterations, 3D Data|Users can apply filters such as RTI Image, Transliterations, 3D Data and get search results.||
-|10|Testing and Documentation|Testing and documentation of all the objectives in coding phase 2||
+|8|Input flexibility enhancements|Users will have the flexibility to search with both UTF-8 and ASCII characters| :heavy_check_mark: |
+|9|Filter search results by RTI Image, Transliterations, 3D Data|Users can apply filters such as RTI Image, Transliterations, 3D Data and get search results.|:heavy_check_mark: |
+|10|Testing and Documentation|Testing and documentation of all the objectives in coding phase 2| :man_technologist: |
 
 
