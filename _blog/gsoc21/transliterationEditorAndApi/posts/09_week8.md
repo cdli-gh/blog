@@ -18,6 +18,6 @@ Work done in week summary.
 |2   	| Tuesday  	|   2021/08/03	| create a route for ATFLINE to singnames	|  
 |3   	| Wednesday  	|  2021/08/04 	| Worked on reverse-proxy for JTF-lib |  
 |4   	| Thursday  	|   2021/08/05	| Tried to resolve app crash error in uqnu |  
-|5   	| Friday  	|   2021/08/06	|  |  
-|6   	| Saturday  	|   YYYY/MM/DD	| 	|  
-|7   	| Sunday  	|   YYYY/MM/DD	|  |  
+|5   	| Friday  	|   2021/08/06	| Fixed express errors and added a patch in JTF-lib |  
+|6   	| Saturday  	|   YYYY/MM/DD	| Code restructure and patch 2.0|  
+|7   	| Sunday  	|   YYYY/MM/DD	| - |  
