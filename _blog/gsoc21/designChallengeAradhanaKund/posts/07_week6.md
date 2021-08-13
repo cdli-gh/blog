@@ -2,7 +2,7 @@
 layout: page
 title: Week 6
 author: "Aradhana Kund"
-tags: ["week","gsoc","gsoc2020","DesignChallengeAradhanaKund","week#6","eval#2"]
+tags: ["week","gsoc","gsoc2021","DesignChallengeAradhanaKund","week#6","eval#2"]
 ---
 
 ## Week Summary
