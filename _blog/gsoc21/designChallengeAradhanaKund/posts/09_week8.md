@@ -6,7 +6,7 @@ tags: ["week","gsoc","gsoc2021","DesignChallengeAradhanaKund","week#8","eval#2"]
 ---
 
 ## Week Summary
-
+This week I worked on removing pr discrepancies of accordion and about us page pr. Them primarily worked on single artifact page , implementing the UI and then rendering the required data of all the fields based on pr description.
  
 Work done in week summary.
 
