@@ -24,7 +24,7 @@ Work Status: [Link](https://drive.google.com/drive/folders/1zx4uBOB8_9TkFnr3Hd5K
 | 1 |:heavy_check_mark:|  3D Viewer in cake-php | Convert 3D Viewer to cake-php. | [!318](https://gitlab.com/cdli/framework/-/merge_requests/318) |
 | 2 |:heavy_check_mark:|  Load 3D Model(.PLY) | Loading 3D Model in .PLY format from CDLI database. | [!318](https://gitlab.com/cdli/framework/-/merge_requests/318) |
 | 3 |:heavy_check_mark:|  Responsiveness | 3D Viewer should be responsive to all devices with their associated 3D Models. | [!318](https://gitlab.com/cdli/framework/-/merge_requests/318) |
-| 4 |:white_check_mark:|  User Experience(UX) | Suggesting and implementing user experience(UX) of 3D Viewer. | - |
+| 4 |:heavy_check_mark:|  User Experience(UX) | Suggesting and implementing user experience(UX) of 3D Viewer. | - |
 
 
 ### Additional Objectives
@@ -50,7 +50,7 @@ Work Status: [Link](https://drive.google.com/drive/folders/1zx4uBOB8_9TkFnr3Hd5K
 |7| :heavy_check_mark: UX Optimisation  |  :heavy_check_mark: Suggest and implement different features for 3D Viewer to enhance User Experience(UX) while interacting with 3D Model(CDLI tablet). |
 |8| :heavy_check_mark: UX Optimisation  |  :heavy_check_mark: Suggest and implement different features for 3D Viewer to enhance User Experience(UX) while interacting with 3D Model(CDLI tablet). |
 |9| :heavy_check_mark: Usability enhancing   |  :heavy_check_mark: Search different usability aspects and implemnt it. |
-|10| :white_check_mark: Test and Debug   |  :white_check_mark: Check all the functionality added is working good and if any bug is present debug it and complete documentation and launch. |
+|10| :heavy_check_mark: Test and Debug   |  :heavy_check_mark: Check all the functionality added is working good and if any bug is present debug it and complete documentation and launch. |
 
 
 
