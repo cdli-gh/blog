@@ -20,4 +20,4 @@ This week I primarily worked on implementing the about us end section as well as
 |4   	| Thursday  	|   2021/07/29	| Made it no-js accessible |  
 |5   	| Friday  	|   2021/07/30	| Created browse page documentation |  
 |6   	| Saturday  	|   2021/07/31	| Created the periods page documentation	|  
-|7   	| Sunday  	|   2021/08/01	|  |  
+|7   	| Sunday  	|   2021/08/01	| - |  
