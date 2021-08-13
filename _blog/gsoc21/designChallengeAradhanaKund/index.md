@@ -35,13 +35,13 @@ This project aims to improve the complete styling of the website using minimal s
 | 4 | :heavy_check_mark: | Add functiionality for no-js and footer styling | Making dropdowns work for no-js and fixing footer discrepancies. | [#214](https://gitlab.com/cdli/framework/-/issues/214) |
 | 5 | :heavy_check_mark: | About Us | Implementing web/tab/mobile view of About us. | [#591](https://gitlab.com/cdli/framework/-/issues/591) |
 | 6 | :heavy_check_mark: | 404 Page | Improvise and Implement the 404 Page | [#334](https://gitlab.com/cdli/framework/-/issues/334) |
-| 7 | :man_technologist: | Single Artifact View | Improvise the Single Artifact View | - |
+| 7 | :man_technologist: | Single Artifact View | Improvise the Single Artifact View | [#517](https://gitlab.com/cdli/framework/-/issues/517) |
   
 ### Additional Objectives
 
 | \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
-| 1 | :man_technologist: | Index Page | Improvise the common template for Index pages of the entities | [#601](https://gitlab.com/cdli/framework/-/issues/601),[#602](https://gitlab.com/cdli/framework/-/issues/602) |
+| 1 | :man_technologist: | Expanded search results | Improvise the expanded search results page | [#238](https://gitlab.com/cdli/framework/-/issues/238) |
 | 2 |  | Modify the common template | Improvise the common template for view/add/edit/index pages of the entities | [#601](https://gitlab.com/cdli/framework/-/issues/601),[#602](https://gitlab.com/cdli/framework/-/issues/602) |
 | 3 | :man_technologist: | Raw Image Scan | Implementing Raw Image Scan for admin dashboard along with edge and artifact no. pre population |  |
 
@@ -55,9 +55,10 @@ This project aims to improve the complete styling of the website using minimal s
 | 4 | :heavy_check_mark: | First draft of Raw Image Scan and removing admin dashboard pr discrepancies| Implement the raw image scan part of admin dashboard and its web view with steepper and dropzone as well as removing admin dashboard pr discrepancies | - |
 | 5 | :heavy_check_mark: | 404 Page , About Us Page, footer style fix and Resources Header Dropdown | Implement the final skeleton for Resources Page Dropdown for js and no js users along with the pre population of raw image scan artifacat number and Edge. | - |
 | 6 | :heavy_check_mark: | Header fix for no-js, side nav fix and resource page Implementation | Making dropdowns work for no-js and fixing footer discrepancies. Also preparing skeleton for resource page(js) | - |
-| 7 |  |  Common Templates and single artifact view modifications| Implement the common templates for Index pages of entities as well as work on improving the single artifact view ). Raw image scan continued . | - |
-| 8 |  |  | - |
-| 9 |  |  | - |
+| 7 | :heavy_check_mark: | Accordions Accessibility and design improve | Made the accordions pretty and accessible for js and no-js , also prepared documentation of periods page and browse page. | - |
+| 8 | :heavy_check_mark: |  Single artifact view UI | Work on improving the single artifact view according to the design . | - |
+| 9 | :man_technologist: | Improvise the expanded search results page | - |
 | 10 |  |  | - |
 | 11 |  |  | - |
+| 12 |  |  | - |
   
