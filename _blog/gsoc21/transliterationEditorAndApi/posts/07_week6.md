@@ -7,8 +7,7 @@ tags: ["week","gsoc","gsoc2020","transliterationsEditorAndAPI","week#6","eval#2"
 
 ## Week Summary
 
- 
-Work done in week summary.
+So this week I started of with resolving bugs and later on I have worked on new Route in JTF-lib for getting signnames back. and then as we decided in the meeting I'll be working on routes on Node side(JTF-lib) to update ATF & JTF.
 
 ## Daily Work Update
 
