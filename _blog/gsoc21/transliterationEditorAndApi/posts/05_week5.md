@@ -7,8 +7,8 @@ tags: ["week","gsoc","gsoc2020","transliterationsEditorAndAPI","week#5","eval#1"
 
 ## Week Summary
 
- 
-Work done in week summary.
+For this week I have created one express server in JTF-lib for accesing its function via framework URL and later on I Have started working on Cake Php side for creating a route to Update ATF and JTF.
+
 
 ## Daily Work Update
 
