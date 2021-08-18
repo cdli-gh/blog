@@ -6,9 +6,9 @@ tags: ["week","gsoc","gsoc2021","transliterationsEditorAndAPI","week#2","eval#1"
 ---
 
 ## Week Summary
-
- 
-Work done in week summary.
+This week I have worked on roadblocks that I have been facing for merging the code. I must say we need lint test in docker file as well. 
+due to that I have faced pipeline failure which can be solved in a couple of minutes. At last I finally made my PR ready to merge and move
+towards to completion of the first objective.
 
 ## Daily Work Update
 
