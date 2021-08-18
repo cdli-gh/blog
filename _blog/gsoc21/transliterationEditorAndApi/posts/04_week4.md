@@ -7,8 +7,9 @@ tags: ["week","gsoc","gsoc2020","transliterationsEditorAndAPI","week#4","eval#1"
 
 ## Week Summary
 
- 
-Work done in week summary.
+Continuing work on last week's CORS issue. Had a meeting with Lars about how we can tackle this issue. we agreed on temporary fix by allowing all the origins.
+Integrated a Fetch function for fetching ATF by P numbers passed in URL. Also this week there were too many issues and PRs are pending so I have Allocated PR reviews for other members so we can get done with old PRs.
+
 
 ## Daily Work Update
 
