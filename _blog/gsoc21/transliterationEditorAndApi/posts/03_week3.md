@@ -6,9 +6,7 @@ tags: ["week","gsoc","gsoc2021","transliterationsEditorAndAPI","week#3","eval#1"
 ---
 
 ## Week Summary
-
- 
-Work done in week summary.
+Initially I have tried to creating virtual directories for uqnu basically configured reverse proxy in nginx server to serve all the content on framework/uqnu/ but ran into static path issues. Then after spending a day into that I fixed that and craeted virtual directory for uqnu.
 
 ## Daily Work Update
 
