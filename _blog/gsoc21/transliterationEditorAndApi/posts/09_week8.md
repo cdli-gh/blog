@@ -7,8 +7,7 @@ tags: ["week","gsoc","gsoc2020","transliterationsEditorAndAPI","week#8","eval#2"
 
 ## Week Summary
 
- 
-Work done in week summary.
+This week, I have started with creating route for Signnames from ATFLINE so yashraj can use that. Also Created Vitual dir(reverse-proxy) for JTF-lib. now all its routes are accessible thorugh framework's URL /jtf-lib/api/<end-point name>. Also this week uqnu was getting crashed after new updates in jtf-lib. we later on realized it was express that causing an issue for react app. Then I have added patch with two different script so It can work as a npm dependency and as a container too.
 
 ## Daily Work Update
 
