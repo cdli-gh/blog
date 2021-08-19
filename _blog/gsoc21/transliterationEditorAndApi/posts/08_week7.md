@@ -6,9 +6,8 @@ tags: ["week","gsoc","gsoc2020","transliterationsEditorAndAPI","week#7","eval#2"
 ---
 
 ## Week Summary
-
- 
-Work done in week summary.
+This week was quite difficult for me. Starting with bug resolving and later on we decided to fall back on cake PHP side for making routes. It was miscommunication. 
+I have refectored the code of JTF-lib and made routes more structured.
 
 ## Daily Work Update
 
