@@ -7,7 +7,7 @@ tags: ["week","gsoc","gsoc2021","DesignChallengeAradhanaKund","week#09","eval#2"
 
 ## Week Summary
 
-Continuing..... 
+Worked on finalizing the data render on single artifact. Enhanced the frontend UI UX of single artifact based on figma nd pr description. Removed the pr discrepancies.
 
 
 ## Daily Work Update
