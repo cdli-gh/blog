@@ -6,9 +6,7 @@ tags: ["week","gsoc","gsoc2020","transliterationsEditorAndAPI","week#10","eval#2
 ---
 
 ## Week Summary
-
- 
-Work done in week summary.
+This week I have wroked on a documentaion part for the JTF-lib. Created concise docs for developers so they can understand what routes they can use for Signames,errors, and ATF-JTF. Also created a tools page in Framework for ATF to Signnames.
 
 ## Daily Work Update
 
