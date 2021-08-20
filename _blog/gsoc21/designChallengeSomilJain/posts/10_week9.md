@@ -13,8 +13,8 @@ Objective for this week was to understand working of 3D model, building emphathy
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2021/07/05	| - |  
-|2   	| Tuesday  	|   2021/07/06	| - |  
+|1   	| Monday 	|   2021/07/05	| Single Article view - Open Review  |  
+|2   	| Tuesday  	|   2021/07/06	| Single Article view - Open Review |  
 |3   	| Wednesday  	|  2021/07/07 	| Enhancing 3D viewer interface experience - Quantitative Analysis |  
 |4   	| Thursday  	|   2021/07/08	| Enhancing 3D viewer interface experience - Shortcut keys  |  
 |5   	| Friday  	|   2021/07/09	| Enhancing 3D viewer interface experience - Adding related entities like Pnumber, genre, periods etc.  |
