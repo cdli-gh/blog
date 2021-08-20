@@ -37,6 +37,9 @@ During these three months I have completed many the essential objectives of the 
 |6|Version Control for transliterations|-|Completed|
 |7|SignNames routes in JTF-lib|<a href='https://github.com/cdli-gh/jtf-lib/blob/main/docs/routes.md'>!4248d6c</a>|Merged|
 
+### What Is Left
+Storing ATF/JTF data into CDLI Database through authentication is next on my to-do list. Hence loading part has done in uqnu recently so I'll be working on this during my post GSoC period. Apart from that adding new features in uqnu wasn't in Project but I'll be working on that with mentor.
+
  
 ### Objectives and Deliverables
 
