@@ -11,8 +11,6 @@ I've been accepted for the project Transliterations editor and API,JTF is a new 
 
 The task is to integrate this infrastructure into CDLI's framework and allow crowdsourcing and individual work on texts.
 
-
-
 <i>Project:</i>
 <a target="_blank" href="https://summerofcode.withgoogle.com/projects/#4934990535589888
 ">GSoC'20</a>,
@@ -20,6 +18,15 @@ The task is to integrate this infrastructure into CDLI's framework and allow cro
 <br>
 <i>GSoC'20 Proposal:</i>
 <a href="https://docs.google.com/document/d/164nLIkiJXx0sDEcctKt-EkRGBBuD1DReiTPmoxxJCL8/edit">Link</a><br>
+
+<b>Mentors: </b> <a target="_blank" href='https://www.linkedin.com/in/ilya-khait-bb8bb228/'>Ilya khait</a> , <a target="_blank" href='https://www.linkedin.com/in/shai-gordin-3b65962/'>shai gordin</a>
+
+## GSoC Final Report and Summary.
+Getting Selected as Student Developer at CDLI under Google summer of code was an absoulte pleasure. This three month learning and contributing journey was so far the best experience I have ever had. I shall always be indebted to such a welcoming organisation and my mentors for his help.
+
+### What Was Done
+During these three months I have completed many the essential objectives of the project which includes
+
  
 ### Objectives and Deliverables
 
