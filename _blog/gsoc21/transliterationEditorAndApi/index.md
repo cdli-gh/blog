@@ -5,18 +5,28 @@ author: 'Vishv Kakadiya'
 tags: ['project', 'gsoc', 'gsoc2021', 'transliterationsEditorAndAPI']
 ---
 
-## Transliterations editor and API
-
-JTF is a new JSON-based format for transliterations that aims to make cuneiform textual data easily accessible for processing and modifications. It comes with a NodeJS API, jtf-lib,to provide an ATF format parser and converter, a CRUD interface and a module for sign list operations, jtf-signlist. A React web application, uqnu, is being developed to import transliterations from files, validate, edit, export etc.
+## Project Overview.
+I'm <a href="https://in.linkedin.com/in/nishealjohn">Vishv Kakadiya</a>, participating in Google Summer of Code 2021 with CDLI.
+I've been accepted for the project Transliterations editor and API,JTF is a new JSON-based format for transliterations that aims to make cuneiform textual data easily accessible for processing and modifications. It comes with a NodeJS API, jtf-lib,to provide an ATF format parser and converter, a CRUD interface and a module for sign list operations, jtf-signlist. A React web application, uqnu, is being developed to import transliterations from files, validate, edit, export etc.
 
 The task is to integrate this infrastructure into CDLI's framework and allow crowdsourcing and individual work on texts.
+
+
+
+<i>Project:</i>
+<a target="_blank" href="https://summerofcode.withgoogle.com/projects/#4934990535589888
+">GSoC'20</a>,
+<a target="_blank" href="https://gitlab.com/cdli/framework"> GitLab</a>
+<br>
+<i>GSoC'20 Proposal:</i>
+<a href="https://docs.google.com/document/d/164nLIkiJXx0sDEcctKt-EkRGBBuD1DReiTPmoxxJCL8/edit">Link</a><br>
  
 ### Objectives and Deliverables
 
 :heavy_check_mark: --> Completed Tasks
 :white_check_mark: --> Ongoing Tasks
 
-| \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
+| \# | Status  | Objectives                    | Associated Deliverables         | PR(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
 | 1 |:heavy_check_mark:|  Framework integration | Integrate JTF API and web application run in a framework docker container. | [#604](https://gitlab.com/cdli/framework/-/issues/604) [#605](https://gitlab.com/cdli/framework/-/issues/605) |
 | 2 |:heavy_check_mark:|  Accessibility  | Make web application accessible via a framework URL. | [#629](https://gitlab.com/cdli/framework/-/issues/629) |
