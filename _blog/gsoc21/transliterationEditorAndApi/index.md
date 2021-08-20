@@ -27,6 +27,16 @@ Getting Selected as Student Developer at CDLI under Google summer of code was an
 ### What Was Done
 During these three months I have completed many the essential objectives of the project which includes
 
+| \#  | Objectives         | Pull Requests |    Status |
+| --- | ------------------ | -------- | ------------ |
+|1|uqnu integration|<a href='https://gitlab.com/cdli/framework/-/merge_requests/314'>#314</a>|Merged|
+|2|Virtual directory for uqnu|<a href='https://gitlab.com/cdli/framework/-/merge_requests/323'>#323</a>|Merged|
+|3|CORS enabling and Fetching ATF in uqnu from the Framework|<a href='https://gitlab.com/cdli/framework/-/merge_requests/335'>#335</a>|Merged|
+|4|jtf-lib integration|<a href='https://gitlab.com/cdli/framework/-/merge_requests/357'>#357</a>|Merged|
+|5|framework's public API & JTF output function in the API|<a href='https://gitlab.com/cdli/framework/-/merge_requests/373'>#373</a>|Merged|
+|6|Version Control for transliterations|-|Completed|
+|7|SignNames routes in JTF-lib|<a href='https://github.com/cdli-gh/jtf-lib/blob/main/docs/routes.md'>!4248d6c</a>|Merged|
+
  
 ### Objectives and Deliverables
 
