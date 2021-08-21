@@ -54,9 +54,9 @@ Dealing with arcival images is the task which is now on my to-do list. We have t
 
 ### Additional Objectives
 
-| \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
-| --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
-| 1 |  | CMD Script  | CMD Script to upload archival images from web server to wasabi server. Script should handle adding, renaming files on wasabi and deleting. | - |
+| \# | Objectives         | Associated Deliverables                                             | issue(s) |
+| --- |------------------ | ------------------------------------------------------------------- | -------- |
+| 1 | CMD Script  | CMD Script to upload archival images from web server to wasabi server. Script should handle adding, renaming files on wasabi and deleting. | - |
 
 
 ### Timeline  
