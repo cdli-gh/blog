@@ -27,13 +27,13 @@ Getting selected as a student developer at CDLI under Google Summer Of Code has 
 ## What Was Done
 During these three months I have completed all the essential objectives which includes
 
-| \# | Objectives | PR/Commit/Link | Status |
-|----|-------------|----------------|--------|
-| 1 | Design Pages   | [Link](https://www.figma.com/file/jOKep53xdWK6YS6Xqtqoef/CDLI-GSoC-Design?node-id=0%3A1) | Completed  |
-| 2 | Prepare Images Table  |  [Link](https://gitlab.com/cdli/framework/-/issues/87#note_602032029)  | Completed |
-| 3  |  Work Around Web Images   |  [!355](https://gitlab.com/cdli/framework/-/merge_requests/355), [!377](https://gitlab.com/cdli/framework/-/merge_requests/377/)  | Completed   |
-| 4  |  Python Script | --  | Completed |
-| 5  | Testing Functionalities | - | Completed |
+| \# | Objectives | PR/Commit/Link | Associated Deliverables | Status |
+|----|-------------|----------------|---------|--------|
+| 1 | Design Pages   | [Link](https://www.figma.com/file/jOKep53xdWK6YS6Xqtqoef/CDLI-GSoC-Design?node-id=0%3A1) | Design the pages for viewing archival images, selecting multiple artifacts at a time, upload archival images [#609](https://gitlab.com/cdli/framework/-/issues/609) | Completed  |
+| 2 | Prepare Images Table  |  [Link](https://gitlab.com/cdli/framework/-/issues/87#note_602032029)  | Storing information regarding images in our table | [#87](https://gitlab.com/cdli/framework/-/issues/87) |Completed |
+| 3  |  Work Around Web Images   |  [!355](https://gitlab.com/cdli/framework/-/merge_requests/355), [!377](https://gitlab.com/cdli/framework/-/merge_requests/377/)  | Allowing the admins to work around the web images by giving them the option to add, edit, delete | [#87](https://gitlab.com/cdli/framework/-/issues/87) |Completed   |
+| 4  |  Python Script | --  |  A python script to extarct information and dump them in CSV. [#87](https://gitlab.com/cdli/framework/-/issues/87) | Completed |
+| 5  | Testing Functionalities | -- | Testing fucntionalities of the web images. | Completed |
 
 ## What Is Left
 Dealing with arcival images is the task which is now on my to-do list. We have to work around the conversion algorithm which can help us in displaying the images to admin on the framework and then allow them to make changes on it. 
