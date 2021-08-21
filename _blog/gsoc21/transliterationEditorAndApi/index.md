@@ -13,7 +13,7 @@ The task is to integrate this infrastructure into CDLI's framework and allow cro
 
 <i>Project:</i>
 <a target="_blank" href="https://summerofcode.withgoogle.com/projects/#4934990535589888
-">GSoC'20</a>,
+">GSoC'21</a>,
 <a target="_blank" href="https://gitlab.com/cdli/framework"> GitLab</a>
 <br>
 <i>GSoC'21 Proposal:</i>
