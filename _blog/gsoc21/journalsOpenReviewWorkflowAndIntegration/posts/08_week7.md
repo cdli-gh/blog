@@ -7,8 +7,7 @@ tags: ["week","gsoc","gsoc2021","journalsOpenReviewWorkflowAndIntegration","week
 
 ## Week Summary
 
- 
-Work done in week summary.
+Hola, in the first half of the week I completed implementing single article web view and created a view template to display it with default cdli header and footer. I removed the heder from ckeditor and corrected it to store only main content of an article. In the second half of this week, I created connection for ojs database in cdli framework and went through the complete ojs database to collect the tables required to display submission and reviewers endorsement. Once I collected all the tables, I created their models inside cdli framework and tested if its linked propoerly by creating a controller and template for submissions table.  
 
 ## Daily Work Update
 

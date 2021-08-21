@@ -7,8 +7,7 @@ tags: ["week","gsoc","gsoc2021","journalsOpenReviewWorkflowAndIntegration","week
 
 ## Week Summary
 
- 
-Work done in week summary.
+Hola, initially this week I tetsed the ojs APIs to integrate it in cdli framework to add data from ojs to cdli and worked on creating nginx configuration by changing the base_url in ojs configuration. By the end of this week, I started working on <a href="https://gitlab.com/cdli/framework/-/issues/470">Fixing journal article web view</a> I started implementing Somil's Design for single article web view and went through the latex conversion code written by Nisheal. We even decided to switch to use direct database configuration method and to ojs tables models for sharing data between ojs and cdli journals dashbaord.
 
 ## Daily Work Update
 

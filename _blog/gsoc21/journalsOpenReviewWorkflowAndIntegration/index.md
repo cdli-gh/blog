@@ -29,18 +29,18 @@ Hola, I'm <a href="https://www.linkedin.com/in/apoorva-agarwal-8420ab1b3/">Apoor
 :heavy_check_mark: --> Completed Tasks
 :man_technologist: --> Ongoing Tasks
 
-| \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
-| --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 | :heavy_check_mark: | Integrating ojs Docker Container in the framework | Downloading ojs software and creating a docker container for it | <a href="https://gitlab.com/cdli/framework/-/issues/598">#598</a> |
-| 2 | :heavy_check_mark:| Ojs workflow for submission and review of articles | Creating a workflow for open submission and open review of articles | <a href="https://gitlab.com/cdli/framework/-/issues/603">#603</a> |
-| 3 | :man_technologist:   |  Ojs Datbase Connection | Integrating API for sharing data between two dashboards | <a href="https://gitlab.com/cdli/framework/-/issues/606">#606</a> |
-| 4 | :man_technologist: | Connecting ojs module to the CDLI journals dashboard | Publishing the articles with the endorsement of the reviewers in CDLI journals dashboard | <a href="https://gitlab.com/cdli/framework/-/issues/599">#599</a>,<a href="https://gitlab.com/cdli/framework/-/issues/470">#470</a> |
+| \# | Status  | Objectives                    | Associated Deliverables         | issue(s) | PRs |
+| --- | --- | ----------------------------- | ---------------------------------------------- | -------- | -------- | 
+| 1 | :heavy_check_mark: | Integrating ojs Docker Container in the framework | Downloading ojs software and creating a docker container for it | <a href="https://gitlab.com/cdli/framework/-/issues/598">#598</a> | <a href="https://gitlab.com/cdli/framework/-/merge_requests/313">!313</a>, <a href="https://gitlab.com/cdli/framework/-/merge_requests/348">!348</a> |
+| 2 | :heavy_check_mark:| Ojs workflow for submission and review of articles | Creating a workflow for open submission and open review of articles | <a href="https://gitlab.com/cdli/framework/-/issues/603">#603</a> | - |
+| 3 | :heavy_check_mark:  |  Ojs Datbase Connection | Integrating API for sharing data between two dashboards | <a href="https://gitlab.com/cdli/framework/-/issues/606">#606</a> | <a href="https://gitlab.com/cdli/framework/-/merge_requests/374">!374</a> |
+| 4 |  :heavy_check_mark: | Connecting ojs module to the CDLI journals dashboard | Publishing the articles with the endorsement of the reviewers in CDLI journals dashboard | <a href="https://gitlab.com/cdli/framework/-/issues/599">#599</a>, <a href="https://gitlab.com/cdli/framework/-/issues/470">#470</a>, <a href="https://gitlab.com/cdli/framework/-/issues/606">#606</a>, <a href="https://gitlab.com/cdli/framework/-/issues/620">#620</a>, <a href="https://gitlab.com/cdli/framework/-/issues/659">#659</a> | <a href="https://gitlab.com/cdli/framework/-/merge_requests/374">!374</a>, <a href="https://gitlab.com/cdli/framework/-/merge_requests/368">!368</a>, <a href="https://gitlab.com/cdli/framework/-/merge_requests/326">!326</a> |
 
 ### Additional Objectives
 
 | \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
-| 1 | - | Citation Index and metrics | Citation index is to cite the articles. Display the statistics related to articles | - |
+| 1 | - | Citation Index and metrics | Citation index is to cite the articles. Display the statistics related to articles | <a href="https://gitlab.com/cdli/framework/-/issues/491">#491</a> |
 | 2 | - | DOI, ORCHID, and PUBLONS integration | Integration of DOI, ORCHID and PUBLONS in our workflow | - |
 | 3 | - | CI/CD pipeline | Setting up CI/CD with lint | - |
 
@@ -53,10 +53,10 @@ Hola, I'm <a href="https://www.linkedin.com/in/apoorva-agarwal-8420ab1b3/">Apoor
 | 3 | :heavy_check_mark: | Develop the journals index for integrating ojs | Updating CDLI journals index to create a link between CDLI journals dashboard and ojs dashboard | 
 | 4 | :heavy_check_mark: | Final Testing of ojs container | Debug the errors in ojs container and final testing of ojs container and editorial workflow | 
 | 5 | :heavy_check_mark: | Create document for ojs and solve additional issues | Create document for ojs and <a href="https://gitlab.com/cdli/framework/-/issues/575">#575</a>, <a href="https://gitlab.com/cdli/framework/-/issues/481">#481</a>, <a href="https://gitlab.com/cdli/framework/-/issues/291">#291</a> | 
-| 6 | :man_technologist: | OJS Database Connection | Sharing data between CDLI and ojs databases | 
-| 7 | :man_technologist: | Designing single article view | Remove header from latex convertor and design single article web view page |
-| 8 | :man_technologist: | Publishing Articles | Publishing articles and displaying the endorsement of reviewers | 
-| 9 | - | Using oAuth for single login, Citation index and metrics | Using oAuth so that user have to login only once in CDLI, Citation index is to cite the articles. Display the statistics related to articles |
-| 10 | - | DOI, ORCHID, and PUBLONS integration | Integration of DOI, ORCHID and PUBLONS in our workflow | 
-| 11 | - | CI/CD pipeline | Setting up CI/CD with lint  and unit testing | 
+| 6 | :heavy_check_mark: | OJS Database Connection | Sharing data between CDLI and ojs databases | 
+| 7 | :heavy_check_mark: | Designing single article view | Remove header from latex convertor and design single article web view page |
+| 8 | :heavy_check_mark: | Create ojs models connections for reviewers endorsements | Create relations between ojs models and displaying the endorsement of reviewers | 
+| 9 | :heavy_check_mark: | Write command script to move ojs submissions to cdli | Command script that will run hourly and move reviewed ojs submissions to cdli database |
+| 10 | :heavy_check_mark: | Complete leftover milestone and improvements | Completed the single article web view with reviewers endorsements, get it tested and finalized the PR. | 
+| 11 | - | Finishing the project | Testing the project and making release/production | 
   
