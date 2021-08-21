@@ -35,7 +35,7 @@ This project aims to improve the complete styling of the website using minimal s
 | 4 | :heavy_check_mark: | Add functiionality for no-js and footer styling | Making dropdowns work for no-js and fixing footer discrepancies. | [#214](https://gitlab.com/cdli/framework/-/issues/214) |
 | 5 | :heavy_check_mark: | About Us | Implementing web/tab/mobile view of About us. | [#591](https://gitlab.com/cdli/framework/-/issues/591) |
 | 6 | :heavy_check_mark: | 404 Page | Improvise and Implement the 404 Page | [#334](https://gitlab.com/cdli/framework/-/issues/334) |
-| 7 | :man_technologist: | Single Artifact View | Improvise the Single Artifact View | [#517](https://gitlab.com/cdli/framework/-/issues/517) |
+| 7 | :heavy_check_mark: | Single Artifact View | Improvise the Single Artifact View | [#517](https://gitlab.com/cdli/framework/-/issues/517) |
   
 ### Additional Objectives
 
