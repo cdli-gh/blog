@@ -7,7 +7,7 @@ tags: ['project', 'gsoc', 'gsoc2021', 'transliterationsEditorAndAPI']
 
 ## Project Overview.
 I'm <a href="https://in.linkedin.com/in/nishealjohn">Vishv Kakadiya</a>, participating in Google Summer of Code 2021 with CDLI.
-I've been accepted for the project Transliterations editor and API,JTF is a new JSON-based format for transliterations that aims to make cuneiform textual data easily accessible for processing and modifications. It comes with a NodeJS API, jtf-lib,to provide an ATF format parser and converter, a CRUD interface and a module for sign list operations, jtf-signlist. A React web application, uqnu, is being developed to import transliterations from files, validate, edit, export etc.
+I've been accepted for the project Transliterations editor and API, JTF is a new JSON-based format for transliterations that aims to make cuneiform textual data easily accessible for processing and modifications. It comes with a NodeJS API, jtf-lib, to provide an ATF format parser and converter, a CRUD interface and a module for sign list operations, jtf-signlist. A React web application, uqnu, is being developed to import transliterations from files, validate, edit, export etc.
 
 The task is to integrate this infrastructure into CDLI's framework and allow crowdsourcing and individual work on texts.
 
@@ -38,7 +38,7 @@ During these three months I have completed many the essential objectives of the 
 |7|SignNames routes in JTF-lib|<a href='https://github.com/cdli-gh/jtf-lib/blob/main/docs/routes.md'>!4248d6c</a>|Merged|
 
 ### What Is Left
-Storing ATF/JTF data into CDLI Database through authentication is next on my to-do list. Hence loading part has done in uqnu recently so I'll be working on this during my post GSoC period. Apart from that adding new features in uqnu wasn't in Project but I'll be working on that with mentor.
+Storing ATF/JTF data into CDLI Database through authentication is next on my to-do list. Hence loading part has done in uqnu recently so I'll be working on this during my post GSoC period. Apart from that adding new features in uqnu wasn't in a project but I'll be working on that with mentor.
 
  
 ### Objectives and Deliverables
@@ -48,11 +48,11 @@ Storing ATF/JTF data into CDLI Database through authentication is next on my to-
 
 | \# | Status  | Objectives                    | Associated Deliverables         | PR(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 |:heavy_check_mark:|  Framework integration | Integrate JTF API and web application run in a framework docker container. | [#604](https://gitlab.com/cdli/framework/-/issues/604) [#605](https://gitlab.com/cdli/framework/-/issues/605) |
-| 2 |:heavy_check_mark:|  Accessibility  | Make web application accessible via a framework URL. | [#629](https://gitlab.com/cdli/framework/-/issues/629) |
-| 3 |:white_check_mark: |  Database Operations  | Storing JTF data into CDLI Database. | - |
-| 4 |:heavy_check_mark:|  Version Control  | Implement version control system that efficiently stores changes to transliterations. | - |
-| 5 |:heavy_check_mark:|  JTF-LIB Integration  | JTF API integration with the framework's public API & JTF output function in the API. | [!357](https://gitlab.com/cdli/framework/-/merge_requests/357) |
+| 1 |:heavy_check_mark:|  Framework integration | Integrate JTF API and web application run in a framework docker container.| [#604](https://gitlab.com/cdli/framework/-/issues/604) [#605](https://gitlab.com/cdli/framework/-/issues/605) |
+| 2 |:heavy_check_mark:|  Accessibility  | Make web application accessible via a framework URL.| [#629](https://gitlab.com/cdli/framework/-/issues/629) |
+| 3 |:white_check_mark: |  Database Operations  | Storing JTF data into CDLI Database.| - |
+| 4 |:heavy_check_mark:|  Version Control  | Implement version control system that efficiently stores changes to transliterations.| - |
+| 5 |:heavy_check_mark:|  JTF-LIB Integration  | JTF API integration with the framework's public API & JTF output function in the API.| [!357](https://gitlab.com/cdli/framework/-/merge_requests/357) |
 
 
 ### Additional Objectives
@@ -65,15 +65,15 @@ Storing ATF/JTF data into CDLI Database through authentication is next on my to-
 
 | Week  |Objectives | Deliverables |
 |---|---|---|
-|1| Implement Docker Conatiner for uqnu |  Makes the web app up and running inside a container. |
-|2| Integrate web app in framework | Enable service that communicates between newly added and already existed containers.  |
+|1| Implement Docker Conatiner for uqnu |  Makes the web app up and running inside a container.|
+|2| Integrate web app in framework | Enable service that communicates between newly added and already existed containers.|
 |3| Database operations for JTF-data  | Make routes(Endpoint)  and controllers in CDLI backend to communicate with the service and Store JTF data in the Database along with the author and timestamp|
-|4| Version Control  | Integrating the git actions which can eventually enable version control. |
-|5| Storing and Retriving JTF-data  | Implementing the mechanism for the system that stores the data when changes occur to transliterations.  |
-|6| Tests and Fallback Plan  | Manually test the work has been done so far and write a few unit tests for this and tests for services which have been made so far and Trying a different approach if the git server won’t work as I have planned. |
+|4| Version Control  | Integrating the git actions which can eventually enable version control.|
+|5| Storing and Retriving JTF-data  | Implementing the mechanism for the system that stores the data when changes occur to transliterations.|
+|6| Tests and Fallback Plan  | Manually test the work has been done so far and write a few unit tests for this and tests for services which have been made so far and Trying a different approach if the git server won’t work as I have planned.|
 |7| Integrate version control in framework  | Integrating Version control  System with the CDLI interface.|
-|8| Communication between web app and API    | Implement a Service which can communicate to both the docker container. |
-|9| Data Accessibility  | Working on a Controller to store JTF data and make it accessible. |
-|10| Document, test add further features addons | Prepare the whole Documentation of the work I have done so far.Start working on bonus tasks, if time permits. and Create a service layer in the framework that can get requests and enable admins to approve the request. So modification of transliterations data can be done.  |
+|8| Communication between web app and API    | Implement a Service which can communicate to both the docker container.|
+|9| Data Accessibility  | Working on a Controller to store JTF data and make it accessible.|
+|10| Document, test add further features addons | Prepare the whole Documentation of the work I have done so far. Start working on bonus tasks, if time permits. and Create a service layer in the framework that can get requests and enable admins to approve the request. So modification of transliterations data can be done.|
 
 
