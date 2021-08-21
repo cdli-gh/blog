@@ -16,7 +16,7 @@ The task is to integrate this infrastructure into CDLI's framework and allow cro
 ">GSoC'20</a>,
 <a target="_blank" href="https://gitlab.com/cdli/framework"> GitLab</a>
 <br>
-<i>GSoC'20 Proposal:</i>
+<i>GSoC'21 Proposal:</i>
 <a href="https://docs.google.com/document/d/164nLIkiJXx0sDEcctKt-EkRGBBuD1DReiTPmoxxJCL8/edit">Link</a><br>
 
 <b>Mentors: </b> <a target="_blank" href='https://www.linkedin.com/in/ilya-khait-bb8bb228/'>Ilya khait</a> , <a target="_blank" href='https://www.linkedin.com/in/shai-gordin-3b65962/'>shai gordin</a>
