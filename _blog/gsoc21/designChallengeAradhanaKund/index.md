@@ -56,9 +56,8 @@ This project aims to improve the complete styling of the website using minimal s
 | 5 | :heavy_check_mark: | 404 Page , About Us Page, footer style fix and Resources Header Dropdown | Implement the final skeleton for Resources Page Dropdown for js and no js users along with the pre population of raw image scan artifacat number and Edge. | - |
 | 6 | :heavy_check_mark: | Header fix for no-js, side nav fix and resource page Implementation | Making dropdowns work for no-js and fixing footer discrepancies. Also preparing skeleton for resource page(js) | - |
 | 7 | :heavy_check_mark: | Accordions Accessibility and design improve | Made the accordions pretty and accessible for js and no-js , also prepared documentation of periods page and browse page. | - |
-| 8 | :heavy_check_mark: |  Single artifact view UI | Work on improving the single artifact view according to the design . | - |
-| 9 | :man_technologist: | Improvise the expanded search results page | - |
-| 10 |  |  | - |
+| 8 | :heavy_check_mark: | Single Artifact UI and About us timeline | Implemented the Single Artifact UI and prepared web and mobile view of about us timeline. | - |
+| 9 | :heavy_check_mark: | Single artifact view UI improvisations and data rendering | Work on improving the single artifact view according to the design and rendered data according to pr description. | - |
+| 10 | :man_technologist: | Improvise the expanded search results page and removed single artifact pr discrepancies | - |
 | 11 |  |  | - |
 | 12 |  |  | - |
-  
