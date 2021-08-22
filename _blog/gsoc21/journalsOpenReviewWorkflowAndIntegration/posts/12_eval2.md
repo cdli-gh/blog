@@ -20,7 +20,7 @@ Now, an article can be submitted for open review and be managed by editors in oj
 | 1 | Ojs Database Connection | Setup Ojs Database Connection and create relations between ojs models | :heavy_check_mark: |
 | 2 | Write command script to move ojs submissions to cdli | Command script that will run hourly and move reviewed ojs submissions to cdli database | :heavy_check_mark: |
 | 3 | Designing single article view | Remove header from latex convertor and design single article web view page |  :heavy_check_mark: |
-| 4 | Displaying reviewers endorsements | Develop review page to display reviewers endorsements on article web page | :heavy_check_mark |
+| 4 | Displaying reviewers endorsements | Develop review page to display reviewers endorsements on article web page | :heavy_check_mark: |
 
 ## Learning and Success
 

@@ -58,5 +58,5 @@ Hola, I'm <a href="https://www.linkedin.com/in/apoorva-agarwal-8420ab1b3/">Apoor
 | 8 | :heavy_check_mark: | Create ojs models connections for reviewers endorsements | Create relations between ojs models and displaying the endorsement of reviewers | 
 | 9 | :heavy_check_mark: | Write command script to move ojs submissions to cdli | Command script that will run hourly and move reviewed ojs submissions to cdli database |
 | 10 | :heavy_check_mark: | Complete leftover milestone and improvements | Completed the single article web view with reviewers endorsements, get it tested and finalized the PR. | 
-| 11 | - | Finishing the project | Testing the project and making release/production | 
+| 11 | :heavy_check_mark: | Finishing the project | Testing the project and making release/production | 
   
