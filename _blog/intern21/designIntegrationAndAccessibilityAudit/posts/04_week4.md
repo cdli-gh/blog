@@ -8,7 +8,7 @@ tags: ["week","intern","intern2021","designIntegrationAndAccessibilityAudit","we
 ## Week Summary
 
  
-Work done in week summary.
+Add controllers for Staff image upload, Update Add and Edit forms to upload images. Implement new paginator for Search
 
 ## Daily Work Update
 
@@ -19,5 +19,5 @@ Work done in week summary.
 |3   	| Wednesday  	|  2021/06/30 	| Provide image validation and create image field in database |  
 |4   	| Thursday  	|   2021/07/01	| Show image on view and index staff pages |  
 |5   	| Friday  	|   2021/07/02	| Improve Search Paginator |  
-|6   	| Saturday  	|   2021/07/03	| 	|  
+|6   	| Saturday  	|   2021/07/03	| Netflix and Chill ;)	|  
 |7   	| Sunday  	|   2021/07/04	| Testing, Implementing additional suggested changes and Weekly Design meet |  
