@@ -8,7 +8,7 @@ tags: ["week","intern","intern2021","designIntegrationAndAccessibilityAudit","we
 ## Week Summary
 
  
-Work done in week summary.
+Setup up Demo accessibility tests using Gitlab-Pa11y-CI in CDLI forked repo, Add Artifact ID validation in PostingTable, Add Author picker in add and edit staff pages.
 
 ## Daily Work Update
 
@@ -19,5 +19,6 @@ Work done in week summary.
 |3   	| Wednesday  	|  2021/07/28	 	| Setup Demo accessibility tests in pipelines using Gitlab-Pa11y-CI |  
 |4   	| Thursday  	|   2021/07/29		| Add python script to run Pa11y-CI locally |  
 |5   	| Friday  	|   2021/07/30		| Add Search Feature in Author Dropdown (Add and Edit Staff Page)|  
-|6   	| Saturday  	|   2021/07/31		| 	|  
-|7   	| Sunday  	|  2021/08/1		| Meet with Nisheal regarding setting up accessibility tests in pipelines |  
+|6   	| Saturday  	|   2021/07/31		| Meet with Nisheal regarding setting up accessibility tests in pipelines	|  
+|7   	| Sunday  	|  2021/08/1		| Testing, Implementing additional suggested changes and Weekly Design meet |  
+
