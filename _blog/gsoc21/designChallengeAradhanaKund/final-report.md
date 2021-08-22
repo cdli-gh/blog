@@ -166,7 +166,7 @@ The aim of the project was to enhance the UI, UX and accessibility of CDLI Users
 
       | Search Result accordions |
       | :---:	|
-      | ![Screenshot from 2021-07-20 13-59-51](https://user-images.githubusercontent.com/73130056/130348774-98f7ad32-85a6-46cb-be5d-22e8e77f491d.png) |
+      | ![Screenshot from 2021-07-20 23-36-59](https://user-images.githubusercontent.com/73130056/130353181-2967ef12-3007-46ba-87f5-f629408a38a2.png) |
 
       </center>
       
