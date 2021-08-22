@@ -8,7 +8,7 @@ tags: ["week","intern","intern2021","designIntegrationAndAccessibilityAudit","we
 ## Week Summary
 
  
-Work done in week summary.
+Implement regex validation in Artifact ID field, Make dockerfile for Pa11y-CI using  buildkite/puppeteer image.
 
 ## Daily Work Update
 
@@ -20,4 +20,4 @@ Work done in week summary.
 |4   	| Thursday  	|  2021/08/05		| Update Posting Controller to trim P letter from Artifact ID <br/> Fix Add Posting Error <br/> Change Lang field (Add and Edit Posting Page) to dropdown |  
 |5   	| Friday  	|  2021/08/06		| Add Author picker for Add and Edit Staff Page |  
 |6   	| Saturday  	|   2021/08/07		| 	|  
-|7   	| Sunday  	|   2021/08/08		|  |  
+|7   	| Sunday  	|   2021/08/08		| Testing, Implementing additional suggested changes and Weekly Design meet |  
