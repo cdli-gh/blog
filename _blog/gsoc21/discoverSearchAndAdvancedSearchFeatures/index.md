@@ -10,8 +10,9 @@ tags: ['project', 'gsoc', 'gsoc2021', 'discoverySearchAndAdvancedSearchFeatures'
 Hi 👋, I am [Yashraj Desai](https://www.linkedin.com/in/yashraj-desai-55a78a1a5/) ! I worked on "Discovery Search and Advanced Search Features" project under CDLI organisation for GSoC '21. 
 The project mainly focuses on enhancing the Search and Advanced search features in the CDLI framework and adding new features to it using [Elasticsearch](https://www.elastic.co/elasticsearch/) and [CakePHP](https://cakephp.org/).
 
-<i>Proposal Link</i> : [Discovery search and advanced search features](https://docs.google.com/document/d/1WEeNnALSUN4yecCbYxuDyMNUMOzkGcev6Dss4XuNydc/edit#)\
-<i>Contributions to CDLI</i> : [Link](https://gitlab.com/cdli/framework/-/merge_requests?scope=all&state=all&author_username=yashrajdesai30)
+<i>Proposal</i> : [Discovery search and advanced search features](https://docs.google.com/document/d/1WEeNnALSUN4yecCbYxuDyMNUMOzkGcev6Dss4XuNydc/edit#)\
+<i>Contributions to CDLI</i> : [Link](https://gitlab.com/cdli/framework/-/merge_requests?scope=all&state=all&author_username=yashrajdesai30)\
+<i>Final Report</i> : [Report](https://github.com/yashrajdesai/GSoC-2021-Report/blob/main/README.md#-google-summer-of-code-2021-)
 
 Mentor : [Vedant Wakalkar](https://www.linkedin.com/in/karna98/)
 
