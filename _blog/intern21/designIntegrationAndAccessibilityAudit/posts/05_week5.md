@@ -7,8 +7,7 @@ tags: ["week","intern","intern2021","designIntegrationAndAccessibilityAudit","we
 
 ## Week Summary
 
- 
-Work done in week summary.
+ Implement new design for Add and Edit Posting Page, Worked on 404 Artifact SVG, Fix Pagination error
 
 ## Daily Work Update
 
