@@ -8,7 +8,7 @@ tags: ["week","intern","intern2021","designIntegrationAndAccessibilityAudit","we
 ## Week Summary
 
  
-Work done in week summary.
+Check accessibility of Admin Dashboard, Browse, Contribute, Resourse and Home page using NVDA screen reader and Axe Dev Tools.
 
 ## Daily Work Update
 
@@ -20,4 +20,4 @@ Work done in week summary.
 |4   	| Thursday  	|   2021/07/22	| Check and improve accessibility for Resource and Contribute Page |  
 |5   	| Friday  	|   2021/07/23	| Research for Search table view Horizontal Scrollbar |  
 |6   	| Saturday  	|   2021/07/24	| 	|  
-|7   	| Sunday  	|   2021/07/25	|  |  
+|7   	| Sunday  	|   2021/07/25	| Testing, Implementing additional suggested changes and Weekly Design meet |  
