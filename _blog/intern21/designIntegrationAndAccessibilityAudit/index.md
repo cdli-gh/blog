@@ -57,7 +57,7 @@ My first Internship with CDLI was such an amazing and new experience for me and 
 |1| :heavy_check_mark: | Accessibility Enhancement | Testing of pages using screen reader and Axe DevTool and implement changes to improve accessibility |
 |2| :heavy_check_mark:| Internet Explorer Support | Improve Compatibility of framework in Internet Explorer for it's users |
 |3| :heavy_check_mark: | Track No JS Users |  Tracking users visits with Javascript disabled in Google Analytics using Google Tag Manager  |
-|4| :white_check_mark: | Staff Page | Develop Add and Edit forms for Staff page with image upload feature for staff members |
+|4| :heavy_check_mark: | Staff Page | Develop Add and Edit forms for Staff page with image upload feature for staff members |
 |5| :heavy_check_mark: | Posting Page | Develop Add and Edit forms for Posting and Check for it's Accessibility |
 |6| :heavy_check_mark: | Web Accessibility - I | Test accessibility of new implemented Admin Dashboard and Design Broken Artifact SVG for 404 error pages | 
 |7| :heavy_check_mark: | Accessibility Tests - I | Running Pa11y-CI in Docker container and configuring it with Chromium Browser (headless chrome)  |
