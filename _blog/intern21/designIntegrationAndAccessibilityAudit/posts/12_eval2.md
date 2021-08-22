@@ -14,7 +14,7 @@ In phase 2, I’ve develop Add and Edit form for Posting with regex validation i
 | --- | ------------------ | ------------------------------------------------------------------- | -------- | -------- |
 | 1 | Posting Page | Develop Add and Edit pages for Posting and Check for it's Accessibility | [#464](https://gitlab.com/cdli/framework/-/issues/464) | Completed |
 | 2 | Staff Page | Develop Add and Edit pages for Staff page with image upload feature for staff members | [#484](https://gitlab.com/cdli/framework/-/issues/484) | Completed |
-| 4 | Accessibility Tests | Setup Automated Accessibility Tests in pipelines | [#600](https://gitlab.com/cdli/framework/-/issues/600), [#164](https://gitlab.com/cdli/framework/-/issues/164) | Completed |
+| 4 | Accessibility Tests | Setup Automated Accessibility tests in pipelines which can also be run locally | [#600](https://gitlab.com/cdli/framework/-/issues/600), [#164](https://gitlab.com/cdli/framework/-/issues/164) | Completed |
 
 
 
