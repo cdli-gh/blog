@@ -31,7 +31,7 @@ This project aims to improve the complete styling of the website using minimal s
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
 | 1 | :heavy_check_mark: | Redesigning and Implementing the periods page | Implementing periods page for web/tab/mobile view | [#251](https://gitlab.com/cdli/framework/-/issues/251) |
 | 2 | :heavy_check_mark: | Implementing Admin Dashboard | Implementing web/tab/mobile view of admin dashboard | [#75](https://gitlab.com/cdli/framework/-/issues/75) |
-| 3 | :heavy_check_mark: | Resources Page | Implementing web/tab/mobile view of about us and Resources Page | [#209](https://gitlab.com/cdli/framework/-/issues/209) |
+| 3 | :heavy_check_mark: | Resources Page | Implementing web/tab/mobile view of Resources Page | [#209](https://gitlab.com/cdli/framework/-/issues/209) |
 | 4 | :heavy_check_mark: | Add functiionality for no-js and footer styling | Making dropdowns work for no-js and fixing footer discrepancies. | [#214](https://gitlab.com/cdli/framework/-/issues/214) |
 | 5 | :heavy_check_mark: | Accordion styling and accessibility fix. | The old accordions have enhanced styling and accessibility for js as well as no-js users. | [#660](https://gitlab.com/cdli/framework/-/issues/660) |
 | 6 | :heavy_check_mark: | About Us | Implementing web/tab/mobile view of About us. | [#591](https://gitlab.com/cdli/framework/-/issues/591) |
