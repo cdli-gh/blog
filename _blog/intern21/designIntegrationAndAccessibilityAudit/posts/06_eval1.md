@@ -14,7 +14,7 @@ In the last five weeks of my internship milestone 1, I’ve improved the framewo
 | --- | ------------------ | ------------------------------------------------------------------- | -------- | -------- |
 | 1 | Internet Explorer Support | Improve Compatibility of framework in Internet Explorer for it's users | [#500](https://gitlab.com/cdli/framework/-/issues/500) | Completed |
 | 2 | Track No JS Users | Track users visits with Javascript disabled in Google Analytics | [#499](https://gitlab.com/cdli/framework/-/issues/499) | Completed |
-| 3 | Web Accessibility | Test (using screen reader and Axe DevTool) and Provide accessibility for pages inside framework | [#611](https://gitlab.com/cdli/framework/-/issues/611)  | Completed |
+| 3 | Web Accessibility | Testing web pages using screen reader and Axe DevTool and improving web accessibility by following WCAG guidelines | [#611](https://gitlab.com/cdli/framework/-/issues/611)  | Completed |
 
 
 
