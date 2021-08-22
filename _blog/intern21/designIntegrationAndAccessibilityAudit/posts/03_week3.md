@@ -8,7 +8,7 @@ tags: ["week","intern","intern2021","designIntegrationAndAccessibilityAudit","we
 ## Week Summary
 
  
-Work done in week summary.
+Setup google Tag manager (Add custom tags and properties) and configure google analytics (Add new Non Javascript Property) to track non javascipt users.
 
 ## Daily Work Update
 
