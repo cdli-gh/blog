@@ -43,6 +43,10 @@ Storing ATF/JTF data into CDLI Database through authentication is next on my to-
  
 ### Objectives and Deliverables
 
+#### Key objective
+![UntitledTask 3](https://user-images.githubusercontent.com/37216460/130475529-6ca24171-44f5-43b4-9d61-db15aad7191e.png)
+
+
 :heavy_check_mark: --> Completed Tasks
 :white_check_mark: --> Ongoing Tasks
 
