@@ -32,8 +32,8 @@ My projects will be about HCI and UI part of the framework, where I will be desi
 | \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
 | 1 | :heavy_check_mark: | Search  | Styling of transliteration, expanded view, compact view and Mobile UI |        |
-| 2 | :heavy_check_mark: |  Review UI on published articles, filters on index opages of CDLJ,CDLB  | |  
-| 3 |  |   |  |  |
+| 2 | :heavy_check_mark: | Journals | Review UI on published articles, filters on index opages of CDLJ,CDLB   | |  
+| 3 | :heavy_check_mark: |  Citation | Citation UI for JS as well as no JS users |  |
 | 4 |  |   |  |  |
 | 5 |  |   |  |  |
 | 6 |  |   |  |  |
