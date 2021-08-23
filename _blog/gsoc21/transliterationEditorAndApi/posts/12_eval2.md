@@ -31,4 +31,4 @@ I have learned key things like How NPM dependency work and things to keep in min
 I faced some difficulties while working on CakePHP and JTF-lib as a npm package in uqnu.
 
 ## Plan update
-Storing ATF/JTF in uqnu is next on my to-do list and adding more features in uqnu.
+Storing ATF/JTF in database through uqnu is next on my to-do list and adding more features in uqnu.
