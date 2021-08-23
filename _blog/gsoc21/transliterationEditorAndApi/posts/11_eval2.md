@@ -8,12 +8,12 @@ tags: ["eval","gsoc","gsoc2021","transliterationsEditorAndAPI","eval#2"]
 ## Summary
 After successfully completing the 1st evaluation. The following tasks were accomplished by me :
 
-"*" JTF-lib Integration
-"*" Virtual Directory for JTF-lib
-"*" framework’s public API & JTF output function in the API
-"*" Fixing major bugs in uqnu
-"*" SignNames routes in JTF-lib
-"*" ATF checker routes in JTF-lib
+- JTF-lib Integration
+- Virtual Directory for JTF-lib
+- framework’s public API & JTF output function in the API
+- Fixing major bugs in uqnu
+- SignNames routes in JTF-lib
+- ATF checker routes in JTF-lib
 
 
 ## Objectives and Deliverables
