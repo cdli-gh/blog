@@ -7,7 +7,7 @@ tags: ["week","gsoc","gsoc2020","designChallengeSomilJain","week#5","eval#1"]
 
 ## Week Summary
 
-Objective for this week was 404 page, About us page and intial research and testing of single artifact.
+Objective for this week was to style the transliterations in more readable way, implement them in search results and the compact search table expanded view
 
 ## Daily Work Update
 
