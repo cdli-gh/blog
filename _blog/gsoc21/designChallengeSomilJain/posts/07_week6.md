@@ -7,7 +7,7 @@ tags: ["week","gsoc","gsoc2020","designChallengeSomilJain","week#5","eval#1"]
 
 ## Week Summary
 
-Objective for this week is search results page. Currently it is cluttered with many options before actual search results.
+Objective for this week is search results page. Currently it is cluttered with many options before actual search results then categorize options on basis of heirarchy of their often usage, which should be followed by user testing of the prototype.
 
 ## Daily Work Update
 
