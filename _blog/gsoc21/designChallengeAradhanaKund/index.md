@@ -59,6 +59,6 @@ This project aims to improve the complete styling of the website using minimal s
 | 7 | :heavy_check_mark: | Accordions Accessibility and design improve | Made the accordions pretty and accessible for js and no-js , also prepared documentation of periods page and browse page. | - |
 | 8 | :heavy_check_mark: | Single Artifact UI and About us timeline | Implemented the Single Artifact UI and prepared web and mobile view of about us timeline. | - |
 | 9 | :heavy_check_mark: | Single artifact view UI improvisations and data rendering | Work on improving the single artifact view according to the design and rendered data according to pr description. | - |
-| 10 | :man_technologist: | Improvise the expanded search results page and removed single artifact pr discrepancies | - |
+| 10 | :heavy_check_mark: | Improvise the expanded search results page and removed single artifact pr discrepancies | Completed preparing web view of expanded search results and removed single artifact pr discrepancies. |
 | 11 |  |  | - |
 | 12 |  |  | - |
