@@ -7,7 +7,7 @@ tags: ["week","gsoc","gsoc2020","designChallengeSomilJain","week#8","eval#2"]
 
 ## Week Summary
 
-Objective for this week is search results page. Currently it is cluttered with many options before actual search results.
+This week I completed the left over of single artifact page which were observed in testing phase. After that I focused on mobile interface of artifact page, prototyping it then finally testing it.
 
 ## Daily Work Update
 
@@ -18,5 +18,5 @@ Objective for this week is search results page. Currently it is cluttered with m
 |3   	| Wednesday  	|  2021/07/04 	| Single Artifact - View full image with transliteration. |  
 |4   	| Thursday  	|   2021/07/05	| Single Artifact - Mobile View.  |  
 |5   	| Friday  	|   2021/07/06	| Single Artifact - Mobile View. |
-|6   	| Saturday  	|   2021/07/07	| - |  
-|7   	| Sunday  	|   2021/07/08	| - |
+|6   	| Saturday  	|   2021/07/07	| Prototyping and testing |  
+|7   	| Sunday  	|   2021/07/08	| Analyzing and working on the testing results |
