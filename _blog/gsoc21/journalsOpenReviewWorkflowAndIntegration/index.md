@@ -40,7 +40,7 @@ Hola, I'm <a href="https://www.linkedin.com/in/apoorva-agarwal-8420ab1b3/">Apoor
 
 | \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
-| 1 | - | Citation Index and metrics | Citation index is to cite the articles. Display the statistics related to articles | <a href="https://gitlab.com/cdli/framework/-/issues/491">#491</a> |
+| 1 | :man_technologist: | Citation Index and metrics | Citation index is to cite the articles. Display the statistics related to articles | <a href="https://gitlab.com/cdli/framework/-/issues/491">#491</a> |
 | 2 | - | DOI, ORCHID, and PUBLONS integration | Integration of DOI, ORCHID and PUBLONS in our workflow | - |
 | 3 | - | CI/CD pipeline | Setting up CI/CD with lint | - |
 
