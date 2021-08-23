@@ -31,9 +31,9 @@ My projects will be about HCI and UI part of the framework, where I will be desi
 
 | \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
-| 1 | :heavy_check_mark: | Additional Task Objective  | Additional Task Deliverables | Issue Link        |
-| 2 |  |   | History for Admin dashboard |  |
-| 3 | :heavy_check_mark: |   |Review UI on published articles, filters on index opages of CDLJ,CDLB  |  |
+| 1 | :heavy_check_mark: | Search  | Styling of transliteration, expanded view, compact view and Mobile UI |        |
+| 2 | :heavy_check_mark: |  Review UI on published articles, filters on index opages of CDLJ,CDLB  | |  
+| 3 |  |   |  |  |
 | 4 |  |   |  |  |
 | 5 |  |   |  |  |
 | 6 |  |   |  |  |
