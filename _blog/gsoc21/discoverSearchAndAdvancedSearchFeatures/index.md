@@ -16,10 +16,6 @@ The project mainly focuses on enhancing the Search and Advanced search features 
 
 Mentor : [Vedant Wakalkar](https://www.linkedin.com/in/karna98/)
 
-## GSoC Final Report and Summary.
-Participating in GSoC was a great learning curve for me, I faced alot of challenges in this journey which helped me in learning new skills.
-I shall always be indebted to such a welcoming organisation to help me enhance my coding skills.
-
 ### Objectives and Deliverables
 
 | \# | Objectives                    | Associated Deliverables         | issue(s) | Pull Requests |    Status |
@@ -42,8 +38,6 @@ I shall always be indebted to such a welcoming organisation to help me enhance m
 ### What Is Left
 * Robust testing and documentation of all the newly added features.
 * Once Lars and Vishv are done with API integration, sanitised version of sign values and sign names can be stored in the database when user adds/edits inscriptions.
-
-
 
 ### Tentative timeline  
 
