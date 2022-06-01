@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Towards a General-Purpose Entity-Bibliography Linking System
+title: Week 6
 author: 'Circle Chen'
 tags: ["week","gsoc","gsoc2022","towardsAGeneralPurposeEntityBibliographyLinkingSystem","week#6","eval#1"]
 ---
