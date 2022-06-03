@@ -33,7 +33,7 @@ Project Description
 
 | Week  |Objectives | Deliverables |
 |---|---|---|
-|1| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world \n :heavy_check_mark: hello world <br> :raised_hands: hello world|
+|1| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
 |2| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
 |3| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
 
