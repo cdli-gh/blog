@@ -25,4 +25,4 @@ A short description on complete outcome of GSoC 2021 program goes here.
 | 5  | Apertium - Phrase-based MT system| [Himanshu Choudhary]()       | [Christian Chiarcos](), [Rachit Bansal]() |
 | 6  | Morphological Parser for Sumerian | [Mohammad Sameer]() | [Christian Chiarcos](), [Max Ionov]()                                                                             |
 | 7  | New Features and Usability Enhancement| [Shivoham Angal]()     | [Émilie Pagé-Perron](https://www.wolfson.ox.ac.uk/person/emilie-page-perron), [David Wong]()
-| 8  | Design Challenge I | [UtkarshTiwari]()     | [Somil Jain](), [Mohit Sharma]()                                                  |
+| 8  | Design Challenge I | [UtkarshTiwari](https://gitlab.com/UtkarshTiwari123)     | [Somil Jain](), [Mohit Sharma]()                                                  |
