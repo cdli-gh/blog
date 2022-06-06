@@ -18,7 +18,7 @@ A short description on complete outcome of GSoC 2021 program goes here.
 
 | \# | Project                                       | Student                                                                | Mentors                                                                                                                           |
 | -- | --------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 1  | Seals Portal | [Aditi Singh]() | [Jacob Dahl](https://www.orinst.ox.ac.uk/people/jacob-l-dahl), [situx]()               |
+| 1  | Seals Portal | [Aditi Singh](https://www.linkedin.com/in/aditi-singh-774267194/) | [Jacob Dahl](https://www.orinst.ox.ac.uk/people/jacob-l-dahl), [situx]()               |
 | 2  | Search Enhancements | [Ajinkya]()     | [Yashraj Desai](), [Lars Willighagen]()                                                                 |
 | 3  | Improve the credits: ownership and licencing of digital assets | [Chidiebere]()                | [Émilie Pagé-Perron](https://www.wolfson.ox.ac.uk/person/emilie-page-perron), [David Wong]()               |
 | 4  | Towards a General-Purpose Entity-Bibliography Linking System| [Circle Chen]()           | [Émilie Pagé-Perron](https://www.wolfson.ox.ac.uk/person/emilie-page-perron), [Adam Anderson]()        |
