@@ -24,7 +24,7 @@ Project Description
 | 6 |:white_check_mark:|  Show stats for search results | Static Data visualizations to represent an overview of the corpus | [!863](https://gitlab.com/cdli/framework/-/issues/863) |
 | 7 |:white_check_mark:|  Encode Elasticsearch queries using JSON |  Developers will be able to write elasticsearch queries more systematically | [!318]() |
 | 8 |:white_check_mark:|   Extend free search | Free search would now include Comments field | [!996](https://gitlab.com/cdli/framework/-/issues/996) |
-
+| 9 |:white_check_mark:|   Complete Documentation | Two types of documents: User and Developer would be created with respect to search | [!675](https://gitlab.com/cdli/framework/-/issues/675) |
 
 ### Additional Objectives
 
@@ -40,6 +40,11 @@ Project Description
 
 | Week  |Objectives | Deliverables |
 |---|---|---|
-|1| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
-|2| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
-|3| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
+|1 and 2| :white_check_mark: Optimize search filters  |  :heavy_check_mark: Filtering would become faster <br/> :heavy_check_mark: Filtering would be done before applying filters|
+|3 and 4| :white_check_mark: Show number of hits in the parenthesis <br/> :white_check_mark: Search Filter Problem  |  :heavy_check_mark: Users will be able see number of hits in the parenthesis before applying a filter <br/> :heavy_check_mark: The filters would now return the intersection of all the applied filters|
+|5| :white_check_mark: Search breaks when searching for a certain string <br/> :white_check_mark: search children entities |  :heavy_check_mark: Search would be fixed for the strings which were breaking earlier <br/> :heavy_check_mark: child, grandchild would be included in the search result for a parent |
+|6| :white_check_mark: Buffer week  |  :heavy_check_mark: Report for phase 1 <br/> :heavy_check_mark: code submission for phase 1|
+|7 and 8| :white_check_mark: Show stats for search results  |  :heavy_check_mark: Static Data visualizations to represent an overview of the corpus <br/> :heavy_check_mark: Dynamic data visualizations after filters have been applied so that the user gets a better understanding of how many different results are present inside each filter|
+|9 and 10| :white_check_mark: Encode Elasticsearch queries using JSON <br/> :white_check_mark: Extend free search |  :heavy_check_mark: Developers will be able to write elasticsearch queries more systematically <br/> :heavy_check_mark: Free search would now include Comments field|
+|11| :white_check_mark: Complete Documentation  |  :heavy_check_mark: Two types of documents: User and Developer would be created with respect to search|
+|12| :white_check_mark: Buffer week |  :heavy_check_mark: Submit the code <br/> :heavy_check_mark: Submit the final project report|
