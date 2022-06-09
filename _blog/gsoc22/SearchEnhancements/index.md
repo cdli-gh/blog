@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Search Enhancements
-author: 'Ajinkya'
+author: 'Ajinkya Morankar'
 tags: ['project', 'gsoc', 'gsoc2022', 'searchEnhancements']
 ---
 
