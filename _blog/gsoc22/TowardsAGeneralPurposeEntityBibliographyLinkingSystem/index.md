@@ -16,16 +16,18 @@ Project Description
 
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 |:heavy_check_mark:|  hello world | hello world | [!318]() |
-| 2 |:white_check_mark:|  hello world | hello world | [!318]() |
+| 1 |:white_check_mark:| Adapt the old reference database system to the new one. | hello world | [!318]() |
+| 2 |:white_check_mark:| Clean the current bibliography data. | hello world | [!318]() |
+| 3 |:white_check_mark:| Identify different types of entity that may be extracted. | hello world | [!318]() |
+| 4 |:white_check_mark:| Populate the database system with new entity data. | hello world | [!318]() |
+| 5 |:white_check_mark:| Enable single publication file submission. | hello world |[!318]() |
 
 
 ### Additional Objectives
 
 | \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
-| 1 | :heavy_check_mark: | hello world  | hello world |    [!318]()     |
-| 1 | :white_check_mark: | hello world  | hello world |    [!318]()     |
+| 1 | :heavy_check_mark: | Enable bulk-uploading submission.  | hello world |    [!318]()     |
 
 
 ### Tentative timeline
@@ -34,6 +36,5 @@ Project Description
 
 | Week  |Objectives | Deliverables |
 |---|---|---|
-|1| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
-|2| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
-|3| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
+|1| :white_check_mark: Adapt the old reference database system to the new one.  |  :white_check_mark: hello world <br/> :white_check_mark: hello world <br> :raised_hands: hello world|
+|2| :white_check_mark: Adapt the old reference database system to the new one.  |  :white_check_mark: hello world <br/> :white_check_mark: hello world <br> :raised_hands: hello world|
