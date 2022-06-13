@@ -9,15 +9,15 @@ tags: ["week","gsoc","gsoc2022","towardsAGeneralPurposeEntityBibliographyLinking
 
 The focus of this week will be to adapt the old referencing system to the new one. Currently, we have the ``artifacts`` table in the database and the ``publications`` table, as well as an ``artifacts_publications`` join table that describes associations between the artifacts and publications.
 
-However, a publication may refer to more entities than just ``artifacts``. Therefore, it is necessary to replace ``artifacts_publications`` with a new join table called ``generic_entities_publications``, which represents the relationship between ``publications`` and all other types of entities.
+However, a publication may refer to more entities than just ``artifacts``. Therefore, it is necessary to replace ``artifacts_publications`` with a new join table called ``entities_publications``, which represents the relationship between ``publications`` and all other types of entities.
 
-The first step is to populate ``generic_entities_publications`` with the entries of ``artifacts_publications``, and then ensure nothing is wrong here.
+The first step is to populate ``entities_publications`` with the entries of ``artifacts_publications``, and then modify the cakePHP application to ensure everything is holding up alright.
 
 ## Daily Work Update
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2022/06/13	|  |  
+|1   	| Monday 	|   2022/06/13	| - Contacted Rune about getting provenience-publication data <br/> - Inclusion of ``exact_referece``,``publication_type``, as well as ``publication_comments`` in ``entities_publications`` |  
 |2   	| Tuesday  	|   2022/06/14	| 	|  
 |3   	| Wednesday |  2022/06/15 	|  |  
 |4   	| Thursday  |   2022/06/16	|  |  
