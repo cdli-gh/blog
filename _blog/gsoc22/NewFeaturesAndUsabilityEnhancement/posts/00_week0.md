@@ -13,10 +13,10 @@ Week Work summary goes here
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2022/01/01	| Fixed the artifact_id and new_artifact_id fields in retired_artifacts table |  
-|2   	| Tuesday  	|   2022/01/01	| Started making index page for retired artifacts & tried joining artifacts and retired_artifacts tables	|  
-|3   	| Wednesday |  2022/01/01 	|  |  
-|4   	| Thursday  |   2022/01/01	|  |  
-|5   	| Friday  	|   2022/01/01	|  |  
-|6   	| Saturday  |  2022/01/01	|  |  
-|7   	| Sunday  	|   2022/01/01	|  |  
+|1   	| Monday 	|   2022/06/13	| Fixed the artifact_id and new_artifact_id fields in retired_artifacts table |  
+|2   	| Tuesday  	|   2022/06/14	| Updated Entity files, started making index page for retired artifacts & tried joining artifacts and retired_artifacts tables	|  
+|3   	| Wednesday |  2022/06/15 	|  |  
+|4   	| Thursday  |   2022/06/16	|  |  
+|5   	| Friday  	|   2022/06/17	|  |  
+|6   	| Saturday  |  2022/06/18	|  |  
+|7   	| Sunday  	|   2022/06/19	|  |  
