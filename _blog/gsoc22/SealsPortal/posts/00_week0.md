@@ -15,7 +15,7 @@ Week Work summary goes here
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2022/06/13	| Contacted Jacob and Timo regarding the data and structure of the image_annotations table |  
 |2   	| Tuesday  	|   2022/06/14	| Created image_annotations and annotation_types table, awaiting for mentors review on structure of table	|  
-|3   	| Wednesday |  2022/06/15 	|  |  
+|3   	| Wednesday |  2022/06/15 	| Added data to image_annotations table and sent for review |  
 |4   	| Thursday  |   2022/06/16	|  |  
 |5   	| Friday  	|   2022/06/17	|  |  
 |6   	| Saturday  |  2022/06/18	|  |  
