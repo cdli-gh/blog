@@ -8,7 +8,19 @@ tags: ['project', 'gsoc', 'gsoc2022', 'searchEnhancements']
 
 ## Search Enhancements
 
-Project Description 
+This project mainly focuses on updating and improving
+the current search features. The search setup has been
+completed under past programs of GSOC and hence the
+documentation of it is needed which would also be
+covered under the scope of this project. I would be
+adding features which would help the user to get a 
+understanding of filtering system and also try to change
+the way we write Elasticsearch queries in dev files so that it
+is easier to understand and update them.This also includes solving 
+some current search related issues present in the framework. As 
+everyone is aware of the indexing issues with logstash I shall also 
+devote some of my research time to find a better schedule or method 
+to make indexing more developer friendly.     
 
 ### Objectives and Deliverables
 
