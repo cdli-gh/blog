@@ -18,7 +18,7 @@ The first step is to populate ``entities_publications`` with the entries of ``ar
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2022/06/13	| - Contacted Rune about getting provenience-publication data <br/> - Inclusion of ``exact_referece``,``publication_type``, as well as ``publication_comments`` in ``entities_publications`` |  
-|2   	| Tuesday  	|   2022/06/14	| 	|  
+|2   	| Tuesday  	|   2022/06/14	| - Exploratory data analysis on ``publications`` table to see most effective ways to merge the publication entries together	|  
 |3   	| Wednesday |  2022/06/15 	|  |  
 |4   	| Thursday  |   2022/06/16	|  |  
 |5   	| Friday  	|   2022/06/17	|  |  
