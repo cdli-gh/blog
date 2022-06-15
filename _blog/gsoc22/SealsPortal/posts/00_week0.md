@@ -13,10 +13,10 @@ Week Work summary goes here
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2022/01/01	|  |  
-|2   	| Tuesday  	|   2022/01/01	| 	|  
-|3   	| Wednesday |  2022/01/01 	|  |  
-|4   	| Thursday  |   2022/01/01	|  |  
-|5   	| Friday  	|   2022/01/01	|  |  
-|6   	| Saturday  |  2022/01/01	|  |  
-|7   	| Sunday  	|   2022/01/01	|  |  
+|1   	| Monday 	|   2022/06/13	| Contacted Jacob and Timo regarding the data and structure of the image_annotations table |  
+|2   	| Tuesday  	|   2022/06/14	| Created image_annotations and annotation_types table, awaiting for mentors review on structure of table	|  
+|3   	| Wednesday |  2022/06/15 	|  |  
+|4   	| Thursday  |   2022/06/16	|  |  
+|5   	| Friday  	|   2022/06/17	|  |  
+|6   	| Saturday  |  2022/06/18	|  |  
+|7   	| Sunday  	|   2022/06/19	|  |  
