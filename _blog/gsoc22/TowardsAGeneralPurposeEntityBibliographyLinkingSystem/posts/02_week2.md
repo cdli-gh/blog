@@ -7,7 +7,11 @@ tags: ["week","gsoc","gsoc2022","towardsAGeneralPurposeEntityBibliographyLinking
 
 ## Week Summary
 
-Week Work summary goes here 
+The focus of this week will be to continue adapting the old referencing system to the new one, as well as starting running the publication entry merging script.
+
+TODO 1: Give yourself admin access and take a look at the code that has to do with artifacts_publications
+
+TODO 2: Run the python script on the actual data to see what can be done.
 
 ## Daily Work Update
 
