@@ -36,6 +36,6 @@ more detailed way. The system should be able to manage one or multiple owners, s
 
 | Week  |Objectives | Deliverables |
 |---|---|---|
-|1| :white_check_mark:  Reevaluate the table schema to fully represent the targeted objectives <br/> Reevaluate the other necessary table relationships that we should have between the credit tables and other tables <br/> Implement the migration schema following cakephp conventions. | Perfect database schema for credit system implementation |
+|1| :white_check_mark: <br/> Reevaluate the table schema to fully represent the targeted objectives. <br/> Reevaluate the other necessary table relationships that we should have between the credit tables and other tables. <br/> Implement the migration schema following cakephp conventions. | Perfect database schema for credit system implementation |
 |2| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
 |3| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
