@@ -7,7 +7,7 @@ tags: ["week","gsoc","gsoc2022","newFeaturesAndUsabilityEnhancement","week#0","e
 
 ## Week Summary
 
-Week Work summary goes here 
+Completed the backend part for retired artifacts
 
 ## Daily Work Update
 
