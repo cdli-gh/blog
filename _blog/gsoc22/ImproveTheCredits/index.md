@@ -18,7 +18,7 @@ more detailed way. The system should be able to manage one or multiple owners, s
 
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 |:white_check_mark:|  Address a related issue alreading existing for so as to assign proper roles for the authors contribution table.  | This is to make the credits more granular while eliminating non  | [!630](https://gitlab.com/cdli/framework/-/merge_requests/630) |
+| 1 |:white_check_mark:|  Address a related issue alreading existing which involves assigning proper roles (Author, Reviewer, Creator)for the authors contribution table.  | This is to make the credits for authors more granular while eliminating no essential columns.   | [!630](https://gitlab.com/cdli/framework/-/merge_requests/630) |
 | 2 |:heavy_check_mark:|  hello world | hello world | [!318]() |
 
 
@@ -36,6 +36,6 @@ more detailed way. The system should be able to manage one or multiple owners, s
 
 | Week  |Objectives | Deliverables |
 |---|---|---|
-|1| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
+|1| Reevaluate the table schema to fully represent the targeted objectives | Perfect database schema for credit system implementation |
 |2| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
 |3| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
