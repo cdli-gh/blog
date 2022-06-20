@@ -18,8 +18,8 @@ more detailed way. The system should be able to manage one or multiple owners, s
 
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 |:heavy_check_mark:|  hello world | hello world | [!318]() |
-| 2 |:white_check_mark:|  hello world | hello world | [!318]() |
+| 1 |:white_check_mark:|  Address a related issue alreading existing for so as to assign proper roles for the authors contribution table.  | This is to make the credits more granular while eliminating non  | [!630](https://gitlab.com/cdli/framework/-/merge_requests/630) |
+| 2 |:heavy_check_mark:|  hello world | hello world | [!318]() |
 
 
 ### Additional Objectives
