@@ -19,8 +19,8 @@ The first step is to populate ``entities_publications`` with the entries of ``ar
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2022/06/13	| - Contacted Rune about getting provenience-publication data <br/> - Inclusion of ``exact_referece``,``publication_type``, as well as ``publication_comments`` in ``entities_publications`` |  
 |2   	| Tuesday  	|   2022/06/14	| - Exploratory data analysis on ``publications`` table to see most effective ways to merge the publication entries together	|  
-|3   	| Wednesday |  2022/06/15 	|  |  
-|4   	| Thursday  |   2022/06/16	|  |  
-|5   	| Friday  	|   2022/06/17	|  |  
-|6   	| Saturday  |  2022/06/18	|  |  
-|7   	| Sunday  	|   2022/06/19	|  |  
+|3   	| Wednesday |  2022/06/15 	| - Discussion of recent work and project. <br/> - Attempt to setup ElasticSearch but found that database was quite old |  
+|4   	| Thursday  |   2022/06/16	| - Refinement of the code that merges different publication entries. <br/> - Continue to setup the elastic search indexing |  
+|5   	| Friday  	|   2022/06/17	| - Fixed Elastic Search JDBC queries error <br/> |  
+|6   	| Saturday  |  2022/06/18	| - Fixed Heatmap Code <br/> |  
+|7   	| Sunday  	|   2022/06/19	| - Documentation writing <br/> |  
