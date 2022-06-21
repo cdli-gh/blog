@@ -10,14 +10,14 @@ The previously developed Machine Translation systems for Sumerian face sparsity 
 
 ### Objectives and Deliverables
 
-:heavy_check_mark: --> Completed Tasks  :white_check_mark: --> Ongoing Tasks
+:white_check_mark: --> Completed Tasks  :heavy_check_mark: --> Ongoing Tasks
 
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 |:white_check_mark:|  createing sumerian-eng morphological analyser | morphological dict for sumerian morph representation, integrated with Apertium | [!318]() |
-| 2 |:white_check_mark:| Updating previous eng morph dict with sumeiran words | Integrated eng morph dict with sumerian | [!318]() |
-| 3 |:white_check_mark:|  Creating bilingual dict of lemmas | Bilingual eng-sum dictionary inegrated with Apertium pipeline | [!318]() |
-| 4 |:white_check_mark:| writing transfer rules from sumerian to english | Transfer rule inegration and post processing | [!318]() |
+| 1 |:heavy_check_mark:|  createing sumerian-eng morphological analyser | morphological dict for sumerian morph representation, integrated with Apertium | [!318]() |
+| 2 |:heavy_check_mark:| Updating previous eng morph dict with sumeiran words | Integrated eng morph dict with sumerian | [!318]() |
+| 3 |:heavy_check_mark:|  Creating bilingual dict of lemmas | Bilingual eng-sum dictionary inegrated with Apertium pipeline | [!318]() |
+| 4 |:heavy_check_mark:| writing transfer rules from sumerian to english | Transfer rule inegration and post processing | [!318]() |
 
 
 <!-- ### Additional Objectives
@@ -30,11 +30,11 @@ The previously developed Machine Translation systems for Sumerian face sparsity 
 
 ### Tentative timeline
 
-:heavy_check_mark: --> Completed Tasks  :white_check_mark: --> Ongoing Tasks  :raised_hands: --> Work Demonstration
+:white_check_mark: --> Completed Tasks  :heavy_check_mark: --> Ongoing Tasks  :raised_hands: --> Work Demonstration
 
 | Week  |Objectives | Deliverables |
 |---|---|---|
-|1 - 2| :white_check_mark: createing sumerian-eng morphological analyser  |  :heavy_check_mark: sumerian language overview |
+|1 - 2| :heavy_check_mark: createing sumerian-eng morphological analyser  |  :heavy_check_mark: monolingual morph dict |
 
 
 
