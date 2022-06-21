@@ -42,8 +42,7 @@ to make indexing more developer friendly.
 
 | \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
-| 1 | :heavy_check_mark: | hello world  | hello world |    [!318]()     |
-| 1 | :white_check_mark: | hello world  | hello world |    [!318]()     |
+| 1 | :white_check_mark: | Reviewd a PR  | updating logstash schedule |    [!645](https://gitlab.com/cdli/framework/-/merge_requests/645)     |
 
 
 ### Tentative timeline
