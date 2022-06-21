@@ -16,11 +16,11 @@ The seals portal aims at displaying all of the resources in the CDLI concerning 
 
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 |:white_check_mark:|  Implement required changes to the database and edit the model files accordingly | - | [!1136](https://gitlab.com/cdli/framework/-/issues/1136) |
-| 2 |:white_check_mark:|  The seals portal | - | [!700](https://gitlab.com/cdli/framework/-/issues/700) |
-| 3 |:white_check_mark:|  Implementing seals single view | - | [!1132](https://gitlab.com/cdli/framework/-/issues/1132) |
-| 4 |:white_check_mark:|  Adding image annotation viewer and integrating it with annotorious -open seadragon | Integrating GD extension | [!736](https://gitlab.com/cdli/framework/-/issues/736) |
-| 5 |:white_check_mark:|  Implement a convertor from coco format to w3c.json format | - | [!318]() |
+| 1 |:white_check_mark:|  Implement required changes to the database and edit the model files accordingly | - | [#1136](https://gitlab.com/cdli/framework/-/issues/1136) |
+| 2 |:white_check_mark:|  The seals portal | - | [#700](https://gitlab.com/cdli/framework/-/issues/700) |
+| 3 |:white_check_mark:|  Implementing seals single view | - | [#1132](https://gitlab.com/cdli/framework/-/issues/1132) |
+| 4 |:white_check_mark:|  Adding image annotation viewer and integrating it with annotorious -open seadragon | Integrating GD extension | [#736](https://gitlab.com/cdli/framework/-/issues/736) |
+| 5 |:white_check_mark:|  Implement a convertor from coco format to w3c.json format | - | [#318]() |
 
 
 
