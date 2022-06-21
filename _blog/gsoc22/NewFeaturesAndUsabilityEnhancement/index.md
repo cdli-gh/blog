@@ -24,8 +24,7 @@ This project aims at adding new features to the CDLI framework and enhancing the
 
 | \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
-| 1 | :heavy_check_mark: | hello world  | hello world |    [!318]()     |
-| 1 | :white_check_mark: | hello world  | hello world |    [!318]()     |
+| |  |    |   |    |
 
 
 ### Tentative timeline
