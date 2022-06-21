@@ -8,7 +8,9 @@ tags: ['project', 'gsoc', 'gsoc2022', 'improveTheCredits']
 
 ## Improve the credits: ownership and licencing of digital assets
 
-Project Description 
+This project is targeted at updating how digital assets’ license, ownership
+and credits are stored, while considering how they can be displayed in a
+more detailed way. The system should be able to manage one or multiple owners, should they be individuals or institutions; manage credits, to one or more individual or institutions and the type of credit 
 
 ### Objectives and Deliverables
 
@@ -16,8 +18,8 @@ Project Description
 
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 |:heavy_check_mark:|  hello world | hello world | [!318]() |
-| 2 |:white_check_mark:|  hello world | hello world | [!318]() |
+| 1 |:white_check_mark:|  Address a related issue alreading existing which involves assigning proper roles (Author, Reviewer, Creator)for the authors contribution table.  | This is to make the credits for authors more granular while eliminating no essential columns.   | [!630](https://gitlab.com/cdli/framework/-/merge_requests/630) |
+| 2 |:heavy_check_mark:|  hello world | hello world | [!318]() |
 
 
 ### Additional Objectives
@@ -34,6 +36,6 @@ Project Description
 
 | Week  |Objectives | Deliverables |
 |---|---|---|
-|1| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
+|1| :white_check_mark: <br/> Reevaluate the table schema to fully represent the targeted objectives. <br/> Reevaluate the other necessary table relationships that we should have between the credit tables and other tables. <br/> Implement the migration schema following cakephp conventions. | Perfect database schema for credit system implementation |
 |2| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
 |3| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
