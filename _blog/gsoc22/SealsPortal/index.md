@@ -23,6 +23,12 @@ The seals portal aims at displaying all of the resources in the CDLI concerning 
 | 5 |:white_check_mark:|  Implement a convertor from coco format to w3c.json format | - | [!318]() |
 
 
+### Additional Objectives
+
+| \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
+| --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
+| 1 | :heavy_check_mark: | hello world  | hello world |    [!318]()     |
+| 1 | :white_check_mark: | hello world  | hello world |    [!318]()     |
 
 
 ### Tentative timeline
