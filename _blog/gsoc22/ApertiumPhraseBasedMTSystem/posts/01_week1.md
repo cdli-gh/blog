@@ -10,6 +10,7 @@ The objective of the week is to understand the language.
 
 ## Daily Work Update
 
+
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   	2022/06/20	| University Exams |  
