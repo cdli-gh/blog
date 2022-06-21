@@ -6,8 +6,9 @@ tags: ["week","gsoc","gsoc2022","searchEnhancements","week#1","eval#1"]
 ---
 
 ## Week Summary
-
-Week Work summary goes here 
+This is my first week of 12 weeks. As I had already planned the work I started working on Elasticsearch buckets. At first things seemed to flow easily as I was
+able to implement queries but eventually there were problems and delays were made. Thankfully I was able to cover them up by alloting more time. I also reviewed
+my first PR during this week it was a great learning experience. Overall it was a great first week for me, learnt about so many new things looking forward to  more of this. 
 
 ## Daily Work Update
 
