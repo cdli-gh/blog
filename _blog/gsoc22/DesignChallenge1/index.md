@@ -42,7 +42,6 @@ Project Description
 
 | Week  |Objectives | Deliverables |
 |---|---|---|
-|1 & 2| Citaiton of all the pages  |  :heavy_check_mark: Adding citation option for article pages as well as other pages - Implementing the FRONTEND part
- :heavy_check_mark: Adding citation option for article pages as well as other pages - Adding the Download(in Bibtex or RIS) and Copy to Clipboard Option|
+|1 & 2| Citaiton of all the pages  |  :heavy_check_mark: Adding citation option for article pages as well as other pages - Implementing the FRONTEND part :heavy_check_mark: Adding citation option for article pages as well as other pages - Adding the Download(in Bibtex or RIS) and Copy to Clipboard Option|
 |2| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
 |3| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
