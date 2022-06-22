@@ -16,7 +16,7 @@ Project Description
 
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 |:white_check_mark:|  Adapt the old reference database system to the new one. | - Publication View Page should work <br/> - Elastic Search should work | [!318]() |
+| 1 |:white_check_mark:|  Adapt the old reference database system to the new one. | - Publication View Page should work <br/> - Elastic Search should work | [!1154](https://gitlab.com/cdli/framework/-/issues/1154) |
 | 2 |:white_check_mark:| Clean the current bibliography data. | - Merge existing publication entries. | [!318]() |
 | 3 |:white_check_mark:| Identify the reference relationships between our publications and our entities, and populate the database with new data | hello world | [!318]() |
 | 4 |:white_check_mark:| Enable single publication file submission and suggestion for connecting new entities | hello world |[!318]() |
