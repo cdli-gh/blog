@@ -41,4 +41,4 @@ more detailed way. The system should be able to manage one or multiple owners, s
 | Week  |Objectives | Deliverables |
 |---|---|---|
 |1| :white_check_mark: <br/> Reevaluate the table schema to fully represent the targeted objectives. <br/> Reevaluate the other necessary table relationships that we should have between the credit tables and other tables. <br/> Implement the migration schema following cakephp conventions. | Perfect database schema for credit system implementation |
-|2| :heavy_check_mark: Preparing models and start off writing basic controller logic for my project idea |--Preparing the models and other business logic for my project idea.  <br> -- Start writing the logic in the controller for passing the right data to the views/template/in terface for displaying 
+|2| :white_check_mark: Preparing models and start off writing basic controller logic for my project idea |--Preparing the models and other business logic for my project idea.  <br> -- Start writing the logic in the controller for passing the right data to the views/template/in terface for displaying 
