@@ -7,12 +7,11 @@ tags: ["week","gsoc","gsoc2022","improveTheCredits","week#1","eval#1"]
 
 ## Week Summary
 
-Week Work summary goes here 
+As a requirement before diving into the next milestone, I made some iterations on the issue:  Removing the credits, authors, reviewer column from the authors contributions table. While programmatically listing the respective roles for artiface events contributors. Making adjustments for each feedback recieved.
 
 ## Daily Work Update
 
-|\#|Day|Date|As a requirement before diving into the next milestone, I made some iterations on the issue:  Removing the credits, authors, reviewer column from the authors contributions table. While programmatically listing the respective roles for artiface events contributors. Making adjustments for each feedback recieved.  
-|  
+|\#|Day|Date|A short description|  
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2022/06/13|  |  
 |2   	| Tuesday  	|   2022/06/14	| 	|  
