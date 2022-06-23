@@ -18,7 +18,11 @@ more detailed way. The system should be able to manage one or multiple owners, s
 
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 |:white_check_mark:| Improve the credits: ownership and licencing of digital assets and how digital assets’ (artifacts) license, ownership and credits are stored. | --The Aim is to make the credits for authors more granular | [!630](https://gitlab.com/cdli/framework/-/merge_requests/630) |
+| 1 |:white_check_mark:| Design a table and it's connections with the schema to handle the new data using cakePHP conventions | --The Aim is to make the credits for authors more granular | [!630](https://gitlab.com/cdli/framework/-/merge_requests/630) |
+| 2 |:white_check_mark:| Extending the API to accomodate new data for machines to access the data for the credit system| --The Aim is to make the credits for authors more granular | [!318]() |
+| 3 |:white_check_mark:| Extend the interface to display the information regarding the credits system where appropriate ( all the places where a digital asset can be displayed) | --The Aim is to make the credits for authors more granular | [!318]() |
+| 4 |:white_check_mark:| Collaborate with design challenge I person to feed the cite button for digital assets| --The Aim is to make the credits for authors more granular | [!318]() |
+| 5 |:white_check_mark:| Create appropriate edition forms and bulk upload functionality for the addition/edition of credit data for digital assets | --The Aim is to make the credits for authors more granular | [!318]() |
 
 
 
