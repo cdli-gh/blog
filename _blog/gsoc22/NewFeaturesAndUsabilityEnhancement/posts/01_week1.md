@@ -16,7 +16,7 @@ Week Work summary goes here
 |1   	| Monday 	|   2022/06/20	| Prepared the index for retired artifacts |  
 |2   	| Tuesday  	|   2022/06/21	| 	|  
 |3   	| Wednesday |  2022/06/22 	|  |  
-|4   	| Thursday  |   2022/06/23	|  |  
+|4   	| Thursday  |   2022/06/23	| Completed redirect functionality |  
 |5   	| Friday  	|   2022/06/24	|  |  
 |6   	| Saturday  |  2022/06/25  |  |  
-|7   	| Sunday  	|   2022/06/26-	|  |  
+|7   	| Sunday  	|   2022/06/26	|  |  
