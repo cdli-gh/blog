@@ -13,10 +13,10 @@ Week Work summary goes here
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2022/01/01	|  |  
-|2   	| Tuesday  	|   2022/01/01	| 	|  
-|3   	| Wednesday |  2022/01/01 	|  |  
-|4   	| Thursday  |   2022/01/01	|  |  
-|5   	| Friday  	|   2022/01/01	|  |  
-|6   	| Saturday  |  2022/01/01	|  |  
-|7   	| Sunday  	|   2022/01/01	|  |  
+|1   	| Monday 	|   2022/06/20	| Completed test site for showing Seal Chemistry demonstration |  
+|2   	| Tuesday  	|   2022/06/21	| - Changed Seal_Chemistry Table Structure.<br> - Had a meeting with Jacob and Nyree to demonstrate the graph for seal chemistry	|  
+|3   	| Wednesday |  2022/06/22 	| Working on demonstrating image annotations for testing purpose |  
+|4   	| Thursday  |   2022/06/23	| Working on demonstrating image annotations for testing purpose|  
+|5   	| Friday  	|   2022/06/24	|  |  
+|6   	| Saturday  |  2022/06/25	|  |  
+|7   	| Sunday  	|   2022/06/26	|  |  
