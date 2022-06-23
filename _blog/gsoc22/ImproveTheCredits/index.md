@@ -10,7 +10,7 @@ tags: ['project', 'gsoc', 'gsoc2022', 'improveTheCredits']
 
 This project is targeted at updating how digital assets’ license, ownership
 and credits are stored, while considering how they can be displayed in a
-more detailed way. The system should be able to manage one or multiple owners, should they be individuals or institutions; manage credits, to one or more individual or institutions and the type of credit 
+more detailed way. The system should be able to manage one or multiple owners, should they be individuals or institutions; manage credits, to one or more individual or institutions and the type of credit. 
 
 ### Objectives and Deliverables
 
