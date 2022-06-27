@@ -13,8 +13,8 @@ As a requirement before diving into the next milestone, I made some iterations o
 
 |\#|Day|Date|A short description|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2022/06/13|  |  
-|2   	| Tuesday  	|   2022/06/14	| 	|  
+|1   	| Monday 	|   2022/06/13|listed the roles for the authors contribution  |  
+|2   	| Tuesday  	|   2022/06/14	| removed the credits, authors, reviewer from the authors contributions table allowing only ROLE in the table plus attempting fix a test that failed 	|  
 |3   	| Wednesday |  2022/06/15 	|  |  
 |4   	| Thursday  |   2022/06/16	|  |  
 |5   	| Friday  	|   2022/06/17	|  |  
