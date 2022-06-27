@@ -19,4 +19,4 @@ As a requirement before diving into the next milestone, I made some iterations o
 |4   	| Thursday  |   2022/06/16	|  Continued working on the issue while fixing linter issues and trying to push so It can be merged|  
 |5   	| Friday  	|   2022/06/17	|Iteractions and feedback: Removed the credits column   |  
 |6   	| Saturday  |  2022/06/18	| -- |  
-|7   	| Sunday  	|   2022/06/19	|Finalised my code for this issue and made a pull request  |  
+|7   	| Sunday  	|   2022/06/19	|Finalised my code for this issue and made a pull request [!630](https://gitlab.com/cdli/framework/-/merge_requests/630/diffs?commit_id=db9ab461ae593c0b4d6460cae0ea503d4b9efac9) |  
