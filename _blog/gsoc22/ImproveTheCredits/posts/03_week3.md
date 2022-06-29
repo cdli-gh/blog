@@ -16,7 +16,7 @@ Week Work summary goes here
 |1   	| Monday 	|   2022/06/27	| Updating my documentation |  
 |2   	| Tuesday  	|   2022/06/28	| -- |  
 |3   	| Wednesday |  2022/06/29 	| Discussing With my mentor regarding the contraints and a broader scope about my approach to the project.|  
-|4   	| Thursday  |   2022/01/01	|  |  
-|5   	| Friday  	|   2022/01/01	|  |  
-|6   	| Saturday  |  2022/01/01	|  |  
-|7   	| Sunday  	|   2022/01/01	|  |  
+|4   	| Thursday  |   2022/06/30	|  |  
+|5   	| Friday  	|   2022/07/01	|  |  
+|6   	| Saturday  |  2022/07/02	|  |  
+|7   	| Sunday  	|   2022/07/03	|  |  
