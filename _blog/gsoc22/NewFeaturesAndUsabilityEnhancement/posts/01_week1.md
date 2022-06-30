@@ -7,16 +7,16 @@ tags: ["week","gsoc","gsoc2022","newFeaturesAndUsabilityEnhancement","week#1","e
 
 ## Week Summary
 
-Week Work summary goes here 
+Completed the backend part for retired artifacts, which includes updating the artifacts table and entity files.
 
 ## Daily Work Update
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2022/06/20	| Prepared the index for retired artifacts |  
-|2   	| Tuesday  	|   2022/06/21	| 	|  
-|3   	| Wednesday |  2022/06/22 	|  |  
-|4   	| Thursday  |   2022/06/23	| Completed redirect functionality |  
-|5   	| Friday  	|   2022/06/24	|  |  
-|6   	| Saturday  |  2022/06/25  |  |  
-|7   	| Sunday  	|   2022/06/26	|  |  
+|1   	| Monday 	|   2022/06/13	| Fixed the artifact_id and new_artifact_id fields in retired_artifacts table |  
+|2   	| Tuesday  	|   2022/06/14	| Updated Entity files, started making index page for retired artifacts & tried joining artifacts and retired_artifacts tables	|  
+|3   	| Wednesday |  2022/06/15 	|  |  
+|4   	| Thursday  |   2022/06/16	|  |  
+|5   	| Friday  	|   2022/06/17	| Set up new database |  
+|6   	| Saturday  |  2022/06/18	| Added 2 new columns to artifacts table (redirect_artifact_id & retired_comments) |  
+|7   	| Sunday  	|   2022/06/19	|  |  
