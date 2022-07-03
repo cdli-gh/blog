@@ -13,8 +13,8 @@ Week Work summary goes here
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2022/01/01	|  |  
-|2   	| Tuesday  	|   2022/01/01	| 	|  
+|1   	| Monday 	|   2022/01/01	| Changed the positioning of various elements and added them according to the new design |  
+|2   	| Tuesday  	|   2022/01/01	| |  
 |3   	| Wednesday |  2022/01/01 	|  |  
 |4   	| Thursday  |   2022/01/01	|  |  
 |5   	| Friday  	|   2022/01/01	|  |  
