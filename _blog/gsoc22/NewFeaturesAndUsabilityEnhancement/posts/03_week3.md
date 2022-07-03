@@ -18,5 +18,5 @@ This is the third week of the 12 weeks of my project. I added the retired sectio
 |3   	| Wednesday |  2022/06/29 	| Updated the PR with tests for reviewing |  
 |4   	| Thursday  |   2022/06/30	|  |  
 |5   	| Friday  	|   2022/07/01	|  |  
-|6   	| Saturday  |  2022/07/02	|  |  
-|7   	| Sunday  	|   2022/07/03	|  |  
+|6   	| Saturday  |  2022/07/02	|  Completed documentation for Developers|  
+|7   	| Sunday  	|   2022/07/03	| Completed documentation for Editors, added a card to admin dashboard to view retired artifacts index page |  
