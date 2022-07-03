@@ -44,7 +44,7 @@ TODO 2: Run the python script on the actual data to see what can be done.
 |1   	| Monday 	|   2022/06/20	| Successfully adapted the entities_publications code to the logstash JDBC statements, and indexing for entities_publications worked.  |  
 |2   	| Tuesday  	|   2022/06/21	| Identified admin files to be modified	|  
 |3   	| Wednesday |  2022/06/22 	| Updated controller files and model files, view files in progress |  
-|4   	| Thursday  |   2022/06/23	| Finisehd modifying PHP files, starting to test the website|  
-|5   	| Friday  	|   2022/06/24	|  |  
-|6   	| Saturday  |  2022/01/01	|  |  
-|7   	| Sunday  	|   2022/01/01	|  |  
+|4   	| Thursday  |   2022/06/23	| Finished modifying PHP files, starting to test the website|  
+|5   	| Friday  	|   2022/06/24	| Tested most of the code files for the admin dashboard |  
+|6   	| Saturday  |  2022/06/25	| Took a break for weekend |  
+|7   	| Sunday  	|   2022/06/26	| Took a break for weekend |  
