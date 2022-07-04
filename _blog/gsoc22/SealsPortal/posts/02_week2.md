@@ -7,7 +7,7 @@ tags: ["week","gsoc","gsoc2022","sealsPortal","week#2","eval#1"]
 
 ## Week Summary
 
-Week Work summary goes here 
+This week I will be testing the model files created, as well as add it to the framework.
 
 ## Daily Work Update
 
