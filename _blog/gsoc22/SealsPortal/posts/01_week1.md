@@ -7,7 +7,11 @@ tags: ["week","gsoc","gsoc2022","sealsPortal","week#1","eval#1"]
 
 ## Week Summary
 
-Week Work summary goes here 
+This Week, I will be focusing on creating required model files for `image_annotations` and `seals_portal`.The image_annotations will be filled with dummy data for now, which will be updated once I get the data from Lara. 
+
+I will be creating a test site to 
+1. Demonstrate the working for image_annotations using ` OpenSeadragon Annotorious ` plugin
+2. Demonstrate working of graphs in seal single view.
 
 ## Daily Work Update
 
