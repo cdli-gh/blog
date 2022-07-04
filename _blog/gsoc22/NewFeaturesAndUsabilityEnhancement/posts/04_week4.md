@@ -13,10 +13,10 @@ Week Work summary goes here
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2022/01/01	|  |  
-|2   	| Tuesday  	|   2022/01/01	| 	|  
-|3   	| Wednesday |  2022/01/01 	|  |  
-|4   	| Thursday  |   2022/01/01	|  |  
-|5   	| Friday  	|   2022/01/01	|  |  
-|6   	| Saturday  |  2022/01/01	|  |  
-|7   	| Sunday  	|   2022/01/01	|  |  
+|1   	| Monday 	|   2022/07/04	| Added the documentation for users |  
+|2   	| Tuesday  	|   2022/07/05	| 	|  
+|3   	| Wednesday |  2022/07/06 	|  |  
+|4   	| Thursday  |   2022/07/07	|  |  
+|5   	| Friday  	|   2022/07/08	|  |  
+|6   	| Saturday  |  2022/07/09	|  |  
+|7   	| Sunday  	|   2022/07/10	|  |  
