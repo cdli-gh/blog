@@ -13,8 +13,8 @@ Week Work summary goes here
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2022/07/04	|  -|  
-|2   	| Tuesday  	|   2022/07/05	| Some research about creating models in cakephp	|  
+|1   	| Monday 	|   2022/07/04	|   Some research about creating models in cakephp |  
+|2   	| Tuesday  	|   2022/07/05	|	- |  
 |3   	| Wednesday |  2022/07/06 	|  |  
 |4   	| Thursday  |   2022/07/07	|  |  
 |5   	| Friday  	|   2022/07/08	|  |  
