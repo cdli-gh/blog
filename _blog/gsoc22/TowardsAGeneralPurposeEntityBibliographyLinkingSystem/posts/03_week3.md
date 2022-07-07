@@ -11,7 +11,10 @@ This week, we will transition into data cleaning.
 
 TODO 1: Our publications table consists of a lot of redundant publications, since it is a direct copy from the old ``artifacts`` database.
 
-The task here would be to run automatic python scripts 
+The task here would be to run automatic python scripts and to merge these existing publications to populate the database.
+
+I wrote a script that scans the "designation" entry and filters out those with redundant information. The script ended up merging a lot of 
+redundant data, from 200000 entries down to 5000 entries.
 
 TODO 2: Get data on connecting artifacts to proveniences
 
@@ -29,4 +32,4 @@ Maybe I can consider adding the publications Rune gave to the publications?
 |4   	| Thursday  |   2022/06/30	| Took a break because didn't feel too well today. |  
 |5   	| Friday  	|   2022/07/01	| Discussed with Adam about merging publications and sent him the initially merged data |  
 |6   	| Saturday  |  2022/07/02	| Coordinated refactor testing with Emilie |  
-|7   	| Sunday  	|   2022/01/01	|  |  
+|7   	| Sunday  	|   2022/07/03	| Took a break. |  
