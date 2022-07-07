@@ -15,7 +15,7 @@ Week Work summary goes here
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2022/07/04	|   Some research: Reading cakephp docs on models in cakephp and other stuff |  
 |2   	| Tuesday  	|   2022/07/05	|	- |  
-|3   	| Wednesday |  2022/07/06 	|  |  
+|3   	| Wednesday |  2022/07/06 	| Figuring my way around docker containers with regards to the cdli repository |  
 |4   	| Thursday  |   2022/07/07	|  |  
 |5   	| Friday  	|   2022/07/08	|  |  
 |6   	| Saturday  |  2022/07/09	|  |  
