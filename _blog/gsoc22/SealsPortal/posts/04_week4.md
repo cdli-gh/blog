@@ -26,5 +26,5 @@ Additionally, I would be installing iconv extension.
 |3   	| Thursday  |   2022/07/07	| Implemented graph on test site. <br>Added the following functionalities<br> 1. Line graph 2. Column graph  |  
 |4   	| Friday  	|   2022/07/08	| Worked on the graph for showing Top 5 and Top 10 elements |  
 |5   	| Saturday  |  2022/07/09	| Browsed on how to install iconv extension in docker image |  
-|6   	| Sunday  	|   2022/07/10	| Demonstrated the test site to Jacob |  
-|7   	| Monday  	|   2022/07/10	| Jacob and Nyree suggested to show Top n elements based on the order they are in dataset, worked on this suggestion. |  
+|6   	| Sunday  	|   2022/07/10	| Demonstrated the test site to Jacob,Jacob and Nyree suggested to show Top n elements based on the order they are in dataset, worked on this suggestion. |  
+|7   	| Monday  	|   2022/07/11	|  |  
