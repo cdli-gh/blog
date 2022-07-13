@@ -19,4 +19,4 @@ Week Work summary goes here
 |4   	| Thursday  |   2022/06/16	|  Reviewed a PR |  
 |5   	| Friday  	|   2022/06/17	| Added the backend of the citation to the menu |  
 |6   	| Saturday  |  2022/06/18	| Implemented Copy to Clipboard button |  
-|7   	| Sunday  	|   2022/01/1	| Tested the backend for implemetning a common button which could be used in all the pages to cite them |  
+|7   	| Sunday  	|   2022/06/19	| Tested the backend for implemetning a common button which could be used in all the pages to cite them |  
