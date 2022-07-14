@@ -16,7 +16,7 @@ Week Work summary goes here
 |1   	| Monday 	|   2022/07/11	| Had a meeting with Lars to clear my doubts regarding the working of export |  
 |2   	| Tuesday  	|   2022/07/12	| Export links are working partially	|  
 |3   	| Wednesday |  2022/07/13 	|  |  
-|4   	| Thursday  |   2022/07/14	|  |  
+|4   	| Thursday  |   2022/07/14	| Aligned the element to the left |  
 |5   	| Friday  	|   2022/07/15	|  |  
 |6   	| Saturday  |  2022/07/16 |  |  
 |7   	| Sunday  	|   2022/08/17	|  |  
