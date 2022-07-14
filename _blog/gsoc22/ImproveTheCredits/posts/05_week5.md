@@ -16,7 +16,7 @@ Week Work summary goes here
 |1   	| Monday 	|   2022/07/11	| Discussion with my mentor regarding the status of my progress.  |  
 |2   	| Tuesday  	|   2022/07/12	| 	Reviewed a PR I was mentioned in by @epp (mentor) and provided feedback. While working on setting up the form fields, and FE layout for the upload data-credits page |  
 |3   	| Wednesday |  2022/07/13	| Completed the FE(FrontEnd) for uploads data credits page. Writing the controller logic  |  
-|4   	| Thursday  |   2022/07/14	|  |  
+|4   	| Thursday  |   2022/07/14	| Almost completed saving data to database. Issue at hand was trying to save image details in the images table and have the association id saved in data credits table |  
 |5   	| Friday  	|   2022/07/15	|  |  
 |6   	| Saturday  |  2022/07/16	|  |  
 |7   	| Sunday  	|   2022/07/17	|  |  
