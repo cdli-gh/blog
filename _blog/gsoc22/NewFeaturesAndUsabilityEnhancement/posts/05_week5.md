@@ -19,4 +19,4 @@ This is the first week for the Entity Export feature. I was having some trouble 
 |4   	| Thursday  |   2022/07/14	| Aligned the element to the left |  
 |5   	| Friday  	|   2022/07/15	| Created a draft of the user documentation |  
 |6   	| Saturday  |  2022/07/16 |  |  
-|7   	| Sunday  	|   2022/08/17	|  |  
+|7   	| Sunday  	|   2022/07/17	|  |  
