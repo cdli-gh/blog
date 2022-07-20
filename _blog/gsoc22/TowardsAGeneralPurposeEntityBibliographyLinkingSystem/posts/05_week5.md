@@ -29,4 +29,4 @@ Lars pointed out some issues which may lead to merge conflicts in the future, so
 |4   	| Thursday  |   2022/07/14	| Fixed the issue of extraneous fields by only picking publications with an author attached.  |  
 |5   	| Friday  	|   2022/07/15	| Sent Emilie the data about the fully processed data for checking  |  
 |6   	| Saturday  |  2022/07/16	| Started working on fixing the bibtex keys.  |  
-|7   	| Sunday  	|   2022/07/17	|   |  
+|7   	| Sunday  	|   2022/07/17	| Took a break  |  

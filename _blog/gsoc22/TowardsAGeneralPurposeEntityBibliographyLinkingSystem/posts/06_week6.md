@@ -7,15 +7,23 @@ tags: ["week","gsoc","gsoc2022","towardsAGeneralPurposeEntityBibliographyLinking
 
 ## Week Summary
 
-Week Work summary goes here 
+Data cleaning side:
+
+Accomplished the task of managing the bibtex key here
+
+The process of making "exact_reference" more specific for journal articles is planned for the future.
+
+Refactoring side:
+
+Managed to add a "link related publications" button and discarded features that are not used anymore.
 
 ## Daily Work Update
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2022/01/01	|  |  
-|2   	| Tuesday  	|   2022/01/01	| 	|  
-|3   	| Wednesday |  2022/01/01 	|  |  
+|1   	| Monday 	|   2022/07/18	| Refactoring progress.  |  
+|2   	| Tuesday  	|   2022/07/19	| Fixed the script to scrape away the excessive "pl." in designation 	|  
+|3   	| Wednesday |  2022/07/20 	| Refined the script to clean the bibtex key entries |  
 |4   	| Thursday  |   2022/01/01	|  |  
 |5   	| Friday  	|   2022/01/01	|  |  
 |6   	| Saturday  |  2022/01/01	|  |  
