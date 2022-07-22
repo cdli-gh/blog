@@ -17,6 +17,6 @@ Week Work summary goes here
 |2   	| Tuesday  	|   2022/07/19	| Implemented a small extra feature for Retired Artifacts	|  
 |3   	| Wednesday |  2022/07/20 	| Tested export of LinkedData for all entities |  
 |4   	| Thursday  |   2022/07/21	| Added the getTableRow() function to most entities and included TableExport in controllers. The csv and tsv export should work for most entities now|  
-|5   	| Friday  	|   2022/07/22	|  |  
+|5   	| Friday  	|   2022/07/22	| Serialized data for some entities that didn't have it done already, changed the dropdown layout |  
 |6   	| Saturday  |  2022/07/23	|  |  
 |7   	| Sunday  	|   2022/07/24	|  |  
