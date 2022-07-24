@@ -7,7 +7,7 @@ tags: ["week","gsoc","gsoc2022","newFeaturesAndUsabilityEnhancement","week#6","e
 
 ## Week Summary
 
-Week Work summary goes here 
+I had a talk again with Lars regarding using format parameter in the export link, it works now yay! For the flat data exports I added the getTableRow() functions to entities so that works now. Linked data export also works for most entities except the ones that have the getCidocCrm() method. Export was working for only the first page but including the page paramter fixed that. This task is now mostly complete and hopefully I can start making the documentation soon.
 
 ## Daily Work Update
 
@@ -19,4 +19,4 @@ Week Work summary goes here
 |4   	| Thursday  |   2022/07/21	| Added the getTableRow() function to most entities and included TableExport in controllers. The csv and tsv export should work for most entities now|  
 |5   	| Friday  	|   2022/07/22	| Serialized data for some entities that didn't have it done already, changed the dropdown layout |  
 |6   	| Saturday  |  2022/07/23	|  |  
-|7   	| Sunday  	|   2022/07/24	|  |  
+|7   	| Sunday  	|   2022/07/24	| Included the page paramater when making the export url - export works for all pages now :D |  
