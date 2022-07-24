@@ -7,7 +7,7 @@ tags: ["week","gsoc","gsoc2022","newFeaturesAndUsabilityEnhancement","week#6","e
 
 ## Week Summary
 
-I had a talk again with Lars regarding using format parameter in the export link, it works now yay! For the flat data exports I added the getTableRow() functions to entities so that works now. Linked data export also works for most entities except the ones that have the getCidocCrm() method. Export was working for only the first page but including the page paramter fixed that. This task is now mostly complete and hopefully I can start making the documentation soon.
+I had a talk again with Lars regarding using format parameter in the export link, it works now yay! For the flat data exports I added the getTableRow() functions to entities so that works now. Linked data export also works for most entities except the ones that don't have the getCidocCrm() method. Export was working for only the first page but including the page paramter fixed that. This task is now mostly complete and hopefully I can start making the documentation soon.
 
 ## Daily Work Update
 
