@@ -19,4 +19,4 @@ I had a talk again with Lars regarding using format parameter in the export link
 |4   	| Thursday  |   2022/07/21	| Added the getTableRow() function to most entities and included TableExport in controllers. The csv and tsv export should work for most entities now|  
 |5   	| Friday  	|   2022/07/22	| Serialized data for some entities that didn't have it done already, changed the dropdown layout |  
 |6   	| Saturday  |  2022/07/23	|  |  
-|7   	| Sunday  	|   2022/07/24	| Included the page paramater when making the export url - export works for all pages now :D |  
+|7   	| Sunday  	|   2022/07/24	| Included the page paramater when making the export url - export works for all pages now :D . Also added the developer and editor documentations for the entity export feature.|  
