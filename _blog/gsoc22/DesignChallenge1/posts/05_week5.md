@@ -18,5 +18,5 @@ Week Work summary goes here
 |3   	| Wednesday |  2022/07/13 	| Improved the design and added proper links , correct names for the sidemenu |
 |4   	| Thursday  |   2022/07/14	| Removed the search page search bar responsiveness issue |
 |5   	| Friday  	|   2022/07/15	| Resolved some thread from Citation PR |
-|6   	| Saturday  |  2022/07/16	| Startred working on issues of Artifacts Page|
+|6   	| Saturday  |  2022/07/16	| Started working on issues of Artifacts Page ([1092](https://gitlab.com/cdli/framework/-/issues/1092))|
 |7   	| Sunday  	|   2022/07/17	|  |  
