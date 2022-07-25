@@ -13,10 +13,10 @@ Week Work summary goes here
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2022/07/11	|  |  
-|2   	| Tuesday  	|   2022/07/12	| 	|  
-|3   	| Wednesday |  2022/07/13 	|  |  
-|4   	| Thursday  |   2022/07/14	|  |  
-|5   	| Friday  	|   2022/07/15	|  |  
-|6   	| Saturday  |  2022/07/16	|  |  
+|1   	| Monday 	|   2022/07/11	| Added the Sidemenu for Search Filters |  
+|2   	| Tuesday  	|   2022/07/12	| Added a CSS modal for Download Page on Search Results Page|  
+|3   	| Wednesday |  2022/07/13 	| Improved the design and added proper links , correct names for the sidemenu |
+|4   	| Thursday  |   2022/07/14	| Removed the search page search bar responsiveness issue |
+|5   	| Friday  	|   2022/07/15	| Resolved some thread from Citation PR |
+|6   	| Saturday  |  2022/07/16	| Startred working on issues of Artifacts Page|
 |7   	| Sunday  	|   2022/07/17	|  |  
