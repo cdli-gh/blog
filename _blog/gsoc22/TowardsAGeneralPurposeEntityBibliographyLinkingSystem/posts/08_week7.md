@@ -7,13 +7,21 @@ tags: ["week","gsoc","gsoc2022","towardsAGeneralPurposeEntityBibliographyLinking
 
 ## Week Summary
 
-Week Work summary goes here 
+Today we'll see what we can do about proveniences that Rune just gave me. I feel like this task could be separated into 2 sides:
+
+1. cakePHP code side
+
+This would require implementing the code to show related publications in proveniences page, and to show related proveniences page in publications page.
+
+2. Data analysis
+
+Simply put, we need data on connections between publications and proveniences.
 
 ## Daily Work Update
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2022/01/01	|  |  
+|1   	| Monday 	|   2022/07/25	| Fixed some lingering issues with previous pull requests that are blocking merge |  
 |2   	| Tuesday  	|   2022/01/01	| 	|  
 |3   	| Wednesday |  2022/01/01 	|  |  
 |4   	| Thursday  |   2022/01/01	|  |  
