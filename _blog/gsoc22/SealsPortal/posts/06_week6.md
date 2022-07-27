@@ -16,7 +16,7 @@ Week Work summary goes here
 |1   	| Tuesday  	|   2022/07/18	| Had a meeting with Jacob and Nyree, where they suggested to add information regarding Materials and Annotations to the seal portal |
 |2   	| Wednesday |  2022/07/19 	| Completed the graph on seal's single view|
 |3   	| Thursday  |   2022/07/20	| Changed the title of Seal Portal Page |
-|4   	| Friday  	|   2022/07/21	| Created PR related to Seal Single View |  
+|4   	| Friday  	|   2022/07/21	| Created PR related to Seal Single View [#687](https://gitlab.com/cdli/framework/-/merge_requests/687) |  
 |5   	| Saturday  |  2022/07/22	| Added chemical Information accordion |  
 |6   	| Sunday  	|   2022/07/23	| - |  
 |7    | Monday    |   2022/07/24  | Resolved Bugs related to Line Graph |
