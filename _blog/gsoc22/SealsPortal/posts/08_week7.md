@@ -2,7 +2,7 @@
 layout: page
 title: Week 7
 author: 'Aditi Singh'
-tags: ["week","gsoc","gsoc2022","sealsPortal","week#7","eval#2"]
+tags: ["week","gsoc","gsoc2022","sealsPortal","week#7"]
 ---
 
 ## Week Summary
