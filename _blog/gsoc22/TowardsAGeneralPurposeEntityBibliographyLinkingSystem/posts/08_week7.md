@@ -15,15 +15,15 @@ This would require implementing the code to show related publications in proveni
 
 2. Data analysis
 
-Simply put, we need data on connections between publications and proveniences.
+Simply put, we need data on connections between publications and proveniences. Couldn't just use the "second-hand" links, but we need to use the toolset in ``awca-ocr`` about pdfs to analyze contents of proveniences.
 
 ## Daily Work Update
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   2022/07/25	| Fixed some lingering issues with previous pull requests that are blocking merge |  
-|2   	| Tuesday  	|   2022/01/01	| 	|  
-|3   	| Wednesday |  2022/01/01 	|  |  
+|2   	| Tuesday  	|   2022/07/26	| Started on issues about showing proveniences and publications associations.	|  
+|3   	| Wednesday |  2022/07/27 	| Finished working on the publications side but proveniences side is broken, kind of. |  
 |4   	| Thursday  |   2022/01/01	|  |  
 |5   	| Friday  	|   2022/01/01	|  |  
 |6   	| Saturday  |  2022/01/01	|  |  
