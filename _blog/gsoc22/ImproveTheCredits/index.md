@@ -51,4 +51,4 @@ more detailed way. The system should be able to manage one or multiple owners, s
 |9| :white_check_mark:  Write the logic for add & edit images-credits ( Controller ) | A functional controller files data-credits features|
 |10| :white_check_mark: Implement edition and deletion of credit data for digital assets. | Delete and Edit Feature for data implemented |
 |11| :white_check_mark: Extend the credit system to properly manage extra information for the 3d models.   eg. capture equipment and other information | Granular information for 3d models for credit systems.|
-|6| :white_check_mark:  Buffer week for pending  deliverables.| --Final submission of report, code and blog post |
+|12| :white_check_mark:  Buffer week for pending  deliverables.| --Final submission of report, code and blog post |
