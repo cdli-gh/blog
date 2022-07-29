@@ -40,7 +40,15 @@ more detailed way. The system should be able to manage one or multiple owners, s
 
 | Week  |Objectives | Deliverables |
 |---|---|---|
-|1| :white_check_mark: --Reevaluate the table schema to fully represent the targeted objectives. <br/> Reevaluate the other necessary table relationships that we should have between the credit tables and other tables. <br/> Implement the migration schema following cakephp conventions. | Perfect database schema for credit system implementation |
-|2| :white_check_mark: --Preparing models and start off writing basic controller logic for my project idea |--Preparing the models and other business logic for my project idea.  <br> -- Start writing the logic in the controller for passing the right data to the views/template/in terface for displaying 
-|3| :white_check_mark: --UI interface for the storing credits as well as other meta data needed|--Rough UI Mockup for the interface. <br> -- Updating exisitng stated model to reflect the feedback from mentor
-|4| :white_check_mark: --Have a functioning basic version for my project idea base on the task listed for week 1 to week 3.| -- Iterating and getting feedback from mentor 
+|1| :white_check_mark:   --Reevaluate the table schema to fully represent the targeted objectives. <br/> Reevaluate the other necessary table relationships that we should have between the credit tables and other tables. <br/> Implement the migration schema following cakephp conventions. | Perfect database schema for credit system implementation |
+|2| :white_check_mark:  --Preparing models and start off writing basic controller logic for my project idea |--Preparing the models and other business logic for my project idea.  <br> -- Start writing the logic in the controller for passing the right data to the views/template/in terface for displaying 
+|3| :white_check_mark:   --UI interface for the storing credits as well as other meta data needed|--Rough UI Mockup for the interface. <br> -- Updating exisitng stated model to reflect the feedback from mentor|
+|4| :white_check_mark:   --Have a functioning basic version for my project idea base on the task listed for week 1 to week 3.| -- Iterating and getting feedback from mentor |
+|5| :white_check_mark: --Get feedback. Implement feedback from mentors | -- Iterating and getting feedback from mentor feedback from mentor |
+|6| :white_check_mark:  Evaluation week| --Evaluation |
+|7| :white_check_mark:  Make adjustments following feedback.   <br> -Update the respective models for add & Edit Credit feature for images | --Base on feedback, have Add and Edit credit feature for image credits for existing Images |
+|8| :white_check_mark:   Work on the add images-credits Frontend File / templates  <br> . Code Edit images-credits Frontend files/ templates | Frontend File and logic coded |
+|9| :white_check_mark:  Write the logic for add & edit images-credits ( Controller ) | A functional controller files data-credits features|
+|10| :white_check_mark: Implement edition and deletion of credit data for digital assets. | Delete and Edit Feature for data implemented |
+|11| :white_check_mark: Extend the credit system to properly manage extra information for the 3d models.   eg. capture equipment and other information | Granular information for 3d models for credit systems.|
+|6| :white_check_mark:  Buffer week for pending  deliverables.| --Final submission of report, code and blog post |
