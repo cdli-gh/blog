@@ -13,10 +13,10 @@ Week Work summary goes here
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2022/01/01	|  |  
-|2   	| Tuesday  	|   2022/01/01	| 	|  
-|3   	| Wednesday |  2022/01/01 	|  |  
-|4   	| Thursday  |   2022/01/01	|  |  
-|5   	| Friday  	|   2022/01/01	|  |  
-|6   	| Saturday  |  2022/01/01	|  |  
-|7   	| Sunday  	|   2022/01/01	|  |  
+|1   	| Monday 	|   2022/08/01	| Added bulk update button on search results page, made the controller and index page for bulk update |  
+|2   	| Tuesday  	|   2022/08/02	| 	|  
+|3   	| Wednesday |  2022/08/03 	|  |  
+|4   	| Thursday  |   2022/08/04	|  |  
+|5   	| Friday  	|   2022/08/05	|  |  
+|6   	| Saturday  |  2022/08/06 |  |  
+|7   	| Sunday  	|   2022/08/07	|  |  
