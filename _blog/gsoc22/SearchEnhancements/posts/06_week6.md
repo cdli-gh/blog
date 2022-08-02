@@ -7,7 +7,13 @@ tags: ["week","gsoc","gsoc2022","searchEnhancements","week#6","eval#1"]
 
 ## Week Summary
 
-Week Work summary goes here 
+This week included a feature which was very particular to our website. I had to work on the parent-child relationships between artifacts. These exist in four
+tables of the database such as Languages, Materials, genres and Artifact Type. Basically my task was to include the results of a child, grandchild when we 
+search  for a parent either in the free search or advance search. This was a particularly elaborated task as it was more artifact related one. One of the
+objectives of this task was also to update the filters to show the filters which are children in a specific way such 
+as
+"parent -> child". Overall it was a very
+good learning experience.
 
 ## Daily Work Update
 
