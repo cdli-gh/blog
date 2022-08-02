@@ -7,7 +7,10 @@ tags: ["week","gsoc","gsoc2022","searchEnhancements","week#5","eval#1"]
 
 ## Week Summary
 
-Week Work summary goes here 
+Search was breaking for certain strings such "HS 1475(+)" and "nam-sipa-zu". It was actually ES having some reserved characters while using the query
+query_string. To use these reserved characters you need to add a "\\" before every reserved character that occurs in the string that is to be searched.
+Hence, I had to implement a function which would do the same for all the keywords that are being searched. This PR has led to discussion of many other issues
+and how they could be solved.
 
 ## Daily Work Update
 
