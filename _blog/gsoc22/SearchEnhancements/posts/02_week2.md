@@ -7,7 +7,7 @@ tags: ["week","gsoc","gsoc2022","searchEnhancements","week#2","eval#1"]
 
 ## Week Summary
 
-Week Work summary goes here 
+This week included a lot of debugging as usual. I had to first discuss with my mentor a proper data structure which could be implemented with the filters to print the number of hits. After Discussion came the mamoth task of creating the data structure, it required a lot of array manipulation functions and reading of php manual. Finally after making the structure I could pass it to the view file and then I concatenated the filters to print number of hits in parentheses.
 
 ## Daily Work Update
 
