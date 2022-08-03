@@ -6,7 +6,7 @@ tags: ["week","gsoc","gsoc2022","improveTheCredits","week#8","eval#2"]
 ---
 
 ## Week Summary
-Had to make the following updates like creating new tables and restructuring the project after an extensive of my project idea.
+Had to make the following updates like creating new tables and restructuring the project after an extensive of my project idea by mentor
 
 ## Daily Work Update
 
