@@ -6,17 +6,16 @@ tags: ["week","gsoc","gsoc2022","improveTheCredits","week#8","eval#2"]
 ---
 
 ## Week Summary
-
-Week Work summary goes here 
+Had to make the following updates like creating new tables and restructuring the project after an extensive of my project idea.
 
 ## Daily Work Update
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2022/01/01	|  |  
-|2   	| Tuesday  	|   2022/01/01	| 	|  
-|3   	| Wednesday |  2022/01/01 	|  |  
-|4   	| Thursday  |   2022/01/01	|  |  
-|5   	| Friday  	|   2022/01/01	|  |  
-|6   	| Saturday  |  2022/01/01	|  |  
-|7   	| Sunday  	|   2022/01/01	|  |  
+|1   	| Monday 	|   2022/08/01	| Added tables schema for the various tables that I will be needing |  
+|2   	| Tuesday  	|   2022/08/02	| Finished with Adding tables schema for the various tables that I will be needing  |  
+|3   	| Wednesday |  2022/08/03 	|  Created model, controllers, entities for the different tables. |  
+|4   	| Thursday  |   2022/08/04	|  |  
+|5   	| Friday  	|   2022/08/05	|  |  
+|6   	| Saturday  |  2022/08/06	|  |  
+|7   	| Sunday  	|   2022/08/07	|  |  
