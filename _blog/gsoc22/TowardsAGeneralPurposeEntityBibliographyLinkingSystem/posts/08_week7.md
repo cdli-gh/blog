@@ -25,6 +25,6 @@ Simply put, we need data on connections between publications and proveniences. C
 |2   	| Tuesday  	|   2022/07/26	| Started on issues about showing proveniences and publications associations.	|  
 |3   	| Wednesday |  2022/07/27 	| Finished working on the publications side but proveniences side is broken, kind of. |  
 |4   	| Thursday  |   2022/07/28	| Progress on create-update-delete of publication-proveniences. |  
-|5   	| Friday  	|   2022/01/01	|  |  
-|6   	| Saturday  |  2022/01/01	|  |  
-|7   	| Sunday  	|   2022/01/01	|  |  
+|5   	| Friday  	|   2022/07/29	| Publication-Provenience CRUD ready for testing. |  
+|6   	| Saturday  |  2022/07/30	| Break |  
+|7   	| Sunday  	|   2022/07/31	| Break |  
