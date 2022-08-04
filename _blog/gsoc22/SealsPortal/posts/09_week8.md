@@ -13,8 +13,8 @@ Week Work summary goes here
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2022/01/01	|  |  
-|2   	| Tuesday  	|   2022/01/01	| 	|  
+|1   	| Monday 	|   2022/08/01	| Solved the redirect issue after saving the featured seal and created a PR |  
+|2   	| Tuesday  	|   2022/08/02	| Resolved an unresolved thread from seal portal PR	|  
 |3   	| Wednesday |  2022/01/01 	|  |  
 |4   	| Thursday  |   2022/01/01	|  |  
 |5   	| Friday  	|   2022/01/01	|  |  

@@ -7,7 +7,9 @@ tags: ["week","gsoc","gsoc2022","searchEnhancements","week#4","eval#1"]
 
 ## Week Summary
 
-Week Work summary goes here 
+New week new objective begins. This week's issue is related to the search filters not being updated after one of the them is being applied. Identifying the 
+exact problem was difficult hence I came up with a solution and discussed it's implementation with my mentor. Then I went on to do the testing and created a
+PR.I also solved some other existing issues in this PR.
 
 ## Daily Work Update
 

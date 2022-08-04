@@ -7,7 +7,13 @@ tags: ["week","gsoc","gsoc2022","searchEnhancements","week#3","eval#1"]
 
 ## Week Summary
 
-Week Work summary goes here 
+I had to update my feature for the edge cases. 
+1) an artifact can have more than one language so had to segregate the languages into individual language and add the count to their respective filter.
+2) had to perform similar function for authors as they had the property.
+Then unit testing of the feature and the integrated testing of framework. 
+After testing I had successfully implemented number of hits feature for free search. 
+Moving onto advance search and then again performing same tests for the same
+
 
 ## Daily Work Update
 

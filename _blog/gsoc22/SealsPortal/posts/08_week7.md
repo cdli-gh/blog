@@ -17,7 +17,7 @@ and since most of the work of seal single view is done, I will be working on add
 |1   	| Monday 	|   2022/07/25	| Started Working on Add and edit forms, added the routes and methods |  
 |2   	| Tuesday  	|   2022/01/26	|  Created the view for Add form	|  
 |3   	| Wednesday |  2022/01/27 	| Added Ajax to get related images based on P number |  
-|4   	| Thursday  |   2022/01/01	|  |  
-|5   	| Friday  	|   2022/01/01	|  |  
-|6   	| Saturday  |  2022/01/01	|  |  
-|7   	| Sunday  	|   2022/01/01	|  |  
+|4   	| Thursday  |   2022/01/28 | Saved the data to DB|
+|5   	| Friday  	|   2022/01/29 | Created View for Edit form |
+|6   	| Saturday  |  2022/01/30 | Added the Code for updating data to DB |
+|7   	| Sunday  	|   2022/01/31	| Resolved some threads on seal portal merge request |
