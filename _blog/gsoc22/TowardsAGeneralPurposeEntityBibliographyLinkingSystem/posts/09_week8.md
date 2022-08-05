@@ -20,7 +20,7 @@ I tried to do some exploration on pdf mining (which inherits from AWCA). But a l
 |1   	| Monday 	|   2022/08/01	| Issue 1053 fix. Discussion on further work on infrastructure code. |  
 |2   	| Tuesday  	|   2022/08/02	| Exploration on pdf mining. |  
 |3   	| Wednesday |  2022/08/03 	| Figured out that we should ditch ML-based mining. Just using regex might be better. |  
-|4   	| Thursday  |   2022/01/01	|  |  
+|4   	| Thursday  |   2022/08/04	| Ran provenience finding algorithms on existing text files of publications. |  
 |5   	| Friday  	|   2022/01/01	|  |  
 |6   	| Saturday  |  2022/01/01	|  |  
 |7   	| Sunday  	|   2022/01/01	|  |  
