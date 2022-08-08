@@ -18,5 +18,5 @@ The objective of the week and next week is to understand the sumerian language.
 |3   	| Wednesday |  2022/06/29 	| learning sumerian |  
 |4   	| Thursday  |   2022/06/30	| learning sumerian |  
 |5   	| Friday  	|   2022/07/01	| learning sumerian |  
-|6   	| Saturday  |  2022/06/02	| - |  
-|7   	| Sunday  	|   2022/06/03	| - |  
+|6   	| Saturday  |  2022/07/02	| - |  
+|7   	| Sunday  	|   2022/07/03	| - |  

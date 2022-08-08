@@ -6,7 +6,7 @@ tags: ["week","gsoc","gsoc2022","apertiumPhraseBasedMTSystem","week#1","eval#1"]
 ---
 
 ## Week Summary
-The objective of the week is to understand the language.
+The objective of the week is to understand the software.
 
 ## Daily Work Update
 
@@ -15,8 +15,8 @@ The objective of the week is to understand the language.
 |---	|---	|---	|---	|  
 |1   	| Monday 	|   	2022/06/20	| University Exams |  
 |2   	| Tuesday  	|   2022/06/21	| University Exams	|  
-|3   	| Wednesday |  2022/06/22 	|  |  
-|4   	| Thursday  |   2022/06/23	|  |  
-|5   	| Friday  	|   2022/06/24	|  |  
+|3   	| Wednesday |  2022/06/22 	| learning apertium basics |  
+|4   	| Thursday  |   2022/06/23	| learning apertium usage|  
+|5   	| Friday  	|   2022/06/24	| learning apertium |  
 |6   	| Saturday  |  2022/06/25	| - |  
 |7   	| Sunday  	|   2022/06/26	| - |  

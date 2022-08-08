@@ -13,11 +13,11 @@ The objective of the week is to setup morph analyzer of sumerian
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   	2022/06/27	| creating noun morph |  
-|2   	| Tuesday  	|   2022/06/28	| creating noun morph	|  
-|3   	| Wednesday |  2022/06/29 	| creating verb morp  |  
-|4   	| Thursday  |   2022/06/30	| creating verb morp |  
-|5   	| Friday  	|   2022/07/01	| creating other morh for parse |  
-|6   	| Saturday  |  2022/06/02	| - |  
-|7   	| Sunday  	|   2022/06/03	| - |  
+|1   	| Monday 	|   	2022/07/11	| creating noun morph |  
+|2   	| Tuesday  	|   2022/07/12	| creating noun morph	|  
+|3   	| Wednesday |  2022/07/13 	| creating verb morp  |  
+|4   	| Thursday  |   2022/07/14	| creating verb morp |  
+|5   	| Friday  	|   2022/07/15	| creating other morh for parse |  
+|6   	| Saturday  |  2022/07/16	| - |  
+|7   	| Sunday  	|   2022/07/17	| - |  
 
