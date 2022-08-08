@@ -18,4 +18,4 @@ Had to make the following updates like creating new tables and restructuring the
 |4   	| Thursday  |   2022/08/04	| --- |  
 |5   	| Friday  	|   2022/08/05	| ---- |  
 |6   	| Saturday  |  2022/08/06	|--  |  
-|7   	| Sunday  	|   2022/08/07	| Reviewed my cod. Asked questions. |  
+|7   	| Sunday  	|   2022/08/07	| Reviewed my code. Asked questions. |  
