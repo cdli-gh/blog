@@ -37,9 +37,9 @@ The whole integrated translation pipeline with pos and ner tagger can be found h
 | 1 |:heavy_check_mark:|  createing sux(sumerian) morphological analyser | morphological dict with default tags for sumerian morph representation, basic morph analyzer |  |
 | 2 |:heavy_check_mark:|  Updating previous eng morph dict with sumeiran words  | morphological english dict for sumerian words translation and/or handling bi-dictioanry results |  |
 | 3 |:heavy_check_mark:| The Bi-lingual dictionary and rules for the sumerian to english translation | The sux-eng.dix file and .rtx file containing the trasnfer rules (basic) | |
-| 4 |:heavy_check_mark:| Integrated apertium sux pipeline and testing | the integrated machine translation pipeline and testing comparision between nn based and rule based model [!318]() |
-| 5 |:white_check_mark:| updateding transfer rules and SVO reordering, sumerian to english | updated final Transfer rules inegration and post processing |  |
-| 6 |:white_check_mark:| morphological disambiguator for sumerina | morph disambiguator rules integrated after morph analysis |  |
+| 4 |:heavy_check_mark:| Integrated apertium sux pipeline and testing | the integrated machine translation pipeline and testing comparision between nn based (will be added later) and rule based model | |
+| 5 |:white_check_mark:| updateding transfer rules and SVO reordering, sumerian to english | the final compact updated Transfer rules with and post processing if required |  |
+| 6 |:white_check_mark:| morphological disambiguator for sumerina | morph disambiguator to select correct lemma for processing |  |
 
 
 
@@ -74,8 +74,8 @@ The whole integrated translation pipeline with pos and ner tagger can be found h
 |1 - 2| :heavy_check_mark: learning apertium (The RBMT toolkit) |  :heavy_check_mark: the basic functanality to use apertium |
 |3 - 4| :heavy_check_mark: learning sumerian morphology  |  :heavy_check_mark: Basic grammer of Sumerian and translations  |
 |5 - 8| :heavy_check_mark: creating basic sumerian analyzer , bi-lingual dict, rule trasnfer and testing  |  :heavy_check_mark: The integrated translation pipeline sux-eng |
-|9 - 11| :white_check_mark: updating trasnfer rule (verbal and noun phrase) and re-ordering SVO |  :heavy_check_mark: the improved translation pipeline |
-|11 - 15| :white_check_mark: Working on morphological disambiguator and Number pipleine integration and Rule based bs NN based comparision |  :heavy_check_mark: The final integrated translation sux-eng pipeline |
+|9 - 11| :white_check_mark: updating trasnfer rule (verbal and noun phrase) and re-ordering SVO |  :white_check_mark: the improved machine translation results |
+|11 - 15| :white_check_mark: Working on morphological disambiguator and Number pipleine integration and Rule based bs NN based comparision |  :white_check_mark: Final robust pipeline and model comparisions |
 
 
 

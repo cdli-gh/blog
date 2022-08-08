@@ -13,10 +13,10 @@ The objective of the week is to understand the sumerian language.
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   	2022/06/27	| learning sumerian |  
-|2   	| Tuesday  	|   2022/06/28	| learning sumerian	|  
-|3   	| Wednesday |  2022/06/29 	| learning sumerian |  
-|4   	| Thursday  |   2022/06/30	| travelling |  
-|5   	| Friday  	|   2022/07/01	| travelling |  
-|6   	| Saturday  |  2022/06/02	| - |  
-|7   	| Sunday  	|   2022/06/03	| - |  
+|1   	| Monday 	|   	2022/07/04	| learning sumerian |  
+|2   	| Tuesday  	|   2022/07/05	| learning sumerian	|  
+|3   	| Wednesday |  2022/07/06 	| learning sumerian |  
+|4   	| Thursday  |   2022/07/07	| travelling |  
+|5   	| Friday  	|   2022/07/08	| travelling |  
+|6   	| Saturday  |  2022/07/09	| - |  
+|7   	| Sunday  	|   2022/07/10	| - |  

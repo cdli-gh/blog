@@ -14,11 +14,11 @@ The objective of the week is to write rules for sumerian transfer
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   	2022/06/25	| write rules |  
-|2   	| Tuesday  	|   2022/06/26	| write rules	|  
-|3   	| Wednesday |  2022/06/27 	| write rules  |  
-|4   	| Thursday  |   2022/06/28	| travelling  |  
+|1   	| Monday 	|   	2022/07/25	| write rules |  
+|2   	| Tuesday  	|   2022/07/26	| write rules	|  
+|3   	| Wednesday |  2022/07/27 	| write rules  |  
+|4   	| Thursday  |   2022/07/28	| travelling  |  
 |5   	| Friday  	|   2022/07/29	| travelling |  
-|6   	| Saturday  |  2022/06/30	| - |  
-|7   	| Sunday  	|   2022/06/31	| - |  
+|6   	| Saturday  |  2022/07/30	| - |  
+|7   	| Sunday  	|   2022/07/31	| - |  
  
