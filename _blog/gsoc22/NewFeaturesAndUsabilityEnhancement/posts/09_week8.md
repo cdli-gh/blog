@@ -7,7 +7,7 @@ tags: ["week","gsoc","gsoc2022","newFeaturesAndUsabilityEnhancement","week#8","e
 
 ## Week Summary
 
-In this week I have completed setting up the basic requirements fo the bulk update. All that is left is to get the data from the form and update the artifacts. Also, I started with writing a bit of the documentation.
+In this week I have completed setting up the basic requirements fo the bulk update. All that is left is to get the data from the form and update the artifacts.
 
 ## Daily Work Update
 
