@@ -7,16 +7,16 @@ tags: ["week","gsoc","gsoc2022","morphologicalParserForSumerian","week#3","eval#
 
 ## Week Summary
 
-Week Work summary goes here 
+Learn to use SFST tool better
 
 ## Daily Work Update
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2022/01/01	|  |  
-|2   	| Tuesday  	|   2022/01/01	| 	|  
-|3   	| Wednesday |  2022/01/01 	|  |  
-|4   	| Thursday  |   2022/01/01	|  |  
-|5   	| Friday  	|   2022/01/01	|  |  
-|6   	| Saturday  |  2022/01/01	|  |  
-|7   	| Sunday  	|   2022/01/01	|  |  
+|1   	| Monday 	|   2022/06/27	| Unversity exams |  
+|2   	| Tuesday  	|   2022/06/28	| Unversity exams	|  
+|3   	| Wednesday |  2022/06/29 	| Unversity exams |  
+|4   	| Thursday  |   2022/06/30	| Unversity exams |  
+|5   	| Friday  	|   2022/07/01	| Read some SFST code to get accustomed to it |  
+|6   	| Saturday  |  2022/07/02	| Read some SFST code to get accustomed to it |  
+|7   	| Sunday  	|   2022/07/03	| Read some SFST code to get accustomed to it |  
