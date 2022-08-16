@@ -19,4 +19,4 @@ Week Work summary goes here
 |4   	| Thursday  |   2022/08/11	| Made a commit for a more fine tuned edit form |  
 |5   	| Friday  	|   2022/08/12	|added the option to get the photo and basic metadata of the artifact to edit the data-credit and adjusted ui for datacredit details on the data-credit edit page|  
 |6   	| Saturday  |  2022/08/13	| Trying to pull the image on the edit page for users to be able to see the image they are trying to edit |  
-|7   	| Sunday  	|   2022/08/14	|  |  
+|7   	| Sunday  	|   2022/08/14	| --- |  
