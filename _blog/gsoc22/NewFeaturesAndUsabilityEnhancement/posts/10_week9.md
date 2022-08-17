@@ -7,7 +7,7 @@ tags: ["week","gsoc","gsoc2022","newFeaturesAndUsabilityEnhancement","week#9","e
 
 ## Week Summary
 
-Week Work summary goes here 
+This week was not as productive as expected. I had some trouble understanding how I would actually implement the bulk update even after the weekly meet. But my mentor helped me with more detailed comments by the end of the week.
 
 ## Daily Work Update
 
