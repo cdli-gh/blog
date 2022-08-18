@@ -41,7 +41,7 @@ This project aims at adding new features to the CDLI framework and enhancing the
 |6| :heavy_check_mark: Export data on Entities Index |  :heavy_check_mark: Implement the Utility class for exporting entity data. <br> :raised_hands: The export functionality should work properly and export all the required data.|
 |7| :heavy_check_mark: Testing Entity Export Functionality and Writing Documentation |  :heavy_check_mark: Checking if the added functionality is working as expected and if a bug is found, debug it.
 |8| :heavy_check_mark: Bulk Update on Interface|  :heavy_check_mark: Create Bulk Update button on the search results page. <br> :heavy_check_mark: Create modal for choosing fields to be bulk updated. <br> :raised_hands: The button should make the modal to be displayed and fields chosen here should be detected properly.
-|9| :heavy_check_mark: Bulk Update on Interface |  :heavy_check_mark: Create buld edit controller. <br> :heavy_check_mark: Create bulk edit page. <br>
+|9| :heavy_check_mark: Bulk Update on Interface |  :heavy_check_mark: Create bulk update controller. <br> :heavy_check_mark: Create bulk update page. <br>
 |10| :heavy_check_mark: Testing Bulk Update Functionality and Writing Documentation |  :heavy_check_mark: Checking if the added functionality is working as expected and if a bug is found, debug it.
 |11| :heavy_check_mark: Export Bibliography from Publication Pages |  :heavy_check_mark: Create button to export bibliography in BibTex format on single and index views. <br> :raised_hands: The export button should work properly.
 |12| :heavy_check_mark: Testing Export Bibliography Functionality and Writing Documentation |  :heavy_check_mark: Checking if the added functionality is working as expected and if a bug is found, debug it.

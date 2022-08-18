@@ -7,16 +7,16 @@ tags: ["week","gsoc","gsoc2022","morphologicalParserForSumerian","week#0","eval#
 
 ## Week Summary
 
-Week Work summary goes here 
+Learning about the files and website would be helpful for the project
 
 ## Daily Work Update
 
 |\#|Day|Date|A short description of the work done|  
 |---	|---	|---	|---	|  
-|1   	| Monday 	|   2022/01/01	|  |  
-|2   	| Tuesday  	|   2022/01/01	| 	|  
-|3   	| Wednesday |  2022/01/01 	|  |  
-|4   	| Thursday  |   2022/01/01	|  |  
-|5   	| Friday  	|   2022/01/01	|  |  
-|6   	| Saturday  |  2022/01/01	|  |  
-|7   	| Sunday  	|   2022/01/01	|  |  
+|1   	| Monday 	|   2022/06/06	| Learn from mlmorph |  
+|2   	| Tuesday  	|   2022/06/07 	| Learn from mlmorph |  
+|3   	| Wednesday |  2022/06/08 	|  Learn from mlmorph |  
+|4   	| Thursday  |   2022/06/09	|  Learn from mlmorph |  
+|5   	| Friday  	|   2022/06/10	|  Learn about sumor online dictionary	|  
+|6   	| Saturday  |  2022/06/11	|  Learn about sumor online dictionary	|  
+|7   	| Sunday  	|   2022/06/12	|  Learn about sumor online dictionary	|  
