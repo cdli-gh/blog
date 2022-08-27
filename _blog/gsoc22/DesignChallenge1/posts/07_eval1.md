@@ -20,7 +20,7 @@ Evaluation Summary goes here
 Learning to implement new features without the use of Js and using proper CSS.
 
 ## Difficulties
-I had to implememnt almost everything without using JS.
+I had to implement almost everything without using JS.
 
 ## Plan update
 
