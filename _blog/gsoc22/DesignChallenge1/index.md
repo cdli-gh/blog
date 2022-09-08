@@ -22,9 +22,7 @@ Project Description
 | 4 |:white_check_mark:| Implementing the Resources Dropdown for both Desktop and Mobile View  | All the resource options would be availible to the user in dropdown itself | [#1075](https://gitlab.com/cdli/framework/-/issues/1075) | [!665](https://gitlab.com/cdli/framework/-/merge_requests/665)
 | 5 |:white_check_mark:|  Raw Image Scan - Fixing the Front-End | Frontend Page for the Raw Image Scan  | [#975](https://gitlab.com/cdli/framework/-/issues/975) |
 | 5 |:white_check_mark:|  Implementing different forms  | A uniform and harmonized forms with Bootstrap implemented  | [#557](https://gitlab.com/cdli/framework/-/issues/557), [#601](https://gitlab.com/cdli/framework/-/issues/601), [#791](https://gitlab.com/cdli/framework/-/issues/791) |
-| 7 |:white_check_mark:| Design and Implementation of Common Templates for Index and Single Enity Pages  | A uniform view among all the pages  | [#602](https://gitlab.com/cdli/framework/-/issues/602) |
-| 8 | :white_check_mark: | Accessibility Menu  | For better acessibility to the user for the font,navigation and others |  |
-| 9 | :white_check_mark: | Structuring Font size, Line spacing, word spacing, etc across the framework  | For better acessibility to the user for the font,navigation and vary it through the accessibility menu | [#1133](https://gitlab.com/cdli/framework/-/issues/1133) |
+| 7 |:white_check_mark:| Design and Implementation of Common Templates for Index and Single Enity Pages  | A uniform view among all the pages  | [#602](https://gitlab.com/cdli/framework/-/issues/602) | [!708](https://gitlab.com/cdli/framework/-/merge_requests/708) |
 
 
 ### Additional Objectives
