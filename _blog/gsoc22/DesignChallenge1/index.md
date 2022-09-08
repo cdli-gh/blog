@@ -33,7 +33,7 @@ Project Description
 | 3 | :heavy_check_mark: | Implemented Delete modals  | A common modal which pops up while deleting an entity |    [!646](https://gitlab.com/cdli/framework/-/issues/646) |
 | 4 | :white_check_mark: | Blockquote not working as it should on the Articles view page | No indentation |    [!1160](https://gitlab.com/cdli/framework/-/issues/1160) 
 | 5 | :white_check_mark: | Update the heading sizes on Articles Page | For a uniform view across the page |    [!1160](https://gitlab.com/cdli/framework/-/issues/1160)
-| 6 | :white_check_mark: | Adding chip on the Search page and Artifacts Page | [!703](https://gitlab.com/cdli/framework/-/merge_requests/703)
+| 6 | :white_check_mark: | Adding chip on the Search page and Artifacts Page | It would give insight to the user on the main page in short abot the artifact  |  [!703](https://gitlab.com/cdli/framework/-/merge_requests/703)
 ### Tentative timeline
 
 :heavy_check_mark: --> Completed Tasks  :white_check_mark: --> Ongoing Tasks  :raised_hands: --> Work Demonstration
