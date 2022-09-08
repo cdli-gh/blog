@@ -30,7 +30,7 @@ Project Description
 | --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
 | 1 | :white_check_mark: | Reviewed a PR  | changed the filter property on the profile image on the staff page |    [!637](https://gitlab.com/cdli/framework/-/merge_requests/637)     |
 | 2 | :white_check_mark: | Responsiveness Issue on the Home Page  | Better Placement of buttons on the page |    [!975](https://gitlab.com/cdli/framework/-/issues/975) 
-| 3 | :heavy_check_mark: | Implemented Delete modals  | A common modal which pops up while deleting an entity |    [!646](https://gitlab.com/cdli/framework/-/issues/646) |
+| 3 | :white_check_mark: | Implemented Delete modals  | A common modal which pops up while deleting an entity |    [!646](https://gitlab.com/cdli/framework/-/issues/646) |
 | 4 | :white_check_mark: | Blockquote not working as it should on the Articles view page | No indentation |    [!1160](https://gitlab.com/cdli/framework/-/issues/1160) 
 | 5 | :white_check_mark: | Update the heading sizes on Articles Page | For a uniform view across the page |    [!1160](https://gitlab.com/cdli/framework/-/issues/1160)
 | 6 | :white_check_mark: | Adding chip on the Search page and Artifacts Page | It would give insight to the user on the main page in short abot the artifact  |  [!703](https://gitlab.com/cdli/framework/-/merge_requests/703)
