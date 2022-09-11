@@ -41,5 +41,11 @@ Project Description
 | Week  |Objectives | Deliverables |
 |---|---|---|
 |1 & 2| Citaiton of all the pages  |  :heavy_check_mark: Adding citation option for article pages as well as other pages - Implementing the FRONTEND part :heavy_check_mark: Adding citation option for article pages as well as other pages - Adding the Download(in Bibtex or RIS) and Copy to Clipboard Option|
-|2| Design of the Search Rersults Page  | Revamping the design of the filters and making all the elements responsive <br> Implementing filters option for mobile view |
-|3| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
+|3| Design of the Search Rersults Page  | Revamping the design of the filters and making all the elements responsive <br> Implementing filters option for mobile view |
+|4| Changes in the design of the Artifacts View Page |  Indentation in the transliteration on the View Page, changing thumbnail size on the search results cards|
+|5| Resources Dropdown |  Adding a dropdown on the home page for user to access all resources in both mobile and desktop view |
+|6 & 7| Implementing Forms |  Changing the design of the edit and add forms for better accessibility and user experience |
+|8 & 9| Design and Implementation of Common Templates for Index and Single Enity Pages  |  Adding a design to all the sinmgle entity pages for uniformity and better user experience|
+|10| Changes in the design of the Artifacts View Page |  Indentation in the transliteration on the View Page, changing thumbnail size on the search results cards|
+|11| Changes in the design of the Artifacts View Page |  Indentation in the transliteration on the View Page, changing thumbnail size on the search results cards|
+|12| Changes in the design of the Artifacts View Page |  Indentation in the transliteration on the View Page, changing thumbnail size on the search results cards|
