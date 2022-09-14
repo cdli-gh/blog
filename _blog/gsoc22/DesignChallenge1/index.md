@@ -33,7 +33,7 @@ Project Description
 | 3 | :heavy_check_mark: | Implemented Delete modals  | A common modal which pops up while deleting an entity |    [!646](https://gitlab.com/cdli/framework/-/issues/646) |
 | 4 | :heavy_check_mark: | Blockquote not working as it should on the Articles view page | No indentation |    [!1160](https://gitlab.com/cdli/framework/-/issues/1160) 
 | 5 | :heavy_check_mark: | Update the heading sizes on Articles Page | For a uniform view across the page |    [!1160](https://gitlab.com/cdli/framework/-/issues/1160)
-| 6 | :heavy_check_mark: | Adding chip on the Search page and Artifacts Page | It would give insight to the user on the main page in short abot the artifact  |  [!703](https://gitlab.com/cdli/framework/-/merge_requests/703)
+| 6 | :white_check_mark: | Adding chip on the Search page and Artifacts Page | It would give insight to the user on the main page in short abot the artifact  |  [!703](https://gitlab.com/cdli/framework/-/merge_requests/703)
 
 ### Tentative timeline
 
@@ -41,7 +41,7 @@ Project Description
 
 | Week  |Objectives | Deliverables |
 |---|---|---|
-|1 & 2| Citaiton of all the pages  |  :heavy_check_mark: Adding citation option for article pages as well as other pages - Implementing the FRONTEND part :heavy_check_mark: Adding citation option for article pages as well as other pages - Adding the Download(in Bibtex or RIS) and Copy to Clipboard Option|
+|1 & 2| Citaiton of all the pages  |  Adding citation option for article pages as well as other pages - Implementing the FRONTEND part  Adding citation option for article pages as well as other pages - Adding the Download(in Bibtex or RIS) and Copy to Clipboard Option|
 |3 & 4| Design of the Search Rersults Page  | Revamping the design of the filters and making all the elements responsive <br> Implementing filters option for mobile view |
 |5| Changes in the design of the Artifacts View Page |  Indentation in the transliteration on the View Page, changing thumbnail size on the search results cards|
 |6| Resources Dropdown |  Adding a dropdown on the home page for user to access all resources in both mobile and desktop view |
