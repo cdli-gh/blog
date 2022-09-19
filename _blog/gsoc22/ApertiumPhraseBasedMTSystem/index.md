@@ -38,8 +38,8 @@ The whole integrated translation pipeline with pos and ner tagger can be found h
 | 2 |:heavy_check_mark:|  Updating previous eng morph dict with sumeiran words  | morphological english dict for sumerian words translation and/or handling bi-dictioanry results |  |
 | 3 |:heavy_check_mark:| The Bi-lingual dictionary and rules for the sumerian to english translation | The sux-eng.dix file and .rtx file containing the trasnfer rules (basic) | |
 | 4 |:heavy_check_mark:| Integrated apertium sux pipeline and testing | the integrated machine translation pipeline and testing comparision between nn based (will be added later) and rule based model | |
-| 5 |:white_check_mark:| updateding transfer rules and SVO reordering, sumerian to english | the final compact updated Transfer rules with and post processing if required |  |
-| 6 |:white_check_mark:| morphological disambiguator for sumerina | morph disambiguator to select correct lemma for processing |  |
+| 5 |:heavy_check_mark:| updateding transfer rules and SVO reordering, sumerian to english | the final compact updated Transfer rules with and post processing if required |  |
+| 6 |:heavy_check_mark:| Integrated pipeline and NMT Comparision | Developing a notebook interface to try out both Neural network and Rule based engine for (sentence or file), with comparison |  |
 
 
 
@@ -47,11 +47,12 @@ The whole integrated translation pipeline with pos and ner tagger can be found h
 ## The related files 
 ----------
 
-* english morph dict (https://github.com/apertium/apertium-eng/blob/main/apertium-eng.eng.dix)
-* sumerian morph dict (https://github.com/himanshudce/apertium-sux)
+* english morph dict - https://github.com/apertium/apertium-eng/blob/main/apertium-eng.eng.dix
+* sumerian morph dict - https://github.com/cdli-gh/apertium-sux/blob/main/apertium-sux.sux.lexd
 
-* sumerian-englush bi-dict (https://github.com/cdli-gh/apertium-sux-eng/blob/main/apertium-sux-eng.sux-eng.dix)
-* sumerian-english rule transfer (https://github.com/cdli-gh/apertium-sux-eng/blob/main/apertium-sux-eng.sux-eng.rtx)
+* sumerian-englush bi-dict - https://github.com/cdli-gh/apertium-sux-eng/blob/main/apertium-sux-eng.sux-eng.dix
+
+* sumerian-english rule transfer - https://github.com/cdli-gh/apertium-sux-eng/blob/main/apertium-sux-eng.sux-eng.rtx
 
 
 
@@ -74,11 +75,28 @@ The whole integrated translation pipeline with pos and ner tagger can be found h
 |1 - 2| :heavy_check_mark: learning apertium (The RBMT toolkit) |  :heavy_check_mark: the basic functanality to use apertium |
 |3 - 4| :heavy_check_mark: learning sumerian morphology  |  :heavy_check_mark: Basic grammer of Sumerian and translations  |
 |5 - 8| :heavy_check_mark: creating basic sumerian analyzer , bi-lingual dict, rule trasnfer and testing  |  :heavy_check_mark: The integrated translation pipeline sux-eng |
-|9 - 11| :white_check_mark: updating trasnfer rule (verbal and noun phrase) and re-ordering SVO |  :white_check_mark: the improved machine translation results |
-|11 - 15| :white_check_mark: Working on morphological disambiguator and Number pipleine integration and Rule based bs NN based comparision |  :white_check_mark: Final robust pipeline and model comparisions |
+|9 - 11| :heavy_check_mark: updating trasnfer rule (verbal and noun phrase) and re-ordering SVO |  :heavy_check_mark: the improved machine translation results |
+|11 - 15| :heavy_check_mark: Working on integrated pipeline and Neural Network based comparision |  :heavy_check_mark: Final robust pipeline and model comparisions |
 
 
+<br/>
 
-<!-- |2| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world|
-|3| :heavy_check_mark: hello world  |  :heavy_check_mark: hello world <br/> :heavy_check_mark: hello world <br> :raised_hands: hello world| -->
+## Results & Evaluation
+-----------
 
+The evaluation is done using the BLEU metric on the dev set as mentioned above - 
+
+
+| Machine Translation System  | Mean  | Median |
+|---|---|---|
+| **rule based**     | 19.156  |  20.4517 |
+|  **neural network** |  18.868 | 6.881  |
+
+*The **mean** and **median** scores for both Rule Based and NMT Engine* \
+*with weightage of (0.75,0.25,0,0) over n-grams*
+
+
+<br/>
+
+**Note** -  As it can be observed from the bleu scores, the mean scores are almost similar for both Rule based and NMT, but the median score is pretty high for the Rule based engine, which indicates that the overall translation performance for each sentence is somewhat good for rule based engine with respect to NMT which is performing very good for some of the sentences and quite low for the remaining sentences.
+<br>
