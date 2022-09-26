@@ -26,6 +26,8 @@ cdli framework is a really a large codebase; it was a practical experience and o
 I've got some basic concept of docker. Grew in my knowledge of git. 
 Cdli codebase is hosted on gitlab(not github). It taught me how to use the gitlab platform.
 
+Quite a good number of students, researchers, etc depend on CDLI for historian and artifacts, cuneiform, resources. It's a priviledge to work on higly valued open source project as this plus being mentored by superiors. 
+ 
 ## Difficulties
 No much of dificulty. 
 
