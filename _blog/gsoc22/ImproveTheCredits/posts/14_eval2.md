@@ -17,7 +17,7 @@ Evaluation Summary goes here
 | 4 | Have a functioning basic version for my project idea.   |  Feedback from mentor and iterate |
 | 5 | Work on the add images-credits Frontend File / templates . Code Edit images-credits Frontend files/ templates | Frontend File and logic coded |
 | 6 | Write the logic for add & edit images-credits ( Controller )  | A functional controller files data-credits features |
-| 7 | Implement edition data for digital assets. Intergrate the proper licenses  | Using  |
+| 7 | Implement edition data for digital assets. Intergrate the proper licenses  | Using the licenses json [!680](https://github.com/spdx/license-list-data/blob/master/json/licenses.json) |
 
 ## Learning and Success
 Learning and Success goes here.
