@@ -27,7 +27,7 @@ I've got some basic concept of docker. Grew in my knowledge of git.
 Cdli codebase is hosted on gitlab(not github). It taught me how to use the gitlab platform.
 
 ## Difficulties
-
+No much of dificulty. 
 
 ## Plan update
 I plan to continue extending the project idea and also contributing to other issues, enhancements, features on the framework.
