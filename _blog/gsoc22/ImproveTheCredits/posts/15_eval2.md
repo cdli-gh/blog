@@ -10,6 +10,8 @@ tags: ["eval","gsoc","gsoc2022","improveTheCredits","eval#2"]
 The summary is basically an update of the objectives and deliverables done during the course of contributing to the project Idea which evolves around updating how digital assets’ (artifacts) license, ownership and credits are stored, while considering how they can be displayed in a more detailed way.
 
 ## Objectives and Deliverables
+:heavy_check_mark: --> Completed Tasks  :white_check_mark: --> Ongoing Tasks
+
 | \# | Objectives                    | Associated Deliverables         | Status |
 | --- | ----------------------------- | ---------------------------------------------- | --- |
 | 1 | –Reevaluate the table schema to fully represent the targeted objectives. Reevaluate the other necessary table relationships that we should have between the credit tables and other tables. Implement the migration schema following cakephp conventions.  | Perfect database schema for credit system implementation |:heavy_check_mark: |
