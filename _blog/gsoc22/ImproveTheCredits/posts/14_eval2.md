@@ -6,7 +6,8 @@ tags: ["eval","gsoc","gsoc2022","improveTheCredits","eval#2"]
 ---
 
 ## Summary
-Evaluation Summary goes here  
+
+The summary is basically an update of the objectives and deliverables done during the course of contributing to the project Idea which evolves around updating how digital assets’ (artifacts) license, ownership and credits are stored, while considering how they can be displayed in a more detailed way.
 
 ## Objectives and Deliverables
 | \# | Objectives                    | Associated Deliverables         | Status |
@@ -20,10 +21,13 @@ Evaluation Summary goes here
 | 7 | Implement edition data for digital assets. Intergrate the proper licenses  | Using the [licenses json](https://github.com/spdx/license-list-data/blob/master/json/licenses.json) |:heavy_check_mark: |
 
 ## Learning and Success
-Learning and Success goes here.
+I can confidently add cakephp (a php framework)  as part of the technologies I can use.
+cdli framework is a really a large codebase; it was a practical experience and opportunity contributing to the codebase.
+I've got some basic concept of docker. Grew in my knowledge of git. 
+Cdli codebase is hosted on gitlab(not github). It taught me how to use the gitlab platform.
 
 ## Difficulties
-Difficulty goes here.
+
 
 ## Plan update
-Plan Update goes here.
+I plan to continue extending the project idea and also contributing to other issues, enhancements, features on the framework.
