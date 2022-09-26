@@ -19,6 +19,7 @@ The summary is basically an update of the objectives and deliverables done durin
 | 5 | Work on the add images-credits Frontend File / templates . Code Edit images-credits Frontend files/ templates | Frontend File and logic coded |
 | 6 | Write the logic for add & edit images-credits ( Controller )  | A functional controller files data-credits features |:heavy_check_mark: |
 | 7 | Implement edition data for digital assets. Intergrate the proper licenses  | Using the [licenses json](https://github.com/spdx/license-list-data/blob/master/json/licenses.json) |:heavy_check_mark: |
+| 8 | Lastly, this PR includes the iterations, feedback etc around my contribution for my project idea | [The PR Link](https://gitlab.com/cdli/framework/-/merge_requests/680) |:heavy_check_mark: |
 
 ### Additional Objectives
 
