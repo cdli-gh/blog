@@ -20,6 +20,13 @@ The summary is basically an update of the objectives and deliverables done durin
 | 6 | Write the logic for add & edit images-credits ( Controller )  | A functional controller files data-credits features |:heavy_check_mark: |
 | 7 | Implement edition data for digital assets. Intergrate the proper licenses  | Using the [licenses json](https://github.com/spdx/license-list-data/blob/master/json/licenses.json) |:heavy_check_mark: |
 
+### Additional Objectives
+
+| \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
+| --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
+| 1 | :heavy_check_mark: |  Address a related issue alreading existing which involves assigning proper roles (Author, Reviewer, Creator)for the authors contribution table.  | List the respective roles (Reviewer, Author, Creator ) for event updates for artifacts while removing non essential columns | [!630](https://gitlab.com/cdli/framework/-/merge_requests/630)   |
+
+
 ## Learning and Success
 I can confidently add cakephp (a php framework)  as part of the technologies I can use.
 cdli framework is a really a large codebase; it was a practical experience and opportunity contributing to the codebase.
