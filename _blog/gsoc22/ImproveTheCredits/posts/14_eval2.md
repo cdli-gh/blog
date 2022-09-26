@@ -15,9 +15,9 @@ Evaluation Summary goes here
 | 2 | Preparing models and start off writing basic controller logic for my project idea | Preparing the models and other business logic for my project idea. – Start writing the logic in the controller for passing the right data to the views/template/in terface for displaying |
 | 3 | UI interface for the storing credits as well as other meta data needed | Rough UI Mockup for the interface. – Updating exisitng stated model to reflect the feedback from mentor |
 | 4 | Have a functioning basic version for my project idea.   |  Feedback from mentor and iterate |
-| 4 | Work on the add images-credits Frontend File / templates . Code Edit images-credits Frontend files/ templates | Frontend File and logic coded |
-| 4 | Write the logic for add & edit images-credits ( Controller )  | A functional controller files data-credits features |
-| 4 | Implement edition data for digital assets. Intergrate the proper licenses  | Using  |
+| 5 | Work on the add images-credits Frontend File / templates . Code Edit images-credits Frontend files/ templates | Frontend File and logic coded |
+| 6 | Write the logic for add & edit images-credits ( Controller )  | A functional controller files data-credits features |
+| 7 | Implement edition data for digital assets. Intergrate the proper licenses  | Using  |
 
 ## Learning and Success
 Learning and Success goes here.
