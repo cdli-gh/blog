@@ -12,7 +12,7 @@ Evaluation Summary goes here
 | \# | Objectives                    | Associated Deliverables         | Status |
 | --- | ----------------------------- | ---------------------------------------------- | --- |
 | 1 | –Reevaluate the table schema to fully represent the targeted objectives. Reevaluate the other necessary table relationships that we should have between the credit tables and other tables. Implement the migration schema following cakephp conventions.  | Perfect database schema for credit system implementation |:heavy_check_mark: |
-| 2 | Preparing models and start off writing basic controller logic for my project idea | Preparing the models and other business logic for my project idea. – Start writing the logic in the controller for passing the right data to the views/template/in terface for displaying |
+| 2 | Preparing models and start off writing basic controller logic for my project idea | Preparing the models and other business logic for my project idea. – Start writing the logic in the controller for passing the right data to the views/template/in terface for displaying | :heavy_check_mark: |
 | 3 | UI interface for the storing credits as well as other meta data needed | Rough UI Mockup for the interface. – Updating exisitng stated model to reflect the feedback from mentor |:heavy_check_mark: |
 | 4 | Have a functioning basic version for my project idea.   |  Feedback from mentor and iterate |:heavy_check_mark: |
 | 5 | Work on the add images-credits Frontend File / templates . Code Edit images-credits Frontend files/ templates | Frontend File and logic coded |
