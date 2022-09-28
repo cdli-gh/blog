@@ -20,6 +20,7 @@ The second phase of my GSoc journey was a very great learning experience and of 
 - Learned how exports for different categories of formats work and implemented them.
 - Learned to change an element dynamically according to conditions while modifying the export drop-down for publications export.
 - Learned to manipulate data from one form to another while implementing the modal and forms for the BulkUpdate functionality.
+- Learned to write technical and user-friendly documentations.
 
 ## Difficulties
 - It was a bit challenging to change the publications drop-down according to the number of search results.
