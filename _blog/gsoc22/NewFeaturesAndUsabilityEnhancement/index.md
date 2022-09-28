@@ -22,9 +22,7 @@ This project aims at adding new features to the CDLI framework and enhancing the
 
 ### Additional Objectives
 
-| \# | Status  | Objectives         | Associated Deliverables                                             | issue(s) |
-| --- | --- | ------------------ | ------------------------------------------------------------------- | -------- |
-| |  |    |   |    |
+None
 
 
 ### Tentative timeline
