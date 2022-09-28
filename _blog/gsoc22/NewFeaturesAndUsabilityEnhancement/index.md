@@ -15,10 +15,10 @@ This project aims at adding new features to the CDLI framework and enhancing the
 
 | \# | Status  | Objectives                    | Associated Deliverables         | issue(s) |
 | --- | --- | ----------------------------- | ---------------------------------------------- | -------- |
-| 1 |:white_check_mark:|  Implementing Features for Retired Artifacts | Modifying tables in the database, making index page, adding retired artifact section | [#747](https://gitlab.com/cdli/framework/-/issues/747) |
-| 2 |:white_check_mark:|  Export Data on Entities Indexes | Create export button, implement Utility class for entity exports | [#786](https://gitlab.com/cdli/framework/-/issues/786) |
+| 1 |:heavy_check_mark:|  Implementing Features for Retired Artifacts | Modifying tables in the database, making index page, adding retired artifact section | [#747](https://gitlab.com/cdli/framework/-/issues/747) |
+| 2 |:heavy_check_mark:|  Export Data on Entities Indexes | Create export button, implement Utility class for entity exports | [#786](https://gitlab.com/cdli/framework/-/issues/786) |
 | 3 |:white_check_mark:|  Bulk Update on interface | Create bulk update button and modal to choose fields, create controller, create bulk edit page | [#280](https://gitlab.com/cdli/framework/-/issues/280) |
-| 4 |:white_check_mark:|  Export Bibliography from Publications Pages | Create export button for single and indexviews | [#521](https://gitlab.com/cdli/framework/-/issues/521) |
+| 4 |:heavy_check_mark:|  Export Bibliography from Publications Pages | Create export button for single and indexviews | [#521](https://gitlab.com/cdli/framework/-/issues/521) |
 
 ### Additional Objectives
 
