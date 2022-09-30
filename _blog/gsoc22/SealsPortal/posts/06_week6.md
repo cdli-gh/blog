@@ -7,7 +7,7 @@ tags: ["week","gsoc","gsoc2022","sealsPortal","week#6","eval#1"]
 
 ## Week Summary
 
-Week Work summary goes here 
+This week I will be focusing on seal portal's unresolved threads and will start with the seals single view
 
 ## Daily Work Update
 

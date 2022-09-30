@@ -6,7 +6,7 @@ tags: ["week","gsoc","gsoc2022","sealsPortal","week#3","eval#1"]
 ---
 
 ## Week Summary
-
+This week I will work on the model files for seal portal as well as the creating the query for the table for seals and impressed artifacts by period, which requires the seal count to be matched with the number of search results
 
 
 ## Daily Work Update
