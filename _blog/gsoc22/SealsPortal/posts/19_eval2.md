@@ -6,7 +6,7 @@ tags: ["eval","gsoc","gsoc2022","sealsPortal","eval#2"]
 ---
 
 ## Summary
-The GSoC 2022 was a success for me, I almost met all the goals. I got to learn various tech stacks and got an opportunity to create a utility and portal, which is useful to several students and professors.
+The GSoC 2022 was a success for me, I met all the goals. I got to learn various tech stacks and got an opportunity to create a utility and portal, which is useful to several students and professors.
 
 ## Objectives and Deliverables
 | \# | Objectives                    | Associated Deliverables         | Issue | Pull Request |
