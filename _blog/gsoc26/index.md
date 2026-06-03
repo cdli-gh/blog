@@ -18,4 +18,5 @@ A short description on complete outcome of GSoC 2026 program goes here.
 
 | \# | Project                                       | Student                                                                | Mentors                                                                                                                           |
 | -- | --------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 1  | MCP Server and Agent | [Armaan Gupta](https://in.linkedin.com/in/armaan-gupta-868813281) | [Nisheal John](https://in.linkedin.com/in/nishealjohn), [Jayanth Kumar](https://jaykmr.com/), [Émilie Pagé-Perron](https://epageperron.info/)               |
+| 1  | MCP Server and Agent | [Armaan Gupta](https://in.linkedin.com/in/armaan-gupta-868813281) | [Nisheal John](https://in.linkedin.com/in/nishealjohn), [Jayanth Kumar](https://jaykmr.com/), [Émilie Pagé-Perron](https://epageperron.info/) |
+| 2  | Scalable Email Infrastructure | [Sonika Chowdary Gutha](https://www.linkedin.com/in/sonika-chowdary-gutha/) | [Vishv Kakadiya](https://www.linkedin.com/in/vishv07/) |
