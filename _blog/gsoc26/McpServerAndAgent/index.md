@@ -14,7 +14,7 @@ I've been accepted for the project MCP Server and Agent for CDLI. This project i
 <i>Project:</i>
 <a target="_blank" href="https://summerofcode.withgoogle.com/programs/2026/projects/mlVyalno
 ">GSoC'26</a>,
-<a target="_blank" href="https://gitlab.com/cdli/framework"> GitLab</a>
+<a target="_blank" href="https://gitlab.com/cdli/cdli-mcp"> GitLab</a>
 <br>
 <i>GSoC'26 Proposal:</i>
 <a href="https://github.com/cdli-gh/Framework/blob/master/Proposal/2026/CDLI_MCP_GSOC26.pdf">Link</a><br>
