@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MCP Server: Community Bonding
+title: "MCP Server: Community Bonding"
 author: 'Armaan Gupta'
 tags: ['week', 'gsoc', 'gsoc2026', 'McpServerAndAgent', 'week#0', 'Community Bonding']
 ---
