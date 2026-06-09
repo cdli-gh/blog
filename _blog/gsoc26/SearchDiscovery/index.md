@@ -24,9 +24,3 @@ This project fixes all three. It moves to event-driven **incremental indexing** 
 | **Project Idea** | [Ideas List #4.2](https://gitlab.com/cdli/framework/-/wikis/Google-Summer-of-Code-GSoC-2026-Cuneiform-Digital-Library-Initiative-%28CDLI%29-ideas-list#42-search--discovery-improvements--350h) |
 | **Contributions** | [Merge Requests](https://gitlab.com/cdli/framework/-/merge_requests?scope=all&state=all&author_username=jinwoo18) |
 | **Repository** | [cdli/framework](https://gitlab.com/cdli/framework) |
-
----
-
-## Weekly Reports
-
-Weekly progress posts are listed below, each one covering what I worked on, what got decided, and what's coming next.
