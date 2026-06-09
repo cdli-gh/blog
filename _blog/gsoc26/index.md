@@ -21,3 +21,4 @@ A short description on complete outcome of GSoC 2026 program goes here.
 | 1  | MCP Server and Agent | [Armaan Gupta](https://in.linkedin.com/in/armaan-gupta-868813281) | [Nisheal John](https://in.linkedin.com/in/nishealjohn), [Jayanth Kumar](https://jaykmr.com/), [Émilie Pagé-Perron](https://epageperron.info/) |
 | 2  | Revamping CDLI Mobile App | [Shiva Gupta](https://www.linkedin.com/in/shivagupta14/) | [Daksh Paleria](https://www.linkedin.com/in/daksh-paleria-606211190/), [Nisheal John](https://in.linkedin.com/in/nishealjohn)              |
 | 3  | Scalable Email Infrastructure | [Sonika Chowdary Gutha](https://www.linkedin.com/in/sonika-chowdary-gutha/) | [Vishv Kakadiya](https://www.linkedin.com/in/vishv07/) |
+| 4  | Search & Discovery Improvements | [Harsh Chandwani](https://www.linkedin.com/in/harsh-chandwani-b9a48238a/) | [Émilie Pagé-Perron](https://www.linkedin.com/in/epageperron/), [Vedant Wakalkar](https://www.linkedin.com/in/karna98/)               |
