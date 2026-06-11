@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "MCP Server: Week 1"
+title: "Week 1: Scaffolding the Server and the First CDLI Tools"
 author: 'Armaan Gupta'
 tags: ['week', 'gsoc', 'gsoc2026', 'McpServerAndAgent', 'week#1', 'Phase-1']
 ---
