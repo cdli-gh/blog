@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scalable Email Infrastructure: Community Bonding
+title: "Scalable Email Infrastructure: Community Bonding"
 author: 'Sonika Chowdary Gutha'
 tags: ['week', 'gsoc', 'gsoc2026', 'ScalableEmailInfrastructure', 'week#0', 'Community Bonding']
 ---
